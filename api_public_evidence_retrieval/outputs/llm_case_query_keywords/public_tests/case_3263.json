@@ -1,0 +1,24 @@
+{
+  "case_id": "case_3263",
+  "split": "public",
+  "case_query": "Bà Huỳnh Hồng T khởi kiện vợ chồng ông Phạm Ngọc H và bà Nguyễn Thị Thúy H về tranh chấp tiền hụi (hụi tháng, hụi ngày, hụi chết) và tiền vay; yêu cầu liên đới thanh toán tổng 1.075.000.000 đồng. Agent dự đoán: nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+  "keywords": [
+    {
+      "keyword_id": "name1",
+      "type": "name",
+      "keyword_text": "Bà Huỳnh Hồng T"
+    },
+    {
+      "keyword_id": "noun1",
+      "type": "noun",
+      "keyword_text": "tiền hụi"
+    }
+  ],
+  "keyword_count": 2,
+  "keyword_id_prefix_counts": {
+    "name": 1,
+    "noun": 1
+  },
+  "elapsed_seconds": 14.913,
+  "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà Huỳnh Hồng T\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tiền hụi\"\n    }\n  ]\n}"
+}

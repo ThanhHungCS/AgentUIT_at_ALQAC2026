@@ -1,0 +1,19 @@
+{
+  "output": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\llm_case_type_classification\\private_llm_case_type_predictions.json",
+  "elapsed_total_seconds": 292.114,
+  "num_cases": 60,
+  "num_valid": 60,
+  "num_errors": 0,
+  "type_counts": {
+    "land_use_dispute": 19,
+    "land_transfer_contract": 14,
+    "credit_contract": 10,
+    "loan_contract": 5,
+    "hui_dispute": 4,
+    "inheritance": 4,
+    "compensation_damage": 2,
+    "sale_goods_debt": 1,
+    "cooperation_contract": 1
+  },
+  "avg_elapsed_seconds": 4.867
+}

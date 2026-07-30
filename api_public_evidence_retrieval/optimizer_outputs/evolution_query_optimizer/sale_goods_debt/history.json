@@ -1,0 +1,72 @@
+{
+  "case_type_id": "sale_goods_debt",
+  "case_type_text": "Tranh chấp mua bán hàng hóa, công nợ",
+  "history": [
+    {
+      "generation": 0,
+      "best_fitness": 0.5,
+      "avg_fitness": 0.33175,
+      "best_query_count": 10,
+      "best_avg_api_calls": 10.0,
+      "cache_size": 200
+    },
+    {
+      "generation": 1,
+      "best_fitness": 0.65,
+      "avg_fitness": 0.38125,
+      "best_query_count": 21,
+      "best_avg_api_calls": 20.0,
+      "cache_size": 373
+    },
+    {
+      "generation": 2,
+      "best_fitness": 0.8,
+      "avg_fitness": 0.49450000000000005,
+      "best_query_count": 26,
+      "best_avg_api_calls": 26.0,
+      "cache_size": 549
+    },
+    {
+      "generation": 3,
+      "best_fitness": 0.855,
+      "avg_fitness": 0.625,
+      "best_query_count": 44,
+      "best_avg_api_calls": 43.0,
+      "cache_size": 718
+    },
+    {
+      "generation": 4,
+      "best_fitness": 0.9,
+      "avg_fitness": 0.7260041666666666,
+      "best_query_count": 40,
+      "best_avg_api_calls": 39.0,
+      "cache_size": 893
+    },
+    {
+      "generation": 5,
+      "best_fitness": 0.95,
+      "avg_fitness": 0.7970625,
+      "best_query_count": 42,
+      "best_avg_api_calls": 40.0,
+      "cache_size": 1065
+    },
+    {
+      "generation": 6,
+      "best_fitness": 0.95,
+      "avg_fitness": 0.8106125,
+      "best_query_count": 42,
+      "best_avg_api_calls": 40.0,
+      "cache_size": 1236
+    },
+    {
+      "generation": 7,
+      "best_fitness": 1.0,
+      "avg_fitness": 0.8497416666666666,
+      "best_query_count": 40,
+      "best_avg_api_calls": 39.0,
+      "cache_size": 1413,
+      "early_stopped": true,
+      "early_stop_fitness_threshold": 0.97
+    }
+  ]
+}

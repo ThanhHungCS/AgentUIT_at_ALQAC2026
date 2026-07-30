@@ -1,0 +1,50 @@
+{
+  "case_id": "case_5860",
+  "split": "public",
+  "case_query": "Công ty TNHH thương mại xuất nhập khẩu Hữu Thành P tranh chấp với anh Lê Quốc V về khoản nợ phát sinh từ giao dịch mua bán nhớt, liên quan “đơn xác nhận công nợ” và các hóa đơn cho cây xăng Phước L. Nguyên đơn yêu cầu anh V trả 22.187.000 đồng. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+  "keywords": [
+    {
+      "keyword_id": "name1",
+      "type": "name",
+      "keyword_text": "Công ty TNHH thương mại xuất nhập khẩu Hữu Thành P"
+    },
+    {
+      "keyword_id": "noun1",
+      "type": "noun",
+      "keyword_text": "giao dịch mua bán nhớt"
+    },
+    {
+      "keyword_id": "noun2",
+      "type": "noun",
+      "keyword_text": "cây xăng Phước L"
+    },
+    {
+      "keyword_id": "noun3",
+      "type": "noun",
+      "keyword_text": "đơn xác nhận công nợ"
+    },
+    {
+      "keyword_id": "noun4",
+      "type": "noun",
+      "keyword_text": "hóa đơn"
+    },
+    {
+      "keyword_id": "name2",
+      "type": "name",
+      "keyword_text": "anh Lê Quốc V"
+    },
+    {
+      "keyword_id": "number1",
+      "type": "number",
+      "keyword_text": "22.187.000 đồng"
+    }
+  ],
+  "keyword_count": 7,
+  "keyword_id_prefix_counts": {
+    "noun": 4,
+    "name": 2,
+    "number": 1
+  },
+  "elapsed_seconds": 24.566,
+  "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Công ty TNHH thương mại xuất nhập khẩu Hữu Thành P\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"giao dịch mua bán nhớt\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"cây xăng Phước L\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"đơn xác nhận công nợ\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hóa đơn\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"anh Lê Quốc V\"\n    },\n    {\n      \"keyword_id\": \"noun6\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"22.187.000 đồng\"\n    }\n  ]\n}"
+}

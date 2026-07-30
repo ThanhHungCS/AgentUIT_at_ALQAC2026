@@ -1,0 +1,29 @@
+{
+  "case_id": "case_4337",
+  "split": "public",
+  "case_query": "Bà Tô Thị O và bà Tô Thị K tranh chấp quyền sử dụng đất và quyền sở hữu nhà đối với diện tích 207,7m2 thuộc thửa 414, tờ bản đồ số 3. Bà O yêu cầu hủy giấy chứng nhận quyền sử dụng đất đứng tên bà K và buộc bà K trả nhà đất lại. Agent dự đoán: nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+  "keywords": [
+    {
+      "keyword_id": "name1",
+      "type": "name",
+      "keyword_text": "bà Tô Thị O"
+    },
+    {
+      "keyword_id": "name2",
+      "type": "name",
+      "keyword_text": "bà Tô Thị K"
+    },
+    {
+      "keyword_id": "number1",
+      "type": "number",
+      "keyword_text": "diện tích 207,7m2"
+    }
+  ],
+  "keyword_count": 3,
+  "keyword_id_prefix_counts": {
+    "name": 2,
+    "number": 1
+  },
+  "elapsed_seconds": 20.262,
+  "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Tô Thị O\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Tô Thị K\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"diện tích 207,7m2\"\n    }\n  ]\n}"
+}

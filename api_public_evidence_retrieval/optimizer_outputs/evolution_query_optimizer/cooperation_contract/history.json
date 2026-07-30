@@ -1,0 +1,128 @@
+{
+  "case_type_id": "cooperation_contract",
+  "case_type_text": "Tranh chấp hợp đồng hợp tác, hùn vốn, chia lời lỗ",
+  "history": [
+    {
+      "generation": 0,
+      "best_fitness": 0.3548387096774194,
+      "avg_fitness": 0.2309677419354839,
+      "best_query_count": 11,
+      "best_avg_api_calls": 11.0,
+      "cache_size": 200
+    },
+    {
+      "generation": 1,
+      "best_fitness": 0.5483870967741935,
+      "avg_fitness": 0.27822580645161293,
+      "best_query_count": 23,
+      "best_avg_api_calls": 23.0,
+      "cache_size": 374
+    },
+    {
+      "generation": 2,
+      "best_fitness": 0.6774193548387096,
+      "avg_fitness": 0.38,
+      "best_query_count": 30,
+      "best_avg_api_calls": 29.0,
+      "cache_size": 547
+    },
+    {
+      "generation": 3,
+      "best_fitness": 0.7419354838709677,
+      "avg_fitness": 0.4896774193548387,
+      "best_query_count": 40,
+      "best_avg_api_calls": 40.0,
+      "cache_size": 723
+    },
+    {
+      "generation": 4,
+      "best_fitness": 0.8064516129032258,
+      "avg_fitness": 0.6090322580645161,
+      "best_query_count": 61,
+      "best_avg_api_calls": 61.0,
+      "cache_size": 895
+    },
+    {
+      "generation": 5,
+      "best_fitness": 0.8387096774193549,
+      "avg_fitness": 0.6964516129032258,
+      "best_query_count": 58,
+      "best_avg_api_calls": 56.0,
+      "cache_size": 1067
+    },
+    {
+      "generation": 6,
+      "best_fitness": 0.8709677419354839,
+      "avg_fitness": 0.7391935483870968,
+      "best_query_count": 59,
+      "best_avg_api_calls": 58.0,
+      "cache_size": 1242
+    },
+    {
+      "generation": 7,
+      "best_fitness": 0.8709677419354839,
+      "avg_fitness": 0.7720967741935483,
+      "best_query_count": 59,
+      "best_avg_api_calls": 58.0,
+      "cache_size": 1413
+    },
+    {
+      "generation": 8,
+      "best_fitness": 0.9032258064516129,
+      "avg_fitness": 0.8154838709677419,
+      "best_query_count": 62,
+      "best_avg_api_calls": 61.0,
+      "cache_size": 1585
+    },
+    {
+      "generation": 9,
+      "best_fitness": 0.9354838709677419,
+      "avg_fitness": 0.8146774193548387,
+      "best_query_count": 59,
+      "best_avg_api_calls": 59.0,
+      "cache_size": 1761
+    },
+    {
+      "generation": 10,
+      "best_fitness": 0.9354838709677419,
+      "avg_fitness": 0.8427419354838709,
+      "best_query_count": 59,
+      "best_avg_api_calls": 59.0,
+      "cache_size": 1933
+    },
+    {
+      "generation": 11,
+      "best_fitness": 0.967741935483871,
+      "avg_fitness": 0.8454838709677419,
+      "best_query_count": 62,
+      "best_avg_api_calls": 62.0,
+      "cache_size": 2101
+    },
+    {
+      "generation": 12,
+      "best_fitness": 0.967741935483871,
+      "avg_fitness": 0.8451612903225807,
+      "best_query_count": 62,
+      "best_avg_api_calls": 62.0,
+      "cache_size": 2273
+    },
+    {
+      "generation": 13,
+      "best_fitness": 0.967741935483871,
+      "avg_fitness": 0.8656451612903225,
+      "best_query_count": 62,
+      "best_avg_api_calls": 62.0,
+      "cache_size": 2447
+    },
+    {
+      "generation": 14,
+      "best_fitness": 1.0,
+      "avg_fitness": 0.8929032258064517,
+      "best_query_count": 61,
+      "best_avg_api_calls": 61.0,
+      "cache_size": 2620,
+      "early_stopped": true,
+      "early_stop_fitness_threshold": 0.97
+    }
+  ]
+}

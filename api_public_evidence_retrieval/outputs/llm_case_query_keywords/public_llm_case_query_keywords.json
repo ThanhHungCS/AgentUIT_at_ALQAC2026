@@ -1,0 +1,2782 @@
+[
+  {
+    "case_id": "case_4101",
+    "case_query": "Chị Lê Thị T khởi kiện anh Chử Lương D và chị Đỗ Thị Thanh T về tranh chấp bồi thường thiệt hại ngoài hợp đồng do chó nhà bị thả rông đuổi cắn làm chị T ngã xe, gây hư hỏng xe máy và chấn thương. Chị T yêu cầu bồi thường chi phí sửa xe máy và viện phí ngoại trú. Agent dự đoán ai được chấp nhận yêu cầu?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Chị Lê Thị T"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "anh Chử Lương D"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "chị Đỗ Thị Thanh T"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "chó nhà"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "xe"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "xe máy"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "chấn thương"
+      },
+      {
+        "keyword_id": "noun5",
+        "type": "noun",
+        "keyword_text": "thu phí ngoại trú"
+      },
+      {
+        "keyword_id": "name4",
+        "type": "name",
+        "keyword_text": "chi phí sửa xe máy"
+      }
+    ],
+    "keyword_count": 9,
+    "keyword_id_prefix_counts": {
+      "noun": 5,
+      "name": 4
+    },
+    "elapsed_seconds": 36.502,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Chị Lê Thị T\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"anh Chử Lương D\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"chị Đỗ Thị Thanh T\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"chó nhà\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"xe\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"xe máy\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"chấn thương\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thu phí ngoại trú\"\n    },\n    {\n      \"keyword_id\": \"noun6\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"chi phí sửa xe máy\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_4337",
+    "case_query": "Bà Tô Thị O và bà Tô Thị K tranh chấp quyền sử dụng đất và quyền sở hữu nhà đối với diện tích 207,7m2 thuộc thửa 414, tờ bản đồ số 3. Bà O yêu cầu hủy giấy chứng nhận quyền sử dụng đất đứng tên bà K và buộc bà K trả nhà đất lại. Agent dự đoán: nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Bà Tô Thị O"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "Bà Tô Thị K"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "diện tích 207,7m2"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "thửa 414, tờ bản đồ số 3"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "giấy chứng nhận quyền sử dụng đất"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "nhà đất"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "Bà K trả nhà đất lại"
+      }
+    ],
+    "keyword_count": 7,
+    "keyword_id_prefix_counts": {
+      "name": 3,
+      "number": 2,
+      "noun": 2
+    },
+    "elapsed_seconds": 22.193,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà Tô Thị O\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà Tô Thị K\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"diện tích 207,7m2\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa 414, tờ bản đồ số 3\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"giấy chứng nhận quyền sử dụng đất\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"nhà đất\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"Bà K trả nhà đất lại\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_4588",
+    "case_query": "Ông NVP và bà NNS tranh chấp về thừa kế, chia di sản và tài sản chung đối với căn nhà 161G BVĐ, Phường 6, Quận 4, TP Hồ Chí Minh; di sản là ½ giá trị căn nhà do cha mẹ để lại chưa chia, có di chúc ngày 22/5/2006. Nguyên đơn yêu cầu chia đều giá trị di sản cho 10 anh chị em, theo giá trị. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông NVP"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "bà NNS"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "căn nhà 161G BVĐ, Phường 6, Quận 4, TP Hồ Chí Minh"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "căn nhà"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "di sản"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "tài sản chung"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "di chúc"
+      },
+      {
+        "keyword_id": "noun5",
+        "type": "noun",
+        "keyword_text": "½"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "22/5/2006"
+      },
+      {
+        "keyword_id": "number3",
+        "type": "number",
+        "keyword_text": "10"
+      }
+    ],
+    "keyword_count": 10,
+    "keyword_id_prefix_counts": {
+      "noun": 5,
+      "number": 3,
+      "name": 2
+    },
+    "elapsed_seconds": 48.271,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông NVP\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà NNS\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"căn nhà 161G BVĐ, Phường 6, Quận 4, TP Hồ Chí Minh\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"căn nhà\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"di sản\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tài sản chung\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"di chúc\"\n    },\n    {\n      \"keyword_id\": \"noun6\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"căn nhà\"\n    },\n    {\n      \"keyword_id\": \"noun7\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"di sản\"\n    },\n    {\n      \"keyword_id\": \"nummber1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"½\"\n    },\n    {\n      \"keyword_id\": \"nummber2\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"22/5/2006\"\n    },\n    {\n      \"keyword_id\": \"nummber3\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"10\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_4616",
+    "case_query": "Ngân hàng B khởi kiện Công ty TNHH Thương mại và Xuất nhập khẩu H tranh chấp hợp đồng tín dụng; đồng thời yêu cầu Công ty TNHH Đầu tư K và ông Lam Wing C thực hiện nghĩa vụ bảo lãnh, thế chấp. Ngân hàng đòi khoản nợ gốc, lãi và yêu cầu phát mại các tài sản bảo đảm là quyền sử dụng đất, các căn chung cư. Nguyên đơn có khả năng thắng kiện hay không?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ngân hàng B"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "hợp đồng tín dụng"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "tài sản bảo đảm"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "quyền sử dụng đất"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "căn chung cư"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "Công ty TNHH Thương mại và Xuất nhập khẩu H"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "ông Lam Wing C"
+      },
+      {
+        "keyword_id": "name4",
+        "type": "name",
+        "keyword_text": "Công ty TNHH Đầu tư K"
+      }
+    ],
+    "keyword_count": 8,
+    "keyword_id_prefix_counts": {
+      "name": 4,
+      "noun": 4
+    },
+    "elapsed_seconds": 23.274,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ngân hàng B\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng tín dụng\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tài sản bảo đảm\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"quyền sử dụng đất\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"căn chung cư\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Công ty TNHH Thương mại và Xuất nhập khẩu H\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông Lam Wing C\"\n    },\n    {\n      \"keyword_id\": \"name4\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Công ty TNHH Đầu tư K\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_6616",
+    "case_query": "Ông Nguyễn Văn H kiện cụ Trần Thị Đ và các đồng thừa kế về tranh chấp thừa kế theo pháp luật. Di sản gồm quyền sử dụng đất ở tại thửa 20, thửa 107 (tờ bản đồ số 4) và số tiền Nhà nước bồi thường, lãi phát sinh từ việc thu hồi đất. Ông H yêu cầu chia di sản cho các đồng thừa kế. Agent dự đoán nguyên đơn thắng hay bị đơn thắng?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông Nguyễn Văn H"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "cụ Trần Thị Đ"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "di sản"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "thửa 20"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "thửa 107"
+      },
+      {
+        "keyword_id": "number3",
+        "type": "number",
+        "keyword_text": "tờ bản đồ số 4"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "số tiền Nhà nước bồi thường"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "lãi phát sinh"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "đất"
+      },
+      {
+        "keyword_id": "noun5",
+        "type": "noun",
+        "keyword_text": "đồng thừa kế"
+      },
+      {
+        "keyword_id": "noun6",
+        "type": "noun",
+        "keyword_text": "thu hồi đất"
+      },
+      {
+        "keyword_id": "noun7",
+        "type": "noun",
+        "keyword_text": "chia di sản"
+      }
+    ],
+    "keyword_count": 12,
+    "keyword_id_prefix_counts": {
+      "noun": 7,
+      "number": 3,
+      "name": 2
+    },
+    "elapsed_seconds": 30.864,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Nguyễn Văn H\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"cụ Trần Thị Đ\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"di sản\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa 20\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa 107\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tờ bản đồ số 4\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"số tiền Nhà nước bồi thường\"\n    },\n    {\n      \"keyword_id\": \"noun6\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"lãi phát sinh\"\n    },\n    {\n      \"keyword_id\": \"noun7\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"đất\"\n    },\n    {\n      \"keyword_id\": \"noun8\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"đồng thừa kế\"\n    },\n    {\n      \"keyword_id\": \"noun9\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thu hồi đất\"\n    },\n    {\n      \"keyword_id\": \"noun10\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"chia di sản\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_5226",
+    "case_query": "Ngân hàng B khởi kiện anh Nguyễn Văn T về tranh chấp hợp đồng tín dụng và yêu cầu thực hiện nghĩa vụ trả nợ. Khoản vay được bảo đảm bằng hợp đồng thế chấp quyền sử dụng đất và tài sản gắn liền trên đất của thửa 613, tờ bản đồ 05. Ngân hàng yêu cầu trả cả gốc và lãi, và xử lý tài sản thế chấp nếu không thanh toán. Nguyên đơn sẽ thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ngân hàng B"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "anh Nguyễn Văn T"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "hợp đồng tín dụng"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "hợp đồng thế chấp quyền sử dụng đất và tài sản gắn liền trên đất"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "thửa 613"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "tờ bản đồ 05"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "tài sản thế chấp"
+      }
+    ],
+    "keyword_count": 7,
+    "keyword_id_prefix_counts": {
+      "noun": 3,
+      "name": 2,
+      "number": 2
+    },
+    "elapsed_seconds": 24.941,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ngân hàng B\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"anh Nguyễn Văn T\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"Ngân hàng B\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"anh Nguyễn Văn T\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng tín dụng\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng thế chấp quyền sử dụng đất và tài sản gắn liền trên đất\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa 613\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tờ bản đồ 05\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tài sản thế chấp\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_6284",
+    "case_query": "Ông Trần Quang H kiện ông Bùi Văn T và bà Phạm Thị P về tranh chấp hợp đồng chuyển nhượng quyền sử dụng đất (hợp đồng công chứng số 728A lập ngày 08/12/2011) liên quan hai thửa 599 và 584, tờ bản đồ 9. Ông H yêu cầu tiếp tục thực hiện hợp đồng, giao đất và tài sản trên đất cho ông và bà Trần Thùy L1. Theo bạn, ông H thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông Trần Quang H"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "Ông Bùi Văn T"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "Bà Phạm Thị P"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "hợp đồng chuyển nhượng quyền sử dụng đất"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "hợp đồng công chứng số 728A"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "tờ bản đồ 9"
+      },
+      {
+        "keyword_id": "number3",
+        "type": "number",
+        "keyword_text": "thửa 599 và 584"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "hợp đồng"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "tài sản trên đất"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "đất"
+      },
+      {
+        "keyword_id": "noun5",
+        "type": "noun",
+        "keyword_text": "công chứng"
+      },
+      {
+        "keyword_id": "number4",
+        "type": "number",
+        "keyword_text": "08/12/2011"
+      },
+      {
+        "keyword_id": "number5",
+        "type": "number",
+        "keyword_text": "728A"
+      }
+    ],
+    "keyword_count": 13,
+    "keyword_id_prefix_counts": {
+      "noun": 5,
+      "number": 5,
+      "name": 3
+    },
+    "elapsed_seconds": 37.847,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Trần Quang H\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Bùi Văn T\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà Phạm Thị P\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng chuyển nhượng quyền sử dụng đất\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng công chứng số 728A\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tờ bản đồ 9\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa 599 và 584\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng\"\n    },\n    {\n      \"keyword_id\": \"noun6\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tài sản trên đất\"\n    },\n    {\n      \"keyword_id\": \"noun7\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"đất\"\n    },\n    {\n      \"keyword_id\": \"noun8\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng\"\n    },\n    {\n      \"keyword_id\": \"noun9\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"công chứng\"\n    },\n    {\n      \"keyword_id\": \"nummber1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"08/12/2011\"\n    },\n    {\n      \"keyword_id\": \"nummber2\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"728A\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_3995",
+    "case_query": "Ông Trần Văn T và bà Đoàn Thị X tranh chấp với ông Nguyễn Văn V và ông Hoàng Gia T về việc các hộ này lấn chiếm diện tích đất rừng tại khu vực Cửa hầm thôn 4L, xã T, huyện H, tỉnh Quảng Bình theo giấy tờ giao/ cấp quyền sử dụng đất. Nguyên đơn yêu cầu bị đơn trả lại phần đất bị lấn chiếm. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông Trần Văn T"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "bà Đoàn Thị X"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "ông Nguyễn Văn V"
+      },
+      {
+        "keyword_id": "name4",
+        "type": "name",
+        "keyword_text": "ông Hoàng Gia T"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "đất rừng"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "khu vực Cửa hầm"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "thôn 4L"
+      },
+      {
+        "keyword_id": "location1",
+        "type": "location",
+        "keyword_text": "xã T"
+      },
+      {
+        "keyword_id": "location2",
+        "type": "location",
+        "keyword_text": "huyện H"
+      },
+      {
+        "keyword_id": "location3",
+        "type": "location",
+        "keyword_text": "tỉnh Quảng Bình"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "giấy tờ giao/ cấp quyền sử dụng đất"
+      }
+    ],
+    "keyword_count": 11,
+    "keyword_id_prefix_counts": {
+      "name": 4,
+      "noun": 3,
+      "location": 3,
+      "number": 1
+    },
+    "elapsed_seconds": 31.599,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Trần Văn T\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Đoàn Thị X\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông Nguyễn Văn V\"\n    },\n    {\n      \"keyword_id\": \"name4\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông Hoàng Gia T\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"đất rừng\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"khu vực Cửa hầm\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thôn 4L\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"xã T\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"huyện H\"\n    },\n    {\n      \"keyword_id\": \"noun6\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tỉnh Quảng Bình\"\n    },\n    {\n      \"keyword_id\": \"noun7\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"giấy tờ giao/ cấp quyền sử dụng đất\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_6384",
+    "case_query": "Ông Hoàng Hồng T và ông Hà Văn B tranh chấp quyền sử dụng đất và cây trồng trên đất lâm nghiệp/đồi Ma Thai, diện tích khoảng 10.083m2. Có Giấy chứng nhận quyền sử dụng đất do Nhà nước cấp cho ông T. Ông T yêu cầu được quản lý, sử dụng phần đất tranh chấp và buộc ông B di dời cây hồi, cây sở, cây thông, đồng thời hủy giấy chứng nhận. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông Hoàng Hồng T"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "Ông Hà Văn B"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "đất lâm nghiệp/đồi Ma Thai"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "Giấy chứng nhận quyền sử dụng đất"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "cây trồng"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "cây thông"
+      },
+      {
+        "keyword_id": "noun5",
+        "type": "noun",
+        "keyword_text": "Giấy chứng nhận"
+      }
+    ],
+    "keyword_count": 7,
+    "keyword_id_prefix_counts": {
+      "noun": 5,
+      "name": 2
+    },
+    "elapsed_seconds": 19.844,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Hoàng Hồng T\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Hà Văn B\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"đất lâm nghiệp/đồi Ma Thai\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"Giấy chứng nhận quyền sử dụng đất\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"cây trồng\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"cây thông\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"Giấy chứng nhận\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_8219",
+    "case_query": "Bà Nguyễn Thị Bé M khởi kiện bà Nguyễn Thị H tranh chấp hợp đồng vay tài sản, liên quan “Giấy mượn tiền” ngày 03/3/2014, gồm tiền 81.000.000 đồng và 05 phân vàng 9999, cùng chi phí sửa chữa nhà 60.000.000 đồng. Nguyên đơn yêu cầu bị đơn hoàn trả 142.800.000 đồng một lần. Theo bạn, nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Bà Nguyễn Thị Bé M"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "bà Nguyễn Thị H"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "hợp đồng vay tài sản"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "Giấy mượn tiền"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "phân vàng 9999"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "chi phí sửa chữa nhà"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "81.000.000"
+      },
+      {
+        "keyword_id": "number3",
+        "type": "number",
+        "keyword_text": "05"
+      },
+      {
+        "keyword_id": "number4",
+        "type": "number",
+        "keyword_text": "60.000.000"
+      },
+      {
+        "keyword_id": "number5",
+        "type": "number",
+        "keyword_text": "142.800.000"
+      }
+    ],
+    "keyword_count": 10,
+    "keyword_id_prefix_counts": {
+      "number": 5,
+      "name": 3,
+      "noun": 2
+    },
+    "elapsed_seconds": 26.921,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà Nguyễn Thị Bé M\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Nguyễn Thị H\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng vay tài sản\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"Giấy mượn tiền\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"phân vàng 9999\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"chi phí sửa chữa nhà\"\n    },\n    {\n      \"keyword_id\": \"number1\",\n      \"type\": \"number\",\n      \"keyword_text\": \"81.000.000\"\n    },\n    {\n      \"keyword_id\": \"number2\",\n      \"type\": \"number\",\n      \"keyword_text\": \"05\"\n    },\n    {\n      \"keyword_id\": \"number3\",\n      \"type\": \"number\",\n      \"keyword_text\": \"60.000.000\"\n    },\n    {\n      \"keyword_id\": \"number4\",\n      \"type\": \"number\",\n      \"keyword_text\": \"142.800.000\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_2705",
+    "case_query": "Ông Nguyễn Hữu B khởi kiện ông Phạm Văn C về tranh chấp hợp đồng dịch vụ ngày 26/7/2013 liên quan đến việc giới thiệu, tuyển dụng và đào tạo con trai ông Đ vào làm tại công ty hàng không. Ông B yêu cầu hủy bỏ giao dịch, buộc ông C hoàn trả 100.000.000 đồng. Agent dự đoán: nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông Nguyễn Hữu B"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "Ông Phạm Văn C"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "tranh chấp hợp đồng dịch vụ"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "công ty hàng không"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "100.000.000"
+      }
+    ],
+    "keyword_count": 5,
+    "keyword_id_prefix_counts": {
+      "name": 3,
+      "noun": 1,
+      "number": 1
+    },
+    "elapsed_seconds": 15.387,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Nguyễn Hữu B\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Phạm Văn C\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tranh chấp hợp đồng dịch vụ\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"công ty hàng không\"\n    },\n    {\n      \"keyword_id\": \"number1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"100.000.000\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_3263",
+    "case_query": "Bà Huỳnh Hồng T khởi kiện vợ chồng ông Phạm Ngọc H và bà Nguyễn Thị Thúy H về tranh chấp tiền hụi (hụi tháng, hụi ngày, hụi chết) và tiền vay; yêu cầu liên đới thanh toán tổng 1.075.000.000 đồng. Agent dự đoán: nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Bà Huỳnh Hồng T"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "tranh chấp tiền hụi"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "tiền vay"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "tổng 1.075.000.000 đồng"
+      }
+    ],
+    "keyword_count": 4,
+    "keyword_id_prefix_counts": {
+      "noun": 2,
+      "name": 1,
+      "number": 1
+    },
+    "elapsed_seconds": 14.746,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà Huỳnh Hồng T\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tranh chấp tiền hụi\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tiền vay\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tổng 1.075.000.000 đồng\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_9125",
+    "case_query": "Ông Võ N khởi kiện ông Võ Thanh Q về tranh chấp quyền sử dụng đất 437m2, kèm yêu cầu liên quan giấy chứng nhận quyền sử dụng đất và quyết định cá biệt của cơ quan hành chính. Ông N đề nghị công nhận quyền sử dụng đất, buộc trả lại đất và hủy các văn bản liên quan. Agent dự đoán: nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông Võ N"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "đất"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "giấy chứng nhận quyền sử dụng đất"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "quyền sử dụng đất"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "quyết định cá biệt"
+      },
+      {
+        "keyword_id": "location1",
+        "type": "location",
+        "keyword_text": "cơ quan hành chính"
+      },
+      {
+        "keyword_id": "noun5",
+        "type": "noun",
+        "keyword_text": "văn bản"
+      },
+      {
+        "keyword_id": "noun6",
+        "type": "noun",
+        "keyword_text": "hủy"
+      }
+    ],
+    "keyword_count": 8,
+    "keyword_id_prefix_counts": {
+      "noun": 6,
+      "name": 1,
+      "location": 1
+    },
+    "elapsed_seconds": 40.662,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Võ N\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"đất\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"giấy chứng nhận quyền sử dụng đất\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"quyền sử dụng đất\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"quyết định cá biệt\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"cơ quan hành chính\"\n    },\n    {\n      \"keyword_id\": \"noun6\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"văn bản\"\n    },\n    {\n      \"keyword_id\": \"noun7\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"quyền sử dụng đất\"\n    },\n    {\n      \"keyword_id\": \"noun8\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"đất\"\n    },\n    {\n      \"keyword_id\": \"noun9\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hủy\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_5658",
+    "case_query": "Công ty TNHH MTV V (VA*C) với tư cách nguyên đơn tranh chấp hợp đồng tín dụng và nghĩa vụ trả nợ, kèm quyền phát mãi tài sản thế chấp; bị đơn là ông Phạm Hồng S và bà Bùi Thị Thanh T. Nguyên đơn yêu cầu buộc trả toàn bộ nợ gốc, nợ lãi và lãi tiếp tục phát sinh, đồng thời xử lý tài sản bảo đảm. Dự đoán nguyên đơn thắng hay bị đơn thắng?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Công ty TNHH MTV V"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "hợp đồng tín dụng"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "nghĩa vụ trả nợ"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "tài sản thế chấp"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "ông Phạm Hồng S"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "bà Bùi Thị Thanh T"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "tài sản bảo đảm"
+      }
+    ],
+    "keyword_count": 7,
+    "keyword_id_prefix_counts": {
+      "noun": 4,
+      "name": 3
+    },
+    "elapsed_seconds": 21.419,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Công ty TNHH MTV V\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng tín dụng\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"nghĩa vụ trả nợ\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tài sản thế chấp\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông Phạm Hồng S\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Bùi Thị Thanh T\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tài sản bảo đảm\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_5045",
+    "case_query": "Ông bà Tô Thị Mộng L, Huỳnh Thanh T, Tô Duy H, Trần Thị Hồng M tranh chấp với ông Nguyễn Liên H1, bà Lê Thị M1 liên quan lối đi chung 3m x 6,49m (19,47m2) thuộc quyền sử dụng đất và giấy chứng nhận đã cấp. Nguyên đơn yêu cầu trả lại đất lối đi và hủy giấy chứng nhận quyền sử dụng đất. Nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông bà Tô Thị Mộng L, Huỳnh Thanh T, Tô Duy H, Trần Thị Hồng M"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "ông Nguyễn Liên H1, bà Lê Thị M1"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "lối đi chung 3m x 6,49m (19,47m2"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "quyền sử dụng đất"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "giấy chứng nhận"
+      }
+    ],
+    "keyword_count": 5,
+    "keyword_id_prefix_counts": {
+      "name": 2,
+      "noun": 2,
+      "number": 1
+    },
+    "elapsed_seconds": 20.599,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông bà Tô Thị Mộng L, Huỳnh Thanh T, Tô Duy H, Trần Thị Hồng M\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông Nguyễn Liên H1, bà Lê Thị M1\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"lối đi chung 3m x 6,49m (19,47m2)\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"quyền sử dụng đất\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"giấy chứng nhận\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_4920",
+    "case_query": "Bà Trần Thị Ngọc H khởi kiện Công ty IJC tranh chấp hợp đồng mua bán chuyển nhượng bất động sản/quyền sử dụng đất gồm 03 hợp đồng ngày 30/9/2011 kèm phụ lục. Nguyên đơn yêu cầu tiếp tục thực hiện hợp đồng và buộc bị đơn thanh toán tiền lãi 17%/năm trong 5 năm tương ứng 644.406.250 đồng. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Bà Trần Thị Ngọc H"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "Công ty IJC"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "hợp đồng mua bán chuyển nhượng bất động sản/quyền sử dụng đất"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "03"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "30/9/2011"
+      },
+      {
+        "keyword_id": "number3",
+        "type": "number",
+        "keyword_text": "644.406.250"
+      }
+    ],
+    "keyword_count": 6,
+    "keyword_id_prefix_counts": {
+      "number": 3,
+      "name": 2,
+      "noun": 1
+    },
+    "elapsed_seconds": 21.569,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà Trần Thị Ngọc H\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"Công ty IJC\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng mua bán chuyển nhượng bất động sản/quyền sử dụng đất\"\n    },\n    {\n      \"keyword_id\": \"number1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"03\"\n    },\n    {\n      \"keyword_id\": \"number2\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"30/9/2011\"\n    },\n    {\n      \"keyword_id\": \"number3\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"644.406.250\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_8758",
+    "case_query": "Bà Diêm Thị V (ông Nguyễn Thái A đại diện) tranh chấp với chị Nguyễn Thị N và các con của bà T (anh Nguyễn Hoàng C, chị Nguyễn Thị T, anh Nguyễn Văn K) về phần đất làm lối đi khoảng 42m² thuộc thửa đất 83, tờ bản đồ 28, liên quan giấy tờ xin/được xác nhận lối đi từ năm 1995. Bà V yêu cầu trả lại 42m². Agent dự đoán nguyên đơn thắng hay bị đơn thắng?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Bà Diêm Thị V"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "ông Nguyễn Thái A"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "chị Nguyễn Thị N"
+      },
+      {
+        "keyword_id": "name4",
+        "type": "name",
+        "keyword_text": "anh Nguyễn Hoàng C"
+      },
+      {
+        "keyword_id": "name5",
+        "type": "name",
+        "keyword_text": "chị Nguyễn Thị T"
+      },
+      {
+        "keyword_id": "name6",
+        "type": "name",
+        "keyword_text": "anh Nguyễn Văn K"
+      },
+      {
+        "keyword_id": "name7",
+        "type": "name",
+        "keyword_text": "bà T"
+      }
+    ],
+    "keyword_count": 7,
+    "keyword_id_prefix_counts": {
+      "name": 7
+    },
+    "elapsed_seconds": 19.31,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà Diêm Thị V\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông Nguyễn Thái A\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"chị Nguyễn Thị N\"\n    },\n    {\n      \"keyword_id\": \"name4\",\n      \"type\": \"name\",\n      \"keyword_text\": \"anh Nguyễn Hoàng C\"\n    },\n    {\n      \"keyword_id\": \"name5\",\n      \"type\": \"name\",\n      \"keyword_text\": \"chị Nguyễn Thị T\"\n    },\n    {\n      \"keyword_id\": \"name6\",\n      \"type\": \"name\",\n      \"keyword_text\": \"anh Nguyễn Văn K\"\n    },\n    {\n      \"keyword_id\": \"name7\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà T\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_9089",
+    "case_query": "Ông Huỳnh Trọng K và bà Nguyễn Thị L tranh chấp quyền sử dụng đất với bà Huỳnh Thị L1 và bà Lê Thị M liên quan thửa đất 475/476 tại phường B, quận C, TP Cần Thơ (giấy CNQSD đất đã cấp đổi). Nguyên đơn yêu cầu buộc bị đơn giao trả phần đất tranh chấp diện tích 1.437,9m2. Agent dự đoán nguyên đơn hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông Huỳnh Trọng K"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "bà Nguyễn Thị L"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "bà Huỳnh Thị L1"
+      },
+      {
+        "keyword_id": "name4",
+        "type": "name",
+        "keyword_text": "bà Lê Thị M"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "thửa đất 475/476"
+      },
+      {
+        "keyword_id": "location1",
+        "type": "location",
+        "keyword_text": "phường B, quận C, TP Cần Thơ"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "giấy CNQSD đất"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "1.437,9m2"
+      }
+    ],
+    "keyword_count": 8,
+    "keyword_id_prefix_counts": {
+      "name": 4,
+      "number": 2,
+      "location": 1,
+      "noun": 1
+    },
+    "elapsed_seconds": 22.751,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Huỳnh Trọng K\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Nguyễn Thị L\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Huỳnh Thị L1\"\n    },\n    {\n      \"keyword_id\": \"name4\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Lê Thị M\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa đất 475/476\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"phường B, quận C, TP Cần Thơ\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"giấy CNQSD đất\"\n    },\n    {\n      \"keyword_id\": \"nummber1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"1.437,9m2\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_127",
+    "case_query": "Nguyên đơn gồm ông Nguyễn Văn T (vợ bà Trịnh Thị T V, các con/ người kế thừa) và bị đơn là vợ chồng ông Phạm Văn Th, bà Vũ Thị H. Tranh chấp hợp đồng chuyển nhượng nhà, đất giữa cụ Phạm Văn L với cụ Phạm Thị M, kèm yêu cầu hủy GCNQSDĐ. Nguyên đơn đề nghị tuyên giao dịch vô hiệu, buộc trả lại nhà đất. Agent dự đoán nguyên đơn thắng hay bị đơn thắng?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "ông Nguyễn Văn T"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "bà Trịnh Thị T V"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "ông Phạm Văn Th"
+      },
+      {
+        "keyword_id": "name4",
+        "type": "name",
+        "keyword_text": "bà Vũ Thị H"
+      },
+      {
+        "keyword_id": "name5",
+        "type": "name",
+        "keyword_text": "cụ Phạm Văn L"
+      },
+      {
+        "keyword_id": "name6",
+        "type": "name",
+        "keyword_text": "cụ Phạm Thị M"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "hợp đồng chuyển nhượng nhà, đất"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "giấy chứng nhận quyền sử dụng đất"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "giải quyết tranh chấp"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "tuyên giao dịch vô hiệu"
+      },
+      {
+        "keyword_id": "noun5",
+        "type": "noun",
+        "keyword_text": "hủy giấy chứng nhận quyền sử dụng đất"
+      },
+      {
+        "keyword_id": "verb1",
+        "type": "verb",
+        "keyword_text": "đề nghị"
+      },
+      {
+        "keyword_id": "verb2",
+        "type": "verb",
+        "keyword_text": "tuyên"
+      },
+      {
+        "keyword_id": "noun6",
+        "type": "noun",
+        "keyword_text": "vô hiệu"
+      }
+    ],
+    "keyword_count": 14,
+    "keyword_id_prefix_counts": {
+      "name": 6,
+      "noun": 6,
+      "verb": 2
+    },
+    "elapsed_seconds": 37.295,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông Nguyễn Văn T\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Trịnh Thị T V\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông Phạm Văn Th\"\n    },\n    {\n      \"keyword_id\": \"name4\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Vũ Thị H\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"cụ Phạm Văn L\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"cụ Phạm Thị M\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng chuyển nhượng nhà, đất\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"giấy chứng nhận quyền sử dụng đất\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"giải quyết tranh chấp\"\n    },\n    {\n      \"keyword_id\": \"noun6\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tuyên giao dịch vô hiệu\"\n    },\n    {\n      \"keyword_id\": \"noun7\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hủy giấy chứng nhận quyền sử dụng đất\"\n    },\n    {\n      \"keyword_id\": \"verb1\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"đề nghị\"\n    },\n    {\n      \"keyword_id\": \"verb2\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"tuyên\"\n    },\n    {\n      \"keyword_id\": \"nummber1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"vô hiệu\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_2978",
+    "case_query": "Anh Ong Teng Kh kiện các chị Diệp Kiều H, Nguyễn Thị Huỳnh Nh, Huỳnh Nguyễn Ngọc Kiều O tranh chấp “kiện đòi tài sản”. Anh cho rằng đã đầu tư tiền vốn và yêu cầu các bị đơn trả lại hệ thống nhà xưởng, 01 xe máy xúc, 03 bộ máy băm củi và khoảng 1.000 tấn củi băm nhỏ. Agent dự đoán nguyên đơn thắng hay bị đơn thắng?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Anh Ong Teng Kh"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "các chị Diệp Kiều H, Nguyễn Thị Huỳnh Nh, Huỳnh Nguyễn Ngọc Kiều O"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "tài sản"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "hệ thống nhà xưởng, 01 xe máy xúc, 03 bộ máy băm củi và khoảng 1.000 tấn củi băm nhỏ"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "1.000"
+      }
+    ],
+    "keyword_count": 5,
+    "keyword_id_prefix_counts": {
+      "noun": 2,
+      "number": 2,
+      "name": 1
+    },
+    "elapsed_seconds": 21.368,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Anh Ong Teng Kh\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"các chị Diệp Kiều H, Nguyễn Thị Huỳnh Nh, Huỳnh Nguyễn Ngọc Kiều O\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tài sản\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hệ thống nhà xưởng, 01 xe máy xúc, 03 bộ máy băm củi và khoảng 1.000 tấn củi băm nhỏ\"\n    },\n    {\n      \"keyword_id\": \"number1\",\n      \"type\": \"number\",\n      \"keyword_text\": \"1.000\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_4579",
+    "case_query": "Bà Trần Thị N khởi kiện ông Trần Cảnh N về tranh chấp quyền sử dụng đất liên quan lối đi qua và diện tích khoảng 102m2. Bà N yêu cầu buộc ông N trả lại diện tích 102m2 theo sơ đồ bản vẽ đo vẽ năm 2007, gắn với Giấy chứng nhận đất của gia đình bà. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Bà Trần Thị N"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "địa"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "diện tích"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "sơ đồ bản vẽ đo vẽ năm 2007"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "Giấy chứng nhận đất"
+      }
+    ],
+    "keyword_count": 5,
+    "keyword_id_prefix_counts": {
+      "noun": 3,
+      "name": 1,
+      "number": 1
+    },
+    "elapsed_seconds": 14.581,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà Trần Thị N\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"địa\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"diện tích\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"sơ đồ bản vẽ đo vẽ năm 2007\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"Giấy chứng nhận đất\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_5236",
+    "case_query": "Ông Trần Văn C khởi kiện ông Dương Văn B (và bà Dương Thị L liên quan) về tranh chấp hụi, họ, phường. Hai bên có quan hệ chơi hai dây phường từ 07/7/2015 và 10/02/2016, có thỏa thuận tiền gốc và lãi, trách nhiệm trưởng phường. Ông C yêu cầu hoàn trả tiền phường còn nợ 86.400.000đ. Nguyên đơn thắng hay bị đơn thắng?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông Trần Văn C"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "Ông Dương Văn B"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "Bà Dương Thị L"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "hụi"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "họ"
+      },
+      {
+        "keyword_id": "location1",
+        "type": "location",
+        "keyword_text": "phường"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "tiền gốc"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "lãi"
+      },
+      {
+        "keyword_id": "location2",
+        "type": "location",
+        "keyword_text": "trách nhiệm trưởng phường"
+      },
+      {
+        "keyword_id": "noun5",
+        "type": "noun",
+        "keyword_text": "phần"
+      },
+      {
+        "keyword_id": "location3",
+        "type": "location",
+        "keyword_text": "tiền phường còn nợ"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "86.400.000đ"
+      },
+      {
+        "keyword_id": "noun6",
+        "type": "noun",
+        "keyword_text": "nguyên đơn"
+      },
+      {
+        "keyword_id": "noun7",
+        "type": "noun",
+        "keyword_text": "bị đơn"
+      }
+    ],
+    "keyword_count": 14,
+    "keyword_id_prefix_counts": {
+      "noun": 7,
+      "name": 3,
+      "location": 3,
+      "number": 1
+    },
+    "elapsed_seconds": 40.858,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Trần Văn C\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Dương Văn B\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà Dương Thị L\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hụi\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"họ\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"phường\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tiền gốc\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"lãi\"\n    },\n    {\n      \"keyword_id\": \"noun6\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"trách nhiệm trưởng phường\"\n    },\n    {\n      \"keyword_id\": \"noun7\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"phần\"\n    },\n    {\n      \"keyword_id\": \"noun8\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tiền phường còn nợ\"\n    },\n    {\n      \"keyword_id\": \"noun9\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"86.400.000đ\"\n    },\n    {\n      \"keyword_id\": \"noun10\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"nguyên đơn\"\n    },\n    {\n      \"keyword_id\": \"noun11\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"bị đơn\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_6663",
+    "case_query": "Ngân hàng TMCP T (TPBank) khởi kiện Công ty TNHH Thương mại dịch vụ vận tải H tranh chấp hợp đồng tín dụng đã ký cho vay theo hạn mức, kèm các hợp đồng thế chấp tài sản là các xe đầu kéo, sơ mi rơ mooc. Ngân hàng yêu cầu buộc thanh toán toàn bộ nợ gốc, lãi và xử lý tài sản bảo đảm để thu hồi nợ. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ngân hàng TMCP T (TPBank"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "hợp đồng tín dụng"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "hợp đồng thế chấp tài sản"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "xe đầu kéo"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "sơ mi rơ mooc"
+      },
+      {
+        "keyword_id": "noun5",
+        "type": "noun",
+        "keyword_text": "tài sản bảo đảm"
+      }
+    ],
+    "keyword_count": 6,
+    "keyword_id_prefix_counts": {
+      "noun": 5,
+      "name": 1
+    },
+    "elapsed_seconds": 39.305,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ngân hàng TMCP T (TPBank)\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng tín dụng\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng thế chấp tài sản\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"xe đầu kéo\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"sơ mi rơ mooc\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tài sản bảo đảm\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_8732",
+    "case_query": "Chị Phạm Thị O kiện bà Đặng Thị N (có bà Đặng Thị H liên quan) về tranh chấp hợp đồng vay tài sản, thể hiện qua giấy biên nhận vay và thỏa thuận thế chấp quyền sử dụng đất. Nguyên đơn yêu cầu buộc bị đơn trả số tiền gốc 2.340.000.000đ và lãi theo pháp luật. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Chị Phạm Thị O"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "bà Đặng Thị N"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "bà Đặng Thị H"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "tranh chấp hợp đồng vay tài sản"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "giấy biên nhận vay"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "thỏa thuận thế chấp quyền sử dụng đất"
+      },
+      {
+        "keyword_id": "verb1",
+        "type": "verb",
+        "keyword_text": "khiếu kiện"
+      },
+      {
+        "keyword_id": "verb2",
+        "type": "verb",
+        "keyword_text": "yêu cầu"
+      },
+      {
+        "keyword_id": "verb3",
+        "type": "verb",
+        "keyword_text": "trả"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "2.340.000.000đ"
+      }
+    ],
+    "keyword_count": 10,
+    "keyword_id_prefix_counts": {
+      "name": 3,
+      "noun": 3,
+      "verb": 3,
+      "number": 1
+    },
+    "elapsed_seconds": 26.925,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Chị Phạm Thị O\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Đặng Thị N\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Đặng Thị H\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tranh chấp hợp đồng vay tài sản\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"giấy biên nhận vay\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thỏa thuận thế chấp quyền sử dụng đất\"\n    },\n    {\n      \"keyword_id\": \"verb1\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiếu kiện\"\n    },\n    {\n      \"keyword_id\": \"verb2\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"yêu cầu\"\n    },\n    {\n      \"keyword_id\": \"verb3\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"trả\"\n    },\n    {\n      \"keyword_id\": \"nummber1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"2.340.000.000đ\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_4861",
+    "case_query": "Nguyên đơn ông Nguyễn Văn N tranh chấp với các bị đơn ông Nguyễn Văn H và ông Nguyễn Văn S, cùng những người liên quan trong quan hệ thừa kế. Vấn đề là quyền sử dụng đất 2.505m2 tại thửa 14, tờ bản đồ 28 xã T, huyện K và yêu cầu hủy giấy chứng nhận quyền sử dụng đất cấp 06/7/2006. Nguyên đơn đề nghị chia di sản thừa kế của cụ H7, cụ M. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "ông Nguyễn Văn N"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "ông Nguyễn Văn H"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "ông Nguyễn Văn S"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "quyền sử dụng đất 2.505m2"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "thửa 14, tờ bản đồ 28 xã T, huyện K"
+      },
+      {
+        "keyword_id": "number3",
+        "type": "number",
+        "keyword_text": "06/7/2006"
+      },
+      {
+        "keyword_id": "number4",
+        "type": "number",
+        "keyword_text": "di sản thừa kế của cụ H7, cụ M"
+      }
+    ],
+    "keyword_count": 7,
+    "keyword_id_prefix_counts": {
+      "number": 4,
+      "name": 3
+    },
+    "elapsed_seconds": 20.088,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông Nguyễn Văn N\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông Nguyễn Văn H\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông Nguyễn Văn S\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"quyền sử dụng đất 2.505m2\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa 14, tờ bản đồ 28 xã T, huyện K\"\n    },\n    {\n      \"keyword_id\": \"number1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"06/7/2006\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"di sản thừa kế của cụ H7, cụ M\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_3241",
+    "case_query": "Ngân hàng B khởi kiện bà Nguyễn Thị H, ông Nguyễn Văn S và con trai anh Nguyễn Thanh B về tranh chấp hợp đồng tín dụng và hợp đồng thế chấp quyền sử dụng đất, tài sản gắn liền. Ngân hàng yêu cầu buộc trả nợ gốc, lãi đến 19/10/2017 và cho phép xử lý tài sản bảo đảm để thu hồi nợ. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ngân hàng B"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "bà Nguyễn Thị H, ông Nguyễn Văn S và con trai anh Nguyễn Thanh B"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "hợp đồng tín dụng và hợp đồng thế chấp quyền sử dụng đất"
+      },
+      {
+        "keyword_id": "verb1",
+        "type": "verb",
+        "keyword_text": "khởi kiện"
+      },
+      {
+        "keyword_id": "verb2",
+        "type": "verb",
+        "keyword_text": "yêu cầu"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "19/10/2017"
+      }
+    ],
+    "keyword_count": 6,
+    "keyword_id_prefix_counts": {
+      "name": 2,
+      "verb": 2,
+      "noun": 1,
+      "number": 1
+    },
+    "elapsed_seconds": 18.555,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ngân hàng B\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"bà Nguyễn Thị H, ông Nguyễn Văn S và con trai anh Nguyễn Thanh B\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng tín dụng và hợp đồng thế chấp quyền sử dụng đất\"\n    },\n    {\n      \"keyword_id\": \"verb1\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khởi kiện\"\n    },\n    {\n      \"keyword_id\": \"verb2\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"yêu cầu\"\n    },\n    {\n      \"keyword_id\": \"number1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"19/10/2017\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_1087",
+    "case_query": "Bà Ngô Thị X khởi kiện vợ chồng ông Phạm Đức Tr và bà Trần Thị G về tranh chấp bồi thường thiệt hại ngoài hợp đồng do tài sản bị xâm phạm. Cụ thể căn nhà và giếng đào trên diện tích bà X nhận chuyển nhượng bằng giấy tay. Nguyên đơn yêu cầu bồi thường 50.000.000đ tiền nhà và 10.000.000đ tiền giếng. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Bà Ngô Thị X"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "căn nhà và giếng đào"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "50.000.000đ, 10.000.000đ"
+      }
+    ],
+    "keyword_count": 3,
+    "keyword_id_prefix_counts": {
+      "name": 1,
+      "noun": 1,
+      "number": 1
+    },
+    "elapsed_seconds": 11.036,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà Ngô Thị X\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"căn nhà và giếng đào\"\n    },\n    {\n      \"keyword_id\": \"number1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"50.000.000đ, 10.000.000đ\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_9052",
+    "case_query": "Bà Lâm Thị P kiện tranh chấp quyền sử dụng đất với bà Trần Ánh H (và bà Thạch Thị H) liên quan diện tích 1.370m2 thửa 521 tờ bản đồ số 4 tại ấp S, xã L, huyện C, tỉnh Trà Vinh. Nguyên đơn yêu cầu hủy giấy chứng nhận đã cấp cho hộ ông Thạch Ngọc B và công nhận quyền sử dụng đất, buộc các bên trả lại phần đất tương ứng. Theo bạn nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Bà Lâm Thị P"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "diện tích 1.370m2 thửa 521 tờ bản đồ số 4 tại ấp S, xã L, huyện C, tỉnh Trà Vinh"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "1.370"
+      }
+    ],
+    "keyword_count": 3,
+    "keyword_id_prefix_counts": {
+      "number": 2,
+      "name": 1
+    },
+    "elapsed_seconds": 12.144,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà Lâm Thị P\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"diện tích 1.370m2 thửa 521 tờ bản đồ số 4 tại ấp S, xã L, huyện C, tỉnh Trà Vinh\"\n    },\n    {\n      \"keyword_id\": \"number1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"1.370\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_5160",
+    "case_query": "Ông Trần Đình H và bà Hoàng Thị T tranh chấp di sản thừa kế với bà Phùng Thị L cùng các con; đồng thời liên quan phần đất 2.325m² bị cắt 180m² chuyển nhượng để trả nợ và phần còn lại. Nguyên đơn yêu cầu chia di sản theo pháp luật, mỗi người nhận 166m². Nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông Trần Đình H"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "bà Hoàng Thị T"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "di sản thừa kế"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "đất 2.325m²"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "180m²"
+      },
+      {
+        "keyword_id": "number3",
+        "type": "number",
+        "keyword_text": "166m²"
+      }
+    ],
+    "keyword_count": 6,
+    "keyword_id_prefix_counts": {
+      "number": 3,
+      "name": 2,
+      "noun": 1
+    },
+    "elapsed_seconds": 18.27,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Trần Đình H\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Hoàng Thị T\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"di sản thừa kế\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"đất 2.325m²\"\n    },\n    {\n      \"keyword_id\": \"number1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"180m²\"\n    },\n    {\n      \"keyword_id\": \"number2\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"166m²\"\n    },\n    {\n      \"keyword_id\": \"location1\",\n      \"type\": \"location\",\n      \"keyword_text\": \"đất 2.325m²\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_8147",
+    "case_query": "Bà Nguyễn Thị L khởi kiện tranh chấp di sản thừa kế quyền sử dụng đất đối với cha mẹ là cụ Nguyễn Văn K và cụ Nguyễn Thị T2 đã chết không di chúc, liên quan thửa đất 286 tờ bản đồ số 1 tại ấp P xã Q huyện T tỉnh Trà Vinh. Nguyên đơn yêu cầu chia thừa kế theo pháp luật, thành 4 phần bằng nhau đối với phần di sản 2.184m², rồi xác định giá trị và thanh toán. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Bà Nguyễn Thị L"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "cụ Nguyễn Thị T2"
+      },
+      {
+        "keyword_id": "location1",
+        "type": "location",
+        "keyword_text": "ấp P xã Q huyện T tỉnh Trà Vinh"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "2.184m²"
+      }
+    ],
+    "keyword_count": 4,
+    "keyword_id_prefix_counts": {
+      "name": 2,
+      "location": 1,
+      "number": 1
+    },
+    "elapsed_seconds": 15.827,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà Nguyễn Thị L\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"cụ Nguyễn Văn K\",\n      \"keyword_text\": \"cụ Nguyễn Thị T2\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa đất 286\",\n      \"keyword_text\": \"tờ bản đồ số 1\",\n      \"keyword_text\": \"ấp P xã Q huyện T tỉnh Trà Vinh\"\n    },\n    {\n      \"keyword_id\": \"nummber1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"2.184m²\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_2238",
+    "case_query": "Ông Nông Văn H và bà Đào Thị H khởi kiện ông Nguyễn Quang V, bà Vũ Thị Y về hợp đồng chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất đối với thửa đất có nhà cấp 4. Nguyên đơn yêu cầu bị đơn giao nhà đất; nếu không giao được thì hoàn trả 80.000.000 đồng. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông Nông Văn H"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "bà Đào Thị H"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "ông Nguyễn Quang V"
+      },
+      {
+        "keyword_id": "name4",
+        "type": "name",
+        "keyword_text": "bà Vũ Thị Y"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "hợp đồng chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "thửa đất có nhà cấp 4"
+      },
+      {
+        "keyword_id": "verb1",
+        "type": "verb",
+        "keyword_text": "khởi kiện"
+      },
+      {
+        "keyword_id": "verb2",
+        "type": "verb",
+        "keyword_text": "yêu cầu"
+      },
+      {
+        "keyword_id": "verb3",
+        "type": "verb",
+        "keyword_text": "giao"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "80.000.000"
+      }
+    ],
+    "keyword_count": 10,
+    "keyword_id_prefix_counts": {
+      "name": 4,
+      "verb": 3,
+      "number": 2,
+      "noun": 1
+    },
+    "elapsed_seconds": 28.421,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Nông Văn H\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Đào Thị H\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông Nguyễn Quang V\"\n    },\n    {\n      \"keyword_id\": \"name4\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Vũ Thị Y\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa đất có nhà cấp 4\"\n    },\n    {\n      \"keyword_id\": \"verb1\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khởi kiện\"\n    },\n    {\n      \"keyword_id\": \"verb2\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"yêu cầu\"\n    },\n    {\n      \"keyword_id\": \"verb3\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"giao\"\n    },\n    {\n      \"keyword_id\": \"nummber1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"80.000.000\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_614",
+    "case_query": "Ông Trần Văn Đ và ông Trần Văn T là nguyên đơn tranh chấp với ông Trần Quốc H (cùng nhiều người thừa kế khác) về di sản thừa kế là quyền sử dụng đất 432,1m2 và tài sản gắn liền trên đất thuộc thửa 51, tờ bản đồ 11 xã A. Nguyên đơn yêu cầu chia di sản thành 11 phần, ông T nhận hiện vật và thanh toán giá trị cho 10 người còn lại. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông Trần Văn Đ"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "Ông Trần Văn T"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "Ông Trần Quốc H"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "di sản thừa kế"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "quyền sử dụng đất"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "tài sản gắn liền trên đất"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "thửa 51"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "tờ bản đồ 11"
+      },
+      {
+        "keyword_id": "location1",
+        "type": "location",
+        "keyword_text": "xa A"
+      },
+      {
+        "keyword_id": "number3",
+        "type": "number",
+        "keyword_text": "432,1m2"
+      },
+      {
+        "keyword_id": "number4",
+        "type": "number",
+        "keyword_text": "11"
+      },
+      {
+        "keyword_id": "number5",
+        "type": "number",
+        "keyword_text": "10"
+      }
+    ],
+    "keyword_count": 12,
+    "keyword_id_prefix_counts": {
+      "number": 5,
+      "name": 3,
+      "noun": 3,
+      "location": 1
+    },
+    "elapsed_seconds": 34.259,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Trần Văn Đ\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Trần Văn T\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Trần Quốc H\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"di sản thừa kế\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"quyền sử dụng đất\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tài sản gắn liền trên đất\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa 51\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tờ bản đồ 11\"\n    },\n    {\n      \"keyword_id\": \"noun6\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"xa A\"\n    },\n    {\n      \"keyword_id\": \"number1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"432,1m2\"\n    },\n    {\n      \"keyword_id\": \"number2\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"11\"\n    },\n    {\n      \"keyword_id\": \"number3\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"10\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_1959",
+    "case_query": "Ông Nguyễn Thanh S đại diện bà Đinh Thị L kiện ông Nguyễn Văn H (và bà Lê Thị Phước với tư cách liên quan/kế thừa) tranh chấp bồi thường thiệt hại do tài sản bị xâm phạm: hàng rào trụ xi măng lưới B40 bị sập ngã sau khi bên kia đào/nạo vét đường nước sát ranh giới. Nguyên đơn yêu cầu buộc bồi thường chi phí xây lại hàng rào theo giá trị chi phí cụ thể. Agent dự đoán nguyên đơn hay bị đơn sẽ thắng?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông Nguyễn Thanh S"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "bà Đinh Thị L"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "ông Nguyễn Văn H"
+      },
+      {
+        "keyword_id": "name4",
+        "type": "name",
+        "keyword_text": "bà Lê Thị Phước"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "hàng rào trụ xi măng lưới B40"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "đường nước"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "ranh giới"
+      },
+      {
+        "keyword_id": "verb1",
+        "type": "verb",
+        "keyword_text": "khiến"
+      }
+    ],
+    "keyword_count": 8,
+    "keyword_id_prefix_counts": {
+      "name": 4,
+      "noun": 2,
+      "number": 1,
+      "verb": 1
+    },
+    "elapsed_seconds": 75.8,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Nguyễn Thanh S\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Đinh Thị L\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông Nguyễn Văn H\"\n    },\n    {\n      \"keyword_id\": \"name4\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Lê Thị Phước\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hàng rào trụ xi măng lưới B40\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"đường nước\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"ranh giới\"\n    },\n    {\n      \"keyword_id\": \"verb1\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb2\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb3\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb4\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb5\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb6\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb7\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb8\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb9\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb10\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb11\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb12\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb13\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb14\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb15\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb16\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb17\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb18\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb19\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb20\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb21\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb22\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb23\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb24\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb25\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khiến\"\n    },\n    {\n      \"keyword_id\": \"verb26\",\n      \"type\": \"verb\",\n      \"keyword_text"
+  },
+  {
+    "case_id": "case_6425",
+    "case_query": "Ông A tranh chấp quyền sử dụng đất với bà B, ông C và liên quan bà D, bà E, cùng UBND tỉnh Sóc Trăng. Vụ việc liên quan phần đất ông A bị lấn chiếm, đồng thời phần đất được UBND tỉnh cấp chồng lên. Ông A yêu cầu buộc các bên hoàn trả giá trị quyền sử dụng đất theo diện tích lấn chiếm và chồng lấn, tính theo giá Nhà nước. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông A"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "bà B"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "ông C"
+      },
+      {
+        "keyword_id": "name4",
+        "type": "name",
+        "keyword_text": "bà D"
+      },
+      {
+        "keyword_id": "name5",
+        "type": "name",
+        "keyword_text": "bà E"
+      },
+      {
+        "keyword_id": "name6",
+        "type": "name",
+        "keyword_text": "UBND tỉnh Sóc Trăng"
+      }
+    ],
+    "keyword_count": 6,
+    "keyword_id_prefix_counts": {
+      "name": 6
+    },
+    "elapsed_seconds": 14.904,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông A\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà B\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông C\"\n    },\n    {\n      \"keyword_id\": \"name4\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà D\"\n    },\n    {\n      \"keyword_id\": \"name5\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà E\"\n    },\n    {\n      \"keyword_id\": \"name6\",\n      \"type\": \"name\",\n      \"keyword_text\": \"UBND tỉnh Sóc Trăng\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_3735",
+    "case_query": "Anh Nguyễn T và chị Nguyễn T1 tranh chấp hợp đồng hợp tác, liên quan khoản hùn tiền thuê lại quán nước của chị Huỳnh Thị H ngày 07/02/2017. Tòa án xem xét nghĩa vụ hoàn trả tiền hùn thuê quán, đồng thời việc chia lời lỗ và tài sản chị T1 mua sắm phục vụ bán nước. Nguyên đơn yêu cầu chị T1 hoàn trả 30.000.000đ. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Anh Nguyễn T"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "chị Nguyễn T1"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "chị Huỳnh Thị H"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "hợp đồng hợp tác"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "hợp tác"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "hùn tiền"
+      },
+      {
+        "keyword_id": "location1",
+        "type": "location",
+        "keyword_text": "quán nước"
+      },
+      {
+        "keyword_id": "location2",
+        "type": "location",
+        "keyword_text": "liên quan"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "hợp đồng"
+      },
+      {
+        "keyword_id": "noun5",
+        "type": "noun",
+        "keyword_text": "hùn"
+      },
+      {
+        "keyword_id": "noun6",
+        "type": "noun",
+        "keyword_text": "thuê lại"
+      },
+      {
+        "keyword_id": "location3",
+        "type": "location",
+        "keyword_text": "quán"
+      },
+      {
+        "keyword_id": "noun7",
+        "type": "noun",
+        "keyword_text": "nguyên đơn"
+      },
+      {
+        "keyword_id": "noun8",
+        "type": "noun",
+        "keyword_text": "bị đơn"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "30.000.000đ"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "07/02/2017"
+      }
+    ],
+    "keyword_count": 16,
+    "keyword_id_prefix_counts": {
+      "noun": 8,
+      "name": 3,
+      "location": 3,
+      "number": 2
+    },
+    "elapsed_seconds": 42.656,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Anh Nguyễn T\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"chị Nguyễn T1\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"chị Huỳnh Thị H\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng hợp tác\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp tác\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hùn tiền\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"quán nước\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"liên quan\"\n    },\n    {\n      \"keyword_id\": \"noun6\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng\"\n    },\n    {\n      \"keyword_id\": \"noun7\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hùn\"\n    },\n    {\n      \"keyword_id\": \"noun8\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thuê lại\"\n    },\n    {\n      \"keyword_id\": \"noun9\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"quán\"\n    },\n    {\n      \"keyword_id\": \"noun10\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"nguyên đơn\"\n    },\n    {\n      \"keyword_id\": \"noun11\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thắng kiện\"\n    },\n    {\n      \"keyword_id\": \"noun12\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"bị đơn\"\n    },\n    {\n      \"keyword_id\": \"noun13\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thắng kiện\"\n    },\n    {\n      \"keyword_id\": \"number1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"30.000.000đ\"\n    },\n    {\n      \"keyword_id\": \"date1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"07/02/2017\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_5860",
+    "case_query": "Công ty TNHH thương mại xuất nhập khẩu Hữu Thành P tranh chấp với anh Lê Quốc V về khoản nợ phát sinh từ giao dịch mua bán nhớt, liên quan “đơn xác nhận công nợ” và các hóa đơn cho cây xăng Phước L. Nguyên đơn yêu cầu anh V trả 22.187.000 đồng. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Công ty TNHH thương mại xuất nhập khẩu Hữu Thành P"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "giao dịch mua bán nhớt"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "cây xăng Phước L"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "22.187.000"
+      }
+    ],
+    "keyword_count": 4,
+    "keyword_id_prefix_counts": {
+      "noun": 2,
+      "name": 1,
+      "number": 1
+    },
+    "elapsed_seconds": 12.233,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Công ty TNHH thương mại xuất nhập khẩu Hữu Thành P\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"giao dịch mua bán nhớt\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"cây xăng Phước L\"\n    },\n    {\n      \"keyword_id\": \"number1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"22.187.000\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_7467",
+    "case_query": "Bà Võ Thị Huỳnh H1 và các đồng nguyên đơn gồm bà Võ Thị Huỳnh H2, bà Võ Thị Thanh H5, bà Võ Thị Thanh H6, ông Võ Thế H3, ông Võ Thế H4 tranh chấp di sản thừa kế của cụ Võ Văn M và cụ Phan Thị S với bị đơn ông Võ Thế Đ. Nguyên đơn yêu cầu chia thừa kế theo pháp luật đối với các phần đất, trừ phần đã tặng cho. Agent dự đoán nguyên đơn thắng hay bị đơn thắng?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Bà Võ Thị Huỳnh H1"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "Bà Võ Thị Huỳnh H2"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "Bà Võ Thị Thanh H5"
+      },
+      {
+        "keyword_id": "name4",
+        "type": "name",
+        "keyword_text": "Bà Võ Thị Thanh H6"
+      },
+      {
+        "keyword_id": "name5",
+        "type": "name",
+        "keyword_text": "Ông Võ Thế H3"
+      },
+      {
+        "keyword_id": "name6",
+        "type": "name",
+        "keyword_text": "Ông Võ Thế H4"
+      },
+      {
+        "keyword_id": "name7",
+        "type": "name",
+        "keyword_text": "Ông Võ Thế Đ"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "di sản thừa kế"
+      },
+      {
+        "keyword_id": "name8",
+        "type": "name",
+        "keyword_text": "cụ Võ Văn M"
+      },
+      {
+        "keyword_id": "name9",
+        "type": "name",
+        "keyword_text": "cụ Phan Thị S"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "các phần đất"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "phần đã tặng cho"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "bị đơn"
+      },
+      {
+        "keyword_id": "noun5",
+        "type": "noun",
+        "keyword_text": "các nguyên đơn"
+      },
+      {
+        "keyword_id": "verb1",
+        "type": "verb",
+        "keyword_text": "tranh chấp"
+      }
+    ],
+    "keyword_count": 15,
+    "keyword_id_prefix_counts": {
+      "name": 9,
+      "noun": 5,
+      "verb": 1
+    },
+    "elapsed_seconds": 74.294,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà Võ Thị Huỳnh H1\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà Võ Thị Huỳnh H2\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà Võ Thị Thanh H5\"\n    },\n    {\n      \"keyword_id\": \"name4\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà Võ Thị Thanh H6\"\n    },\n    {\n      \"keyword_id\": \"name5\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Võ Thế H3\"\n    },\n    {\n      \"keyword_id\": \"name6\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Võ Thế H4\"\n    },\n    {\n      \"keyword_id\": \"name7\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà Võ Thị Huỳnh H1\"\n    },\n    {\n      \"keyword_id\": \"name8\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Võ Thế Đ\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"di sản thừa kế\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"cụ Võ Văn M\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"cụ Phan Thị S\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"các phần đất\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"phần đã tặng cho\"\n    },\n    {\n      \"keyword_id\": \"noun6\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"bị đơn\"\n    },\n    {\n      \"keyword_id\": \"noun7\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"các nguyên đơn\"\n    },\n    {\n      \"keyword_id\": \"noun8\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"các phần đất\"\n    },\n    {\n      \"keyword_id\": \"noun9\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"phần đã tặng cho\"\n    },\n    {\n      \"keyword_id\": \"verb1\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"tranh chấp\"\n    },\n    {\n      \"keyword_id\": \"verb2\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"tranh chấp\"\n    },\n    {\n      \"keyword_id\": \"verb3\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"tranh chấp\"\n    },\n    {\n      \"keyword_id\": \"verb4\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"tranh chấp\"\n    },\n    {\n      \"keyword_id\": \"verb5\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"tranh chấp\"\n    },\n    {\n      \"keyword_id\": \"verb6\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"tranh chấp\"\n    },\n    {\n      \"keyword_id\": \"verb7\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"tranh chấp\"\n    },\n    {\n      \"keyword_id\": \"verb8\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"tranh chấp\"\n    },\n    {\n      \"keyword_id\": \"verb9\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"tranh chấp\"\n    },\n    {\n      \"keyword_id\": \"verb10\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"tranh chấp\"\n    },\n    {\n      \"keyword_id\": \"verb11\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"tranh chấp\"\n    },\n    {\n      \"keyword_id\": \"verb12\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"tranh chấp\"\n    },\n    {\n      \"keyword_id\": \"verb13\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"tranh chấp\"\n    },\n    {\n      \"keyword_id\": \"verb14\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"tranh chấp\"\n    },\n    {\n      \"keyword_id\": \"verb15\",\n      \"type\": \"verb\",\n      \"keyword_text\": \""
+  },
+  {
+    "case_id": "case_149",
+    "case_query": "Ông Trần Xuân V khởi kiện vợ chồng ông Nguyễn Gia H, bà Nguyễn Thị L tranh chấp hợp đồng chuyển nhượng quyền sử dụng đất ký 09/10/2018, đồng thời yêu cầu trả lại tiền nhận và bồi thường thiệt hại theo thỏa thuận phạt. Agent dự đoán yêu cầu của nguyên đơn sẽ được chấp nhận hay không?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông Trần Xuân V"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "vợ chồng ông Nguyễn Gia H, bà Nguyễn Thị L"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "hợp đồng chuyển nhượng quyền sử dụng đất"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "09/10/2018"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "thỏa thuận phạt"
+      }
+    ],
+    "keyword_count": 5,
+    "keyword_id_prefix_counts": {
+      "noun": 3,
+      "name": 1,
+      "number": 1
+    },
+    "elapsed_seconds": 14.565,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Trần Xuân V\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"vợ chồng ông Nguyễn Gia H, bà Nguyễn Thị L\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng chuyển nhượng quyền sử dụng đất\"\n    },\n    {\n      \"keyword_id\": \"nummber1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"09/10/2018\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thỏa thuận phạt\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_3079",
+    "case_query": "Ông V kiện ông T và bà H liên quan về bồi thường thiệt hại ngoài hợp đồng do bị xâm phạm sức khỏe, trong đó ông V yêu cầu bồi thường chi phí điều trị, mất thu nhập, mất thu nhập người chăm sóc, tổn thất tinh thần và thiệt hại tài sản gắn với hậu quả vụ việc. Agent hãy dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện.",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông V"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "Ông T"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "Bà H"
+      }
+    ],
+    "keyword_count": 3,
+    "keyword_id_prefix_counts": {
+      "name": 3
+    },
+    "elapsed_seconds": 8.191,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông V\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông T\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Bà H\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_8812",
+    "case_query": "Anh Trần Văn N khởi kiện các anh Đào Nhựt Q, Trần Quang V về bồi thường thiệt hại ngoài hợp đồng do bị đánh gây thương tích trong tiệc rượu ngày 24/11/2017, yêu cầu liên đới chi phí thuốc, viện phí, thu nhập bị mất và bù đắp tổn thất tinh thần. Agent dự đoán: nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Anh Trần Văn N"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "các anh Đào Nhựt Q, Trần Quang V"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "tiệc rượu"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "24/11/2017"
+      }
+    ],
+    "keyword_count": 4,
+    "keyword_id_prefix_counts": {
+      "noun": 2,
+      "name": 1,
+      "number": 1
+    },
+    "elapsed_seconds": 12.124,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Anh Trần Văn N\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"các anh Đào Nhựt Q, Trần Quang V\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tiệc rượu\"\n    },\n    {\n      \"keyword_id\": \"nummber1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"24/11/2017\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_5057",
+    "case_query": "Ông HNA khởi kiện ông ĐTK (Đỗ Văn Hào) và bà HTKN về tranh chấp quyền sử dụng 52,7m2 đất, phát sinh từ việc ngày 20/10/2007 ông A lập tờ cam kết cho vợ chồng bị đơn mượn đất ở nhờ 5 năm để cất nhà, hết hạn không trả. Ông A yêu cầu tháo dỡ nhà, giao trả đất theo đo đạc. Theo bạn, ông A có khả năng thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông HNA"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "ông ĐTK (Đỗ Văn Hào"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "bà HTKN"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "52,7m2 đất"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "đất"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "đất ở nhờ"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "cất nhà"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "đo đạc"
+      },
+      {
+        "keyword_id": "verb1",
+        "type": "verb",
+        "keyword_text": "khởi kiện"
+      },
+      {
+        "keyword_id": "verb2",
+        "type": "verb",
+        "keyword_text": "lập"
+      },
+      {
+        "keyword_id": "verb3",
+        "type": "verb",
+        "keyword_text": "giao trả"
+      },
+      {
+        "keyword_id": "verb4",
+        "type": "verb",
+        "keyword_text": "tháo dỡ"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "5 năm"
+      },
+      {
+        "keyword_id": "number3",
+        "type": "number",
+        "keyword_text": "20/10/2007"
+      }
+    ],
+    "keyword_count": 14,
+    "keyword_id_prefix_counts": {
+      "noun": 4,
+      "verb": 4,
+      "name": 3,
+      "number": 3
+    },
+    "elapsed_seconds": 33.48,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông HNA\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông ĐTK (Đỗ Văn Hào)\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà HTKN\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"52,7m2 đất\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"đất\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"đất ở nhờ\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"cất nhà\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"đo đạc\"\n    },\n    {\n      \"keyword_id\": \"verb1\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khởi kiện\"\n    },\n    {\n      \"keyword_id\": \"verb2\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"lập\"\n    },\n    {\n      \"keyword_id\": \"verb3\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"giao trả\"\n    },\n    {\n      \"keyword_id\": \"verb4\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"tháo dỡ\"\n    },\n    {\n      \"keyword_id\": \"number1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"5 năm\"\n    },\n    {\n      \"keyword_id\": \"number2\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"20/10/2007\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_551",
+    "case_query": "Nguyên đơn ông Nguyễn Hữu C (và người đại diện theo ủy quyền) tranh chấp với bị đơn ông Hoàng Đình T, ông Hoàng Đình L cùng UBND xã T S và UBND huyện Đ L. Tranh chấp quyền sử dụng các thửa đất liên quan thửa 18 và thửa 53, yêu cầu hủy quyết định hành chính cá biệt. Nguyên đơn yêu cầu buộc thu hoạch cây cối, trả lại đất. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "ông Nguyễn Hữu C"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "các thửa đất"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "quyền sử dụng"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "cây cối"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "đất"
+      },
+      {
+        "keyword_id": "noun5",
+        "type": "noun",
+        "keyword_text": "quyết định hành chính cá biệt"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "thửa 18"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "thửa 53"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "UBND xã T S"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "UBND huyện Đ L"
+      }
+    ],
+    "keyword_count": 10,
+    "keyword_id_prefix_counts": {
+      "noun": 5,
+      "name": 3,
+      "number": 2
+    },
+    "elapsed_seconds": 29.819,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông Nguyễn Hữu C\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"các thửa đất\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"quyền sử dụng\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"cây cối\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"đất\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"quyết định hành chính cá biệt\"\n    },\n    {\n      \"keyword_id\": \"noun6\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa 18\"\n    },\n    {\n      \"keyword_id\": \"noun7\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa 53\"\n    },\n    {\n      \"keyword_id\": \"noun8\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"UBND xã T S\"\n    },\n    {\n      \"keyword_id\": \"noun9\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"UBND huyện Đ L\"\n    },\n    {\n      \"keyword_id\": \"number1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"thửa 18\"\n    },\n    {\n      \"keyword_id\": \"number2\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"thửa 53\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_669",
+    "case_query": "Nguyên đơn ông Danh Ch, bà Thị M tranh chấp với các bị đơn bà Thị X, bà Thị Q, bà Thị Đ, ông Danh C về việc hủy/bảo lưu hợp đồng chuyển nhượng quyền sử dụng đất viết tay miệng năm 1995 liên quan diện tích khoảng 3.263m2 tại khu phố M, thị trấn M, huyện Châu Thành. Nguyên đơn yêu cầu hủy hợp đồng và đòi lại đất, kèm hoàn trả vàng và lúa đã nhận, dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "ông Danh Ch"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "bà Thị M"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "bà Thị X"
+      },
+      {
+        "keyword_id": "name4",
+        "type": "name",
+        "keyword_text": "bà Thị Q"
+      },
+      {
+        "keyword_id": "name5",
+        "type": "name",
+        "keyword_text": "bà Thị Đ"
+      },
+      {
+        "keyword_id": "name6",
+        "type": "name",
+        "keyword_text": "ông Danh C"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "hợp đồng chuyển nhượng quyền sử dụng đất viết tay miệng năm 1995"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "diện tích khoảng 3.263m2"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "khu phố M"
+      },
+      {
+        "keyword_id": "location1",
+        "type": "location",
+        "keyword_text": "thị trấn M"
+      },
+      {
+        "keyword_id": "location2",
+        "type": "location",
+        "keyword_text": "huyện Châu Thành"
+      },
+      {
+        "keyword_id": "verb1",
+        "type": "verb",
+        "keyword_text": "tranh chấp"
+      },
+      {
+        "keyword_id": "verb2",
+        "type": "verb",
+        "keyword_text": "hủy/bảo lưu"
+      },
+      {
+        "keyword_id": "verb3",
+        "type": "verb",
+        "keyword_text": "hủy"
+      },
+      {
+        "keyword_id": "verb4",
+        "type": "verb",
+        "keyword_text": "trả lại"
+      },
+      {
+        "keyword_id": "number3",
+        "type": "number",
+        "keyword_text": "3.263m2"
+      }
+    ],
+    "keyword_count": 16,
+    "keyword_id_prefix_counts": {
+      "name": 6,
+      "verb": 4,
+      "number": 3,
+      "location": 2,
+      "noun": 1
+    },
+    "elapsed_seconds": 48.572,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông Danh Ch\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Thị M\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Thị X\"\n    },\n    {\n      \"keyword_id\": \"name4\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Thị Q\"\n    },\n    {\n      \"keyword_id\": \"name5\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Thị Đ\"\n    },\n    {\n      \"keyword_id\": \"name6\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông Danh C\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng chuyển nhượng quyền sử dụng đất viết tay miệng năm 1995\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"diện tích khoảng 3.263m2\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"khu phố M\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thị trấn M\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"huyện Châu Thành\"\n    },\n    {\n      \"keyword_id\": \"verb1\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"tranh chấp\"\n    },\n    {\n      \"keyword_id\": \"verb2\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"hủy/bảo lưu\"\n    },\n    {\n      \"keyword_id\": \"verb3\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"hủy\"\n    },\n    {\n      \"keyword_id\": \"verb4\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"trả lại\"\n    },\n    {\n      \"keyword_id\": \"nummber1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"3.263m2\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_4557",
+    "case_query": "Ông Thái C và Công ty C tranh chấp hợp đồng kinh tế số 158/2015/HĐKT về cung cấp nhân lực, máy và thiết bị thi công phần “Tổ nhân công” công trình Khu Hành chính huyện H, tỉnh Đồng Tháp, liên quan chấm dứt, quyết toán công nợ và nghĩa vụ thanh toán. Ông C yêu cầu bồi thường thiệt hại theo mức 12% giá trị hợp đồng 158 là 103.680.000đ. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông Thái C"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "Công ty C"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "hợp đồng kinh tế số 158/2015/HĐKT"
+      },
+      {
+        "keyword_id": "location1",
+        "type": "location",
+        "keyword_text": "công trình Khu Hành chính huyện H, tỉnh Đồng Tháp"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "12%"
+      },
+      {
+        "keyword_id": "number3",
+        "type": "number",
+        "keyword_text": "103.680.000đ"
+      }
+    ],
+    "keyword_count": 6,
+    "keyword_id_prefix_counts": {
+      "number": 3,
+      "name": 2,
+      "location": 1
+    },
+    "elapsed_seconds": 20.358,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Thái C\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"Công ty C\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hợp đồng kinh tế số 158/2015/HĐKT\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"công trình Khu Hành chính huyện H, tỉnh Đồng Tháp\"\n    },\n    {\n      \"keyword_id\": \"nummber1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"12%\"\n    },\n    {\n      \"keyword_id\": \"nummber2\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"103.680.000đ\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_950",
+    "case_query": "Ông Huỳnh Tấn T kiện ông Nguyễn Khánh T2 tranh chấp quyền sử dụng đất kèm đòi bồi thường 56 cây chuối bị chặt. Quyền sử dụng đối với thửa đất diện tích 1.421,38m2 tại thửa số 173, tờ bản đồ 26; cho rằng bị đơn lấn chiếm và đã thực hiện hành vi phá cây. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông Huỳnh Tấn T"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "Ông Nguyễn Khánh T2"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "cây chuối"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "thửa đất"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "tờ bản đồ"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "thửa số"
+      }
+    ],
+    "keyword_count": 6,
+    "keyword_id_prefix_counts": {
+      "noun": 4,
+      "name": 2
+    },
+    "elapsed_seconds": 88.638,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Huỳnh Tấn T\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Nguyễn Khánh T2\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"cây chuối\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa đất\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tờ bản đồ\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa số\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tờ bản đồ\"\n    },\n    {\n      \"keyword_id\": \"noun6\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa số\"\n    },\n    {\n      \"keyword_id\": \"noun7\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tờ bản đồ\"\n    },\n    {\n      \"keyword_id\": \"noun8\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa số\"\n    },\n    {\n      \"keyword_id\": \"noun9\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tờ bản đồ\"\n    },\n    {\n      \"keyword_id\": \"noun10\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa số\"\n    },\n    {\n      \"keyword_id\": \"noun11\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tờ bản đồ\"\n    },\n    {\n      \"keyword_id\": \"noun12\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa số\"\n    },\n    {\n      \"keyword_id\": \"noun13\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tờ bản đồ\"\n    },\n    {\n      \"keyword_id\": \"noun14\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa số\"\n    },\n    {\n      \"keyword_id\": \"noun15\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tờ bản đồ\"\n    },\n    {\n      \"keyword_id\": \"noun16\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa số\"\n    },\n    {\n      \"keyword_id\": \"noun17\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tờ bản đồ\"\n    },\n    {\n      \"keyword_id\": \"noun18\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa số\"\n    },\n    {\n      \"keyword_id\": \"noun19\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tờ bản đồ\"\n    },\n    {\n      \"keyword_id\": \"noun20\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa số\"\n    },\n    {\n      \"keyword_id\": \"noun21\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tờ bản đồ\"\n    },\n    {\n      \"keyword_id\": \"noun22\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa số\"\n    },\n    {\n      \"keyword_id\": \"noun23\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tờ bản đồ\"\n    },\n    {\n      \"keyword_id\": \"noun24\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa số\"\n    },\n    {\n      \"keyword_id\": \"noun25\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tờ bản đồ\"\n    },\n    {\n      \"keyword_id\": \"noun26\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa số\"\n    },\n    {\n      \"keyword_id\": \"noun27\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tờ bản đồ\"\n    },\n    {\n      \"keyword_id\": \"noun28\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa số\"\n    },\n    {\n      \"keyword_id\": \"noun29\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tờ bản đồ\"\n    },\n    {\n      \"keyword_id\": \"noun30\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thửa số\"\n    },\n    {\n      \"keyword_id\": \"noun31\",\n      \""
+  },
+  {
+    "case_id": "case_2035",
+    "case_query": "Ông Trần Sinh H và người đại diện Nguyễn Thị C tranh chấp với ông Trần Văn L và liên quan đến bức tường, phần đất dưới bức tường, ban công, cửa sổ giữa hai nhà. Nguyên đơn yêu cầu công nhận bức tường 8,33m x cao 5,6m thuộc mình và buộc bị đơn tháo mái tôn, kèo, tháo ban công lấn sang, đồng thời bít cửa sổ nhìn sang. Theo bạn, nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông Trần Sinh H"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "Nguyễn Thị C"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "Ông Trần Văn L"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "bức tường"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "phần đất dưới bức tường"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "ban công"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "cửa sổ"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "8,33m"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "5,6m"
+      }
+    ],
+    "keyword_count": 9,
+    "keyword_id_prefix_counts": {
+      "noun": 4,
+      "name": 3,
+      "number": 2
+    },
+    "elapsed_seconds": 26.388,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Trần Sinh H\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Nguyễn Thị C\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Trần Văn L\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"bức tường\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"phần đất dưới bức tường\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"ban công\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"cửa sổ\"\n    },\n    {\n      \"keyword_id\": \"number1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"8,33m\"\n    },\n    {\n      \"keyword_id\": \"number2\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"5,6m\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_8303",
+    "case_query": "Công ty QLTS (VAMC, kế thừa quyền và nghĩa vụ từ Ngân hàng VIB) khởi kiện bà Đỗ Thị T và ông Chu Văn A về tranh chấp hợp đồng tín dụng, kèm khế ước nhận nợ và nghĩa vụ trả lãi, gốc. Tài sản thế chấp là quyền sử dụng 113,9m2 đất thửa 342. Nguyên đơn yêu cầu thanh toán toàn bộ nợ và cho phép xử lý tài sản bảo đảm. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Công ty QLTS"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "VAMC"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "Ngân hàng VIB"
+      },
+      {
+        "keyword_id": "name4",
+        "type": "name",
+        "keyword_text": "bà Đỗ Thị T"
+      },
+      {
+        "keyword_id": "name5",
+        "type": "name",
+        "keyword_text": "ông Chu Văn A"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "tranh chấp hợp đồng tín dụng"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "khế ước nhận nợ"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "nghĩa vụ trả lãi, gốc"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "tài sản thế chấp"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "quyền sử dụng 113,9m2 đất thửa 342"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "113,9m2"
+      },
+      {
+        "keyword_id": "number3",
+        "type": "number",
+        "keyword_text": "342"
+      },
+      {
+        "keyword_id": "verb1",
+        "type": "verb",
+        "keyword_text": "khởi kiện"
+      },
+      {
+        "keyword_id": "verb2",
+        "type": "verb",
+        "keyword_text": "yêu cầu"
+      }
+    ],
+    "keyword_count": 14,
+    "keyword_id_prefix_counts": {
+      "name": 5,
+      "noun": 4,
+      "number": 3,
+      "verb": 2
+    },
+    "elapsed_seconds": 38.72,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Công ty QLTS\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"VAMC\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ngân hàng VIB\"\n    },\n    {\n      \"keyword_id\": \"name4\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Đỗ Thị T\"\n    },\n    {\n      \"keyword_id\": \"name5\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông Chu Văn A\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tranh chấp hợp đồng tín dụng\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"khế ước nhận nợ\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"nghĩa vụ trả lãi, gốc\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tài sản thế chấp\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"quyền sử dụng 113,9m2 đất thửa 342\"\n    },\n    {\n      \"keyword_id\": \"nummber1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"113,9m2\"\n    },\n    {\n      \"keyword_id\": \"nummber2\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"342\"\n    },\n    {\n      \"keyword_id\": \"verb1\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khởi kiện\"\n    },\n    {\n      \"keyword_id\": \"verb2\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"yêu cầu\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_4704",
+    "case_query": "Ông Lê Phú L khởi kiện ông Lê Phú T tranh chấp thừa kế đối với nhà và đất số MC, Phường 15, Quận 8 cùng các vật dụng trong nhà của ông Lê Văn S, bà Ngô Thị N (không để lại di chúc). Nguyên đơn yêu cầu trừ 200.000.000đ sửa chữa rồi chia cho 4 người thừa kế, ông L xin giữ căn nhà và trả giá trị phần thừa kế. Agent dự đoán nguyên đơn có khả năng được chấp nhận hay không?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông Lê Phú L"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "Ông Lê Phú T"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "nhà và đất số MC, Phường 15, Quận 8"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "các vật dụng trong nhà"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "căn nhà"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "200.000.000đ"
+      }
+    ],
+    "keyword_count": 6,
+    "keyword_id_prefix_counts": {
+      "name": 2,
+      "number": 2,
+      "noun": 2
+    },
+    "elapsed_seconds": 19.82,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Lê Phú L\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Lê Phú T\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"nhà và đất số MC, Phường 15, Quận 8\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"các vật dụng trong nhà\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"căn nhà\"\n    },\n    {\n      \"keyword_id\": \"number1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"200.000.000đ\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_4644",
+    "case_query": "Anh Thân Văn D kiện anh Đặng Văn N và chị Đỗ Thị C về bồi thường thiệt hại sức khỏe ngoài hợp đồng do xô xát ngày 08/9/2016 gây thương tích 10%, ảnh hưởng mắt. Nguyên đơn yêu cầu bồi thường chi phí điều trị, tiền mất thu nhập của anh và vợ chăm sóc, cùng 01 điện thoại OPPO bị hỏng. Dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Anh Thân Văn D"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "anh Đặng Văn N"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "chị Đỗ Thị C"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "bồi thường thiệt hại sức khỏe ngoài hợp đồng"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "xô xát"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "thương tích 10%"
+      },
+      {
+        "keyword_id": "name4",
+        "type": "name",
+        "keyword_text": "ảnh hưởng mắt"
+      },
+      {
+        "keyword_id": "name5",
+        "type": "name",
+        "keyword_text": "chi phí điều trị"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "tiền mất thu nhập"
+      },
+      {
+        "keyword_id": "name6",
+        "type": "name",
+        "keyword_text": "anh và vợ chăm sóc"
+      },
+      {
+        "keyword_id": "number2",
+        "type": "number",
+        "keyword_text": "01 điện thoại OPPO"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "bị hỏng"
+      },
+      {
+        "keyword_id": "number3",
+        "type": "number",
+        "keyword_text": "08/9/2016"
+      }
+    ],
+    "keyword_count": 13,
+    "keyword_id_prefix_counts": {
+      "name": 6,
+      "noun": 4,
+      "number": 3
+    },
+    "elapsed_seconds": 36.796,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Anh Thân Văn D\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"anh Đặng Văn N\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"chị Đỗ Thị C\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"bồi thường thiệt hại sức khỏe ngoài hợp đồng\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"xô xát\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thương tích 10%\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"ảnh hưởng mắt\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"chi phí điều trị\"\n    },\n    {\n      \"keyword_id\": \"noun6\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tiền mất thu nhập\"\n    },\n    {\n      \"keyword_id\": \"noun7\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"anh và vợ chăm sóc\"\n    },\n    {\n      \"keyword_id\": \"noun8\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"01 điện thoại OPPO\"\n    },\n    {\n      \"keyword_id\": \"noun9\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"bị hỏng\"\n    },\n    {\n      \"keyword_id\": \"nummber1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"08/9/2016\"\n    }\n  ]\n}"
+  },
+  {
+    "case_id": "case_4834",
+    "case_query": "Ông Trần Thanh N, bà Lương Thị D khởi kiện ông Nguyễn Tấn C về việc đòi lại khoản tiền liên quan các hộ dân vay vốn nông nghiệp thông qua ngân hàng, có thỏa thuận giao/thu tiền và thế chấp quyền sử dụng đất. Nguyên đơn yêu cầu buộc bị đơn trả nợ gốc và lãi theo các khoản còn thiếu. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+    "keywords": [
+      {
+        "keyword_id": "name1",
+        "type": "name",
+        "keyword_text": "Ông Trần Thanh N"
+      },
+      {
+        "keyword_id": "name2",
+        "type": "name",
+        "keyword_text": "bà Lương Thị D"
+      },
+      {
+        "keyword_id": "name3",
+        "type": "name",
+        "keyword_text": "ông Nguyễn Tấn C"
+      },
+      {
+        "keyword_id": "noun1",
+        "type": "noun",
+        "keyword_text": "hộ dân"
+      },
+      {
+        "keyword_id": "noun2",
+        "type": "noun",
+        "keyword_text": "nông nghiệp"
+      },
+      {
+        "keyword_id": "noun3",
+        "type": "noun",
+        "keyword_text": "ngân hàng"
+      },
+      {
+        "keyword_id": "noun4",
+        "type": "noun",
+        "keyword_text": "quyền sử dụng đất"
+      },
+      {
+        "keyword_id": "verb1",
+        "type": "verb",
+        "keyword_text": "khởi kiện"
+      },
+      {
+        "keyword_id": "verb2",
+        "type": "verb",
+        "keyword_text": "đòi lại"
+      },
+      {
+        "keyword_id": "verb3",
+        "type": "verb",
+        "keyword_text": "giao/thu tiền"
+      },
+      {
+        "keyword_id": "verb4",
+        "type": "verb",
+        "keyword_text": "thế chấp"
+      },
+      {
+        "keyword_id": "number1",
+        "type": "number",
+        "keyword_text": "khác"
+      }
+    ],
+    "keyword_count": 12,
+    "keyword_id_prefix_counts": {
+      "noun": 4,
+      "verb": 4,
+      "name": 3,
+      "number": 1
+    },
+    "elapsed_seconds": 48.592,
+    "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông Trần Thanh N\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà Lương Thị D\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"ông Nguyễn Tấn C\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"hộ dân\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"nông nghiệp\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"ngân hàng\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"quyền sử dụng đất\"\n    },\n    {\n      \"keyword_id\": \"verb1\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"khởi kiện\"\n    },\n    {\n      \"keyword_id\": \"verb2\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"đòi lại\"\n    },\n    {\n      \"keyword_id\": \"verb3\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"giao/thu tiền\"\n    },\n    {\n      \"keyword_id\": \"verb4\",\n      \"type\": \"verb\",\n      \"keyword_text\": \"thế chấp\"\n    },\n    {\n      \"keyword_id\": \"number1\",\n      \"type\": \"nummber\",\n      \"keyword_text\": \"khác\"\n    }\n  ]\n}"
+  }
+]

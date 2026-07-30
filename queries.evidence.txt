@@ -1,0 +1,16 @@
+# One query per line. Used by `alqac-agent probe-evidence`.
+Vì các lẽ trên QUYẾT ĐỊNH Tuyên xử
+QUYẾT ĐỊNH: Căn cứ vào Điều Nghị quyết Tuyên xử
+Xử: Chấp nhận Không chấp nhận yêu cầu khởi kiện
+Tuyên xử: Chấp nhận Không chấp nhận yêu cầu khởi kiện
+QUYẾT ĐỊNH: Chấp nhận một phần yêu cầu khởi kiện Không chấp nhận yêu cầu
+QUYẾT ĐỊNH: Không chấp nhận yêu cầu khởi kiện Bác yêu cầu
+QUYẾT ĐỊNH: Chấp nhận yêu cầu khởi kiện Buộc bị đơn
+Không chấp nhận yêu cầu khởi kiện của nguyên đơn
+Chấp nhận một phần yêu cầu khởi kiện của nguyên đơn
+Chấp nhận yêu cầu khởi kiện của nguyên đơn
+Buộc bị đơn có nghĩa vụ trả cho nguyên đơn
+Buộc bị đơn thanh toán cho nguyên đơn
+Án phí dân sự sơ thẩm quyền kháng cáo thời hạn 15 ngày
+Kể từ ngày bản án có hiệu lực pháp luật thi hành án dân sự
+Người được thi hành án người phải thi hành án có quyền thỏa thuận thi hành án

@@ -1,0 +1,21 @@
+{
+  "output": "/data/alqac/api_public_evidence_retrieval/outputs/llm_case_type_classification/public_llm_case_type_predictions.json",
+  "elapsed_total_seconds": 0.0,
+  "num_cases": 50,
+  "num_valid": 50,
+  "num_errors": 0,
+  "type_counts": {
+    "land_use_dispute": 14,
+    "inheritance": 8,
+    "compensation_damage": 6,
+    "credit_contract": 6,
+    "land_transfer_contract": 6,
+    "loan_contract": 3,
+    "service_labor_training": 2,
+    "hui_dispute": 2,
+    "property_claim": 1,
+    "cooperation_contract": 1,
+    "sale_goods_debt": 1
+  },
+  "avg_elapsed_seconds": 4.824
+}

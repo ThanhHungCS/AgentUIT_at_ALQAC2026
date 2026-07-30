@@ -1,0 +1,134 @@
+[
+  {
+    "case_type_id": "land_use_dispute",
+    "case_type_text": "Tranh chấp quyền sử dụng đất, ranh giới, lối đi, lấn chiếm",
+    "best_fitness": 0.818269273812752,
+    "num_cases": 14,
+    "avg_api_calls": 44.57142857142857,
+    "query_count": 45,
+    "saved": {
+      "best_individual": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\land_use_dispute\\best_individual.json",
+      "history": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\land_use_dispute\\history.json"
+    }
+  },
+  {
+    "case_type_id": "compensation_damage",
+    "case_type_text": "Tranh chấp bồi thường thiệt hại ngoài hợp đồng",
+    "best_fitness": 0.4817384370015949,
+    "num_cases": 6,
+    "avg_api_calls": 4.333333333333333,
+    "query_count": 6,
+    "saved": {
+      "best_individual": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\compensation_damage\\best_individual.json",
+      "history": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\compensation_damage\\history.json"
+    }
+  },
+  {
+    "case_type_id": "inheritance",
+    "case_type_text": "Tranh chấp thừa kế, di sản, di chúc",
+    "best_fitness": 0.7254726317226318,
+    "num_cases": 8,
+    "avg_api_calls": 46.0,
+    "query_count": 46,
+    "saved": {
+      "best_individual": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\inheritance\\best_individual.json",
+      "history": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\inheritance\\history.json"
+    }
+  },
+  {
+    "case_type_id": "credit_contract",
+    "case_type_text": "Tranh chấp hợp đồng tín dụng, bảo lãnh, thế chấp",
+    "best_fitness": 0.4463906142167012,
+    "num_cases": 6,
+    "avg_api_calls": 4.0,
+    "query_count": 8,
+    "saved": {
+      "best_individual": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\credit_contract\\best_individual.json",
+      "history": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\credit_contract\\history.json"
+    }
+  },
+  {
+    "case_type_id": "land_transfer_contract",
+    "case_type_text": "Tranh chấp hợp đồng chuyển nhượng/đặt cọc nhà đất",
+    "best_fitness": 0.9416179337231969,
+    "num_cases": 6,
+    "avg_api_calls": 42.333333333333336,
+    "query_count": 43,
+    "saved": {
+      "best_individual": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\land_transfer_contract\\best_individual.json",
+      "history": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\land_transfer_contract\\history.json"
+    }
+  },
+  {
+    "case_type_id": "loan_contract",
+    "case_type_text": "Tranh chấp hợp đồng vay tài sản",
+    "best_fitness": 0.5659420289855072,
+    "num_cases": 3,
+    "avg_api_calls": 5.666666666666667,
+    "query_count": 11,
+    "saved": {
+      "best_individual": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\loan_contract\\best_individual.json",
+      "history": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\loan_contract\\history.json"
+    }
+  },
+  {
+    "case_type_id": "sale_goods_debt",
+    "case_type_text": "Tranh chấp mua bán hàng hóa, công nợ",
+    "best_fitness": 1.0,
+    "num_cases": 1,
+    "avg_api_calls": 20.0,
+    "query_count": 20,
+    "saved": {
+      "best_individual": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\sale_goods_debt\\best_individual.json",
+      "history": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\sale_goods_debt\\history.json"
+    }
+  },
+  {
+    "case_type_id": "service_labor_training",
+    "case_type_text": "Tranh chấp dịch vụ, tuyển dụng, đào tạo, việc làm",
+    "best_fitness": 0.9782608695652174,
+    "num_cases": 2,
+    "avg_api_calls": 24.0,
+    "query_count": 24,
+    "saved": {
+      "best_individual": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\service_labor_training\\best_individual.json",
+      "history": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\service_labor_training\\history.json"
+    }
+  },
+  {
+    "case_type_id": "hui_dispute",
+    "case_type_text": "Tranh chấp hụi, họ, phường",
+    "best_fitness": 0.9565217391304348,
+    "num_cases": 2,
+    "avg_api_calls": 25.0,
+    "query_count": 25,
+    "saved": {
+      "best_individual": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\hui_dispute\\best_individual.json",
+      "history": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\hui_dispute\\history.json"
+    }
+  },
+  {
+    "case_type_id": "cooperation_contract",
+    "case_type_text": "Tranh chấp hợp đồng hợp tác, hùn vốn, chia lời lỗ",
+    "best_fitness": 1.0,
+    "num_cases": 1,
+    "avg_api_calls": 31.0,
+    "query_count": 31,
+    "saved": {
+      "best_individual": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\cooperation_contract\\best_individual.json",
+      "history": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\cooperation_contract\\history.json"
+    }
+  },
+  {
+    "case_type_id": "property_claim",
+    "case_type_text": "Tranh chấp đòi tài sản, hoàn trả tài sản",
+    "best_fitness": 1.0,
+    "num_cases": 1,
+    "avg_api_calls": 23.0,
+    "query_count": 23,
+    "saved": {
+      "best_individual": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\property_claim\\best_individual.json",
+      "history": "D:\\Goc hoc tap\\2MCS_Doc\\ChuyenDe_NLP\\ALQAC2026_AgentUIT\\outputs\\evolution_query_optimizer\\property_claim\\history.json"
+    }
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "case_type_id": "service_labor_training",
+  "case_type_text": "Tranh chấp dịch vụ, tuyển dụng, đào tạo, việc làm",
+  "history": [
+    {
+      "generation": 0,
+      "best_fitness": 0.46739130434782605,
+      "avg_fitness": 0.32181763285024156,
+      "best_query_count": 10,
+      "best_avg_api_calls": 10.0,
+      "cache_size": 200
+    },
+    {
+      "generation": 1,
+      "best_fitness": 0.677536231884058,
+      "avg_fitness": 0.4002536231884058,
+      "best_query_count": 22,
+      "best_avg_api_calls": 22.0,
+      "cache_size": 374
+    },
+    {
+      "generation": 2,
+      "best_fitness": 0.8079710144927537,
+      "avg_fitness": 0.5244746376811594,
+      "best_query_count": 26,
+      "best_avg_api_calls": 26.0,
+      "cache_size": 545
+    },
+    {
+      "generation": 3,
+      "best_fitness": 0.8635265700483092,
+      "avg_fitness": 0.6248109008767222,
+      "best_query_count": 36,
+      "best_avg_api_calls": 36.0,
+      "cache_size": 721
+    },
+    {
+      "generation": 4,
+      "best_fitness": 0.8820450885668277,
+      "avg_fitness": 0.742209585793523,
+      "best_query_count": 37,
+      "best_avg_api_calls": 37.0,
+      "cache_size": 890
+    },
+    {
+      "generation": 5,
+      "best_fitness": 0.9287439613526569,
+      "avg_fitness": 0.8019144748613347,
+      "best_query_count": 36,
+      "best_avg_api_calls": 35.5,
+      "cache_size": 1062
+    },
+    {
+      "generation": 6,
+      "best_fitness": 0.9347826086956521,
+      "avg_fitness": 0.7982373859366614,
+      "best_query_count": 32,
+      "best_avg_api_calls": 31.0,
+      "cache_size": 1235
+    },
+    {
+      "generation": 7,
+      "best_fitness": 0.9565217391304348,
+      "avg_fitness": 0.8365228573984612,
+      "best_query_count": 33,
+      "best_avg_api_calls": 33.0,
+      "cache_size": 1409
+    },
+    {
+      "generation": 8,
+      "best_fitness": 0.9690016103059582,
+      "avg_fitness": 0.8231547459295043,
+      "best_query_count": 38,
+      "best_avg_api_calls": 37.0,
+      "cache_size": 1580
+    },
+    {
+      "generation": 9,
+      "best_fitness": 0.9782608695652174,
+      "avg_fitness": 0.8599843442476292,
+      "best_query_count": 34,
+      "best_avg_api_calls": 34.0,
+      "cache_size": 1753,
+      "early_stopped": true,
+      "early_stop_fitness_threshold": 0.97
+    }
+  ]
+}

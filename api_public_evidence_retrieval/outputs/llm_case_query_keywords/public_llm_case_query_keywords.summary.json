@@ -1,0 +1,16 @@
+{
+  "output": "/data/alqac/api_public_evidence_retrieval/outputs/llm_case_query_keywords/public_llm_case_query_keywords.json",
+  "elapsed_total_seconds": 0.0,
+  "num_cases": 50,
+  "num_valid": 50,
+  "num_errors": 0,
+  "total_keywords": 416,
+  "keyword_id_prefix_counts": {
+    "name": 148,
+    "noun": 145,
+    "number": 81,
+    "verb": 26,
+    "location": 16
+  },
+  "avg_elapsed_seconds": 29.272
+}

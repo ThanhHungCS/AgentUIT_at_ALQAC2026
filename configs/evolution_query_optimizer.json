@@ -1,0 +1,53 @@
+{
+  "random_seed": 42,
+  "population_size": 200,
+  "generations": 300,
+  "early_stop_fitness_threshold": 0.97,
+  "elite_size": 20,
+  "tournament_size": 10,
+  "crossover_rate": 0.6,
+  "mutation_rate": 0.9,
+  "mutation_ops_min": 1,
+  "mutation_ops_max": 10,
+  "initial_query_count_min": 10,
+  "initial_query_count_max": 11,
+  "query_keyword_min": 1,
+  "query_keyword_max": 20,
+  "top_k_per_query": 1,
+  "case_keyword_source_probability": 0.5,
+  "slot_types": {
+    "name": 10,
+    "noun": 10,
+    "number": 10,
+    "verb": 10,
+    "location": 10,
+    "adjective": 10
+  },
+  "query_limits": {
+    "land_use_dispute": 50,
+    "compensation_damage": 40,
+    "inheritance": 52,
+    "credit_contract": 46,
+    "land_transfer_contract": 52,
+    "loan_contract": 40,
+    "sale_goods_debt": 44,
+    "service_labor_training": 38,
+    "hui_dispute": 39,
+    "cooperation_contract": 62,
+    "property_claim": 46
+  },
+  "paths": {
+    "public_cases": "ALQAC2026_public_test.json",
+    "public_corpus": "public_test_corpus.jsonl",
+    "case_type_predictions": "api_public_evidence_retrieval/outputs/llm_case_type_classification/public_llm_case_type_predictions.json",
+    "case_query_keywords_batch": "api_public_evidence_retrieval/outputs/llm_case_query_keywords/public_llm_case_query_keywords.json",
+    "case_query_keywords_dir": "api_public_evidence_retrieval/outputs/llm_case_query_keywords/public_tests",
+    "keyword_corpus_simple": "api_public_evidence_retrieval/data/keyword_corpora_by_case_type.simple.json"
+  },
+  "keyword_fallback_strategy": "heuristic",
+  "gold_strategy": "all_public_chunks",
+  "skip_empty_query_cases": false,
+  "local_search_pruning": true,
+  "local_search_tolerance": 1e-12,
+  "output_dir": "api_public_evidence_retrieval/optimizer_outputs/evolution_query_optimizer"
+}

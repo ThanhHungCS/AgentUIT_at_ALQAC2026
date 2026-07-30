@@ -1,0 +1,5592 @@
+[
+  {
+    "case_type_id": "land_use_dispute",
+    "case_type_text": "Tranh chấp quyền sử dụng đất, ranh giới, lối đi, lấn chiếm",
+    "keywords": [
+      {
+        "keyword_id": 16,
+        "keyword_text": "diện tích"
+      },
+      {
+        "keyword_id": 53,
+        "keyword_text": "quyền sử dụng"
+      },
+      {
+        "keyword_id": 15,
+        "keyword_text": "đất"
+      },
+      {
+        "keyword_id": 65,
+        "keyword_text": "chứng nhận"
+      },
+      {
+        "keyword_id": 41,
+        "keyword_text": "thửa"
+      },
+      {
+        "keyword_id": 42,
+        "keyword_text": "bản đồ"
+      },
+      {
+        "keyword_id": 40,
+        "keyword_text": "nhà"
+      },
+      {
+        "keyword_id": 52,
+        "keyword_text": "trả"
+      },
+      {
+        "keyword_id": 51,
+        "keyword_text": "sổ"
+      },
+      {
+        "keyword_id": 195,
+        "keyword_text": "trồng"
+      },
+      {
+        "keyword_id": 199,
+        "keyword_text": "cây"
+      },
+      {
+        "keyword_id": 55,
+        "keyword_text": "bán"
+      },
+      {
+        "keyword_id": 103,
+        "keyword_text": "gốc"
+      },
+      {
+        "keyword_id": 159,
+        "keyword_text": "con"
+      },
+      {
+        "keyword_id": 124,
+        "keyword_text": "đăng ký"
+      },
+      {
+        "keyword_id": 215,
+        "keyword_text": "ký"
+      },
+      {
+        "keyword_id": 217,
+        "keyword_text": "kiện"
+      },
+      {
+        "keyword_id": 155,
+        "keyword_text": "hồ sơ"
+      },
+      {
+        "keyword_id": 126,
+        "keyword_text": "thực hiện"
+      },
+      {
+        "keyword_id": 224,
+        "keyword_text": "buộc"
+      },
+      {
+        "keyword_id": 18,
+        "keyword_text": "chuyển nhượng"
+      },
+      {
+        "keyword_id": 34,
+        "keyword_text": "tiền"
+      },
+      {
+        "keyword_id": 173,
+        "keyword_text": "tố tụng"
+      },
+      {
+        "keyword_id": 164,
+        "keyword_text": "gia đình"
+      },
+      {
+        "keyword_id": 26,
+        "keyword_text": "tài sản"
+      },
+      {
+        "keyword_id": 56,
+        "keyword_text": "thống nhất"
+      },
+      {
+        "keyword_id": 54,
+        "keyword_text": "mua"
+      },
+      {
+        "keyword_id": 153,
+        "keyword_text": "thẩm định"
+      },
+      {
+        "keyword_id": 48,
+        "keyword_text": "vợ chồng"
+      },
+      {
+        "keyword_id": 200,
+        "keyword_text": "mượn"
+      },
+      {
+        "keyword_id": 189,
+        "keyword_text": "lấn"
+      },
+      {
+        "keyword_id": 35,
+        "keyword_text": "số tiền"
+      },
+      {
+        "keyword_id": 149,
+        "keyword_text": "vay"
+      },
+      {
+        "keyword_id": 165,
+        "keyword_text": "quản lý"
+      },
+      {
+        "keyword_id": 167,
+        "keyword_text": "hưởng"
+      },
+      {
+        "keyword_id": 123,
+        "keyword_text": "thủ tục"
+      },
+      {
+        "keyword_id": 118,
+        "keyword_text": "hạn"
+      },
+      {
+        "keyword_id": 148,
+        "keyword_text": "thỏa thuận"
+      },
+      {
+        "keyword_id": 17,
+        "keyword_text": "hợp đồng"
+      },
+      {
+        "keyword_id": 61,
+        "keyword_text": "hòa giải"
+      },
+      {
+        "keyword_id": 92,
+        "keyword_text": "thừa kế"
+      },
+      {
+        "keyword_id": 105,
+        "keyword_text": "lãi"
+      },
+      {
+        "keyword_id": 174,
+        "keyword_text": "dân sự"
+      },
+      {
+        "keyword_id": 46,
+        "keyword_text": "tổ"
+      },
+      {
+        "keyword_id": 204,
+        "keyword_text": "xây"
+      },
+      {
+        "keyword_id": 85,
+        "keyword_text": "để lại"
+      },
+      {
+        "keyword_id": 86,
+        "keyword_text": "định giá"
+      },
+      {
+        "keyword_id": 121,
+        "keyword_text": "điều kiện"
+      },
+      {
+        "keyword_id": 194,
+        "keyword_text": "rừng"
+      },
+      {
+        "keyword_id": 87,
+        "keyword_text": "giá trị"
+      },
+      {
+        "keyword_id": 24,
+        "keyword_text": "phí"
+      },
+      {
+        "keyword_id": 96,
+        "keyword_text": "ngân hàng"
+      },
+      {
+        "keyword_id": 82,
+        "keyword_text": "xác nhận"
+      },
+      {
+        "keyword_id": 226,
+        "keyword_text": "bàn giao"
+      },
+      {
+        "keyword_id": 100,
+        "keyword_text": "thế chấp"
+      },
+      {
+        "keyword_id": 33,
+        "keyword_text": "thanh toán"
+      },
+      {
+        "keyword_id": 139,
+        "keyword_text": "thông báo"
+      },
+      {
+        "keyword_id": 162,
+        "keyword_text": "ranh giới"
+      },
+      {
+        "keyword_id": 172,
+        "keyword_text": "chấp hành"
+      },
+      {
+        "keyword_id": 197,
+        "keyword_text": "ruộng"
+      },
+      {
+        "keyword_id": 206,
+        "keyword_text": "khiếu nại"
+      },
+      {
+        "keyword_id": 192,
+        "keyword_text": "lấn chiếm"
+      },
+      {
+        "keyword_id": 138,
+        "keyword_text": "văn bản"
+      },
+      {
+        "keyword_id": 80,
+        "keyword_text": "quan hệ"
+      },
+      {
+        "keyword_id": 60,
+        "keyword_text": "giấy tờ"
+      },
+      {
+        "keyword_id": 102,
+        "keyword_text": "nợ"
+      },
+      {
+        "keyword_id": 94,
+        "keyword_text": "di sản"
+      },
+      {
+        "keyword_id": 125,
+        "keyword_text": "đảm bảo"
+      },
+      {
+        "keyword_id": 212,
+        "keyword_text": "chi phí"
+      },
+      {
+        "keyword_id": 190,
+        "keyword_text": "công chứng"
+      },
+      {
+        "keyword_id": 22,
+        "keyword_text": "bồi thường"
+      },
+      {
+        "keyword_id": 146,
+        "keyword_text": "ký kết"
+      },
+      {
+        "keyword_id": 47,
+        "keyword_text": "anh em"
+      },
+      {
+        "keyword_id": 116,
+        "keyword_text": "hoàn trả"
+      },
+      {
+        "keyword_id": 184,
+        "keyword_text": "nhiều lần"
+      },
+      {
+        "keyword_id": 163,
+        "keyword_text": "hộ khẩu"
+      },
+      {
+        "keyword_id": 225,
+        "keyword_text": "lợi ích"
+      },
+      {
+        "keyword_id": 151,
+        "keyword_text": "trách nhiệm"
+      },
+      {
+        "keyword_id": 157,
+        "keyword_text": "tài liệu"
+      },
+      {
+        "keyword_id": 68,
+        "keyword_text": "sở hữu"
+      },
+      {
+        "keyword_id": 104,
+        "keyword_text": "nợ gốc"
+      },
+      {
+        "keyword_id": 64,
+        "keyword_text": "di chúc"
+      },
+      {
+        "keyword_id": 130,
+        "keyword_text": "thu hồi"
+      },
+      {
+        "keyword_id": 133,
+        "keyword_text": "tương ứng"
+      },
+      {
+        "keyword_id": 179,
+        "keyword_text": "lãi suất"
+      },
+      {
+        "keyword_id": 83,
+        "keyword_text": "thừa nhận"
+      },
+      {
+        "keyword_id": 97,
+        "keyword_text": "công ty"
+      },
+      {
+        "keyword_id": 143,
+        "keyword_text": "phát sinh"
+      },
+      {
+        "keyword_id": 28,
+        "keyword_text": "triệu đồng"
+      },
+      {
+        "keyword_id": 176,
+        "keyword_text": "phát triển"
+      },
+      {
+        "keyword_id": 132,
+        "keyword_text": "trừ"
+      },
+      {
+        "keyword_id": 196,
+        "keyword_text": "nông nghiệp"
+      },
+      {
+        "keyword_id": 171,
+        "keyword_text": "thổ cư"
+      },
+      {
+        "keyword_id": 128,
+        "keyword_text": "trả nợ"
+      },
+      {
+        "keyword_id": 111,
+        "keyword_text": "vốn"
+      },
+      {
+        "keyword_id": 98,
+        "keyword_text": "tín dụng"
+      },
+      {
+        "keyword_id": 62,
+        "keyword_text": "giao trả"
+      },
+      {
+        "keyword_id": 156,
+        "keyword_text": "pháp lý"
+      },
+      {
+        "keyword_id": 193,
+        "keyword_text": "sản xuất"
+      },
+      {
+        "keyword_id": 106,
+        "keyword_text": "bảo đảm"
+      },
+      {
+        "keyword_id": 99,
+        "keyword_text": "bảo lãnh"
+      },
+      {
+        "keyword_id": 114,
+        "keyword_text": "tỷ"
+      },
+      {
+        "keyword_id": 202,
+        "keyword_text": "hẹn"
+      },
+      {
+        "keyword_id": 122,
+        "keyword_text": "dư"
+      },
+      {
+        "keyword_id": 119,
+        "keyword_text": "lô đất"
+      },
+      {
+        "keyword_id": 147,
+        "keyword_text": "tài khoản"
+      },
+      {
+        "keyword_id": 113,
+        "keyword_text": "khoảng thời gian"
+      },
+      {
+        "keyword_id": 209,
+        "keyword_text": "lương"
+      },
+      {
+        "keyword_id": 129,
+        "keyword_text": "sửa đổi"
+      },
+      {
+        "keyword_id": 203,
+        "keyword_text": "thuê"
+      },
+      {
+        "keyword_id": 175,
+        "keyword_text": "vay vốn"
+      },
+      {
+        "keyword_id": 180,
+        "keyword_text": "quá hạn"
+      },
+      {
+        "keyword_id": 169,
+        "keyword_text": "kỷ phần"
+      },
+      {
+        "keyword_id": 134,
+        "keyword_text": "tương đương"
+      },
+      {
+        "keyword_id": 13,
+        "keyword_text": "yêu cầu giải quyết"
+      },
+      {
+        "keyword_id": 166,
+        "keyword_text": "thờ cúng"
+      },
+      {
+        "keyword_id": 49,
+        "keyword_text": "ly hôn"
+      },
+      {
+        "keyword_id": 150,
+        "keyword_text": "chậm"
+      },
+      {
+        "keyword_id": 220,
+        "keyword_text": "đính chính"
+      },
+      {
+        "keyword_id": 181,
+        "keyword_text": "giải ngân"
+      },
+      {
+        "keyword_id": 50,
+        "keyword_text": "ly thân"
+      },
+      {
+        "keyword_id": 178,
+        "keyword_text": "nâng cấp"
+      },
+      {
+        "keyword_id": 160,
+        "keyword_text": "con riêng"
+      },
+      {
+        "keyword_id": 216,
+        "keyword_text": "học"
+      },
+      {
+        "keyword_id": 77,
+        "keyword_text": "tờ trình"
+      },
+      {
+        "keyword_id": 141,
+        "keyword_text": "căn hộ"
+      },
+      {
+        "keyword_id": 145,
+        "keyword_text": "khắc phục"
+      },
+      {
+        "keyword_id": 66,
+        "keyword_text": "sở hữu nhà"
+      },
+      {
+        "keyword_id": 135,
+        "keyword_text": "tỷ giá"
+      },
+      {
+        "keyword_id": 120,
+        "keyword_text": "đô thị"
+      },
+      {
+        "keyword_id": 63,
+        "keyword_text": "chấm dứt"
+      },
+      {
+        "keyword_id": 168,
+        "keyword_text": "huyết thống"
+      },
+      {
+        "keyword_id": 140,
+        "keyword_text": "trái phép"
+      },
+      {
+        "keyword_id": 198,
+        "keyword_text": "kiểm lâm"
+      },
+      {
+        "keyword_id": 131,
+        "keyword_text": "đấu giá"
+      },
+      {
+        "keyword_id": 137,
+        "keyword_text": "chuyển khoản"
+      },
+      {
+        "keyword_id": 191,
+        "keyword_text": "cầm cố"
+      },
+      {
+        "keyword_id": 108,
+        "keyword_text": "ngắn hạn"
+      },
+      {
+        "keyword_id": 109,
+        "keyword_text": "tuần hoàn"
+      },
+      {
+        "keyword_id": 170,
+        "keyword_text": "tiết kiệm"
+      },
+      {
+        "keyword_id": 229,
+        "keyword_text": "chữa bệnh"
+      },
+      {
+        "keyword_id": 101,
+        "keyword_text": "khoản nợ"
+      },
+      {
+        "keyword_id": 205,
+        "keyword_text": "chịu trách nhiệm"
+      },
+      {
+        "keyword_id": 177,
+        "keyword_text": "sửa chữa"
+      },
+      {
+        "keyword_id": 37,
+        "keyword_text": "thiệt hại"
+      },
+      {
+        "keyword_id": 117,
+        "keyword_text": "khoản tiền"
+      },
+      {
+        "keyword_id": 142,
+        "keyword_text": "cửa hàng"
+      },
+      {
+        "keyword_id": 90,
+        "keyword_text": "thừa nhận có"
+      },
+      {
+        "keyword_id": 227,
+        "keyword_text": "bệnh viện"
+      },
+      {
+        "keyword_id": 152,
+        "keyword_text": "tiến độ"
+      },
+      {
+        "keyword_id": 154,
+        "keyword_text": "chủ sở hữu"
+      },
+      {
+        "keyword_id": 218,
+        "keyword_text": "hụi"
+      },
+      {
+        "keyword_id": 110,
+        "keyword_text": "hạn mức"
+      },
+      {
+        "keyword_id": 158,
+        "keyword_text": "khấu trừ"
+      },
+      {
+        "keyword_id": 183,
+        "keyword_text": "ý thức"
+      },
+      {
+        "keyword_id": 213,
+        "keyword_text": "biên nhận"
+      },
+      {
+        "keyword_id": 144,
+        "keyword_text": "tạm tính"
+      },
+      {
+        "keyword_id": 84,
+        "keyword_text": "năm sinh"
+      },
+      {
+        "keyword_id": 112,
+        "keyword_text": "lưu động"
+      },
+      {
+        "keyword_id": 161,
+        "keyword_text": "chung sống"
+      },
+      {
+        "keyword_id": 27,
+        "keyword_text": "nghìn đồng"
+      },
+      {
+        "keyword_id": 182,
+        "keyword_text": "nhận nợ"
+      },
+      {
+        "keyword_id": 211,
+        "keyword_text": "việc làm"
+      },
+      {
+        "keyword_id": 201,
+        "keyword_text": "hứa"
+      },
+      {
+        "keyword_id": 127,
+        "keyword_text": "khả năng"
+      },
+      {
+        "keyword_id": 30,
+        "keyword_text": "công an"
+      },
+      {
+        "keyword_id": 236,
+        "keyword_text": "ngày"
+      },
+      {
+        "keyword_id": 237,
+        "keyword_text": "tháng"
+      },
+      {
+        "keyword_id": 238,
+        "keyword_text": "năm"
+      },
+      {
+        "keyword_id": 4,
+        "keyword_text": "nguyên đơn"
+      },
+      {
+        "keyword_id": 5,
+        "keyword_text": "bị đơn"
+      },
+      {
+        "keyword_id": 2,
+        "keyword_text": "trình bày"
+      },
+      {
+        "keyword_id": 239,
+        "keyword_text": "đại diện"
+      },
+      {
+        "keyword_id": 1,
+        "keyword_text": "tranh chấp"
+      },
+      {
+        "keyword_id": 3,
+        "keyword_text": "khởi kiện"
+      },
+      {
+        "keyword_id": 6,
+        "keyword_text": "tại điều"
+      },
+      {
+        "keyword_id": 7,
+        "keyword_text": "theo điều"
+      },
+      {
+        "keyword_id": 8,
+        "keyword_text": "yêu cầu"
+      },
+      {
+        "keyword_id": 9,
+        "keyword_text": "đề nghị"
+      },
+      {
+        "keyword_id": 10,
+        "keyword_text": "mong muốn"
+      },
+      {
+        "keyword_id": 11,
+        "keyword_text": "đại diện nguyên đơn ủy quyền"
+      },
+      {
+        "keyword_id": 12,
+        "keyword_text": "đại diện bị đơn ủy quyền"
+      },
+      {
+        "keyword_id": 23,
+        "keyword_text": "đồng ý"
+      },
+      {
+        "keyword_id": 79,
+        "keyword_text": "chứng cứ"
+      },
+      {
+        "keyword_id": 19,
+        "keyword_text": "thành phố"
+      },
+      {
+        "keyword_id": 240,
+        "keyword_text": "tp"
+      },
+      {
+        "keyword_id": 20,
+        "keyword_text": "tỉnh"
+      },
+      {
+        "keyword_id": 241,
+        "keyword_text": "quận"
+      },
+      {
+        "keyword_id": 45,
+        "keyword_text": "huyện"
+      },
+      {
+        "keyword_id": 44,
+        "keyword_text": "xã"
+      },
+      {
+        "keyword_id": 21,
+        "keyword_text": "phường"
+      },
+      {
+        "keyword_id": 242,
+        "keyword_text": "đường"
+      },
+      {
+        "keyword_id": 221,
+        "keyword_text": "tòa án"
+      },
+      {
+        "keyword_id": 243,
+        "keyword_text": "làm chứng"
+      },
+      {
+        "keyword_id": 75,
+        "keyword_text": "lời khai"
+      }
+    ]
+  },
+  {
+    "case_type_id": "compensation_damage",
+    "case_type_text": "Tranh chấp bồi thường thiệt hại ngoài hợp đồng",
+    "keywords": [
+      {
+        "keyword_id": 22,
+        "keyword_text": "bồi thường"
+      },
+      {
+        "keyword_id": 37,
+        "keyword_text": "thiệt hại"
+      },
+      {
+        "keyword_id": 231,
+        "keyword_text": "sức khỏe"
+      },
+      {
+        "keyword_id": 228,
+        "keyword_text": "điều trị"
+      },
+      {
+        "keyword_id": 29,
+        "keyword_text": "đồng"
+      },
+      {
+        "keyword_id": 233,
+        "keyword_text": "tinh thần"
+      },
+      {
+        "keyword_id": 234,
+        "keyword_text": "tổn thất"
+      },
+      {
+        "keyword_id": 20,
+        "keyword_text": "tỉnh"
+      },
+      {
+        "keyword_id": 24,
+        "keyword_text": "phí"
+      },
+      {
+        "keyword_id": 227,
+        "keyword_text": "bệnh viện"
+      },
+      {
+        "keyword_id": 36,
+        "keyword_text": "viện phí"
+      },
+      {
+        "keyword_id": 232,
+        "keyword_text": "thương tật"
+      },
+      {
+        "keyword_id": 35,
+        "keyword_text": "số tiền"
+      },
+      {
+        "keyword_id": 34,
+        "keyword_text": "tiền"
+      },
+      {
+        "keyword_id": 17,
+        "keyword_text": "hợp đồng"
+      },
+      {
+        "keyword_id": 40,
+        "keyword_text": "nhà"
+      },
+      {
+        "keyword_id": 159,
+        "keyword_text": "con"
+      },
+      {
+        "keyword_id": 54,
+        "keyword_text": "mua"
+      },
+      {
+        "keyword_id": 215,
+        "keyword_text": "ký"
+      },
+      {
+        "keyword_id": 217,
+        "keyword_text": "kiện"
+      },
+      {
+        "keyword_id": 173,
+        "keyword_text": "tố tụng"
+      },
+      {
+        "keyword_id": 212,
+        "keyword_text": "chi phí"
+      },
+      {
+        "keyword_id": 149,
+        "keyword_text": "vay"
+      },
+      {
+        "keyword_id": 235,
+        "keyword_text": "nhân công"
+      },
+      {
+        "keyword_id": 224,
+        "keyword_text": "buộc"
+      },
+      {
+        "keyword_id": 27,
+        "keyword_text": "nghìn đồng"
+      },
+      {
+        "keyword_id": 48,
+        "keyword_text": "vợ chồng"
+      },
+      {
+        "keyword_id": 126,
+        "keyword_text": "thực hiện"
+      },
+      {
+        "keyword_id": 30,
+        "keyword_text": "công an"
+      },
+      {
+        "keyword_id": 26,
+        "keyword_text": "tài sản"
+      },
+      {
+        "keyword_id": 230,
+        "keyword_text": "phục hồi"
+      },
+      {
+        "keyword_id": 15,
+        "keyword_text": "đất"
+      },
+      {
+        "keyword_id": 31,
+        "keyword_text": "trình báo"
+      },
+      {
+        "keyword_id": 204,
+        "keyword_text": "xây"
+      },
+      {
+        "keyword_id": 56,
+        "keyword_text": "thống nhất"
+      },
+      {
+        "keyword_id": 174,
+        "keyword_text": "dân sự"
+      },
+      {
+        "keyword_id": 164,
+        "keyword_text": "gia đình"
+      },
+      {
+        "keyword_id": 209,
+        "keyword_text": "lương"
+      },
+      {
+        "keyword_id": 152,
+        "keyword_text": "tiến độ"
+      },
+      {
+        "keyword_id": 158,
+        "keyword_text": "khấu trừ"
+      },
+      {
+        "keyword_id": 114,
+        "keyword_text": "tỷ"
+      },
+      {
+        "keyword_id": 91,
+        "keyword_text": "thừa nhận đã"
+      },
+      {
+        "keyword_id": 183,
+        "keyword_text": "ý thức"
+      },
+      {
+        "keyword_id": 151,
+        "keyword_text": "trách nhiệm"
+      },
+      {
+        "keyword_id": 138,
+        "keyword_text": "văn bản"
+      },
+      {
+        "keyword_id": 82,
+        "keyword_text": "xác nhận"
+      },
+      {
+        "keyword_id": 199,
+        "keyword_text": "cây"
+      },
+      {
+        "keyword_id": 118,
+        "keyword_text": "hạn"
+      },
+      {
+        "keyword_id": 155,
+        "keyword_text": "hồ sơ"
+      },
+      {
+        "keyword_id": 203,
+        "keyword_text": "thuê"
+      },
+      {
+        "keyword_id": 84,
+        "keyword_text": "năm sinh"
+      },
+      {
+        "keyword_id": 65,
+        "keyword_text": "chứng nhận"
+      },
+      {
+        "keyword_id": 125,
+        "keyword_text": "đảm bảo"
+      },
+      {
+        "keyword_id": 132,
+        "keyword_text": "trừ"
+      },
+      {
+        "keyword_id": 144,
+        "keyword_text": "tạm tính"
+      },
+      {
+        "keyword_id": 139,
+        "keyword_text": "thông báo"
+      },
+      {
+        "keyword_id": 53,
+        "keyword_text": "quyền sử dụng"
+      },
+      {
+        "keyword_id": 121,
+        "keyword_text": "điều kiện"
+      },
+      {
+        "keyword_id": 184,
+        "keyword_text": "nhiều lần"
+      },
+      {
+        "keyword_id": 63,
+        "keyword_text": "chấm dứt"
+      },
+      {
+        "keyword_id": 41,
+        "keyword_text": "thửa"
+      },
+      {
+        "keyword_id": 83,
+        "keyword_text": "thừa nhận"
+      },
+      {
+        "keyword_id": 33,
+        "keyword_text": "thanh toán"
+      },
+      {
+        "keyword_id": 99,
+        "keyword_text": "bảo lãnh"
+      },
+      {
+        "keyword_id": 211,
+        "keyword_text": "việc làm"
+      },
+      {
+        "keyword_id": 60,
+        "keyword_text": "giấy tờ"
+      },
+      {
+        "keyword_id": 172,
+        "keyword_text": "chấp hành"
+      },
+      {
+        "keyword_id": 167,
+        "keyword_text": "hưởng"
+      },
+      {
+        "keyword_id": 150,
+        "keyword_text": "chậm"
+      },
+      {
+        "keyword_id": 165,
+        "keyword_text": "quản lý"
+      },
+      {
+        "keyword_id": 52,
+        "keyword_text": "trả"
+      },
+      {
+        "keyword_id": 42,
+        "keyword_text": "bản đồ"
+      },
+      {
+        "keyword_id": 148,
+        "keyword_text": "thỏa thuận"
+      },
+      {
+        "keyword_id": 127,
+        "keyword_text": "khả năng"
+      },
+      {
+        "keyword_id": 202,
+        "keyword_text": "hẹn"
+      },
+      {
+        "keyword_id": 205,
+        "keyword_text": "chịu trách nhiệm"
+      },
+      {
+        "keyword_id": 51,
+        "keyword_text": "sổ"
+      },
+      {
+        "keyword_id": 61,
+        "keyword_text": "hòa giải"
+      },
+      {
+        "keyword_id": 124,
+        "keyword_text": "đăng ký"
+      },
+      {
+        "keyword_id": 162,
+        "keyword_text": "ranh giới"
+      },
+      {
+        "keyword_id": 90,
+        "keyword_text": "thừa nhận có"
+      },
+      {
+        "keyword_id": 16,
+        "keyword_text": "diện tích"
+      },
+      {
+        "keyword_id": 177,
+        "keyword_text": "sửa chữa"
+      },
+      {
+        "keyword_id": 134,
+        "keyword_text": "tương đương"
+      },
+      {
+        "keyword_id": 156,
+        "keyword_text": "pháp lý"
+      },
+      {
+        "keyword_id": 189,
+        "keyword_text": "lấn"
+      },
+      {
+        "keyword_id": 146,
+        "keyword_text": "ký kết"
+      },
+      {
+        "keyword_id": 18,
+        "keyword_text": "chuyển nhượng"
+      },
+      {
+        "keyword_id": 117,
+        "keyword_text": "khoản tiền"
+      },
+      {
+        "keyword_id": 28,
+        "keyword_text": "triệu đồng"
+      },
+      {
+        "keyword_id": 226,
+        "keyword_text": "bàn giao"
+      },
+      {
+        "keyword_id": 100,
+        "keyword_text": "thế chấp"
+      },
+      {
+        "keyword_id": 143,
+        "keyword_text": "phát sinh"
+      },
+      {
+        "keyword_id": 102,
+        "keyword_text": "nợ"
+      },
+      {
+        "keyword_id": 97,
+        "keyword_text": "công ty"
+      },
+      {
+        "keyword_id": 195,
+        "keyword_text": "trồng"
+      },
+      {
+        "keyword_id": 87,
+        "keyword_text": "giá trị"
+      },
+      {
+        "keyword_id": 96,
+        "keyword_text": "ngân hàng"
+      },
+      {
+        "keyword_id": 92,
+        "keyword_text": "thừa kế"
+      },
+      {
+        "keyword_id": 225,
+        "keyword_text": "lợi ích"
+      },
+      {
+        "keyword_id": 80,
+        "keyword_text": "quan hệ"
+      },
+      {
+        "keyword_id": 153,
+        "keyword_text": "thẩm định"
+      },
+      {
+        "keyword_id": 157,
+        "keyword_text": "tài liệu"
+      },
+      {
+        "keyword_id": 86,
+        "keyword_text": "định giá"
+      },
+      {
+        "keyword_id": 123,
+        "keyword_text": "thủ tục"
+      },
+      {
+        "keyword_id": 55,
+        "keyword_text": "bán"
+      },
+      {
+        "keyword_id": 103,
+        "keyword_text": "gốc"
+      },
+      {
+        "keyword_id": 236,
+        "keyword_text": "ngày"
+      },
+      {
+        "keyword_id": 237,
+        "keyword_text": "tháng"
+      },
+      {
+        "keyword_id": 238,
+        "keyword_text": "năm"
+      },
+      {
+        "keyword_id": 4,
+        "keyword_text": "nguyên đơn"
+      },
+      {
+        "keyword_id": 5,
+        "keyword_text": "bị đơn"
+      },
+      {
+        "keyword_id": 2,
+        "keyword_text": "trình bày"
+      },
+      {
+        "keyword_id": 239,
+        "keyword_text": "đại diện"
+      },
+      {
+        "keyword_id": 1,
+        "keyword_text": "tranh chấp"
+      },
+      {
+        "keyword_id": 3,
+        "keyword_text": "khởi kiện"
+      },
+      {
+        "keyword_id": 6,
+        "keyword_text": "tại điều"
+      },
+      {
+        "keyword_id": 7,
+        "keyword_text": "theo điều"
+      },
+      {
+        "keyword_id": 8,
+        "keyword_text": "yêu cầu"
+      },
+      {
+        "keyword_id": 9,
+        "keyword_text": "đề nghị"
+      },
+      {
+        "keyword_id": 10,
+        "keyword_text": "mong muốn"
+      },
+      {
+        "keyword_id": 11,
+        "keyword_text": "đại diện nguyên đơn ủy quyền"
+      },
+      {
+        "keyword_id": 12,
+        "keyword_text": "đại diện bị đơn ủy quyền"
+      },
+      {
+        "keyword_id": 13,
+        "keyword_text": "yêu cầu giải quyết"
+      },
+      {
+        "keyword_id": 23,
+        "keyword_text": "đồng ý"
+      },
+      {
+        "keyword_id": 79,
+        "keyword_text": "chứng cứ"
+      },
+      {
+        "keyword_id": 206,
+        "keyword_text": "khiếu nại"
+      },
+      {
+        "keyword_id": 19,
+        "keyword_text": "thành phố"
+      },
+      {
+        "keyword_id": 240,
+        "keyword_text": "tp"
+      },
+      {
+        "keyword_id": 241,
+        "keyword_text": "quận"
+      },
+      {
+        "keyword_id": 45,
+        "keyword_text": "huyện"
+      },
+      {
+        "keyword_id": 44,
+        "keyword_text": "xã"
+      },
+      {
+        "keyword_id": 21,
+        "keyword_text": "phường"
+      },
+      {
+        "keyword_id": 242,
+        "keyword_text": "đường"
+      },
+      {
+        "keyword_id": 221,
+        "keyword_text": "tòa án"
+      },
+      {
+        "keyword_id": 243,
+        "keyword_text": "làm chứng"
+      },
+      {
+        "keyword_id": 75,
+        "keyword_text": "lời khai"
+      },
+      {
+        "keyword_id": 244,
+        "keyword_text": "mất thu nhập"
+      },
+      {
+        "keyword_id": 245,
+        "keyword_text": "mất"
+      },
+      {
+        "keyword_id": 246,
+        "keyword_text": "xâm phạm"
+      },
+      {
+        "keyword_id": 247,
+        "keyword_text": "chăm sóc"
+      },
+      {
+        "keyword_id": 248,
+        "keyword_text": "hậu quả"
+      }
+    ]
+  },
+  {
+    "case_type_id": "inheritance",
+    "case_type_text": "Tranh chấp thừa kế, di sản, di chúc",
+    "keywords": [
+      {
+        "keyword_id": 94,
+        "keyword_text": "di sản"
+      },
+      {
+        "keyword_id": 64,
+        "keyword_text": "di chúc"
+      },
+      {
+        "keyword_id": 92,
+        "keyword_text": "thừa kế"
+      },
+      {
+        "keyword_id": 85,
+        "keyword_text": "để lại"
+      },
+      {
+        "keyword_id": 167,
+        "keyword_text": "hưởng"
+      },
+      {
+        "keyword_id": 29,
+        "keyword_text": "đồng"
+      },
+      {
+        "keyword_id": 87,
+        "keyword_text": "giá trị"
+      },
+      {
+        "keyword_id": 41,
+        "keyword_text": "thửa"
+      },
+      {
+        "keyword_id": 166,
+        "keyword_text": "thờ cúng"
+      },
+      {
+        "keyword_id": 13,
+        "keyword_text": "yêu cầu giải quyết"
+      },
+      {
+        "keyword_id": 26,
+        "keyword_text": "tài sản"
+      },
+      {
+        "keyword_id": 53,
+        "keyword_text": "quyền sử dụng"
+      },
+      {
+        "keyword_id": 15,
+        "keyword_text": "đất"
+      },
+      {
+        "keyword_id": 160,
+        "keyword_text": "con riêng"
+      },
+      {
+        "keyword_id": 219,
+        "keyword_text": "đóng"
+      },
+      {
+        "keyword_id": 40,
+        "keyword_text": "nhà"
+      },
+      {
+        "keyword_id": 16,
+        "keyword_text": "diện tích"
+      },
+      {
+        "keyword_id": 159,
+        "keyword_text": "con"
+      },
+      {
+        "keyword_id": 165,
+        "keyword_text": "quản lý"
+      },
+      {
+        "keyword_id": 34,
+        "keyword_text": "tiền"
+      },
+      {
+        "keyword_id": 56,
+        "keyword_text": "thống nhất"
+      },
+      {
+        "keyword_id": 86,
+        "keyword_text": "định giá"
+      },
+      {
+        "keyword_id": 169,
+        "keyword_text": "kỷ phần"
+      },
+      {
+        "keyword_id": 177,
+        "keyword_text": "sửa chữa"
+      },
+      {
+        "keyword_id": 42,
+        "keyword_text": "bản đồ"
+      },
+      {
+        "keyword_id": 68,
+        "keyword_text": "sở hữu"
+      },
+      {
+        "keyword_id": 83,
+        "keyword_text": "thừa nhận"
+      },
+      {
+        "keyword_id": 138,
+        "keyword_text": "văn bản"
+      },
+      {
+        "keyword_id": 132,
+        "keyword_text": "trừ"
+      },
+      {
+        "keyword_id": 217,
+        "keyword_text": "kiện"
+      },
+      {
+        "keyword_id": 65,
+        "keyword_text": "chứng nhận"
+      },
+      {
+        "keyword_id": 173,
+        "keyword_text": "tố tụng"
+      },
+      {
+        "keyword_id": 164,
+        "keyword_text": "gia đình"
+      },
+      {
+        "keyword_id": 82,
+        "keyword_text": "xác nhận"
+      },
+      {
+        "keyword_id": 103,
+        "keyword_text": "gốc"
+      },
+      {
+        "keyword_id": 161,
+        "keyword_text": "chung sống"
+      },
+      {
+        "keyword_id": 80,
+        "keyword_text": "quan hệ"
+      },
+      {
+        "keyword_id": 66,
+        "keyword_text": "sở hữu nhà"
+      },
+      {
+        "keyword_id": 134,
+        "keyword_text": "tương đương"
+      },
+      {
+        "keyword_id": 35,
+        "keyword_text": "số tiền"
+      },
+      {
+        "keyword_id": 190,
+        "keyword_text": "công chứng"
+      },
+      {
+        "keyword_id": 168,
+        "keyword_text": "huyết thống"
+      },
+      {
+        "keyword_id": 51,
+        "keyword_text": "sổ"
+      },
+      {
+        "keyword_id": 163,
+        "keyword_text": "hộ khẩu"
+      },
+      {
+        "keyword_id": 61,
+        "keyword_text": "hòa giải"
+      },
+      {
+        "keyword_id": 157,
+        "keyword_text": "tài liệu"
+      },
+      {
+        "keyword_id": 70,
+        "keyword_text": "đồng tình"
+      },
+      {
+        "keyword_id": 71,
+        "keyword_text": "không đồng tình"
+      },
+      {
+        "keyword_id": 78,
+        "keyword_text": "tờ giải trình"
+      },
+      {
+        "keyword_id": 93,
+        "keyword_text": "công bằng"
+      },
+      {
+        "keyword_id": 170,
+        "keyword_text": "tiết kiệm"
+      },
+      {
+        "keyword_id": 55,
+        "keyword_text": "bán"
+      },
+      {
+        "keyword_id": 199,
+        "keyword_text": "cây"
+      },
+      {
+        "keyword_id": 149,
+        "keyword_text": "vay"
+      },
+      {
+        "keyword_id": 148,
+        "keyword_text": "thỏa thuận"
+      },
+      {
+        "keyword_id": 125,
+        "keyword_text": "đảm bảo"
+      },
+      {
+        "keyword_id": 33,
+        "keyword_text": "thanh toán"
+      },
+      {
+        "keyword_id": 114,
+        "keyword_text": "tỷ"
+      },
+      {
+        "keyword_id": 52,
+        "keyword_text": "trả"
+      },
+      {
+        "keyword_id": 153,
+        "keyword_text": "thẩm định"
+      },
+      {
+        "keyword_id": 96,
+        "keyword_text": "ngân hàng"
+      },
+      {
+        "keyword_id": 204,
+        "keyword_text": "xây"
+      },
+      {
+        "keyword_id": 215,
+        "keyword_text": "ký"
+      },
+      {
+        "keyword_id": 48,
+        "keyword_text": "vợ chồng"
+      },
+      {
+        "keyword_id": 22,
+        "keyword_text": "bồi thường"
+      },
+      {
+        "keyword_id": 124,
+        "keyword_text": "đăng ký"
+      },
+      {
+        "keyword_id": 54,
+        "keyword_text": "mua"
+      },
+      {
+        "keyword_id": 49,
+        "keyword_text": "ly hôn"
+      },
+      {
+        "keyword_id": 178,
+        "keyword_text": "nâng cấp"
+      },
+      {
+        "keyword_id": 155,
+        "keyword_text": "hồ sơ"
+      },
+      {
+        "keyword_id": 174,
+        "keyword_text": "dân sự"
+      },
+      {
+        "keyword_id": 195,
+        "keyword_text": "trồng"
+      },
+      {
+        "keyword_id": 77,
+        "keyword_text": "tờ trình"
+      },
+      {
+        "keyword_id": 130,
+        "keyword_text": "thu hồi"
+      },
+      {
+        "keyword_id": 84,
+        "keyword_text": "năm sinh"
+      },
+      {
+        "keyword_id": 119,
+        "keyword_text": "lô đất"
+      },
+      {
+        "keyword_id": 147,
+        "keyword_text": "tài khoản"
+      },
+      {
+        "keyword_id": 47,
+        "keyword_text": "anh em"
+      },
+      {
+        "keyword_id": 27,
+        "keyword_text": "nghìn đồng"
+      },
+      {
+        "keyword_id": 225,
+        "keyword_text": "lợi ích"
+      },
+      {
+        "keyword_id": 60,
+        "keyword_text": "giấy tờ"
+      },
+      {
+        "keyword_id": 212,
+        "keyword_text": "chi phí"
+      },
+      {
+        "keyword_id": 172,
+        "keyword_text": "chấp hành"
+      },
+      {
+        "keyword_id": 62,
+        "keyword_text": "giao trả"
+      },
+      {
+        "keyword_id": 151,
+        "keyword_text": "trách nhiệm"
+      },
+      {
+        "keyword_id": 24,
+        "keyword_text": "phí"
+      },
+      {
+        "keyword_id": 201,
+        "keyword_text": "hứa"
+      },
+      {
+        "keyword_id": 176,
+        "keyword_text": "phát triển"
+      },
+      {
+        "keyword_id": 175,
+        "keyword_text": "vay vốn"
+      },
+      {
+        "keyword_id": 171,
+        "keyword_text": "thổ cư"
+      },
+      {
+        "keyword_id": 196,
+        "keyword_text": "nông nghiệp"
+      },
+      {
+        "keyword_id": 133,
+        "keyword_text": "tương ứng"
+      },
+      {
+        "keyword_id": 126,
+        "keyword_text": "thực hiện"
+      },
+      {
+        "keyword_id": 90,
+        "keyword_text": "thừa nhận có"
+      },
+      {
+        "keyword_id": 98,
+        "keyword_text": "tín dụng"
+      },
+      {
+        "keyword_id": 106,
+        "keyword_text": "bảo đảm"
+      },
+      {
+        "keyword_id": 224,
+        "keyword_text": "buộc"
+      },
+      {
+        "keyword_id": 156,
+        "keyword_text": "pháp lý"
+      },
+      {
+        "keyword_id": 162,
+        "keyword_text": "ranh giới"
+      },
+      {
+        "keyword_id": 197,
+        "keyword_text": "ruộng"
+      },
+      {
+        "keyword_id": 100,
+        "keyword_text": "thế chấp"
+      },
+      {
+        "keyword_id": 226,
+        "keyword_text": "bàn giao"
+      },
+      {
+        "keyword_id": 28,
+        "keyword_text": "triệu đồng"
+      },
+      {
+        "keyword_id": 111,
+        "keyword_text": "vốn"
+      },
+      {
+        "keyword_id": 179,
+        "keyword_text": "lãi suất"
+      },
+      {
+        "keyword_id": 128,
+        "keyword_text": "trả nợ"
+      },
+      {
+        "keyword_id": 143,
+        "keyword_text": "phát sinh"
+      },
+      {
+        "keyword_id": 203,
+        "keyword_text": "thuê"
+      },
+      {
+        "keyword_id": 97,
+        "keyword_text": "công ty"
+      },
+      {
+        "keyword_id": 18,
+        "keyword_text": "chuyển nhượng"
+      },
+      {
+        "keyword_id": 102,
+        "keyword_text": "nợ"
+      },
+      {
+        "keyword_id": 17,
+        "keyword_text": "hợp đồng"
+      },
+      {
+        "keyword_id": 105,
+        "keyword_text": "lãi"
+      },
+      {
+        "keyword_id": 121,
+        "keyword_text": "điều kiện"
+      },
+      {
+        "keyword_id": 123,
+        "keyword_text": "thủ tục"
+      },
+      {
+        "keyword_id": 118,
+        "keyword_text": "hạn"
+      },
+      {
+        "keyword_id": 236,
+        "keyword_text": "ngày"
+      },
+      {
+        "keyword_id": 237,
+        "keyword_text": "tháng"
+      },
+      {
+        "keyword_id": 238,
+        "keyword_text": "năm"
+      },
+      {
+        "keyword_id": 4,
+        "keyword_text": "nguyên đơn"
+      },
+      {
+        "keyword_id": 5,
+        "keyword_text": "bị đơn"
+      },
+      {
+        "keyword_id": 2,
+        "keyword_text": "trình bày"
+      },
+      {
+        "keyword_id": 239,
+        "keyword_text": "đại diện"
+      },
+      {
+        "keyword_id": 1,
+        "keyword_text": "tranh chấp"
+      },
+      {
+        "keyword_id": 3,
+        "keyword_text": "khởi kiện"
+      },
+      {
+        "keyword_id": 6,
+        "keyword_text": "tại điều"
+      },
+      {
+        "keyword_id": 7,
+        "keyword_text": "theo điều"
+      },
+      {
+        "keyword_id": 8,
+        "keyword_text": "yêu cầu"
+      },
+      {
+        "keyword_id": 9,
+        "keyword_text": "đề nghị"
+      },
+      {
+        "keyword_id": 10,
+        "keyword_text": "mong muốn"
+      },
+      {
+        "keyword_id": 11,
+        "keyword_text": "đại diện nguyên đơn ủy quyền"
+      },
+      {
+        "keyword_id": 12,
+        "keyword_text": "đại diện bị đơn ủy quyền"
+      },
+      {
+        "keyword_id": 23,
+        "keyword_text": "đồng ý"
+      },
+      {
+        "keyword_id": 79,
+        "keyword_text": "chứng cứ"
+      },
+      {
+        "keyword_id": 206,
+        "keyword_text": "khiếu nại"
+      },
+      {
+        "keyword_id": 19,
+        "keyword_text": "thành phố"
+      },
+      {
+        "keyword_id": 240,
+        "keyword_text": "tp"
+      },
+      {
+        "keyword_id": 20,
+        "keyword_text": "tỉnh"
+      },
+      {
+        "keyword_id": 241,
+        "keyword_text": "quận"
+      },
+      {
+        "keyword_id": 45,
+        "keyword_text": "huyện"
+      },
+      {
+        "keyword_id": 44,
+        "keyword_text": "xã"
+      },
+      {
+        "keyword_id": 21,
+        "keyword_text": "phường"
+      },
+      {
+        "keyword_id": 242,
+        "keyword_text": "đường"
+      },
+      {
+        "keyword_id": 221,
+        "keyword_text": "tòa án"
+      },
+      {
+        "keyword_id": 243,
+        "keyword_text": "làm chứng"
+      },
+      {
+        "keyword_id": 75,
+        "keyword_text": "lời khai"
+      }
+    ]
+  },
+  {
+    "case_type_id": "credit_contract",
+    "case_type_text": "Tranh chấp hợp đồng tín dụng, bảo lãnh, thế chấp",
+    "keywords": [
+      {
+        "keyword_id": 98,
+        "keyword_text": "tín dụng"
+      },
+      {
+        "keyword_id": 104,
+        "keyword_text": "nợ gốc"
+      },
+      {
+        "keyword_id": 100,
+        "keyword_text": "thế chấp"
+      },
+      {
+        "keyword_id": 96,
+        "keyword_text": "ngân hàng"
+      },
+      {
+        "keyword_id": 102,
+        "keyword_text": "nợ"
+      },
+      {
+        "keyword_id": 180,
+        "keyword_text": "quá hạn"
+      },
+      {
+        "keyword_id": 128,
+        "keyword_text": "trả nợ"
+      },
+      {
+        "keyword_id": 105,
+        "keyword_text": "lãi"
+      },
+      {
+        "keyword_id": 17,
+        "keyword_text": "hợp đồng"
+      },
+      {
+        "keyword_id": 106,
+        "keyword_text": "bảo đảm"
+      },
+      {
+        "keyword_id": 118,
+        "keyword_text": "hạn"
+      },
+      {
+        "keyword_id": 181,
+        "keyword_text": "giải ngân"
+      },
+      {
+        "keyword_id": 103,
+        "keyword_text": "gốc"
+      },
+      {
+        "keyword_id": 26,
+        "keyword_text": "tài sản"
+      },
+      {
+        "keyword_id": 146,
+        "keyword_text": "ký kết"
+      },
+      {
+        "keyword_id": 52,
+        "keyword_text": "trả"
+      },
+      {
+        "keyword_id": 97,
+        "keyword_text": "công ty"
+      },
+      {
+        "keyword_id": 179,
+        "keyword_text": "lãi suất"
+      },
+      {
+        "keyword_id": 101,
+        "keyword_text": "khoản nợ"
+      },
+      {
+        "keyword_id": 111,
+        "keyword_text": "vốn"
+      },
+      {
+        "keyword_id": 29,
+        "keyword_text": "đồng"
+      },
+      {
+        "keyword_id": 110,
+        "keyword_text": "hạn mức"
+      },
+      {
+        "keyword_id": 99,
+        "keyword_text": "bảo lãnh"
+      },
+      {
+        "keyword_id": 33,
+        "keyword_text": "thanh toán"
+      },
+      {
+        "keyword_id": 122,
+        "keyword_text": "dư"
+      },
+      {
+        "keyword_id": 112,
+        "keyword_text": "lưu động"
+      },
+      {
+        "keyword_id": 35,
+        "keyword_text": "số tiền"
+      },
+      {
+        "keyword_id": 149,
+        "keyword_text": "vay"
+      },
+      {
+        "keyword_id": 182,
+        "keyword_text": "nhận nợ"
+      },
+      {
+        "keyword_id": 175,
+        "keyword_text": "vay vốn"
+      },
+      {
+        "keyword_id": 15,
+        "keyword_text": "đất"
+      },
+      {
+        "keyword_id": 53,
+        "keyword_text": "quyền sử dụng"
+      },
+      {
+        "keyword_id": 34,
+        "keyword_text": "tiền"
+      },
+      {
+        "keyword_id": 126,
+        "keyword_text": "thực hiện"
+      },
+      {
+        "keyword_id": 28,
+        "keyword_text": "triệu đồng"
+      },
+      {
+        "keyword_id": 143,
+        "keyword_text": "phát sinh"
+      },
+      {
+        "keyword_id": 215,
+        "keyword_text": "ký"
+      },
+      {
+        "keyword_id": 130,
+        "keyword_text": "thu hồi"
+      },
+      {
+        "keyword_id": 127,
+        "keyword_text": "khả năng"
+      },
+      {
+        "keyword_id": 40,
+        "keyword_text": "nhà"
+      },
+      {
+        "keyword_id": 125,
+        "keyword_text": "đảm bảo"
+      },
+      {
+        "keyword_id": 114,
+        "keyword_text": "tỷ"
+      },
+      {
+        "keyword_id": 139,
+        "keyword_text": "thông báo"
+      },
+      {
+        "keyword_id": 174,
+        "keyword_text": "dân sự"
+      },
+      {
+        "keyword_id": 190,
+        "keyword_text": "công chứng"
+      },
+      {
+        "keyword_id": 217,
+        "keyword_text": "kiện"
+      },
+      {
+        "keyword_id": 147,
+        "keyword_text": "tài khoản"
+      },
+      {
+        "keyword_id": 224,
+        "keyword_text": "buộc"
+      },
+      {
+        "keyword_id": 141,
+        "keyword_text": "căn hộ"
+      },
+      {
+        "keyword_id": 144,
+        "keyword_text": "tạm tính"
+      },
+      {
+        "keyword_id": 145,
+        "keyword_text": "khắc phục"
+      },
+      {
+        "keyword_id": 65,
+        "keyword_text": "chứng nhận"
+      },
+      {
+        "keyword_id": 184,
+        "keyword_text": "nhiều lần"
+      },
+      {
+        "keyword_id": 135,
+        "keyword_text": "tỷ giá"
+      },
+      {
+        "keyword_id": 120,
+        "keyword_text": "đô thị"
+      },
+      {
+        "keyword_id": 159,
+        "keyword_text": "con"
+      },
+      {
+        "keyword_id": 55,
+        "keyword_text": "bán"
+      },
+      {
+        "keyword_id": 121,
+        "keyword_text": "điều kiện"
+      },
+      {
+        "keyword_id": 129,
+        "keyword_text": "sửa đổi"
+      },
+      {
+        "keyword_id": 204,
+        "keyword_text": "xây"
+      },
+      {
+        "keyword_id": 164,
+        "keyword_text": "gia đình"
+      },
+      {
+        "keyword_id": 226,
+        "keyword_text": "bàn giao"
+      },
+      {
+        "keyword_id": 24,
+        "keyword_text": "phí"
+      },
+      {
+        "keyword_id": 140,
+        "keyword_text": "trái phép"
+      },
+      {
+        "keyword_id": 157,
+        "keyword_text": "tài liệu"
+      },
+      {
+        "keyword_id": 131,
+        "keyword_text": "đấu giá"
+      },
+      {
+        "keyword_id": 137,
+        "keyword_text": "chuyển khoản"
+      },
+      {
+        "keyword_id": 123,
+        "keyword_text": "thủ tục"
+      },
+      {
+        "keyword_id": 108,
+        "keyword_text": "ngắn hạn"
+      },
+      {
+        "keyword_id": 109,
+        "keyword_text": "tuần hoàn"
+      },
+      {
+        "keyword_id": 176,
+        "keyword_text": "phát triển"
+      },
+      {
+        "keyword_id": 54,
+        "keyword_text": "mua"
+      },
+      {
+        "keyword_id": 150,
+        "keyword_text": "chậm"
+      },
+      {
+        "keyword_id": 173,
+        "keyword_text": "tố tụng"
+      },
+      {
+        "keyword_id": 202,
+        "keyword_text": "hẹn"
+      },
+      {
+        "keyword_id": 196,
+        "keyword_text": "nông nghiệp"
+      },
+      {
+        "keyword_id": 200,
+        "keyword_text": "mượn"
+      },
+      {
+        "keyword_id": 225,
+        "keyword_text": "lợi ích"
+      },
+      {
+        "keyword_id": 51,
+        "keyword_text": "sổ"
+      },
+      {
+        "keyword_id": 124,
+        "keyword_text": "đăng ký"
+      },
+      {
+        "keyword_id": 41,
+        "keyword_text": "thửa"
+      },
+      {
+        "keyword_id": 68,
+        "keyword_text": "sở hữu"
+      },
+      {
+        "keyword_id": 117,
+        "keyword_text": "khoản tiền"
+      },
+      {
+        "keyword_id": 142,
+        "keyword_text": "cửa hàng"
+      },
+      {
+        "keyword_id": 48,
+        "keyword_text": "vợ chồng"
+      },
+      {
+        "keyword_id": 42,
+        "keyword_text": "bản đồ"
+      },
+      {
+        "keyword_id": 172,
+        "keyword_text": "chấp hành"
+      },
+      {
+        "keyword_id": 156,
+        "keyword_text": "pháp lý"
+      },
+      {
+        "keyword_id": 148,
+        "keyword_text": "thỏa thuận"
+      },
+      {
+        "keyword_id": 155,
+        "keyword_text": "hồ sơ"
+      },
+      {
+        "keyword_id": 152,
+        "keyword_text": "tiến độ"
+      },
+      {
+        "keyword_id": 153,
+        "keyword_text": "thẩm định"
+      },
+      {
+        "keyword_id": 154,
+        "keyword_text": "chủ sở hữu"
+      },
+      {
+        "keyword_id": 158,
+        "keyword_text": "khấu trừ"
+      },
+      {
+        "keyword_id": 178,
+        "keyword_text": "nâng cấp"
+      },
+      {
+        "keyword_id": 183,
+        "keyword_text": "ý thức"
+      },
+      {
+        "keyword_id": 216,
+        "keyword_text": "học"
+      },
+      {
+        "keyword_id": 16,
+        "keyword_text": "diện tích"
+      },
+      {
+        "keyword_id": 18,
+        "keyword_text": "chuyển nhượng"
+      },
+      {
+        "keyword_id": 82,
+        "keyword_text": "xác nhận"
+      },
+      {
+        "keyword_id": 132,
+        "keyword_text": "trừ"
+      },
+      {
+        "keyword_id": 113,
+        "keyword_text": "khoảng thời gian"
+      },
+      {
+        "keyword_id": 119,
+        "keyword_text": "lô đất"
+      },
+      {
+        "keyword_id": 161,
+        "keyword_text": "chung sống"
+      },
+      {
+        "keyword_id": 80,
+        "keyword_text": "quan hệ"
+      },
+      {
+        "keyword_id": 151,
+        "keyword_text": "trách nhiệm"
+      },
+      {
+        "keyword_id": 134,
+        "keyword_text": "tương đương"
+      },
+      {
+        "keyword_id": 85,
+        "keyword_text": "để lại"
+      },
+      {
+        "keyword_id": 167,
+        "keyword_text": "hưởng"
+      },
+      {
+        "keyword_id": 87,
+        "keyword_text": "giá trị"
+      },
+      {
+        "keyword_id": 165,
+        "keyword_text": "quản lý"
+      },
+      {
+        "keyword_id": 138,
+        "keyword_text": "văn bản"
+      },
+      {
+        "keyword_id": 30,
+        "keyword_text": "công an"
+      },
+      {
+        "keyword_id": 205,
+        "keyword_text": "chịu trách nhiệm"
+      },
+      {
+        "keyword_id": 219,
+        "keyword_text": "đóng"
+      },
+      {
+        "keyword_id": 61,
+        "keyword_text": "hòa giải"
+      },
+      {
+        "keyword_id": 133,
+        "keyword_text": "tương ứng"
+      },
+      {
+        "keyword_id": 177,
+        "keyword_text": "sửa chữa"
+      },
+      {
+        "keyword_id": 193,
+        "keyword_text": "sản xuất"
+      },
+      {
+        "keyword_id": 227,
+        "keyword_text": "bệnh viện"
+      },
+      {
+        "keyword_id": 56,
+        "keyword_text": "thống nhất"
+      },
+      {
+        "keyword_id": 209,
+        "keyword_text": "lương"
+      },
+      {
+        "keyword_id": 66,
+        "keyword_text": "sở hữu nhà"
+      },
+      {
+        "keyword_id": 197,
+        "keyword_text": "ruộng"
+      },
+      {
+        "keyword_id": 116,
+        "keyword_text": "hoàn trả"
+      },
+      {
+        "keyword_id": 163,
+        "keyword_text": "hộ khẩu"
+      },
+      {
+        "keyword_id": 206,
+        "keyword_text": "khiếu nại"
+      },
+      {
+        "keyword_id": 195,
+        "keyword_text": "trồng"
+      },
+      {
+        "keyword_id": 199,
+        "keyword_text": "cây"
+      },
+      {
+        "keyword_id": 212,
+        "keyword_text": "chi phí"
+      },
+      {
+        "keyword_id": 83,
+        "keyword_text": "thừa nhận"
+      },
+      {
+        "keyword_id": 60,
+        "keyword_text": "giấy tờ"
+      },
+      {
+        "keyword_id": 236,
+        "keyword_text": "ngày"
+      },
+      {
+        "keyword_id": 237,
+        "keyword_text": "tháng"
+      },
+      {
+        "keyword_id": 238,
+        "keyword_text": "năm"
+      },
+      {
+        "keyword_id": 4,
+        "keyword_text": "nguyên đơn"
+      },
+      {
+        "keyword_id": 5,
+        "keyword_text": "bị đơn"
+      },
+      {
+        "keyword_id": 2,
+        "keyword_text": "trình bày"
+      },
+      {
+        "keyword_id": 239,
+        "keyword_text": "đại diện"
+      },
+      {
+        "keyword_id": 1,
+        "keyword_text": "tranh chấp"
+      },
+      {
+        "keyword_id": 3,
+        "keyword_text": "khởi kiện"
+      },
+      {
+        "keyword_id": 6,
+        "keyword_text": "tại điều"
+      },
+      {
+        "keyword_id": 7,
+        "keyword_text": "theo điều"
+      },
+      {
+        "keyword_id": 8,
+        "keyword_text": "yêu cầu"
+      },
+      {
+        "keyword_id": 9,
+        "keyword_text": "đề nghị"
+      },
+      {
+        "keyword_id": 10,
+        "keyword_text": "mong muốn"
+      },
+      {
+        "keyword_id": 11,
+        "keyword_text": "đại diện nguyên đơn ủy quyền"
+      },
+      {
+        "keyword_id": 12,
+        "keyword_text": "đại diện bị đơn ủy quyền"
+      },
+      {
+        "keyword_id": 13,
+        "keyword_text": "yêu cầu giải quyết"
+      },
+      {
+        "keyword_id": 23,
+        "keyword_text": "đồng ý"
+      },
+      {
+        "keyword_id": 79,
+        "keyword_text": "chứng cứ"
+      },
+      {
+        "keyword_id": 19,
+        "keyword_text": "thành phố"
+      },
+      {
+        "keyword_id": 240,
+        "keyword_text": "tp"
+      },
+      {
+        "keyword_id": 20,
+        "keyword_text": "tỉnh"
+      },
+      {
+        "keyword_id": 241,
+        "keyword_text": "quận"
+      },
+      {
+        "keyword_id": 45,
+        "keyword_text": "huyện"
+      },
+      {
+        "keyword_id": 44,
+        "keyword_text": "xã"
+      },
+      {
+        "keyword_id": 21,
+        "keyword_text": "phường"
+      },
+      {
+        "keyword_id": 242,
+        "keyword_text": "đường"
+      },
+      {
+        "keyword_id": 221,
+        "keyword_text": "tòa án"
+      },
+      {
+        "keyword_id": 243,
+        "keyword_text": "làm chứng"
+      },
+      {
+        "keyword_id": 75,
+        "keyword_text": "lời khai"
+      }
+    ]
+  },
+  {
+    "case_type_id": "land_transfer_contract",
+    "case_type_text": "Tranh chấp hợp đồng chuyển nhượng/đặt cọc nhà đất",
+    "keywords": [
+      {
+        "keyword_id": 17,
+        "keyword_text": "hợp đồng"
+      },
+      {
+        "keyword_id": 18,
+        "keyword_text": "chuyển nhượng"
+      },
+      {
+        "keyword_id": 15,
+        "keyword_text": "đất"
+      },
+      {
+        "keyword_id": 40,
+        "keyword_text": "nhà"
+      },
+      {
+        "keyword_id": 53,
+        "keyword_text": "quyền sử dụng"
+      },
+      {
+        "keyword_id": 29,
+        "keyword_text": "đồng"
+      },
+      {
+        "keyword_id": 16,
+        "keyword_text": "diện tích"
+      },
+      {
+        "keyword_id": 65,
+        "keyword_text": "chứng nhận"
+      },
+      {
+        "keyword_id": 41,
+        "keyword_text": "thửa"
+      },
+      {
+        "keyword_id": 48,
+        "keyword_text": "vợ chồng"
+      },
+      {
+        "keyword_id": 52,
+        "keyword_text": "trả"
+      },
+      {
+        "keyword_id": 215,
+        "keyword_text": "ký"
+      },
+      {
+        "keyword_id": 42,
+        "keyword_text": "bản đồ"
+      },
+      {
+        "keyword_id": 35,
+        "keyword_text": "số tiền"
+      },
+      {
+        "keyword_id": 55,
+        "keyword_text": "bán"
+      },
+      {
+        "keyword_id": 51,
+        "keyword_text": "sổ"
+      },
+      {
+        "keyword_id": 34,
+        "keyword_text": "tiền"
+      },
+      {
+        "keyword_id": 190,
+        "keyword_text": "công chứng"
+      },
+      {
+        "keyword_id": 54,
+        "keyword_text": "mua"
+      },
+      {
+        "keyword_id": 149,
+        "keyword_text": "vay"
+      },
+      {
+        "keyword_id": 217,
+        "keyword_text": "kiện"
+      },
+      {
+        "keyword_id": 159,
+        "keyword_text": "con"
+      },
+      {
+        "keyword_id": 123,
+        "keyword_text": "thủ tục"
+      },
+      {
+        "keyword_id": 173,
+        "keyword_text": "tố tụng"
+      },
+      {
+        "keyword_id": 126,
+        "keyword_text": "thực hiện"
+      },
+      {
+        "keyword_id": 100,
+        "keyword_text": "thế chấp"
+      },
+      {
+        "keyword_id": 226,
+        "keyword_text": "bàn giao"
+      },
+      {
+        "keyword_id": 116,
+        "keyword_text": "hoàn trả"
+      },
+      {
+        "keyword_id": 28,
+        "keyword_text": "triệu đồng"
+      },
+      {
+        "keyword_id": 26,
+        "keyword_text": "tài sản"
+      },
+      {
+        "keyword_id": 103,
+        "keyword_text": "gốc"
+      },
+      {
+        "keyword_id": 50,
+        "keyword_text": "ly thân"
+      },
+      {
+        "keyword_id": 224,
+        "keyword_text": "buộc"
+      },
+      {
+        "keyword_id": 118,
+        "keyword_text": "hạn"
+      },
+      {
+        "keyword_id": 164,
+        "keyword_text": "gia đình"
+      },
+      {
+        "keyword_id": 148,
+        "keyword_text": "thỏa thuận"
+      },
+      {
+        "keyword_id": 102,
+        "keyword_text": "nợ"
+      },
+      {
+        "keyword_id": 146,
+        "keyword_text": "ký kết"
+      },
+      {
+        "keyword_id": 155,
+        "keyword_text": "hồ sơ"
+      },
+      {
+        "keyword_id": 60,
+        "keyword_text": "giấy tờ"
+      },
+      {
+        "keyword_id": 105,
+        "keyword_text": "lãi"
+      },
+      {
+        "keyword_id": 56,
+        "keyword_text": "thống nhất"
+      },
+      {
+        "keyword_id": 33,
+        "keyword_text": "thanh toán"
+      },
+      {
+        "keyword_id": 96,
+        "keyword_text": "ngân hàng"
+      },
+      {
+        "keyword_id": 174,
+        "keyword_text": "dân sự"
+      },
+      {
+        "keyword_id": 124,
+        "keyword_text": "đăng ký"
+      },
+      {
+        "keyword_id": 171,
+        "keyword_text": "thổ cư"
+      },
+      {
+        "keyword_id": 85,
+        "keyword_text": "để lại"
+      },
+      {
+        "keyword_id": 66,
+        "keyword_text": "sở hữu nhà"
+      },
+      {
+        "keyword_id": 172,
+        "keyword_text": "chấp hành"
+      },
+      {
+        "keyword_id": 86,
+        "keyword_text": "định giá"
+      },
+      {
+        "keyword_id": 167,
+        "keyword_text": "hưởng"
+      },
+      {
+        "keyword_id": 191,
+        "keyword_text": "cầm cố"
+      },
+      {
+        "keyword_id": 151,
+        "keyword_text": "trách nhiệm"
+      },
+      {
+        "keyword_id": 229,
+        "keyword_text": "chữa bệnh"
+      },
+      {
+        "keyword_id": 82,
+        "keyword_text": "xác nhận"
+      },
+      {
+        "keyword_id": 128,
+        "keyword_text": "trả nợ"
+      },
+      {
+        "keyword_id": 22,
+        "keyword_text": "bồi thường"
+      },
+      {
+        "keyword_id": 92,
+        "keyword_text": "thừa kế"
+      },
+      {
+        "keyword_id": 61,
+        "keyword_text": "hòa giải"
+      },
+      {
+        "keyword_id": 202,
+        "keyword_text": "hẹn"
+      },
+      {
+        "keyword_id": 87,
+        "keyword_text": "giá trị"
+      },
+      {
+        "keyword_id": 165,
+        "keyword_text": "quản lý"
+      },
+      {
+        "keyword_id": 225,
+        "keyword_text": "lợi ích"
+      },
+      {
+        "keyword_id": 125,
+        "keyword_text": "đảm bảo"
+      },
+      {
+        "keyword_id": 37,
+        "keyword_text": "thiệt hại"
+      },
+      {
+        "keyword_id": 97,
+        "keyword_text": "công ty"
+      },
+      {
+        "keyword_id": 219,
+        "keyword_text": "đóng"
+      },
+      {
+        "keyword_id": 204,
+        "keyword_text": "xây"
+      },
+      {
+        "keyword_id": 162,
+        "keyword_text": "ranh giới"
+      },
+      {
+        "keyword_id": 184,
+        "keyword_text": "nhiều lần"
+      },
+      {
+        "keyword_id": 68,
+        "keyword_text": "sở hữu"
+      },
+      {
+        "keyword_id": 139,
+        "keyword_text": "thông báo"
+      },
+      {
+        "keyword_id": 104,
+        "keyword_text": "nợ gốc"
+      },
+      {
+        "keyword_id": 157,
+        "keyword_text": "tài liệu"
+      },
+      {
+        "keyword_id": 49,
+        "keyword_text": "ly hôn"
+      },
+      {
+        "keyword_id": 212,
+        "keyword_text": "chi phí"
+      },
+      {
+        "keyword_id": 218,
+        "keyword_text": "hụi"
+      },
+      {
+        "keyword_id": 179,
+        "keyword_text": "lãi suất"
+      },
+      {
+        "keyword_id": 94,
+        "keyword_text": "di sản"
+      },
+      {
+        "keyword_id": 163,
+        "keyword_text": "hộ khẩu"
+      },
+      {
+        "keyword_id": 24,
+        "keyword_text": "phí"
+      },
+      {
+        "keyword_id": 200,
+        "keyword_text": "mượn"
+      },
+      {
+        "keyword_id": 113,
+        "keyword_text": "khoảng thời gian"
+      },
+      {
+        "keyword_id": 145,
+        "keyword_text": "khắc phục"
+      },
+      {
+        "keyword_id": 216,
+        "keyword_text": "học"
+      },
+      {
+        "keyword_id": 199,
+        "keyword_text": "cây"
+      },
+      {
+        "keyword_id": 80,
+        "keyword_text": "quan hệ"
+      },
+      {
+        "keyword_id": 121,
+        "keyword_text": "điều kiện"
+      },
+      {
+        "keyword_id": 63,
+        "keyword_text": "chấm dứt"
+      },
+      {
+        "keyword_id": 211,
+        "keyword_text": "việc làm"
+      },
+      {
+        "keyword_id": 83,
+        "keyword_text": "thừa nhận"
+      },
+      {
+        "keyword_id": 62,
+        "keyword_text": "giao trả"
+      },
+      {
+        "keyword_id": 99,
+        "keyword_text": "bảo lãnh"
+      },
+      {
+        "keyword_id": 47,
+        "keyword_text": "anh em"
+      },
+      {
+        "keyword_id": 153,
+        "keyword_text": "thẩm định"
+      },
+      {
+        "keyword_id": 138,
+        "keyword_text": "văn bản"
+      },
+      {
+        "keyword_id": 150,
+        "keyword_text": "chậm"
+      },
+      {
+        "keyword_id": 176,
+        "keyword_text": "phát triển"
+      },
+      {
+        "keyword_id": 30,
+        "keyword_text": "công an"
+      },
+      {
+        "keyword_id": 127,
+        "keyword_text": "khả năng"
+      },
+      {
+        "keyword_id": 160,
+        "keyword_text": "con riêng"
+      },
+      {
+        "keyword_id": 205,
+        "keyword_text": "chịu trách nhiệm"
+      },
+      {
+        "keyword_id": 133,
+        "keyword_text": "tương ứng"
+      },
+      {
+        "keyword_id": 196,
+        "keyword_text": "nông nghiệp"
+      },
+      {
+        "keyword_id": 90,
+        "keyword_text": "thừa nhận có"
+      },
+      {
+        "keyword_id": 101,
+        "keyword_text": "khoản nợ"
+      },
+      {
+        "keyword_id": 193,
+        "keyword_text": "sản xuất"
+      },
+      {
+        "keyword_id": 227,
+        "keyword_text": "bệnh viện"
+      },
+      {
+        "keyword_id": 189,
+        "keyword_text": "lấn"
+      },
+      {
+        "keyword_id": 114,
+        "keyword_text": "tỷ"
+      },
+      {
+        "keyword_id": 156,
+        "keyword_text": "pháp lý"
+      },
+      {
+        "keyword_id": 64,
+        "keyword_text": "di chúc"
+      },
+      {
+        "keyword_id": 143,
+        "keyword_text": "phát sinh"
+      },
+      {
+        "keyword_id": 195,
+        "keyword_text": "trồng"
+      },
+      {
+        "keyword_id": 203,
+        "keyword_text": "thuê"
+      },
+      {
+        "keyword_id": 130,
+        "keyword_text": "thu hồi"
+      },
+      {
+        "keyword_id": 132,
+        "keyword_text": "trừ"
+      },
+      {
+        "keyword_id": 236,
+        "keyword_text": "ngày"
+      },
+      {
+        "keyword_id": 237,
+        "keyword_text": "tháng"
+      },
+      {
+        "keyword_id": 238,
+        "keyword_text": "năm"
+      },
+      {
+        "keyword_id": 4,
+        "keyword_text": "nguyên đơn"
+      },
+      {
+        "keyword_id": 5,
+        "keyword_text": "bị đơn"
+      },
+      {
+        "keyword_id": 2,
+        "keyword_text": "trình bày"
+      },
+      {
+        "keyword_id": 239,
+        "keyword_text": "đại diện"
+      },
+      {
+        "keyword_id": 1,
+        "keyword_text": "tranh chấp"
+      },
+      {
+        "keyword_id": 3,
+        "keyword_text": "khởi kiện"
+      },
+      {
+        "keyword_id": 6,
+        "keyword_text": "tại điều"
+      },
+      {
+        "keyword_id": 7,
+        "keyword_text": "theo điều"
+      },
+      {
+        "keyword_id": 8,
+        "keyword_text": "yêu cầu"
+      },
+      {
+        "keyword_id": 9,
+        "keyword_text": "đề nghị"
+      },
+      {
+        "keyword_id": 10,
+        "keyword_text": "mong muốn"
+      },
+      {
+        "keyword_id": 11,
+        "keyword_text": "đại diện nguyên đơn ủy quyền"
+      },
+      {
+        "keyword_id": 12,
+        "keyword_text": "đại diện bị đơn ủy quyền"
+      },
+      {
+        "keyword_id": 13,
+        "keyword_text": "yêu cầu giải quyết"
+      },
+      {
+        "keyword_id": 23,
+        "keyword_text": "đồng ý"
+      },
+      {
+        "keyword_id": 79,
+        "keyword_text": "chứng cứ"
+      },
+      {
+        "keyword_id": 206,
+        "keyword_text": "khiếu nại"
+      },
+      {
+        "keyword_id": 19,
+        "keyword_text": "thành phố"
+      },
+      {
+        "keyword_id": 240,
+        "keyword_text": "tp"
+      },
+      {
+        "keyword_id": 20,
+        "keyword_text": "tỉnh"
+      },
+      {
+        "keyword_id": 241,
+        "keyword_text": "quận"
+      },
+      {
+        "keyword_id": 45,
+        "keyword_text": "huyện"
+      },
+      {
+        "keyword_id": 44,
+        "keyword_text": "xã"
+      },
+      {
+        "keyword_id": 21,
+        "keyword_text": "phường"
+      },
+      {
+        "keyword_id": 242,
+        "keyword_text": "đường"
+      },
+      {
+        "keyword_id": 221,
+        "keyword_text": "tòa án"
+      },
+      {
+        "keyword_id": 243,
+        "keyword_text": "làm chứng"
+      },
+      {
+        "keyword_id": 75,
+        "keyword_text": "lời khai"
+      }
+    ]
+  },
+  {
+    "case_type_id": "loan_contract",
+    "case_type_text": "Tranh chấp hợp đồng vay tài sản",
+    "keywords": [
+      {
+        "keyword_id": 177,
+        "keyword_text": "sửa chữa"
+      },
+      {
+        "keyword_id": 102,
+        "keyword_text": "nợ"
+      },
+      {
+        "keyword_id": 149,
+        "keyword_text": "vay"
+      },
+      {
+        "keyword_id": 200,
+        "keyword_text": "mượn"
+      },
+      {
+        "keyword_id": 34,
+        "keyword_text": "tiền"
+      },
+      {
+        "keyword_id": 29,
+        "keyword_text": "đồng"
+      },
+      {
+        "keyword_id": 179,
+        "keyword_text": "lãi suất"
+      },
+      {
+        "keyword_id": 117,
+        "keyword_text": "khoản tiền"
+      },
+      {
+        "keyword_id": 26,
+        "keyword_text": "tài sản"
+      },
+      {
+        "keyword_id": 178,
+        "keyword_text": "nâng cấp"
+      },
+      {
+        "keyword_id": 183,
+        "keyword_text": "ý thức"
+      },
+      {
+        "keyword_id": 105,
+        "keyword_text": "lãi"
+      },
+      {
+        "keyword_id": 128,
+        "keyword_text": "trả nợ"
+      },
+      {
+        "keyword_id": 28,
+        "keyword_text": "triệu đồng"
+      },
+      {
+        "keyword_id": 15,
+        "keyword_text": "đất"
+      },
+      {
+        "keyword_id": 184,
+        "keyword_text": "nhiều lần"
+      },
+      {
+        "keyword_id": 35,
+        "keyword_text": "số tiền"
+      },
+      {
+        "keyword_id": 52,
+        "keyword_text": "trả"
+      },
+      {
+        "keyword_id": 101,
+        "keyword_text": "khoản nợ"
+      },
+      {
+        "keyword_id": 40,
+        "keyword_text": "nhà"
+      },
+      {
+        "keyword_id": 204,
+        "keyword_text": "xây"
+      },
+      {
+        "keyword_id": 99,
+        "keyword_text": "bảo lãnh"
+      },
+      {
+        "keyword_id": 182,
+        "keyword_text": "nhận nợ"
+      },
+      {
+        "keyword_id": 201,
+        "keyword_text": "hứa"
+      },
+      {
+        "keyword_id": 172,
+        "keyword_text": "chấp hành"
+      },
+      {
+        "keyword_id": 24,
+        "keyword_text": "phí"
+      },
+      {
+        "keyword_id": 164,
+        "keyword_text": "gia đình"
+      },
+      {
+        "keyword_id": 157,
+        "keyword_text": "tài liệu"
+      },
+      {
+        "keyword_id": 180,
+        "keyword_text": "quá hạn"
+      },
+      {
+        "keyword_id": 118,
+        "keyword_text": "hạn"
+      },
+      {
+        "keyword_id": 176,
+        "keyword_text": "phát triển"
+      },
+      {
+        "keyword_id": 33,
+        "keyword_text": "thanh toán"
+      },
+      {
+        "keyword_id": 100,
+        "keyword_text": "thế chấp"
+      },
+      {
+        "keyword_id": 175,
+        "keyword_text": "vay vốn"
+      },
+      {
+        "keyword_id": 181,
+        "keyword_text": "giải ngân"
+      },
+      {
+        "keyword_id": 205,
+        "keyword_text": "chịu trách nhiệm"
+      },
+      {
+        "keyword_id": 126,
+        "keyword_text": "thực hiện"
+      },
+      {
+        "keyword_id": 174,
+        "keyword_text": "dân sự"
+      },
+      {
+        "keyword_id": 98,
+        "keyword_text": "tín dụng"
+      },
+      {
+        "keyword_id": 96,
+        "keyword_text": "ngân hàng"
+      },
+      {
+        "keyword_id": 61,
+        "keyword_text": "hòa giải"
+      },
+      {
+        "keyword_id": 106,
+        "keyword_text": "bảo đảm"
+      },
+      {
+        "keyword_id": 196,
+        "keyword_text": "nông nghiệp"
+      },
+      {
+        "keyword_id": 193,
+        "keyword_text": "sản xuất"
+      },
+      {
+        "keyword_id": 173,
+        "keyword_text": "tố tụng"
+      },
+      {
+        "keyword_id": 224,
+        "keyword_text": "buộc"
+      },
+      {
+        "keyword_id": 17,
+        "keyword_text": "hợp đồng"
+      },
+      {
+        "keyword_id": 217,
+        "keyword_text": "kiện"
+      },
+      {
+        "keyword_id": 104,
+        "keyword_text": "nợ gốc"
+      },
+      {
+        "keyword_id": 134,
+        "keyword_text": "tương đương"
+      },
+      {
+        "keyword_id": 156,
+        "keyword_text": "pháp lý"
+      },
+      {
+        "keyword_id": 215,
+        "keyword_text": "ký"
+      },
+      {
+        "keyword_id": 197,
+        "keyword_text": "ruộng"
+      },
+      {
+        "keyword_id": 146,
+        "keyword_text": "ký kết"
+      },
+      {
+        "keyword_id": 163,
+        "keyword_text": "hộ khẩu"
+      },
+      {
+        "keyword_id": 203,
+        "keyword_text": "thuê"
+      },
+      {
+        "keyword_id": 206,
+        "keyword_text": "khiếu nại"
+      },
+      {
+        "keyword_id": 159,
+        "keyword_text": "con"
+      },
+      {
+        "keyword_id": 116,
+        "keyword_text": "hoàn trả"
+      },
+      {
+        "keyword_id": 111,
+        "keyword_text": "vốn"
+      },
+      {
+        "keyword_id": 143,
+        "keyword_text": "phát sinh"
+      },
+      {
+        "keyword_id": 190,
+        "keyword_text": "công chứng"
+      },
+      {
+        "keyword_id": 125,
+        "keyword_text": "đảm bảo"
+      },
+      {
+        "keyword_id": 48,
+        "keyword_text": "vợ chồng"
+      },
+      {
+        "keyword_id": 132,
+        "keyword_text": "trừ"
+      },
+      {
+        "keyword_id": 225,
+        "keyword_text": "lợi ích"
+      },
+      {
+        "keyword_id": 212,
+        "keyword_text": "chi phí"
+      },
+      {
+        "keyword_id": 60,
+        "keyword_text": "giấy tờ"
+      },
+      {
+        "keyword_id": 83,
+        "keyword_text": "thừa nhận"
+      },
+      {
+        "keyword_id": 121,
+        "keyword_text": "điều kiện"
+      },
+      {
+        "keyword_id": 139,
+        "keyword_text": "thông báo"
+      },
+      {
+        "keyword_id": 85,
+        "keyword_text": "để lại"
+      },
+      {
+        "keyword_id": 41,
+        "keyword_text": "thửa"
+      },
+      {
+        "keyword_id": 148,
+        "keyword_text": "thỏa thuận"
+      },
+      {
+        "keyword_id": 51,
+        "keyword_text": "sổ"
+      },
+      {
+        "keyword_id": 167,
+        "keyword_text": "hưởng"
+      },
+      {
+        "keyword_id": 151,
+        "keyword_text": "trách nhiệm"
+      },
+      {
+        "keyword_id": 155,
+        "keyword_text": "hồ sơ"
+      },
+      {
+        "keyword_id": 153,
+        "keyword_text": "thẩm định"
+      },
+      {
+        "keyword_id": 42,
+        "keyword_text": "bản đồ"
+      },
+      {
+        "keyword_id": 55,
+        "keyword_text": "bán"
+      },
+      {
+        "keyword_id": 53,
+        "keyword_text": "quyền sử dụng"
+      },
+      {
+        "keyword_id": 65,
+        "keyword_text": "chứng nhận"
+      },
+      {
+        "keyword_id": 82,
+        "keyword_text": "xác nhận"
+      },
+      {
+        "keyword_id": 123,
+        "keyword_text": "thủ tục"
+      },
+      {
+        "keyword_id": 103,
+        "keyword_text": "gốc"
+      },
+      {
+        "keyword_id": 124,
+        "keyword_text": "đăng ký"
+      },
+      {
+        "keyword_id": 16,
+        "keyword_text": "diện tích"
+      },
+      {
+        "keyword_id": 56,
+        "keyword_text": "thống nhất"
+      },
+      {
+        "keyword_id": 54,
+        "keyword_text": "mua"
+      },
+      {
+        "keyword_id": 236,
+        "keyword_text": "ngày"
+      },
+      {
+        "keyword_id": 237,
+        "keyword_text": "tháng"
+      },
+      {
+        "keyword_id": 238,
+        "keyword_text": "năm"
+      },
+      {
+        "keyword_id": 4,
+        "keyword_text": "nguyên đơn"
+      },
+      {
+        "keyword_id": 5,
+        "keyword_text": "bị đơn"
+      },
+      {
+        "keyword_id": 2,
+        "keyword_text": "trình bày"
+      },
+      {
+        "keyword_id": 239,
+        "keyword_text": "đại diện"
+      },
+      {
+        "keyword_id": 1,
+        "keyword_text": "tranh chấp"
+      },
+      {
+        "keyword_id": 3,
+        "keyword_text": "khởi kiện"
+      },
+      {
+        "keyword_id": 6,
+        "keyword_text": "tại điều"
+      },
+      {
+        "keyword_id": 7,
+        "keyword_text": "theo điều"
+      },
+      {
+        "keyword_id": 8,
+        "keyword_text": "yêu cầu"
+      },
+      {
+        "keyword_id": 9,
+        "keyword_text": "đề nghị"
+      },
+      {
+        "keyword_id": 10,
+        "keyword_text": "mong muốn"
+      },
+      {
+        "keyword_id": 11,
+        "keyword_text": "đại diện nguyên đơn ủy quyền"
+      },
+      {
+        "keyword_id": 12,
+        "keyword_text": "đại diện bị đơn ủy quyền"
+      },
+      {
+        "keyword_id": 13,
+        "keyword_text": "yêu cầu giải quyết"
+      },
+      {
+        "keyword_id": 23,
+        "keyword_text": "đồng ý"
+      },
+      {
+        "keyword_id": 79,
+        "keyword_text": "chứng cứ"
+      },
+      {
+        "keyword_id": 19,
+        "keyword_text": "thành phố"
+      },
+      {
+        "keyword_id": 240,
+        "keyword_text": "tp"
+      },
+      {
+        "keyword_id": 20,
+        "keyword_text": "tỉnh"
+      },
+      {
+        "keyword_id": 241,
+        "keyword_text": "quận"
+      },
+      {
+        "keyword_id": 45,
+        "keyword_text": "huyện"
+      },
+      {
+        "keyword_id": 44,
+        "keyword_text": "xã"
+      },
+      {
+        "keyword_id": 21,
+        "keyword_text": "phường"
+      },
+      {
+        "keyword_id": 242,
+        "keyword_text": "đường"
+      },
+      {
+        "keyword_id": 221,
+        "keyword_text": "tòa án"
+      },
+      {
+        "keyword_id": 243,
+        "keyword_text": "làm chứng"
+      },
+      {
+        "keyword_id": 75,
+        "keyword_text": "lời khai"
+      }
+    ]
+  },
+  {
+    "case_type_id": "sale_goods_debt",
+    "case_type_text": "Tranh chấp mua bán hàng hóa, công nợ",
+    "keywords": [
+      {
+        "keyword_id": 235,
+        "keyword_text": "nhân công"
+      },
+      {
+        "keyword_id": 97,
+        "keyword_text": "công ty"
+      },
+      {
+        "keyword_id": 102,
+        "keyword_text": "nợ"
+      },
+      {
+        "keyword_id": 150,
+        "keyword_text": "chậm"
+      },
+      {
+        "keyword_id": 33,
+        "keyword_text": "thanh toán"
+      },
+      {
+        "keyword_id": 34,
+        "keyword_text": "tiền"
+      },
+      {
+        "keyword_id": 54,
+        "keyword_text": "mua"
+      },
+      {
+        "keyword_id": 52,
+        "keyword_text": "trả"
+      },
+      {
+        "keyword_id": 139,
+        "keyword_text": "thông báo"
+      },
+      {
+        "keyword_id": 17,
+        "keyword_text": "hợp đồng"
+      },
+      {
+        "keyword_id": 215,
+        "keyword_text": "ký"
+      },
+      {
+        "keyword_id": 126,
+        "keyword_text": "thực hiện"
+      },
+      {
+        "keyword_id": 35,
+        "keyword_text": "số tiền"
+      },
+      {
+        "keyword_id": 152,
+        "keyword_text": "tiến độ"
+      },
+      {
+        "keyword_id": 156,
+        "keyword_text": "pháp lý"
+      },
+      {
+        "keyword_id": 55,
+        "keyword_text": "bán"
+      },
+      {
+        "keyword_id": 82,
+        "keyword_text": "xác nhận"
+      },
+      {
+        "keyword_id": 217,
+        "keyword_text": "kiện"
+      },
+      {
+        "keyword_id": 87,
+        "keyword_text": "giá trị"
+      },
+      {
+        "keyword_id": 22,
+        "keyword_text": "bồi thường"
+      },
+      {
+        "keyword_id": 56,
+        "keyword_text": "thống nhất"
+      },
+      {
+        "keyword_id": 144,
+        "keyword_text": "tạm tính"
+      },
+      {
+        "keyword_id": 233,
+        "keyword_text": "tinh thần"
+      },
+      {
+        "keyword_id": 234,
+        "keyword_text": "tổn thất"
+      },
+      {
+        "keyword_id": 113,
+        "keyword_text": "khoảng thời gian"
+      },
+      {
+        "keyword_id": 159,
+        "keyword_text": "con"
+      },
+      {
+        "keyword_id": 105,
+        "keyword_text": "lãi"
+      },
+      {
+        "keyword_id": 63,
+        "keyword_text": "chấm dứt"
+      },
+      {
+        "keyword_id": 121,
+        "keyword_text": "điều kiện"
+      },
+      {
+        "keyword_id": 65,
+        "keyword_text": "chứng nhận"
+      },
+      {
+        "keyword_id": 27,
+        "keyword_text": "nghìn đồng"
+      },
+      {
+        "keyword_id": 167,
+        "keyword_text": "hưởng"
+      },
+      {
+        "keyword_id": 148,
+        "keyword_text": "thỏa thuận"
+      },
+      {
+        "keyword_id": 212,
+        "keyword_text": "chi phí"
+      },
+      {
+        "keyword_id": 138,
+        "keyword_text": "văn bản"
+      },
+      {
+        "keyword_id": 37,
+        "keyword_text": "thiệt hại"
+      },
+      {
+        "keyword_id": 176,
+        "keyword_text": "phát triển"
+      },
+      {
+        "keyword_id": 165,
+        "keyword_text": "quản lý"
+      },
+      {
+        "keyword_id": 127,
+        "keyword_text": "khả năng"
+      },
+      {
+        "keyword_id": 201,
+        "keyword_text": "hứa"
+      },
+      {
+        "keyword_id": 118,
+        "keyword_text": "hạn"
+      },
+      {
+        "keyword_id": 133,
+        "keyword_text": "tương ứng"
+      },
+      {
+        "keyword_id": 24,
+        "keyword_text": "phí"
+      },
+      {
+        "keyword_id": 61,
+        "keyword_text": "hòa giải"
+      },
+      {
+        "keyword_id": 155,
+        "keyword_text": "hồ sơ"
+      },
+      {
+        "keyword_id": 224,
+        "keyword_text": "buộc"
+      },
+      {
+        "keyword_id": 174,
+        "keyword_text": "dân sự"
+      },
+      {
+        "keyword_id": 146,
+        "keyword_text": "ký kết"
+      },
+      {
+        "keyword_id": 199,
+        "keyword_text": "cây"
+      },
+      {
+        "keyword_id": 209,
+        "keyword_text": "lương"
+      },
+      {
+        "keyword_id": 134,
+        "keyword_text": "tương đương"
+      },
+      {
+        "keyword_id": 173,
+        "keyword_text": "tố tụng"
+      },
+      {
+        "keyword_id": 226,
+        "keyword_text": "bàn giao"
+      },
+      {
+        "keyword_id": 149,
+        "keyword_text": "vay"
+      },
+      {
+        "keyword_id": 117,
+        "keyword_text": "khoản tiền"
+      },
+      {
+        "keyword_id": 40,
+        "keyword_text": "nhà"
+      },
+      {
+        "keyword_id": 179,
+        "keyword_text": "lãi suất"
+      },
+      {
+        "keyword_id": 18,
+        "keyword_text": "chuyển nhượng"
+      },
+      {
+        "keyword_id": 116,
+        "keyword_text": "hoàn trả"
+      },
+      {
+        "keyword_id": 96,
+        "keyword_text": "ngân hàng"
+      },
+      {
+        "keyword_id": 128,
+        "keyword_text": "trả nợ"
+      },
+      {
+        "keyword_id": 203,
+        "keyword_text": "thuê"
+      },
+      {
+        "keyword_id": 190,
+        "keyword_text": "công chứng"
+      },
+      {
+        "keyword_id": 53,
+        "keyword_text": "quyền sử dụng"
+      },
+      {
+        "keyword_id": 15,
+        "keyword_text": "đất"
+      },
+      {
+        "keyword_id": 130,
+        "keyword_text": "thu hồi"
+      },
+      {
+        "keyword_id": 132,
+        "keyword_text": "trừ"
+      },
+      {
+        "keyword_id": 225,
+        "keyword_text": "lợi ích"
+      },
+      {
+        "keyword_id": 184,
+        "keyword_text": "nhiều lần"
+      },
+      {
+        "keyword_id": 151,
+        "keyword_text": "trách nhiệm"
+      },
+      {
+        "keyword_id": 204,
+        "keyword_text": "xây"
+      },
+      {
+        "keyword_id": 60,
+        "keyword_text": "giấy tờ"
+      },
+      {
+        "keyword_id": 172,
+        "keyword_text": "chấp hành"
+      },
+      {
+        "keyword_id": 51,
+        "keyword_text": "sổ"
+      },
+      {
+        "keyword_id": 123,
+        "keyword_text": "thủ tục"
+      },
+      {
+        "keyword_id": 124,
+        "keyword_text": "đăng ký"
+      },
+      {
+        "keyword_id": 16,
+        "keyword_text": "diện tích"
+      },
+      {
+        "keyword_id": 103,
+        "keyword_text": "gốc"
+      },
+      {
+        "keyword_id": 236,
+        "keyword_text": "ngày"
+      },
+      {
+        "keyword_id": 237,
+        "keyword_text": "tháng"
+      },
+      {
+        "keyword_id": 238,
+        "keyword_text": "năm"
+      },
+      {
+        "keyword_id": 4,
+        "keyword_text": "nguyên đơn"
+      },
+      {
+        "keyword_id": 5,
+        "keyword_text": "bị đơn"
+      },
+      {
+        "keyword_id": 2,
+        "keyword_text": "trình bày"
+      },
+      {
+        "keyword_id": 239,
+        "keyword_text": "đại diện"
+      },
+      {
+        "keyword_id": 1,
+        "keyword_text": "tranh chấp"
+      },
+      {
+        "keyword_id": 3,
+        "keyword_text": "khởi kiện"
+      },
+      {
+        "keyword_id": 6,
+        "keyword_text": "tại điều"
+      },
+      {
+        "keyword_id": 7,
+        "keyword_text": "theo điều"
+      },
+      {
+        "keyword_id": 8,
+        "keyword_text": "yêu cầu"
+      },
+      {
+        "keyword_id": 9,
+        "keyword_text": "đề nghị"
+      },
+      {
+        "keyword_id": 10,
+        "keyword_text": "mong muốn"
+      },
+      {
+        "keyword_id": 11,
+        "keyword_text": "đại diện nguyên đơn ủy quyền"
+      },
+      {
+        "keyword_id": 12,
+        "keyword_text": "đại diện bị đơn ủy quyền"
+      },
+      {
+        "keyword_id": 13,
+        "keyword_text": "yêu cầu giải quyết"
+      },
+      {
+        "keyword_id": 23,
+        "keyword_text": "đồng ý"
+      },
+      {
+        "keyword_id": 79,
+        "keyword_text": "chứng cứ"
+      },
+      {
+        "keyword_id": 206,
+        "keyword_text": "khiếu nại"
+      },
+      {
+        "keyword_id": 19,
+        "keyword_text": "thành phố"
+      },
+      {
+        "keyword_id": 240,
+        "keyword_text": "tp"
+      },
+      {
+        "keyword_id": 20,
+        "keyword_text": "tỉnh"
+      },
+      {
+        "keyword_id": 241,
+        "keyword_text": "quận"
+      },
+      {
+        "keyword_id": 45,
+        "keyword_text": "huyện"
+      },
+      {
+        "keyword_id": 44,
+        "keyword_text": "xã"
+      },
+      {
+        "keyword_id": 21,
+        "keyword_text": "phường"
+      },
+      {
+        "keyword_id": 242,
+        "keyword_text": "đường"
+      },
+      {
+        "keyword_id": 221,
+        "keyword_text": "tòa án"
+      },
+      {
+        "keyword_id": 243,
+        "keyword_text": "làm chứng"
+      },
+      {
+        "keyword_id": 75,
+        "keyword_text": "lời khai"
+      }
+    ]
+  },
+  {
+    "case_type_id": "service_labor_training",
+    "case_type_text": "Tranh chấp dịch vụ, tuyển dụng, đào tạo, việc làm",
+    "keywords": [
+      {
+        "keyword_id": 209,
+        "keyword_text": "lương"
+      },
+      {
+        "keyword_id": 208,
+        "keyword_text": "đào tạo"
+      },
+      {
+        "keyword_id": 216,
+        "keyword_text": "học"
+      },
+      {
+        "keyword_id": 214,
+        "keyword_text": "thử việc"
+      },
+      {
+        "keyword_id": 210,
+        "keyword_text": "mức lương"
+      },
+      {
+        "keyword_id": 207,
+        "keyword_text": "tuyển dụng"
+      },
+      {
+        "keyword_id": 29,
+        "keyword_text": "đồng"
+      },
+      {
+        "keyword_id": 35,
+        "keyword_text": "số tiền"
+      },
+      {
+        "keyword_id": 24,
+        "keyword_text": "phí"
+      },
+      {
+        "keyword_id": 31,
+        "keyword_text": "trình báo"
+      },
+      {
+        "keyword_id": 149,
+        "keyword_text": "vay"
+      },
+      {
+        "keyword_id": 34,
+        "keyword_text": "tiền"
+      },
+      {
+        "keyword_id": 159,
+        "keyword_text": "con"
+      },
+      {
+        "keyword_id": 97,
+        "keyword_text": "công ty"
+      },
+      {
+        "keyword_id": 139,
+        "keyword_text": "thông báo"
+      },
+      {
+        "keyword_id": 151,
+        "keyword_text": "trách nhiệm"
+      },
+      {
+        "keyword_id": 40,
+        "keyword_text": "nhà"
+      },
+      {
+        "keyword_id": 28,
+        "keyword_text": "triệu đồng"
+      },
+      {
+        "keyword_id": 36,
+        "keyword_text": "viện phí"
+      },
+      {
+        "keyword_id": 105,
+        "keyword_text": "lãi"
+      },
+      {
+        "keyword_id": 211,
+        "keyword_text": "việc làm"
+      },
+      {
+        "keyword_id": 33,
+        "keyword_text": "thanh toán"
+      },
+      {
+        "keyword_id": 155,
+        "keyword_text": "hồ sơ"
+      },
+      {
+        "keyword_id": 212,
+        "keyword_text": "chi phí"
+      },
+      {
+        "keyword_id": 17,
+        "keyword_text": "hợp đồng"
+      },
+      {
+        "keyword_id": 217,
+        "keyword_text": "kiện"
+      },
+      {
+        "keyword_id": 174,
+        "keyword_text": "dân sự"
+      },
+      {
+        "keyword_id": 215,
+        "keyword_text": "ký"
+      },
+      {
+        "keyword_id": 213,
+        "keyword_text": "biên nhận"
+      },
+      {
+        "keyword_id": 224,
+        "keyword_text": "buộc"
+      },
+      {
+        "keyword_id": 164,
+        "keyword_text": "gia đình"
+      },
+      {
+        "keyword_id": 52,
+        "keyword_text": "trả"
+      },
+      {
+        "keyword_id": 56,
+        "keyword_text": "thống nhất"
+      },
+      {
+        "keyword_id": 147,
+        "keyword_text": "tài khoản"
+      },
+      {
+        "keyword_id": 27,
+        "keyword_text": "nghìn đồng"
+      },
+      {
+        "keyword_id": 175,
+        "keyword_text": "vay vốn"
+      },
+      {
+        "keyword_id": 172,
+        "keyword_text": "chấp hành"
+      },
+      {
+        "keyword_id": 231,
+        "keyword_text": "sức khỏe"
+      },
+      {
+        "keyword_id": 30,
+        "keyword_text": "công an"
+      },
+      {
+        "keyword_id": 176,
+        "keyword_text": "phát triển"
+      },
+      {
+        "keyword_id": 48,
+        "keyword_text": "vợ chồng"
+      },
+      {
+        "keyword_id": 181,
+        "keyword_text": "giải ngân"
+      },
+      {
+        "keyword_id": 202,
+        "keyword_text": "hẹn"
+      },
+      {
+        "keyword_id": 180,
+        "keyword_text": "quá hạn"
+      },
+      {
+        "keyword_id": 201,
+        "keyword_text": "hứa"
+      },
+      {
+        "keyword_id": 123,
+        "keyword_text": "thủ tục"
+      },
+      {
+        "keyword_id": 118,
+        "keyword_text": "hạn"
+      },
+      {
+        "keyword_id": 196,
+        "keyword_text": "nông nghiệp"
+      },
+      {
+        "keyword_id": 219,
+        "keyword_text": "đóng"
+      },
+      {
+        "keyword_id": 96,
+        "keyword_text": "ngân hàng"
+      },
+      {
+        "keyword_id": 82,
+        "keyword_text": "xác nhận"
+      },
+      {
+        "keyword_id": 61,
+        "keyword_text": "hòa giải"
+      },
+      {
+        "keyword_id": 227,
+        "keyword_text": "bệnh viện"
+      },
+      {
+        "keyword_id": 104,
+        "keyword_text": "nợ gốc"
+      },
+      {
+        "keyword_id": 55,
+        "keyword_text": "bán"
+      },
+      {
+        "keyword_id": 98,
+        "keyword_text": "tín dụng"
+      },
+      {
+        "keyword_id": 177,
+        "keyword_text": "sửa chữa"
+      },
+      {
+        "keyword_id": 173,
+        "keyword_text": "tố tụng"
+      },
+      {
+        "keyword_id": 54,
+        "keyword_text": "mua"
+      },
+      {
+        "keyword_id": 37,
+        "keyword_text": "thiệt hại"
+      },
+      {
+        "keyword_id": 111,
+        "keyword_text": "vốn"
+      },
+      {
+        "keyword_id": 26,
+        "keyword_text": "tài sản"
+      },
+      {
+        "keyword_id": 114,
+        "keyword_text": "tỷ"
+      },
+      {
+        "keyword_id": 117,
+        "keyword_text": "khoản tiền"
+      },
+      {
+        "keyword_id": 102,
+        "keyword_text": "nợ"
+      },
+      {
+        "keyword_id": 100,
+        "keyword_text": "thế chấp"
+      },
+      {
+        "keyword_id": 146,
+        "keyword_text": "ký kết"
+      },
+      {
+        "keyword_id": 206,
+        "keyword_text": "khiếu nại"
+      },
+      {
+        "keyword_id": 226,
+        "keyword_text": "bàn giao"
+      },
+      {
+        "keyword_id": 179,
+        "keyword_text": "lãi suất"
+      },
+      {
+        "keyword_id": 22,
+        "keyword_text": "bồi thường"
+      },
+      {
+        "keyword_id": 143,
+        "keyword_text": "phát sinh"
+      },
+      {
+        "keyword_id": 128,
+        "keyword_text": "trả nợ"
+      },
+      {
+        "keyword_id": 195,
+        "keyword_text": "trồng"
+      },
+      {
+        "keyword_id": 130,
+        "keyword_text": "thu hồi"
+      },
+      {
+        "keyword_id": 203,
+        "keyword_text": "thuê"
+      },
+      {
+        "keyword_id": 132,
+        "keyword_text": "trừ"
+      },
+      {
+        "keyword_id": 200,
+        "keyword_text": "mượn"
+      },
+      {
+        "keyword_id": 125,
+        "keyword_text": "đảm bảo"
+      },
+      {
+        "keyword_id": 184,
+        "keyword_text": "nhiều lần"
+      },
+      {
+        "keyword_id": 199,
+        "keyword_text": "cây"
+      },
+      {
+        "keyword_id": 121,
+        "keyword_text": "điều kiện"
+      },
+      {
+        "keyword_id": 103,
+        "keyword_text": "gốc"
+      },
+      {
+        "keyword_id": 60,
+        "keyword_text": "giấy tờ"
+      },
+      {
+        "keyword_id": 148,
+        "keyword_text": "thỏa thuận"
+      },
+      {
+        "keyword_id": 204,
+        "keyword_text": "xây"
+      },
+      {
+        "keyword_id": 138,
+        "keyword_text": "văn bản"
+      },
+      {
+        "keyword_id": 53,
+        "keyword_text": "quyền sử dụng"
+      },
+      {
+        "keyword_id": 124,
+        "keyword_text": "đăng ký"
+      },
+      {
+        "keyword_id": 65,
+        "keyword_text": "chứng nhận"
+      },
+      {
+        "keyword_id": 15,
+        "keyword_text": "đất"
+      },
+      {
+        "keyword_id": 126,
+        "keyword_text": "thực hiện"
+      },
+      {
+        "keyword_id": 236,
+        "keyword_text": "ngày"
+      },
+      {
+        "keyword_id": 237,
+        "keyword_text": "tháng"
+      },
+      {
+        "keyword_id": 238,
+        "keyword_text": "năm"
+      },
+      {
+        "keyword_id": 4,
+        "keyword_text": "nguyên đơn"
+      },
+      {
+        "keyword_id": 5,
+        "keyword_text": "bị đơn"
+      },
+      {
+        "keyword_id": 2,
+        "keyword_text": "trình bày"
+      },
+      {
+        "keyword_id": 239,
+        "keyword_text": "đại diện"
+      },
+      {
+        "keyword_id": 1,
+        "keyword_text": "tranh chấp"
+      },
+      {
+        "keyword_id": 3,
+        "keyword_text": "khởi kiện"
+      },
+      {
+        "keyword_id": 6,
+        "keyword_text": "tại điều"
+      },
+      {
+        "keyword_id": 7,
+        "keyword_text": "theo điều"
+      },
+      {
+        "keyword_id": 8,
+        "keyword_text": "yêu cầu"
+      },
+      {
+        "keyword_id": 9,
+        "keyword_text": "đề nghị"
+      },
+      {
+        "keyword_id": 10,
+        "keyword_text": "mong muốn"
+      },
+      {
+        "keyword_id": 11,
+        "keyword_text": "đại diện nguyên đơn ủy quyền"
+      },
+      {
+        "keyword_id": 12,
+        "keyword_text": "đại diện bị đơn ủy quyền"
+      },
+      {
+        "keyword_id": 13,
+        "keyword_text": "yêu cầu giải quyết"
+      },
+      {
+        "keyword_id": 23,
+        "keyword_text": "đồng ý"
+      },
+      {
+        "keyword_id": 79,
+        "keyword_text": "chứng cứ"
+      },
+      {
+        "keyword_id": 19,
+        "keyword_text": "thành phố"
+      },
+      {
+        "keyword_id": 240,
+        "keyword_text": "tp"
+      },
+      {
+        "keyword_id": 20,
+        "keyword_text": "tỉnh"
+      },
+      {
+        "keyword_id": 241,
+        "keyword_text": "quận"
+      },
+      {
+        "keyword_id": 45,
+        "keyword_text": "huyện"
+      },
+      {
+        "keyword_id": 44,
+        "keyword_text": "xã"
+      },
+      {
+        "keyword_id": 21,
+        "keyword_text": "phường"
+      },
+      {
+        "keyword_id": 242,
+        "keyword_text": "đường"
+      },
+      {
+        "keyword_id": 221,
+        "keyword_text": "tòa án"
+      },
+      {
+        "keyword_id": 243,
+        "keyword_text": "làm chứng"
+      },
+      {
+        "keyword_id": 75,
+        "keyword_text": "lời khai"
+      }
+    ]
+  },
+  {
+    "case_type_id": "hui_dispute",
+    "case_type_text": "Tranh chấp hụi, họ, phường",
+    "keywords": [
+      {
+        "keyword_id": 218,
+        "keyword_text": "hụi"
+      },
+      {
+        "keyword_id": 102,
+        "keyword_text": "nợ"
+      },
+      {
+        "keyword_id": 34,
+        "keyword_text": "tiền"
+      },
+      {
+        "keyword_id": 105,
+        "keyword_text": "lãi"
+      },
+      {
+        "keyword_id": 21,
+        "keyword_text": "phường"
+      },
+      {
+        "keyword_id": 35,
+        "keyword_text": "số tiền"
+      },
+      {
+        "keyword_id": 213,
+        "keyword_text": "biên nhận"
+      },
+      {
+        "keyword_id": 149,
+        "keyword_text": "vay"
+      },
+      {
+        "keyword_id": 33,
+        "keyword_text": "thanh toán"
+      },
+      {
+        "keyword_id": 151,
+        "keyword_text": "trách nhiệm"
+      },
+      {
+        "keyword_id": 175,
+        "keyword_text": "vay vốn"
+      },
+      {
+        "keyword_id": 27,
+        "keyword_text": "nghìn đồng"
+      },
+      {
+        "keyword_id": 182,
+        "keyword_text": "nhận nợ"
+      },
+      {
+        "keyword_id": 201,
+        "keyword_text": "hứa"
+      },
+      {
+        "keyword_id": 48,
+        "keyword_text": "vợ chồng"
+      },
+      {
+        "keyword_id": 205,
+        "keyword_text": "chịu trách nhiệm"
+      },
+      {
+        "keyword_id": 202,
+        "keyword_text": "hẹn"
+      },
+      {
+        "keyword_id": 101,
+        "keyword_text": "khoản nợ"
+      },
+      {
+        "keyword_id": 52,
+        "keyword_text": "trả"
+      },
+      {
+        "keyword_id": 90,
+        "keyword_text": "thừa nhận có"
+      },
+      {
+        "keyword_id": 117,
+        "keyword_text": "khoản tiền"
+      },
+      {
+        "keyword_id": 159,
+        "keyword_text": "con"
+      },
+      {
+        "keyword_id": 217,
+        "keyword_text": "kiện"
+      },
+      {
+        "keyword_id": 164,
+        "keyword_text": "gia đình"
+      },
+      {
+        "keyword_id": 111,
+        "keyword_text": "vốn"
+      },
+      {
+        "keyword_id": 28,
+        "keyword_text": "triệu đồng"
+      },
+      {
+        "keyword_id": 128,
+        "keyword_text": "trả nợ"
+      },
+      {
+        "keyword_id": 116,
+        "keyword_text": "hoàn trả"
+      },
+      {
+        "keyword_id": 179,
+        "keyword_text": "lãi suất"
+      },
+      {
+        "keyword_id": 132,
+        "keyword_text": "trừ"
+      },
+      {
+        "keyword_id": 83,
+        "keyword_text": "thừa nhận"
+      },
+      {
+        "keyword_id": 60,
+        "keyword_text": "giấy tờ"
+      },
+      {
+        "keyword_id": 80,
+        "keyword_text": "quan hệ"
+      },
+      {
+        "keyword_id": 121,
+        "keyword_text": "điều kiện"
+      },
+      {
+        "keyword_id": 172,
+        "keyword_text": "chấp hành"
+      },
+      {
+        "keyword_id": 157,
+        "keyword_text": "tài liệu"
+      },
+      {
+        "keyword_id": 212,
+        "keyword_text": "chi phí"
+      },
+      {
+        "keyword_id": 103,
+        "keyword_text": "gốc"
+      },
+      {
+        "keyword_id": 138,
+        "keyword_text": "văn bản"
+      },
+      {
+        "keyword_id": 123,
+        "keyword_text": "thủ tục"
+      },
+      {
+        "keyword_id": 24,
+        "keyword_text": "phí"
+      },
+      {
+        "keyword_id": 61,
+        "keyword_text": "hòa giải"
+      },
+      {
+        "keyword_id": 118,
+        "keyword_text": "hạn"
+      },
+      {
+        "keyword_id": 148,
+        "keyword_text": "thỏa thuận"
+      },
+      {
+        "keyword_id": 55,
+        "keyword_text": "bán"
+      },
+      {
+        "keyword_id": 126,
+        "keyword_text": "thực hiện"
+      },
+      {
+        "keyword_id": 56,
+        "keyword_text": "thống nhất"
+      },
+      {
+        "keyword_id": 173,
+        "keyword_text": "tố tụng"
+      },
+      {
+        "keyword_id": 26,
+        "keyword_text": "tài sản"
+      },
+      {
+        "keyword_id": 224,
+        "keyword_text": "buộc"
+      },
+      {
+        "keyword_id": 215,
+        "keyword_text": "ký"
+      },
+      {
+        "keyword_id": 40,
+        "keyword_text": "nhà"
+      },
+      {
+        "keyword_id": 236,
+        "keyword_text": "ngày"
+      },
+      {
+        "keyword_id": 237,
+        "keyword_text": "tháng"
+      },
+      {
+        "keyword_id": 238,
+        "keyword_text": "năm"
+      },
+      {
+        "keyword_id": 4,
+        "keyword_text": "nguyên đơn"
+      },
+      {
+        "keyword_id": 5,
+        "keyword_text": "bị đơn"
+      },
+      {
+        "keyword_id": 2,
+        "keyword_text": "trình bày"
+      },
+      {
+        "keyword_id": 239,
+        "keyword_text": "đại diện"
+      },
+      {
+        "keyword_id": 1,
+        "keyword_text": "tranh chấp"
+      },
+      {
+        "keyword_id": 3,
+        "keyword_text": "khởi kiện"
+      },
+      {
+        "keyword_id": 6,
+        "keyword_text": "tại điều"
+      },
+      {
+        "keyword_id": 7,
+        "keyword_text": "theo điều"
+      },
+      {
+        "keyword_id": 8,
+        "keyword_text": "yêu cầu"
+      },
+      {
+        "keyword_id": 9,
+        "keyword_text": "đề nghị"
+      },
+      {
+        "keyword_id": 10,
+        "keyword_text": "mong muốn"
+      },
+      {
+        "keyword_id": 11,
+        "keyword_text": "đại diện nguyên đơn ủy quyền"
+      },
+      {
+        "keyword_id": 12,
+        "keyword_text": "đại diện bị đơn ủy quyền"
+      },
+      {
+        "keyword_id": 13,
+        "keyword_text": "yêu cầu giải quyết"
+      },
+      {
+        "keyword_id": 23,
+        "keyword_text": "đồng ý"
+      },
+      {
+        "keyword_id": 79,
+        "keyword_text": "chứng cứ"
+      },
+      {
+        "keyword_id": 206,
+        "keyword_text": "khiếu nại"
+      },
+      {
+        "keyword_id": 19,
+        "keyword_text": "thành phố"
+      },
+      {
+        "keyword_id": 240,
+        "keyword_text": "tp"
+      },
+      {
+        "keyword_id": 20,
+        "keyword_text": "tỉnh"
+      },
+      {
+        "keyword_id": 241,
+        "keyword_text": "quận"
+      },
+      {
+        "keyword_id": 45,
+        "keyword_text": "huyện"
+      },
+      {
+        "keyword_id": 44,
+        "keyword_text": "xã"
+      },
+      {
+        "keyword_id": 242,
+        "keyword_text": "đường"
+      },
+      {
+        "keyword_id": 221,
+        "keyword_text": "tòa án"
+      },
+      {
+        "keyword_id": 243,
+        "keyword_text": "làm chứng"
+      },
+      {
+        "keyword_id": 75,
+        "keyword_text": "lời khai"
+      }
+    ]
+  },
+  {
+    "case_type_id": "cooperation_contract",
+    "case_type_text": "Tranh chấp hợp đồng hợp tác, hùn vốn, chia lời lỗ",
+    "keywords": [
+      {
+        "keyword_id": 91,
+        "keyword_text": "thừa nhận đã"
+      },
+      {
+        "keyword_id": 142,
+        "keyword_text": "cửa hàng"
+      },
+      {
+        "keyword_id": 188,
+        "keyword_text": "hợp tác"
+      },
+      {
+        "keyword_id": 203,
+        "keyword_text": "thuê"
+      },
+      {
+        "keyword_id": 211,
+        "keyword_text": "việc làm"
+      },
+      {
+        "keyword_id": 111,
+        "keyword_text": "vốn"
+      },
+      {
+        "keyword_id": 205,
+        "keyword_text": "chịu trách nhiệm"
+      },
+      {
+        "keyword_id": 17,
+        "keyword_text": "hợp đồng"
+      },
+      {
+        "keyword_id": 34,
+        "keyword_text": "tiền"
+      },
+      {
+        "keyword_id": 219,
+        "keyword_text": "đóng"
+      },
+      {
+        "keyword_id": 29,
+        "keyword_text": "đồng"
+      },
+      {
+        "keyword_id": 163,
+        "keyword_text": "hộ khẩu"
+      },
+      {
+        "keyword_id": 206,
+        "keyword_text": "khiếu nại"
+      },
+      {
+        "keyword_id": 116,
+        "keyword_text": "hoàn trả"
+      },
+      {
+        "keyword_id": 83,
+        "keyword_text": "thừa nhận"
+      },
+      {
+        "keyword_id": 96,
+        "keyword_text": "ngân hàng"
+      },
+      {
+        "keyword_id": 97,
+        "keyword_text": "công ty"
+      },
+      {
+        "keyword_id": 200,
+        "keyword_text": "mượn"
+      },
+      {
+        "keyword_id": 55,
+        "keyword_text": "bán"
+      },
+      {
+        "keyword_id": 22,
+        "keyword_text": "bồi thường"
+      },
+      {
+        "keyword_id": 80,
+        "keyword_text": "quan hệ"
+      },
+      {
+        "keyword_id": 225,
+        "keyword_text": "lợi ích"
+      },
+      {
+        "keyword_id": 52,
+        "keyword_text": "trả"
+      },
+      {
+        "keyword_id": 61,
+        "keyword_text": "hòa giải"
+      },
+      {
+        "keyword_id": 87,
+        "keyword_text": "giá trị"
+      },
+      {
+        "keyword_id": 54,
+        "keyword_text": "mua"
+      },
+      {
+        "keyword_id": 105,
+        "keyword_text": "lãi"
+      },
+      {
+        "keyword_id": 172,
+        "keyword_text": "chấp hành"
+      },
+      {
+        "keyword_id": 86,
+        "keyword_text": "định giá"
+      },
+      {
+        "keyword_id": 118,
+        "keyword_text": "hạn"
+      },
+      {
+        "keyword_id": 148,
+        "keyword_text": "thỏa thuận"
+      },
+      {
+        "keyword_id": 56,
+        "keyword_text": "thống nhất"
+      },
+      {
+        "keyword_id": 151,
+        "keyword_text": "trách nhiệm"
+      },
+      {
+        "keyword_id": 51,
+        "keyword_text": "sổ"
+      },
+      {
+        "keyword_id": 26,
+        "keyword_text": "tài sản"
+      },
+      {
+        "keyword_id": 123,
+        "keyword_text": "thủ tục"
+      },
+      {
+        "keyword_id": 165,
+        "keyword_text": "quản lý"
+      },
+      {
+        "keyword_id": 138,
+        "keyword_text": "văn bản"
+      },
+      {
+        "keyword_id": 82,
+        "keyword_text": "xác nhận"
+      },
+      {
+        "keyword_id": 35,
+        "keyword_text": "số tiền"
+      },
+      {
+        "keyword_id": 215,
+        "keyword_text": "ký"
+      },
+      {
+        "keyword_id": 174,
+        "keyword_text": "dân sự"
+      },
+      {
+        "keyword_id": 173,
+        "keyword_text": "tố tụng"
+      },
+      {
+        "keyword_id": 224,
+        "keyword_text": "buộc"
+      },
+      {
+        "keyword_id": 149,
+        "keyword_text": "vay"
+      },
+      {
+        "keyword_id": 217,
+        "keyword_text": "kiện"
+      },
+      {
+        "keyword_id": 40,
+        "keyword_text": "nhà"
+      },
+      {
+        "keyword_id": 159,
+        "keyword_text": "con"
+      },
+      {
+        "keyword_id": 236,
+        "keyword_text": "ngày"
+      },
+      {
+        "keyword_id": 237,
+        "keyword_text": "tháng"
+      },
+      {
+        "keyword_id": 238,
+        "keyword_text": "năm"
+      },
+      {
+        "keyword_id": 4,
+        "keyword_text": "nguyên đơn"
+      },
+      {
+        "keyword_id": 5,
+        "keyword_text": "bị đơn"
+      },
+      {
+        "keyword_id": 2,
+        "keyword_text": "trình bày"
+      },
+      {
+        "keyword_id": 239,
+        "keyword_text": "đại diện"
+      },
+      {
+        "keyword_id": 1,
+        "keyword_text": "tranh chấp"
+      },
+      {
+        "keyword_id": 3,
+        "keyword_text": "khởi kiện"
+      },
+      {
+        "keyword_id": 6,
+        "keyword_text": "tại điều"
+      },
+      {
+        "keyword_id": 7,
+        "keyword_text": "theo điều"
+      },
+      {
+        "keyword_id": 8,
+        "keyword_text": "yêu cầu"
+      },
+      {
+        "keyword_id": 9,
+        "keyword_text": "đề nghị"
+      },
+      {
+        "keyword_id": 10,
+        "keyword_text": "mong muốn"
+      },
+      {
+        "keyword_id": 11,
+        "keyword_text": "đại diện nguyên đơn ủy quyền"
+      },
+      {
+        "keyword_id": 12,
+        "keyword_text": "đại diện bị đơn ủy quyền"
+      },
+      {
+        "keyword_id": 13,
+        "keyword_text": "yêu cầu giải quyết"
+      },
+      {
+        "keyword_id": 23,
+        "keyword_text": "đồng ý"
+      },
+      {
+        "keyword_id": 79,
+        "keyword_text": "chứng cứ"
+      },
+      {
+        "keyword_id": 19,
+        "keyword_text": "thành phố"
+      },
+      {
+        "keyword_id": 240,
+        "keyword_text": "tp"
+      },
+      {
+        "keyword_id": 20,
+        "keyword_text": "tỉnh"
+      },
+      {
+        "keyword_id": 241,
+        "keyword_text": "quận"
+      },
+      {
+        "keyword_id": 45,
+        "keyword_text": "huyện"
+      },
+      {
+        "keyword_id": 44,
+        "keyword_text": "xã"
+      },
+      {
+        "keyword_id": 21,
+        "keyword_text": "phường"
+      },
+      {
+        "keyword_id": 242,
+        "keyword_text": "đường"
+      },
+      {
+        "keyword_id": 221,
+        "keyword_text": "tòa án"
+      },
+      {
+        "keyword_id": 243,
+        "keyword_text": "làm chứng"
+      },
+      {
+        "keyword_id": 75,
+        "keyword_text": "lời khai"
+      }
+    ]
+  },
+  {
+    "case_type_id": "property_claim",
+    "case_type_text": "Tranh chấp đòi tài sản, hoàn trả tài sản",
+    "keywords": [
+      {
+        "keyword_id": 154,
+        "keyword_text": "chủ sở hữu"
+      },
+      {
+        "keyword_id": 97,
+        "keyword_text": "công ty"
+      },
+      {
+        "keyword_id": 63,
+        "keyword_text": "chấm dứt"
+      },
+      {
+        "keyword_id": 30,
+        "keyword_text": "công an"
+      },
+      {
+        "keyword_id": 193,
+        "keyword_text": "sản xuất"
+      },
+      {
+        "keyword_id": 90,
+        "keyword_text": "thừa nhận có"
+      },
+      {
+        "keyword_id": 156,
+        "keyword_text": "pháp lý"
+      },
+      {
+        "keyword_id": 117,
+        "keyword_text": "khoản tiền"
+      },
+      {
+        "keyword_id": 111,
+        "keyword_text": "vốn"
+      },
+      {
+        "keyword_id": 146,
+        "keyword_text": "ký kết"
+      },
+      {
+        "keyword_id": 203,
+        "keyword_text": "thuê"
+      },
+      {
+        "keyword_id": 26,
+        "keyword_text": "tài sản"
+      },
+      {
+        "keyword_id": 151,
+        "keyword_text": "trách nhiệm"
+      },
+      {
+        "keyword_id": 68,
+        "keyword_text": "sở hữu"
+      },
+      {
+        "keyword_id": 118,
+        "keyword_text": "hạn"
+      },
+      {
+        "keyword_id": 17,
+        "keyword_text": "hợp đồng"
+      },
+      {
+        "keyword_id": 55,
+        "keyword_text": "bán"
+      },
+      {
+        "keyword_id": 200,
+        "keyword_text": "mượn"
+      },
+      {
+        "keyword_id": 217,
+        "keyword_text": "kiện"
+      },
+      {
+        "keyword_id": 130,
+        "keyword_text": "thu hồi"
+      },
+      {
+        "keyword_id": 184,
+        "keyword_text": "nhiều lần"
+      },
+      {
+        "keyword_id": 199,
+        "keyword_text": "cây"
+      },
+      {
+        "keyword_id": 52,
+        "keyword_text": "trả"
+      },
+      {
+        "keyword_id": 83,
+        "keyword_text": "thừa nhận"
+      },
+      {
+        "keyword_id": 139,
+        "keyword_text": "thông báo"
+      },
+      {
+        "keyword_id": 204,
+        "keyword_text": "xây"
+      },
+      {
+        "keyword_id": 18,
+        "keyword_text": "chuyển nhượng"
+      },
+      {
+        "keyword_id": 153,
+        "keyword_text": "thẩm định"
+      },
+      {
+        "keyword_id": 87,
+        "keyword_text": "giá trị"
+      },
+      {
+        "keyword_id": 157,
+        "keyword_text": "tài liệu"
+      },
+      {
+        "keyword_id": 215,
+        "keyword_text": "ký"
+      },
+      {
+        "keyword_id": 86,
+        "keyword_text": "định giá"
+      },
+      {
+        "keyword_id": 82,
+        "keyword_text": "xác nhận"
+      },
+      {
+        "keyword_id": 40,
+        "keyword_text": "nhà"
+      },
+      {
+        "keyword_id": 138,
+        "keyword_text": "văn bản"
+      },
+      {
+        "keyword_id": 165,
+        "keyword_text": "quản lý"
+      },
+      {
+        "keyword_id": 124,
+        "keyword_text": "đăng ký"
+      },
+      {
+        "keyword_id": 54,
+        "keyword_text": "mua"
+      },
+      {
+        "keyword_id": 126,
+        "keyword_text": "thực hiện"
+      },
+      {
+        "keyword_id": 103,
+        "keyword_text": "gốc"
+      },
+      {
+        "keyword_id": 149,
+        "keyword_text": "vay"
+      },
+      {
+        "keyword_id": 65,
+        "keyword_text": "chứng nhận"
+      },
+      {
+        "keyword_id": 34,
+        "keyword_text": "tiền"
+      },
+      {
+        "keyword_id": 15,
+        "keyword_text": "đất"
+      },
+      {
+        "keyword_id": 159,
+        "keyword_text": "con"
+      },
+      {
+        "keyword_id": 236,
+        "keyword_text": "ngày"
+      },
+      {
+        "keyword_id": 237,
+        "keyword_text": "tháng"
+      },
+      {
+        "keyword_id": 238,
+        "keyword_text": "năm"
+      },
+      {
+        "keyword_id": 4,
+        "keyword_text": "nguyên đơn"
+      },
+      {
+        "keyword_id": 5,
+        "keyword_text": "bị đơn"
+      },
+      {
+        "keyword_id": 2,
+        "keyword_text": "trình bày"
+      },
+      {
+        "keyword_id": 239,
+        "keyword_text": "đại diện"
+      },
+      {
+        "keyword_id": 1,
+        "keyword_text": "tranh chấp"
+      },
+      {
+        "keyword_id": 3,
+        "keyword_text": "khởi kiện"
+      },
+      {
+        "keyword_id": 6,
+        "keyword_text": "tại điều"
+      },
+      {
+        "keyword_id": 7,
+        "keyword_text": "theo điều"
+      },
+      {
+        "keyword_id": 8,
+        "keyword_text": "yêu cầu"
+      },
+      {
+        "keyword_id": 9,
+        "keyword_text": "đề nghị"
+      },
+      {
+        "keyword_id": 10,
+        "keyword_text": "mong muốn"
+      },
+      {
+        "keyword_id": 11,
+        "keyword_text": "đại diện nguyên đơn ủy quyền"
+      },
+      {
+        "keyword_id": 12,
+        "keyword_text": "đại diện bị đơn ủy quyền"
+      },
+      {
+        "keyword_id": 13,
+        "keyword_text": "yêu cầu giải quyết"
+      },
+      {
+        "keyword_id": 23,
+        "keyword_text": "đồng ý"
+      },
+      {
+        "keyword_id": 79,
+        "keyword_text": "chứng cứ"
+      },
+      {
+        "keyword_id": 206,
+        "keyword_text": "khiếu nại"
+      },
+      {
+        "keyword_id": 19,
+        "keyword_text": "thành phố"
+      },
+      {
+        "keyword_id": 240,
+        "keyword_text": "tp"
+      },
+      {
+        "keyword_id": 20,
+        "keyword_text": "tỉnh"
+      },
+      {
+        "keyword_id": 241,
+        "keyword_text": "quận"
+      },
+      {
+        "keyword_id": 45,
+        "keyword_text": "huyện"
+      },
+      {
+        "keyword_id": 44,
+        "keyword_text": "xã"
+      },
+      {
+        "keyword_id": 21,
+        "keyword_text": "phường"
+      },
+      {
+        "keyword_id": 242,
+        "keyword_text": "đường"
+      },
+      {
+        "keyword_id": 221,
+        "keyword_text": "tòa án"
+      },
+      {
+        "keyword_id": 243,
+        "keyword_text": "làm chứng"
+      },
+      {
+        "keyword_id": 75,
+        "keyword_text": "lời khai"
+      }
+    ]
+  }
+]

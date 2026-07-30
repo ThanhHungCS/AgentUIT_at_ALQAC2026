@@ -1,0 +1,27 @@
+{
+  "paths": {
+    "public_cases": "data/ALQAC2026_public_test.json",
+    "keyword_corpus_simple": "data/keyword_corpora_by_case_type.simple.json",
+    "case_type_predictions": "outputs/llm_case_type_classification/public_llm_case_type_predictions.json",
+    "case_query_keywords_batch": "outputs/llm_case_query_keywords/public_llm_case_query_keywords.json",
+    "case_query_keywords_dir": "outputs/llm_case_query_keywords/public_tests",
+    "optimizer_output_dir": "optimizer_outputs/evolution_query_optimizer",
+    "blueprint_registry": "blueprints/best_query_blueprints.json",
+    "api_cache": ".cache/case_retrieval_cache.json",
+    "output_jsonl": "outputs/public_api_evidence_retrieval.jsonl"
+  },
+  "exclude_case_type_ids": [],
+  "keyword_fallback_strategy": "heuristic",
+  "slot_types": {
+    "name": 10,
+    "noun": 10,
+    "number": 10,
+    "verb": 10,
+    "location": 10,
+    "adjective": 10
+  },
+  "api": {
+    "insecure": true,
+    "min_seconds_between_calls": 5.2
+  }
+}

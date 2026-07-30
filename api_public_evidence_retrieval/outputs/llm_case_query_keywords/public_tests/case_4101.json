@@ -1,0 +1,59 @@
+{
+  "case_id": "case_4101",
+  "split": "public",
+  "case_query": "Chị Lê Thị T khởi kiện anh Chử Lương D và chị Đỗ Thị Thanh T về tranh chấp bồi thường thiệt hại ngoài hợp đồng do chó nhà bị thả rông đuổi cắn làm chị T ngã xe, gây hư hỏng xe máy và chấn thương. Chị T yêu cầu bồi thường chi phí sửa xe máy và viện phí ngoại trú. Agent dự đoán ai được chấp nhận yêu cầu?",
+  "keywords": [
+    {
+      "keyword_id": "name1",
+      "type": "name",
+      "keyword_text": "Chị Lê Thị T"
+    },
+    {
+      "keyword_id": "name2",
+      "type": "name",
+      "keyword_text": "anh Chử Lương D"
+    },
+    {
+      "keyword_id": "name3",
+      "type": "name",
+      "keyword_text": "chị Đỗ Thị Thanh T"
+    },
+    {
+      "keyword_id": "noun1",
+      "type": "noun",
+      "keyword_text": "chó nhà"
+    },
+    {
+      "keyword_id": "noun2",
+      "type": "noun",
+      "keyword_text": "xe"
+    },
+    {
+      "keyword_id": "noun3",
+      "type": "noun",
+      "keyword_text": "xe máy"
+    },
+    {
+      "keyword_id": "noun4",
+      "type": "noun",
+      "keyword_text": "chấn thương"
+    },
+    {
+      "keyword_id": "noun5",
+      "type": "noun",
+      "keyword_text": "thu phí ngoại trú"
+    },
+    {
+      "keyword_id": "name4",
+      "type": "name",
+      "keyword_text": "chi phí sửa xe máy"
+    }
+  ],
+  "keyword_count": 9,
+  "keyword_id_prefix_counts": {
+    "noun": 5,
+    "name": 4
+  },
+  "elapsed_seconds": 28.214,
+  "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Chị Lê Thị T\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"anh Chử Lương D\"\n    },\n    {\n      \"keyword_id\": \"name3\",\n      \"type\": \"name\",\n      \"keyword_text\": \"chị Đỗ Thị Thanh T\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"chó nhà\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"xe\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"xe máy\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"chấn thương\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"thu phí ngoại trú\"\n    },\n    {\n      \"keyword_id\": \"noun6\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"chi phí sửa xe máy\"\n    }\n  ]\n}"
+}

@@ -1,0 +1,50 @@
+{
+  "case_id": "case_4588",
+  "split": "public",
+  "case_query": "Ông NVP và bà NNS tranh chấp về thừa kế, chia di sản và tài sản chung đối với căn nhà 161G BVĐ, Phường 6, Quận 4, TP Hồ Chí Minh; di sản là ½ giá trị căn nhà do cha mẹ để lại chưa chia, có di chúc ngày 22/5/2006. Nguyên đơn yêu cầu chia đều giá trị di sản cho 10 anh chị em, theo giá trị. Agent dự đoán nguyên đơn thắng kiện hay bị đơn thắng kiện?",
+  "keywords": [
+    {
+      "keyword_id": "name1",
+      "type": "name",
+      "keyword_text": "Ông NVP"
+    },
+    {
+      "keyword_id": "name2",
+      "type": "name",
+      "keyword_text": "bà NNS"
+    },
+    {
+      "keyword_id": "number1",
+      "type": "number",
+      "keyword_text": "căn nhà 161G BVĐ"
+    },
+    {
+      "keyword_id": "noun1",
+      "type": "noun",
+      "keyword_text": "căn nhà"
+    },
+    {
+      "keyword_id": "noun2",
+      "type": "noun",
+      "keyword_text": "di sản"
+    },
+    {
+      "keyword_id": "noun3",
+      "type": "noun",
+      "keyword_text": "tài sản chung"
+    },
+    {
+      "keyword_id": "noun4",
+      "type": "noun",
+      "keyword_text": "di chúc"
+    }
+  ],
+  "keyword_count": 7,
+  "keyword_id_prefix_counts": {
+    "noun": 4,
+    "name": 2,
+    "number": 1
+  },
+  "elapsed_seconds": 67.231,
+  "raw_output": "{\n  \"keywords\": [\n    {\n      \"keyword_id\": \"name1\",\n      \"type\": \"name\",\n      \"keyword_text\": \"Ông NVP\"\n    },\n    {\n      \"keyword_id\": \"name2\",\n      \"type\": \"name\",\n      \"keyword_text\": \"bà NNS\"\n    },\n    {\n      \"keyword_id\": \"noun1\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"căn nhà 161G BVĐ\"\n    },\n    {\n      \"keyword_id\": \"noun2\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"căn nhà\"\n    },\n    {\n      \"keyword_id\": \"noun3\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"di sản\"\n    },\n    {\n      \"keyword_id\": \"noun4\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"tài sản chung\"\n    },\n    {\n      \"keyword_id\": \"noun5\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"căn nhà\"\n    },\n    {\n      \"keyword_id\": \"noun6\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"di sản\"\n    },\n    {\n      \"keyword_id\": \"noun7\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"di chúc\"\n    },\n    {\n      \"keyword_id\": \"noun8\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"căn nhà\"\n    },\n    {\n      \"keyword_id\": \"noun9\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"căn nhà\"\n    },\n    {\n      \"keyword_id\": \"noun10\",\n      \"type\": \"noun\",\n      \"keyword_text\": \"căn nhà\"\n    },\n    {\n      \"keyword_id\": \""
+}
