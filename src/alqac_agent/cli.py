@@ -2,11 +2,14 @@ from __future__ import annotations
 
 import argparse
 import json
+from dataclasses import replace
 from pathlib import Path
 
 from .config import Settings
 from .data import load_cases, load_law_articles, load_public_examples
 from .evaluation import evaluate_outcomes, prepare_public_input
+from .ljp_graph import run_ljp_public
+from .llm import LegalAgents
 from .probing import derive_fact_query_report, probe_evidence_queries
 from .retrieval import LawRetriever
 from .runner import run_batch
@@ -99,6 +102,35 @@ def _parser() -> argparse.ArgumentParser:
             "<output>.evidence.json"
         ),
     )
+
+    ljp = subparsers.add_parser(
+        "run-ljp",
+        help="chạy workflow Legal Judgment Prediction từ case_fact, không gọi ALQAC API",
+    )
+    ljp.add_argument("--input", default="ALQAC2026_public_test.json")
+    ljp.add_argument("--laws", default="corpus_law_pub.json")
+    ljp.add_argument("--output", default="runs/submission.ljp.public.json")
+    ljp.add_argument(
+        "--model",
+        default="qwen3.5-9b",
+        help="model alias served by the OpenAI-compatible LLM server",
+    )
+    ljp.add_argument("--llm-base-url", default=None)
+    ljp.add_argument("--llm-provider", default=None, choices=("vllm", "ollama", "groq"))
+    ljp.add_argument(
+        "--structured-method",
+        default=None,
+        choices=("json_schema", "prompt_json"),
+    )
+    ljp.add_argument("--limit", type=int)
+    ljp.add_argument("--no-resume", action="store_true")
+    ljp.add_argument("--no-llm", action="store_true")
+    ljp.add_argument("--law-candidates", type=int, default=18)
+    ljp.add_argument(
+        "--trace-output",
+        default=None,
+        help="optional debug trace path with processed input, law query, laws and reasoning",
+    )
     return parser
 
 
@@ -174,6 +206,32 @@ def main() -> None:
                 ensure_ascii=False,
                 indent=2,
             )
+        )
+        return
+    if args.command == "run-ljp":
+        settings = Settings.from_env()
+        overrides = {"llm_structured_method": "prompt_json"}
+        if args.model is not None:
+            overrides["llm_model"] = args.model
+        if args.llm_base_url is not None:
+            overrides["llm_base_url"] = args.llm_base_url
+        if args.llm_provider is not None:
+            overrides["llm_provider"] = args.llm_provider
+        if args.structured_method is not None:
+            overrides["llm_structured_method"] = args.structured_method
+        if overrides:
+            settings = replace(settings, **overrides)
+        settings.validate_for_run(require_api_key=False)
+        agents = None if args.no_llm else LegalAgents(settings)
+        run_ljp_public(
+            input_path=args.input,
+            law_path=args.laws,
+            output_path=args.output,
+            judge=agents,
+            limit=args.limit,
+            resume=not args.no_resume,
+            law_candidates=args.law_candidates,
+            trace_output_path=args.trace_output,
         )
         return
     run_batch(

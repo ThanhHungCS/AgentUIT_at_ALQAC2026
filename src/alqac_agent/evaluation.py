@@ -37,10 +37,20 @@ def evaluate_outcomes(
     gold = {str(item["case_id"]): str(item["verdict_label"]) for item in gold_raw}
     predictions: dict[str, str] = {}
     for raw in prediction_raw:
-        item = SubmissionItem.model_validate(raw)
-        if item.case_id in predictions:
-            raise ValueError(f"Prediction trùng case_id: {item.case_id}")
-        predictions[item.case_id] = item.prediction
+        if not isinstance(raw, dict):
+            raise ValueError("Prediction item phải là JSON object")
+        if set(raw) >= {"case_id", "prediction"} and "case_evidence" not in raw:
+            case_id = str(raw["case_id"])
+            prediction = str(raw["prediction"])
+        else:
+            item = SubmissionItem.model_validate(raw)
+            case_id = item.case_id
+            prediction = item.prediction
+        if case_id in predictions:
+            raise ValueError(f"Prediction trùng case_id: {case_id}")
+        if prediction not in LABELS:
+            raise ValueError(f"Prediction label không hợp lệ: {prediction}")
+        predictions[case_id] = prediction
 
     unknown = sorted(set(predictions) - set(gold))
     if unknown:

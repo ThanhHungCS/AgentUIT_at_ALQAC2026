@@ -59,7 +59,8 @@ cd AgentUIT_at_ALQAC2026
 python -m venv .venv
 source .venv/bin/activate
 python -m pip install -U pip
-python -m pip install -e ".[dev]"
+python -m pip install -r requirements.txt
+python -m pip install -e .
 ```
 
 On Windows PowerShell:
@@ -71,7 +72,8 @@ cd AgentUIT_at_ALQAC2026
 py -3.11 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install -U pip
-python -m pip install -e ".[dev]"
+python -m pip install -r requirements.txt
+python -m pip install -e .
 ```
 
 Run the offline checks:
@@ -202,7 +204,8 @@ Smoke test one case:
 
 ```bash
 python api_public_evidence_retrieval/src/test_public_case_query_keyword_extractor.py \
-  --case-id case_4588
+  --case-id case_4588 \
+  --no-save
 ```
 
 ## Retrieve Public Evidence
@@ -326,6 +329,76 @@ runs/submission.private.json.evidence.json
 
 The first file follows the ALQAC submission schema. The second file stores a
 development trace with prompts, retrieved chunks, decisions, and law candidates.
+
+## Run Legal Judgment Prediction From Case Facts
+
+This workflow is separate from the original ALQAC evidence-retrieval graph. It
+does not call the ALQAC Case Content API and does not retrieve case evidence.
+The input is the `case_fact` field from `ALQAC2026_public_test.json`; the graph
+builds local case-fact snippets, retrieves law articles from `corpus_law_pub.json`
+with the same BM25 law retriever, extracts the disposition, and predicts the
+judgment label. The output contains only `case_id` and `prediction`; internal
+snippets, law query, retrieved laws, and reasoning details can be saved with
+`--trace-output`.
+
+Run a smoke test:
+
+```bash
+alqac-agent run-ljp \
+  --input ALQAC2026_public_test.json \
+  --laws corpus_law_pub.json \
+  --output runs/submission.ljp.public.limit1.json \
+  --trace-output runs/submission.ljp.public.limit1.trace.json \
+  --limit 1 \
+  --model qwen3.5-9b \
+  --llm-provider vllm \
+  --llm-base-url http://127.0.0.1:8000/v1 \
+  --structured-method prompt_json \
+  --no-resume
+```
+
+Evaluate:
+
+```bash
+alqac-agent evaluate \
+  --gold ALQAC2026_public_test.json \
+  --predictions runs/submission.ljp.public.limit1.json
+```
+
+For a llama.cpp server on Vast.ai, start a GGUF model with an OpenAI-compatible
+endpoint:
+
+```bash
+llama serve \
+  -hf unsloth/Qwen3.5-9B-GGUF:UD-Q4_K_XL \
+  --host 0.0.0.0 \
+  --port 8000 \
+  -ngl all \
+  -c 16384 \
+  -np 1 \
+  -a qwen3.5-9b
+```
+
+Then run the full case-fact LJP graph:
+
+```bash
+alqac-agent run-ljp \
+  --input ALQAC2026_public_test.json \
+  --laws corpus_law_pub.json \
+  --output runs/submission.ljp.public.json \
+  --trace-output runs/submission.ljp.public.trace.json \
+  --model qwen3.5-9b \
+  --llm-provider vllm \
+  --llm-base-url http://127.0.0.1:8000/v1 \
+  --structured-method prompt_json \
+  --no-resume
+```
+
+For an ablation without any LLM server, add `--no-llm`; this uses only local
+case-fact cues, BM25 law retrieval, and deterministic outcome rules.
+
+See [docs/vastai_llamacpp_ljp.md](docs/vastai_llamacpp_ljp.md) for the full
+Vast.ai setup and run guide.
 
 ## Main Configuration Variables
 

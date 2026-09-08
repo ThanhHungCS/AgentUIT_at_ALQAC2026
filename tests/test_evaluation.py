@@ -33,3 +33,31 @@ def test_prepare_and_evaluate_public(tmp_path):
     metrics = evaluate_outcomes(source, predictions)
     assert metrics["accuracy"] == 0.5
     assert metrics["coverage"] == 1.0
+
+
+def test_evaluate_minimal_ljp_predictions(tmp_path):
+    source = tmp_path / "public.json"
+    predictions = tmp_path / "predictions.json"
+    source.write_text(
+        json.dumps(
+            [
+                {"case_id": "x", "case_query": "q1", "verdict_label": "A_WIN"},
+                {"case_id": "y", "case_query": "q2", "verdict_label": "B_WIN"},
+            ]
+        ),
+        encoding="utf-8",
+    )
+    predictions.write_text(
+        json.dumps(
+            [
+                {"case_id": "x", "prediction": "A_WIN"},
+                {"case_id": "y", "prediction": "B_WIN"},
+            ]
+        ),
+        encoding="utf-8",
+    )
+
+    metrics = evaluate_outcomes(source, predictions)
+
+    assert metrics["accuracy"] == 1.0
+    assert metrics["coverage"] == 1.0
