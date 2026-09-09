@@ -238,13 +238,13 @@ def _metric_row(info: ExperimentInfo, metrics: dict[str, Any]) -> dict[str, str]
         "Params": info.params,
         "Domain": info.domain,
         "Method": METHOD_LABELS[info.mode],
-        "Accuracy": str(metrics.get("accuracy", "")),
-        "Macro-F1": str(metrics.get("macro_f1", "")),
-        "Coverage": str(metrics.get("coverage", "")),
+        "Accuracy": _format_metric(metrics.get("accuracy", "")),
+        "Macro-F1": _format_metric(metrics.get("macro_f1", "")),
+        "Coverage": _format_metric(metrics.get("coverage", "")),
         "Confusion Matrix": f"confusion_matrices/{info.experiment_id}.confusion_matrix.json",
     }
     for label in LABELS:
-        row[f"{label} F1"] = str(per_label.get(label, {}).get("f1", ""))
+        row[f"{label} F1"] = _format_metric(per_label.get(label, {}).get("f1", ""))
     return row
 
 
@@ -254,10 +254,17 @@ def _delta_row(base: dict[str, str], method: dict[str, str]) -> dict[str, str]:
     row["Confusion Matrix"] = ""
     for column in METRIC_COLUMNS:
         try:
-            row[column] = f"{float(method[column]) - float(base[column]):+.6f}"
+            row[column] = f"{float(method[column]) - float(base[column]):+.2f}"
         except (TypeError, ValueError, KeyError):
             row[column] = ""
     return row
+
+
+def _format_metric(value: object) -> str:
+    try:
+        return f"{float(value) * 100:.2f}"
+    except (TypeError, ValueError):
+        return ""
 
 
 def _float_or_zero(value: object) -> float:
