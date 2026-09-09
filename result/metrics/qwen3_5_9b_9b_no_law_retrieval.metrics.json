@@ -1,0 +1,97 @@
+{
+  "experiment": {
+    "experiment_id": "qwen3_5_9b_9b_no_law_retrieval",
+    "base_experiment_id": "qwen3_5_9b_9b_no_law_retrieval",
+    "type": "General Domain",
+    "backbone": "Qwen3.5-9B",
+    "params": "9B",
+    "domain": "General",
+    "mode": "no_law_retrieval",
+    "method": "w/o Law Retrieval",
+    "run_index": null,
+    "runs": 3,
+    "table_record": true,
+    "aggregate": "mean",
+    "run_experiment_ids": [
+      "qwen3_5_9b_9b_no_law_retrieval_run_01",
+      "qwen3_5_9b_9b_no_law_retrieval_run_02",
+      "qwen3_5_9b_9b_no_law_retrieval_run_03"
+    ]
+  },
+  "fallback_cases": 0.0,
+  "fallback_rate": 0.0,
+  "llm_error_cases": 0.0,
+  "llm_error_rate": 0.0,
+  "gold_cases": 50,
+  "evaluated_cases": 50,
+  "missing_cases": [],
+  "coverage": 1.0,
+  "accuracy": 0.48,
+  "macro_f1": 0.350498,
+  "per_label": {
+    "A_WIN": {
+      "support": 16,
+      "precision": 0.668651,
+      "recall": 0.291667,
+      "f1": 0.405029
+    },
+    "PARTIAL_A_WIN": {
+      "support": 19,
+      "precision": 0.490765,
+      "recall": 0.877193,
+      "f1": 0.629316
+    },
+    "PARTIAL_B_WIN": {
+      "support": 5,
+      "precision": 0.111111,
+      "recall": 0.066667,
+      "f1": 0.083333
+    },
+    "B_WIN": {
+      "support": 10,
+      "precision": 0.365079,
+      "recall": 0.233333,
+      "f1": 0.284314
+    }
+  },
+  "confusion_matrix": {
+    "rows_are_gold": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "columns_are_prediction": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "values": [
+      [
+        4.666667,
+        8.333333,
+        1.0,
+        2.0
+      ],
+      [
+        0.0,
+        16.666667,
+        0.333333,
+        2.0
+      ],
+      [
+        1.0,
+        3.666667,
+        0.333333,
+        0.0
+      ],
+      [
+        1.333333,
+        5.333333,
+        1.0,
+        2.333333
+      ]
+    ]
+  }
+}

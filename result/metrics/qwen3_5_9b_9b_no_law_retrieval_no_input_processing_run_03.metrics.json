@@ -1,0 +1,91 @@
+{
+  "experiment": {
+    "experiment_id": "qwen3_5_9b_9b_no_law_retrieval_no_input_processing_run_03",
+    "base_experiment_id": "qwen3_5_9b_9b_no_law_retrieval_no_input_processing",
+    "type": "General Domain",
+    "backbone": "Qwen3.5-9B",
+    "params": "9B",
+    "domain": "General",
+    "mode": "no_law_retrieval_no_input_processing",
+    "method": "w/o Law Retrieval + w/o Input Processing",
+    "run_index": 3,
+    "runs": 3,
+    "table_record": false
+  },
+  "fallback_cases": 0,
+  "fallback_rate": 0.0,
+  "llm_error_cases": 0,
+  "llm_error_rate": 0.0,
+  "gold_cases": 50,
+  "evaluated_cases": 50,
+  "missing_cases": [],
+  "coverage": 1.0,
+  "accuracy": 0.4,
+  "macro_f1": 0.207292,
+  "per_label": {
+    "A_WIN": {
+      "support": 16,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "PARTIAL_A_WIN": {
+      "support": 19,
+      "precision": 0.4,
+      "recall": 0.947368,
+      "f1": 0.5625
+    },
+    "PARTIAL_B_WIN": {
+      "support": 5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "B_WIN": {
+      "support": 10,
+      "precision": 0.4,
+      "recall": 0.2,
+      "f1": 0.266667
+    }
+  },
+  "confusion_matrix": {
+    "rows_are_gold": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "columns_are_prediction": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "values": [
+      [
+        0,
+        14,
+        0,
+        2
+      ],
+      [
+        0,
+        18,
+        0,
+        1
+      ],
+      [
+        0,
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        8,
+        0,
+        2
+      ]
+    ]
+  }
+}
