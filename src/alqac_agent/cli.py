@@ -171,6 +171,12 @@ def _parser() -> argparse.ArgumentParser:
     experiment.add_argument("--no-resume", action="store_true")
     experiment.add_argument("--no-llm", action="store_true")
     experiment.add_argument("--law-candidates", type=int, default=18)
+    experiment.add_argument(
+        "--runs",
+        type=int,
+        default=1,
+        help="number of independent runs; paper tables use the average when >1",
+    )
     return parser
 
 
@@ -306,6 +312,7 @@ def main() -> None:
             limit=args.limit,
             resume=not args.no_resume,
             law_candidates=args.law_candidates,
+            runs=args.runs,
         )
         print(json.dumps(summary, ensure_ascii=False, indent=2))
         return

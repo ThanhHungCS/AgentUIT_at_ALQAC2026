@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import csv
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from pathlib import Path
 from typing import Any, Literal
 
@@ -324,7 +324,10 @@ def refresh_experiment_tables(result_dir: str | Path = "result") -> None:
         payload = load_json(path)
         if not isinstance(payload, dict) or "experiment" not in payload:
             continue
+        all_metrics.append(payload)
         info_raw = payload["experiment"]
+        if info_raw.get("table_record") is False:
+            continue
         info = ExperimentInfo(
             experiment_id=str(info_raw["experiment_id"]),
             model_type=str(info_raw["type"]),
@@ -334,7 +337,6 @@ def refresh_experiment_tables(result_dir: str | Path = "result") -> None:
             mode=str(info_raw["mode"]),  # type: ignore[arg-type]
         )
         row = _metric_row(info, payload)
-        all_metrics.append(payload)
         if info.mode in MAIN_METHODS:
             main_rows.append(row)
         if info.mode in ABLATION_METHODS:
@@ -419,7 +421,7 @@ def _write_qualitative_files(
     write_json_atomic(paths["special"], special_rows)
 
 
-def run_ljp_experiment(
+def _run_ljp_experiment_once(
     *,
     input_path: str | Path,
     law_path: str | Path,
@@ -429,6 +431,10 @@ def run_ljp_experiment(
     limit: int | None = None,
     resume: bool = True,
     law_candidates: int = 18,
+    run_index: int | None = None,
+    runs: int = 1,
+    base_experiment_id: str | None = None,
+    table_record: bool = True,
 ) -> dict[str, Any]:
     paths = _paths(Path(result_dir), info.experiment_id)
     cases = _load_cases(input_path, limit=limit)
@@ -505,12 +511,16 @@ def run_ljp_experiment(
     metrics = {
         "experiment": {
             "experiment_id": info.experiment_id,
+            "base_experiment_id": base_experiment_id or info.experiment_id,
             "type": info.model_type,
             "backbone": info.backbone,
             "params": info.params,
             "domain": info.domain,
             "mode": info.mode,
             "method": METHOD_LABELS[info.mode],
+            "run_index": run_index,
+            "runs": runs,
+            "table_record": table_record,
         },
         "fallback_cases": fallback_count,
         "fallback_rate": round(fallback_count / len(cases), 6) if cases else 0.0,
@@ -521,9 +531,177 @@ def run_ljp_experiment(
     write_json_atomic(paths["metrics"], metrics)
     write_json_atomic(paths["confusion_matrix"], metrics["confusion_matrix"])
     _write_qualitative_files(paths, ordered_traces, input_path, predictions)
-    refresh_experiment_tables(result_dir)
     return {
         "experiment": metrics["experiment"],
         "paths": {key: str(path) for key, path in paths.items()},
         "metrics": metrics,
     }
+
+
+def _mean(values: list[float]) -> float:
+    return round(sum(values) / len(values), 6) if values else 0.0
+
+
+def _average_confusion_matrices(metrics_items: list[dict[str, Any]]) -> dict[str, Any]:
+    first = metrics_items[0]["confusion_matrix"]
+    matrices = [item["confusion_matrix"]["values"] for item in metrics_items]
+    averaged = []
+    for row_index in range(len(first["rows_are_gold"])):
+        row = []
+        for column_index in range(len(first["columns_are_prediction"])):
+            row.append(
+                round(
+                    sum(float(matrix[row_index][column_index]) for matrix in matrices)
+                    / len(matrices),
+                    6,
+                )
+            )
+        averaged.append(row)
+    return {
+        "rows_are_gold": first["rows_are_gold"],
+        "columns_are_prediction": first["columns_are_prediction"],
+        "values": averaged,
+    }
+
+
+def _aggregate_run_metrics(
+    *,
+    result_dir: str | Path,
+    info: ExperimentInfo,
+    summaries: list[dict[str, Any]],
+) -> dict[str, Any]:
+    metrics_items = [summary["metrics"] for summary in summaries]
+    paths = _paths(Path(result_dir), info.experiment_id)
+    per_label: dict[str, dict[str, float | int]] = {}
+    for label in LABELS:
+        label_items = [item["per_label"][label] for item in metrics_items]
+        per_label[label] = {
+            "support": int(label_items[0]["support"]),
+            "precision": _mean([float(item["precision"]) for item in label_items]),
+            "recall": _mean([float(item["recall"]) for item in label_items]),
+            "f1": _mean([float(item["f1"]) for item in label_items]),
+        }
+    aggregate = {
+        "experiment": {
+            "experiment_id": info.experiment_id,
+            "base_experiment_id": info.experiment_id,
+            "type": info.model_type,
+            "backbone": info.backbone,
+            "params": info.params,
+            "domain": info.domain,
+            "mode": info.mode,
+            "method": METHOD_LABELS[info.mode],
+            "run_index": None,
+            "runs": len(metrics_items),
+            "table_record": True,
+            "aggregate": "mean",
+            "run_experiment_ids": [
+                str(item["experiment"]["experiment_id"]) for item in metrics_items
+            ],
+        },
+        "fallback_cases": _mean([float(item.get("fallback_cases", 0)) for item in metrics_items]),
+        "fallback_rate": _mean([float(item.get("fallback_rate", 0.0)) for item in metrics_items]),
+        "llm_error_cases": _mean([float(item.get("llm_error_cases", 0)) for item in metrics_items]),
+        "llm_error_rate": _mean([float(item.get("llm_error_rate", 0.0)) for item in metrics_items]),
+        "gold_cases": int(metrics_items[0]["gold_cases"]),
+        "evaluated_cases": int(metrics_items[0]["evaluated_cases"]),
+        "missing_cases": sorted(
+            {
+                case_id
+                for item in metrics_items
+                for case_id in item.get("missing_cases", [])
+            }
+        ),
+        "coverage": _mean([float(item["coverage"]) for item in metrics_items]),
+        "accuracy": _mean([float(item["accuracy"]) for item in metrics_items]),
+        "macro_f1": _mean([float(item["macro_f1"]) for item in metrics_items]),
+        "per_label": per_label,
+        "confusion_matrix": _average_confusion_matrices(metrics_items),
+    }
+    write_json_atomic(paths["metrics"], aggregate)
+    write_json_atomic(paths["confusion_matrix"], aggregate["confusion_matrix"])
+    write_json_atomic(
+        Path(result_dir) / "run_manifests" / f"{info.experiment_id}.runs.json",
+        {
+            "experiment": aggregate["experiment"],
+            "runs": [
+                {
+                    "experiment": summary["experiment"],
+                    "paths": summary["paths"],
+                    "accuracy": summary["metrics"]["accuracy"],
+                    "macro_f1": summary["metrics"]["macro_f1"],
+                }
+                for summary in summaries
+            ],
+        },
+    )
+    return {
+        "experiment": aggregate["experiment"],
+        "paths": {
+            "metrics": str(paths["metrics"]),
+            "confusion_matrix": str(paths["confusion_matrix"]),
+            "run_manifest": str(
+                Path(result_dir) / "run_manifests" / f"{info.experiment_id}.runs.json"
+            ),
+        },
+        "metrics": aggregate,
+        "runs": summaries,
+    }
+
+
+def run_ljp_experiment(
+    *,
+    input_path: str | Path,
+    law_path: str | Path,
+    result_dir: str | Path,
+    info: ExperimentInfo,
+    judge: ZeroShotJudge | None,
+    limit: int | None = None,
+    resume: bool = True,
+    law_candidates: int = 18,
+    runs: int = 1,
+) -> dict[str, Any]:
+    if runs < 1:
+        raise ValueError("--runs must be >= 1")
+    if runs == 1:
+        summary = _run_ljp_experiment_once(
+            input_path=input_path,
+            law_path=law_path,
+            result_dir=result_dir,
+            info=info,
+            judge=judge,
+            limit=limit,
+            resume=resume,
+            law_candidates=law_candidates,
+            runs=1,
+            table_record=True,
+        )
+        refresh_experiment_tables(result_dir)
+        return summary
+
+    summaries = []
+    for index in range(1, runs + 1):
+        run_info = replace(info, experiment_id=f"{info.experiment_id}_run_{index:02d}")
+        summaries.append(
+            _run_ljp_experiment_once(
+                input_path=input_path,
+                law_path=law_path,
+                result_dir=result_dir,
+                info=run_info,
+                judge=judge,
+                limit=limit,
+                resume=resume,
+                law_candidates=law_candidates,
+                run_index=index,
+                runs=runs,
+                base_experiment_id=info.experiment_id,
+                table_record=False,
+            )
+        )
+    summary = _aggregate_run_metrics(
+        result_dir=result_dir,
+        info=info,
+        summaries=summaries,
+    )
+    refresh_experiment_tables(result_dir)
+    return summary

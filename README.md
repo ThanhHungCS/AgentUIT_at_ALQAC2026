@@ -409,6 +409,7 @@ result/confusion_matrices/   # confusion matrices split out for paper figures
 result/traces/               # processed input, retrieved laws, reasoning trace
 result/qualitative/          # retrieval/input/special-case qualitative files
 result/tables/               # main comparison and ablation tables
+result/run_manifests/        # mapping from averaged experiment to each saved run
 ```
 
 Prompt-only baseline for a served model:
@@ -427,6 +428,7 @@ alqac-agent run-ljp-experiment \
   --llm-provider vllm \
   --llm-base-url http://127.0.0.1:8000/v1 \
   --structured-method prompt_json \
+  --runs 3 \
   --no-resume
 ```
 
@@ -446,8 +448,13 @@ alqac-agent run-ljp-experiment \
   --llm-provider vllm \
   --llm-base-url http://127.0.0.1:8000/v1 \
   --structured-method prompt_json \
+  --runs 3 \
   --no-resume
 ```
+
+When `--runs 3` is used, the runner saves per-run outputs with suffixes such as
+`_run_01`, `_run_02`, and `_run_03`. The paper tables use the averaged metrics
+stored under the base experiment id.
 
 Ablation modes:
 

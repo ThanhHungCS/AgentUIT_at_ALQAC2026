@@ -167,6 +167,7 @@ alqac-agent run-ljp-experiment \
   --llm-provider vllm \
   --llm-base-url http://127.0.0.1:8000/v1 \
   --structured-method prompt_json \
+  --runs 3 \
   --no-resume
 ```
 
@@ -186,8 +187,12 @@ alqac-agent run-ljp-experiment \
   --llm-provider vllm \
   --llm-base-url http://127.0.0.1:8000/v1 \
   --structured-method prompt_json \
+  --runs 3 \
   --no-resume
 ```
+
+With `--runs 3`, each run is saved separately using `_run_01`, `_run_02`, and
+`_run_03` suffixes. The summary tables report only the mean of the three runs.
 
 Use the same command with these modes for ablation:
 
