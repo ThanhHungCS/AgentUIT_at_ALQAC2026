@@ -134,7 +134,24 @@ def _validate_prompt_judge(judge: ZeroShotJudge | None) -> Any:
 
 def _run_prompt_only(case: dict[str, Any], judge: ZeroShotJudge | None) -> dict[str, Any]:
     predictor = _validate_prompt_judge(judge)
-    decision: LJPLabelPrediction = predictor.predict_ljp_label(str(case["case_fact"]))
+    try:
+        decision: LJPLabelPrediction = predictor.predict_ljp_label(str(case["case_fact"]))
+    except Exception as error:
+        prediction: VerdictLabel = "PARTIAL_A_WIN"
+        return {
+            "case_id": str(case["case_id"]),
+            "prediction": prediction,
+            "trace": {
+                "mode": "prompt_only",
+                "case_fact_excerpt": normalize_case_fact(str(case["case_fact"]))[:1800],
+                "llm_error": {
+                    "type": type(error).__name__,
+                    "message": str(error)[:1200],
+                },
+                "fallback_used": True,
+                "fallback_prediction": prediction,
+            },
+        }
     return {
         "case_id": str(case["case_id"]),
         "prediction": decision.prediction,
@@ -142,6 +159,7 @@ def _run_prompt_only(case: dict[str, Any], judge: ZeroShotJudge | None) -> dict[
             "mode": "prompt_only",
             "case_fact_excerpt": normalize_case_fact(str(case["case_fact"]))[:1800],
             "decision": decision.model_dump(),
+            "fallback_used": False,
         },
     }
 
@@ -475,6 +493,8 @@ def run_ljp_experiment(
         if str(item["case_id"]) in traces
     ]
     metrics = evaluate_outcomes(input_path, paths["submission"])
+    fallback_count = sum(1 for trace in ordered_traces if trace.get("fallback_used"))
+    llm_error_count = sum(1 for trace in ordered_traces if trace.get("llm_error"))
     metrics = {
         "experiment": {
             "experiment_id": info.experiment_id,
@@ -485,6 +505,10 @@ def run_ljp_experiment(
             "mode": info.mode,
             "method": METHOD_LABELS[info.mode],
         },
+        "fallback_cases": fallback_count,
+        "fallback_rate": round(fallback_count / len(cases), 6) if cases else 0.0,
+        "llm_error_cases": llm_error_count,
+        "llm_error_rate": round(llm_error_count / len(cases), 6) if cases else 0.0,
         **metrics,
     }
     write_json_atomic(paths["metrics"], metrics)

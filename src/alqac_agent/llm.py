@@ -288,6 +288,7 @@ Quy ước nhãn:
 - B_WIN: Tòa bác toàn bộ yêu cầu chính của A, tức phía bị đơn B thắng.
 
 Nếu có legal_context, chỉ dùng nó để hiểu căn cứ pháp lý, không dùng để bịa kết quả.
+Không trình bày suy luận từng bước. explanation tối đa 160 ký tự.
 Trả đúng schema JSON.""",
             {
                 "case_fact": case_fact,
