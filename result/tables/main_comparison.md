@@ -1,0 +1,5 @@
+| Type | Backbone | Params | Domain | Method | Accuracy | Macro-F1 | A_WIN F1 | PARTIAL_A_WIN F1 | PARTIAL_B_WIN F1 | B_WIN F1 | Coverage | Confusion Matrix |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| General Domain | Qwen3.5-9B | 9B | General | Prompt-only | 44.00 | 34.35 | 55.28 | 46.82 | 0.00 | 35.31 | 100.00 | confusion_matrices/qwen3_5_9b_9b_prompt_only.confusion_matrix.json |
+| General Domain | Qwen3.5-9B | 9B | General | + Method | 53.33 | 43.82 | 47.83 | 64.97 | 25.00 | 37.50 | 100.00 | confusion_matrices/qwen3_5_9b_9b_method.confusion_matrix.json |
+| General Domain | Qwen3.5-9B | 9B | General | Delta | +9.33 | +9.47 | -7.45 | +18.15 | +25.00 | +2.19 | +0.00 |  |
