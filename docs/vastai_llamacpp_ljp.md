@@ -56,8 +56,10 @@ tmux new -s qwen
 Run llama.cpp:
 
 ```bash
-llama serve \
-  -hf unsloth/Qwen3.5-9B-GGUF:UD-Q4_K_XL \
+~/.llama-app/llama serve \
+  -hf unsloth/Qwen3.5-9B-GGUF:Q4_K_M \
+  --no-mmproj \
+  --reasoning off \
   --host 0.0.0.0 \
   --port 8000 \
   -ngl all \
@@ -67,6 +69,10 @@ llama serve \
 ```
 
 Keep this server running. Detach from tmux with `Ctrl-b`, then `d`.
+
+If your llama.cpp build does not support `--reasoning off`, replace it with
+`--reasoning-budget 0`. If neither flag exists, keep `LLM_MAX_TOKENS` modest
+when running experiments.
 
 Smoke-test the OpenAI-compatible endpoint:
 
@@ -139,7 +145,66 @@ alqac-agent evaluate \
   --predictions runs/submission.ljp.public.json
 ```
 
-## 6. Run without LLM
+## 6. Run paper experiments
+
+Use the experiment runner when collecting paper results. It writes final outputs,
+metrics, traces, confusion matrices, qualitative files, and summary tables under
+`result/`.
+
+Prompt-only baseline:
+
+```bash
+alqac-agent run-ljp-experiment \
+  --input ALQAC2026_public_test.json \
+  --laws corpus_law_pub.json \
+  --result-dir result \
+  --type "General Domain" \
+  --backbone "Qwen3.5-9B" \
+  --params "9B" \
+  --domain "General" \
+  --mode prompt_only \
+  --model qwen3.5-9b \
+  --llm-provider vllm \
+  --llm-base-url http://127.0.0.1:8000/v1 \
+  --structured-method prompt_json \
+  --no-resume
+```
+
+Proposed method:
+
+```bash
+alqac-agent run-ljp-experiment \
+  --input ALQAC2026_public_test.json \
+  --laws corpus_law_pub.json \
+  --result-dir result \
+  --type "General Domain" \
+  --backbone "Qwen3.5-9B" \
+  --params "9B" \
+  --domain "General" \
+  --mode method \
+  --model qwen3.5-9b \
+  --llm-provider vllm \
+  --llm-base-url http://127.0.0.1:8000/v1 \
+  --structured-method prompt_json \
+  --no-resume
+```
+
+Use the same command with these modes for ablation:
+
+```text
+no_law_retrieval
+no_input_processing
+no_law_retrieval_no_input_processing
+```
+
+The summary tables are refreshed after every experiment:
+
+```text
+result/tables/main_comparison.md
+result/tables/ablation_study.md
+```
+
+## 7. Run without LLM
 
 This ablation uses only input-processing rules, BM25 law retrieval, and the
 deterministic resolver:

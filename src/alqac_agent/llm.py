@@ -19,6 +19,7 @@ from .schemas import (
     JudgeDecision,
     KeywordExtraction,
     LawSelection,
+    LJPLabelPrediction,
     SearchPlan,
 )
 
@@ -262,6 +263,36 @@ law_id/aid đã có trong laws. Ghi prediction trước explanation; explanation
                 "nearest_public_examples": examples,
                 "plaintiff_advocate": advocate_a,
                 "defendant_advocate": advocate_b,
+            },
+        )
+
+    def predict_ljp_label(
+        self,
+        case_fact: str,
+        laws: list[dict[str, object]] | None = None,
+        processed_input: dict[str, object] | None = None,
+    ) -> LJPLabelPrediction:
+        compact_laws = [
+            {**item, "content": str(item.get("content", ""))[:700]}
+            for item in (laws or [])[:8]
+        ]
+        return self._invoke(
+            LJPLabelPrediction,
+            """Bạn là hệ thống dự đoán kết quả vụ án dân sự Việt Nam theo thiết lập
+zero-shot. Không dùng ví dụ có nhãn và không được giả định thông tin ngoài input.
+
+Quy ước nhãn:
+- A_WIN: Tòa chấp nhận toàn bộ yêu cầu chính của phía nguyên đơn A.
+- PARTIAL_A_WIN: Tòa chấp nhận một phần lớn hơn 50% yêu cầu chính của A.
+- PARTIAL_B_WIN: Tòa chỉ chấp nhận một phần không quá 50% yêu cầu chính của A.
+- B_WIN: Tòa bác toàn bộ yêu cầu chính của A, tức phía bị đơn B thắng.
+
+Nếu có legal_context, chỉ dùng nó để hiểu căn cứ pháp lý, không dùng để bịa kết quả.
+Trả đúng schema JSON.""",
+            {
+                "case_fact": case_fact,
+                "legal_context": compact_laws,
+                "processed_input": processed_input or {},
             },
         )
 

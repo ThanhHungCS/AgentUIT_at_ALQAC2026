@@ -397,6 +397,75 @@ alqac-agent run-ljp \
 For an ablation without any LLM server, add `--no-llm`; this uses only local
 case-fact cues, BM25 law retrieval, and deterministic outcome rules.
 
+### Experiment Runner
+
+Use `run-ljp-experiment` for paper experiments. This command writes every final
+and intermediate output into `result/` by type:
+
+```text
+result/submissions/          # final case_id + prediction outputs
+result/metrics/              # accuracy, macro-F1, per-label scores, coverage
+result/confusion_matrices/   # confusion matrices split out for paper figures
+result/traces/               # processed input, retrieved laws, reasoning trace
+result/qualitative/          # retrieval/input/special-case qualitative files
+result/tables/               # main comparison and ablation tables
+```
+
+Prompt-only baseline for a served model:
+
+```bash
+alqac-agent run-ljp-experiment \
+  --input ALQAC2026_public_test.json \
+  --laws corpus_law_pub.json \
+  --result-dir result \
+  --type "General Domain" \
+  --backbone "Qwen3.5-9B" \
+  --params "9B" \
+  --domain "General" \
+  --mode prompt_only \
+  --model qwen3.5-9b \
+  --llm-provider vllm \
+  --llm-base-url http://127.0.0.1:8000/v1 \
+  --structured-method prompt_json \
+  --no-resume
+```
+
+The same model with the proposed method:
+
+```bash
+alqac-agent run-ljp-experiment \
+  --input ALQAC2026_public_test.json \
+  --laws corpus_law_pub.json \
+  --result-dir result \
+  --type "General Domain" \
+  --backbone "Qwen3.5-9B" \
+  --params "9B" \
+  --domain "General" \
+  --mode method \
+  --model qwen3.5-9b \
+  --llm-provider vllm \
+  --llm-base-url http://127.0.0.1:8000/v1 \
+  --structured-method prompt_json \
+  --no-resume
+```
+
+Ablation modes:
+
+```text
+no_law_retrieval
+no_input_processing
+no_law_retrieval_no_input_processing
+```
+
+The summary tables are refreshed after each run:
+
+```text
+result/tables/main_comparison.csv
+result/tables/main_comparison.md
+result/tables/ablation_study.csv
+result/tables/ablation_study.md
+```
+
 See [docs/vastai_llamacpp_ljp.md](docs/vastai_llamacpp_ljp.md) for the full
 Vast.ai setup and run guide.
 

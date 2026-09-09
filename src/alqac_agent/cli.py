@@ -8,6 +8,7 @@ from pathlib import Path
 from .config import Settings
 from .data import load_cases, load_law_articles, load_public_examples
 from .evaluation import evaluate_outcomes, prepare_public_input
+from .experiments import ExperimentInfo, default_experiment_id, run_ljp_experiment
 from .ljp_graph import run_ljp_public
 from .llm import LegalAgents
 from .probing import derive_fact_query_report, probe_evidence_queries
@@ -131,6 +132,45 @@ def _parser() -> argparse.ArgumentParser:
         default=None,
         help="optional debug trace path with processed input, law query, laws and reasoning",
     )
+    experiment = subparsers.add_parser(
+        "run-ljp-experiment",
+        help="chạy một experiment LJP và ghi toàn bộ kết quả vào thư mục result/",
+    )
+    experiment.add_argument("--input", default="ALQAC2026_public_test.json")
+    experiment.add_argument("--laws", default="corpus_law_pub.json")
+    experiment.add_argument("--result-dir", default="result")
+    experiment.add_argument("--experiment-id", default=None)
+    experiment.add_argument("--type", default="General Domain")
+    experiment.add_argument("--backbone", required=True)
+    experiment.add_argument("--params", required=True)
+    experiment.add_argument("--domain", default="General")
+    experiment.add_argument(
+        "--mode",
+        required=True,
+        choices=(
+            "prompt_only",
+            "method",
+            "no_law_retrieval",
+            "no_input_processing",
+            "no_law_retrieval_no_input_processing",
+        ),
+    )
+    experiment.add_argument(
+        "--model",
+        required=True,
+        help="model alias served by the OpenAI-compatible LLM server",
+    )
+    experiment.add_argument("--llm-base-url", default=None)
+    experiment.add_argument("--llm-provider", default=None, choices=("vllm", "ollama", "groq"))
+    experiment.add_argument(
+        "--structured-method",
+        default=None,
+        choices=("json_schema", "prompt_json"),
+    )
+    experiment.add_argument("--limit", type=int)
+    experiment.add_argument("--no-resume", action="store_true")
+    experiment.add_argument("--no-llm", action="store_true")
+    experiment.add_argument("--law-candidates", type=int, default=18)
     return parser
 
 
@@ -233,6 +273,41 @@ def main() -> None:
             law_candidates=args.law_candidates,
             trace_output_path=args.trace_output,
         )
+        return
+    if args.command == "run-ljp-experiment":
+        settings = Settings.from_env()
+        overrides = {"llm_structured_method": "prompt_json", "llm_model": args.model}
+        if args.llm_base_url is not None:
+            overrides["llm_base_url"] = args.llm_base_url
+        if args.llm_provider is not None:
+            overrides["llm_provider"] = args.llm_provider
+        if args.structured_method is not None:
+            overrides["llm_structured_method"] = args.structured_method
+        settings = replace(settings, **overrides)
+        settings.validate_for_run(require_api_key=False)
+        experiment_id = args.experiment_id or default_experiment_id(
+            args.backbone,
+            args.params,
+            args.mode,
+        )
+        summary = run_ljp_experiment(
+            input_path=args.input,
+            law_path=args.laws,
+            result_dir=args.result_dir,
+            info=ExperimentInfo(
+                experiment_id=experiment_id,
+                model_type=args.type,
+                backbone=args.backbone,
+                params=args.params,
+                domain=args.domain,
+                mode=args.mode,
+            ),
+            judge=None if args.no_llm else LegalAgents(settings),
+            limit=args.limit,
+            resume=not args.no_resume,
+            law_candidates=args.law_candidates,
+        )
+        print(json.dumps(summary, ensure_ascii=False, indent=2))
         return
     run_batch(
         input_path=args.input,

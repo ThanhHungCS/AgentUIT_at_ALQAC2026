@@ -143,6 +143,23 @@ class JudgeDecision(StrictModel):
         return number / 100 if 1 < number <= 100 else number
 
 
+class LJPLabelPrediction(StrictModel):
+    prediction: VerdictLabel
+    confidence: float = Field(default=0.5, ge=0, le=1)
+    explanation: str = ""
+
+    @field_validator("confidence", mode="before")
+    @classmethod
+    def normalize_confidence(cls, value: object) -> object:
+        if isinstance(value, str):
+            value = value.strip().removesuffix("%").strip()
+        try:
+            number = float(value)  # type: ignore[arg-type]
+        except (TypeError, ValueError):
+            return value
+        return number / 100 if 1 < number <= 100 else number
+
+
 class SubmissionLawEvidence(LawIdentifier):
     pass
 
