@@ -1,0 +1,91 @@
+{
+  "experiment": {
+    "experiment_id": "qwen3_4b_vietnamese_legal_chat_4b_prompt_only_run_02",
+    "base_experiment_id": "qwen3_4b_vietnamese_legal_chat_4b_prompt_only",
+    "type": "Legal Domain VN",
+    "backbone": "Qwen3-4B-Vietnamese-Legal-Chat",
+    "params": "4B",
+    "domain": "Vietnamese Legal",
+    "mode": "prompt_only",
+    "method": "Prompt-only",
+    "run_index": 2,
+    "runs": 3,
+    "table_record": false
+  },
+  "fallback_cases": 17,
+  "fallback_rate": 0.34,
+  "llm_error_cases": 17,
+  "llm_error_rate": 0.34,
+  "gold_cases": 50,
+  "evaluated_cases": 50,
+  "missing_cases": [],
+  "coverage": 1.0,
+  "accuracy": 0.42,
+  "macro_f1": 0.272069,
+  "per_label": {
+    "A_WIN": {
+      "support": 16,
+      "precision": 1.0,
+      "recall": 0.1875,
+      "f1": 0.315789
+    },
+    "PARTIAL_A_WIN": {
+      "support": 19,
+      "precision": 0.485714,
+      "recall": 0.894737,
+      "f1": 0.62963
+    },
+    "PARTIAL_B_WIN": {
+      "support": 5,
+      "precision": 0.111111,
+      "recall": 0.2,
+      "f1": 0.142857
+    },
+    "B_WIN": {
+      "support": 10,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  },
+  "confusion_matrix": {
+    "rows_are_gold": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "columns_are_prediction": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "values": [
+      [
+        3,
+        11,
+        1,
+        1
+      ],
+      [
+        0,
+        17,
+        1,
+        1
+      ],
+      [
+        0,
+        3,
+        1,
+        1
+      ],
+      [
+        0,
+        4,
+        6,
+        0
+      ]
+    ]
+  }
+}

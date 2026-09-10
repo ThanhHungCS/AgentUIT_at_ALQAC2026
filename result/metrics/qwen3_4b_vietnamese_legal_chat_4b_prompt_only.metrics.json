@@ -1,0 +1,97 @@
+{
+  "experiment": {
+    "experiment_id": "qwen3_4b_vietnamese_legal_chat_4b_prompt_only",
+    "base_experiment_id": "qwen3_4b_vietnamese_legal_chat_4b_prompt_only",
+    "type": "Legal Domain VN",
+    "backbone": "Qwen3-4B-Vietnamese-Legal-Chat",
+    "params": "4B",
+    "domain": "Vietnamese Legal",
+    "mode": "prompt_only",
+    "method": "Prompt-only",
+    "run_index": null,
+    "runs": 3,
+    "table_record": true,
+    "aggregate": "mean",
+    "run_experiment_ids": [
+      "qwen3_4b_vietnamese_legal_chat_4b_prompt_only_run_01",
+      "qwen3_4b_vietnamese_legal_chat_4b_prompt_only_run_02",
+      "qwen3_4b_vietnamese_legal_chat_4b_prompt_only_run_03"
+    ]
+  },
+  "fallback_cases": 16.0,
+  "fallback_rate": 0.32,
+  "llm_error_cases": 16.0,
+  "llm_error_rate": 0.32,
+  "gold_cases": 50,
+  "evaluated_cases": 50,
+  "missing_cases": [],
+  "coverage": 1.0,
+  "accuracy": 0.4,
+  "macro_f1": 0.28364,
+  "per_label": {
+    "A_WIN": {
+      "support": 16,
+      "precision": 0.8,
+      "recall": 0.208333,
+      "f1": 0.327485
+    },
+    "PARTIAL_A_WIN": {
+      "support": 19,
+      "precision": 0.44438,
+      "recall": 0.789474,
+      "f1": 0.568491
+    },
+    "PARTIAL_B_WIN": {
+      "support": 5,
+      "precision": 0.078704,
+      "recall": 0.133333,
+      "f1": 0.098901
+    },
+    "B_WIN": {
+      "support": 10,
+      "precision": 0.233333,
+      "recall": 0.1,
+      "f1": 0.139682
+    }
+  },
+  "confusion_matrix": {
+    "rows_are_gold": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "columns_are_prediction": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "values": [
+      [
+        3.333333,
+        10.666667,
+        1.666667,
+        0.333333
+      ],
+      [
+        1.0,
+        15.0,
+        1.0,
+        2.0
+      ],
+      [
+        0.0,
+        3.666667,
+        0.666667,
+        0.666667
+      ],
+      [
+        0.0,
+        4.333333,
+        4.666667,
+        1.0
+      ]
+    ]
+  }
+}

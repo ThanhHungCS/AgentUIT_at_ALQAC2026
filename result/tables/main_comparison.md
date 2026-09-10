@@ -24,6 +24,9 @@
 | General Domain | Phi-4-mini-instruct | 3.8B | General | Prompt-only | 36.00 | 14.52 | 0.00 | 58.07 | 0.00 | 0.00 | 100.00 | confusion_matrices/phi_4_mini_instruct_3_8b_prompt_only.confusion_matrix.json |
 | General Domain | Phi-4-mini-instruct | 3.8B | General | + Method | 53.33 | 38.91 | 52.17 | 67.10 | 0.00 | 36.36 | 100.00 | confusion_matrices/phi_4_mini_instruct_3_8b_method.confusion_matrix.json |
 | General Domain | Phi-4-mini-instruct | 3.8B | General | Delta | +17.33 | +24.39 | +52.17 | +9.03 | +0.00 | +36.36 | +0.00 |  |
+| Legal Domain VN | Qwen3-4B-Vietnamese-Legal-Chat | 4B | Vietnamese Legal | Prompt-only | 40.00 | 28.36 | 32.75 | 56.85 | 9.89 | 13.97 | 100.00 | confusion_matrices/qwen3_4b_vietnamese_legal_chat_4b_prompt_only.confusion_matrix.json |
+| Legal Domain VN | Qwen3-4B-Vietnamese-Legal-Chat | 4B | Vietnamese Legal | + Method | 37.33 | 31.11 | 44.12 | 40.37 | 0.00 | 39.95 | 100.00 | confusion_matrices/qwen3_4b_vietnamese_legal_chat_4b_method.confusion_matrix.json |
+| Legal Domain VN | Qwen3-4B-Vietnamese-Legal-Chat | 4B | Vietnamese Legal | Delta | -2.67 | +2.75 | +11.37 | -16.48 | -9.89 | +25.98 | +0.00 |  |
 | General Domain | Qwen3.5-4B | 4B | General | Prompt-only | 34.00 | 27.53 | 38.73 | 43.48 | 4.76 | 23.15 | 100.00 | confusion_matrices/qwen3_5_4b_4b_prompt_only.confusion_matrix.json |
 | General Domain | Qwen3.5-4B | 4B | General | + Method | 52.00 | 37.36 | 55.50 | 64.91 | 0.00 | 29.05 | 100.00 | confusion_matrices/qwen3_5_4b_4b_method.confusion_matrix.json |
 | General Domain | Qwen3.5-4B | 4B | General | Delta | +18.00 | +9.83 | +16.77 | +21.43 | -4.76 | +5.90 | +0.00 |  |
