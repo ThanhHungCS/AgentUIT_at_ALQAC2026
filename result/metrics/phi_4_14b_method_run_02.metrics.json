@@ -1,0 +1,91 @@
+{
+  "experiment": {
+    "experiment_id": "phi_4_14b_method_run_02",
+    "base_experiment_id": "phi_4_14b_method",
+    "type": "General Domain",
+    "backbone": "Phi-4",
+    "params": "14B",
+    "domain": "General",
+    "mode": "method",
+    "method": "+ Method",
+    "run_index": 2,
+    "runs": 3,
+    "table_record": false
+  },
+  "fallback_cases": 0,
+  "fallback_rate": 0.0,
+  "llm_error_cases": 0,
+  "llm_error_rate": 0.0,
+  "gold_cases": 50,
+  "evaluated_cases": 50,
+  "missing_cases": [],
+  "coverage": 1.0,
+  "accuracy": 0.46,
+  "macro_f1": 0.35406,
+  "per_label": {
+    "A_WIN": {
+      "support": 16,
+      "precision": 0.7,
+      "recall": 0.4375,
+      "f1": 0.538462
+    },
+    "PARTIAL_A_WIN": {
+      "support": 19,
+      "precision": 0.5,
+      "recall": 0.684211,
+      "f1": 0.577778
+    },
+    "PARTIAL_B_WIN": {
+      "support": 5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "B_WIN": {
+      "support": 10,
+      "precision": 0.3,
+      "recall": 0.3,
+      "f1": 0.3
+    }
+  },
+  "confusion_matrix": {
+    "rows_are_gold": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "columns_are_prediction": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "values": [
+      [
+        7,
+        7,
+        0,
+        2
+      ],
+      [
+        0,
+        13,
+        2,
+        4
+      ],
+      [
+        1,
+        3,
+        0,
+        1
+      ],
+      [
+        2,
+        3,
+        2,
+        3
+      ]
+    ]
+  }
+}

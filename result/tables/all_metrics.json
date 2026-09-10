@@ -2961,6 +2961,746 @@
   },
   {
     "experiment": {
+      "experiment_id": "phi_4_14b_method",
+      "base_experiment_id": "phi_4_14b_method",
+      "type": "General Domain",
+      "backbone": "Phi-4",
+      "params": "14B",
+      "domain": "General",
+      "mode": "method",
+      "method": "+ Method",
+      "run_index": null,
+      "runs": 3,
+      "table_record": true,
+      "aggregate": "mean",
+      "run_experiment_ids": [
+        "phi_4_14b_method_run_01",
+        "phi_4_14b_method_run_02",
+        "phi_4_14b_method_run_03"
+      ]
+    },
+    "fallback_cases": 0.0,
+    "fallback_rate": 0.0,
+    "llm_error_cases": 0.0,
+    "llm_error_rate": 0.0,
+    "gold_cases": 50,
+    "evaluated_cases": 50,
+    "missing_cases": [],
+    "coverage": 1.0,
+    "accuracy": 0.466667,
+    "macro_f1": 0.353738,
+    "per_label": {
+      "A_WIN": {
+        "support": 16,
+        "precision": 0.716667,
+        "recall": 0.416667,
+        "f1": 0.525641
+      },
+      "PARTIAL_A_WIN": {
+        "support": 19,
+        "precision": 0.506173,
+        "recall": 0.719298,
+        "f1": 0.594073
+      },
+      "PARTIAL_B_WIN": {
+        "support": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "B_WIN": {
+        "support": 10,
+        "precision": 0.290909,
+        "recall": 0.3,
+        "f1": 0.295238
+      }
+    },
+    "confusion_matrix": {
+      "rows_are_gold": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "columns_are_prediction": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "values": [
+        [
+          6.666667,
+          7.333333,
+          0.0,
+          2.0
+        ],
+        [
+          0.0,
+          13.666667,
+          1.333333,
+          4.0
+        ],
+        [
+          0.666667,
+          3.0,
+          0.0,
+          1.333333
+        ],
+        [
+          2.0,
+          3.0,
+          2.0,
+          3.0
+        ]
+      ]
+    }
+  },
+  {
+    "experiment": {
+      "experiment_id": "phi_4_14b_method_run_01",
+      "base_experiment_id": "phi_4_14b_method",
+      "type": "General Domain",
+      "backbone": "Phi-4",
+      "params": "14B",
+      "domain": "General",
+      "mode": "method",
+      "method": "+ Method",
+      "run_index": 1,
+      "runs": 3,
+      "table_record": false
+    },
+    "fallback_cases": 0,
+    "fallback_rate": 0.0,
+    "llm_error_cases": 0,
+    "llm_error_rate": 0.0,
+    "gold_cases": 50,
+    "evaluated_cases": 50,
+    "missing_cases": [],
+    "coverage": 1.0,
+    "accuracy": 0.48,
+    "macro_f1": 0.361789,
+    "per_label": {
+      "A_WIN": {
+        "support": 16,
+        "precision": 0.7,
+        "recall": 0.4375,
+        "f1": 0.538462
+      },
+      "PARTIAL_A_WIN": {
+        "support": 19,
+        "precision": 0.518519,
+        "recall": 0.736842,
+        "f1": 0.608696
+      },
+      "PARTIAL_B_WIN": {
+        "support": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "B_WIN": {
+        "support": 10,
+        "precision": 0.3,
+        "recall": 0.3,
+        "f1": 0.3
+      }
+    },
+    "confusion_matrix": {
+      "rows_are_gold": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "columns_are_prediction": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "values": [
+        [
+          7,
+          7,
+          0,
+          2
+        ],
+        [
+          0,
+          14,
+          1,
+          4
+        ],
+        [
+          1,
+          3,
+          0,
+          1
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "experiment": {
+      "experiment_id": "phi_4_14b_method_run_02",
+      "base_experiment_id": "phi_4_14b_method",
+      "type": "General Domain",
+      "backbone": "Phi-4",
+      "params": "14B",
+      "domain": "General",
+      "mode": "method",
+      "method": "+ Method",
+      "run_index": 2,
+      "runs": 3,
+      "table_record": false
+    },
+    "fallback_cases": 0,
+    "fallback_rate": 0.0,
+    "llm_error_cases": 0,
+    "llm_error_rate": 0.0,
+    "gold_cases": 50,
+    "evaluated_cases": 50,
+    "missing_cases": [],
+    "coverage": 1.0,
+    "accuracy": 0.46,
+    "macro_f1": 0.35406,
+    "per_label": {
+      "A_WIN": {
+        "support": 16,
+        "precision": 0.7,
+        "recall": 0.4375,
+        "f1": 0.538462
+      },
+      "PARTIAL_A_WIN": {
+        "support": 19,
+        "precision": 0.5,
+        "recall": 0.684211,
+        "f1": 0.577778
+      },
+      "PARTIAL_B_WIN": {
+        "support": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "B_WIN": {
+        "support": 10,
+        "precision": 0.3,
+        "recall": 0.3,
+        "f1": 0.3
+      }
+    },
+    "confusion_matrix": {
+      "rows_are_gold": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "columns_are_prediction": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "values": [
+        [
+          7,
+          7,
+          0,
+          2
+        ],
+        [
+          0,
+          13,
+          2,
+          4
+        ],
+        [
+          1,
+          3,
+          0,
+          1
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "experiment": {
+      "experiment_id": "phi_4_14b_method_run_03",
+      "base_experiment_id": "phi_4_14b_method",
+      "type": "General Domain",
+      "backbone": "Phi-4",
+      "params": "14B",
+      "domain": "General",
+      "mode": "method",
+      "method": "+ Method",
+      "run_index": 3,
+      "runs": 3,
+      "table_record": false
+    },
+    "fallback_cases": 0,
+    "fallback_rate": 0.0,
+    "llm_error_cases": 0,
+    "llm_error_rate": 0.0,
+    "gold_cases": 50,
+    "evaluated_cases": 50,
+    "missing_cases": [],
+    "coverage": 1.0,
+    "accuracy": 0.46,
+    "macro_f1": 0.345365,
+    "per_label": {
+      "A_WIN": {
+        "support": 16,
+        "precision": 0.75,
+        "recall": 0.375,
+        "f1": 0.5
+      },
+      "PARTIAL_A_WIN": {
+        "support": 19,
+        "precision": 0.5,
+        "recall": 0.736842,
+        "f1": 0.595745
+      },
+      "PARTIAL_B_WIN": {
+        "support": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "B_WIN": {
+        "support": 10,
+        "precision": 0.272727,
+        "recall": 0.3,
+        "f1": 0.285714
+      }
+    },
+    "confusion_matrix": {
+      "rows_are_gold": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "columns_are_prediction": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "values": [
+        [
+          6,
+          8,
+          0,
+          2
+        ],
+        [
+          0,
+          14,
+          1,
+          4
+        ],
+        [
+          0,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "experiment": {
+      "experiment_id": "phi_4_14b_prompt_only",
+      "base_experiment_id": "phi_4_14b_prompt_only",
+      "type": "General Domain",
+      "backbone": "Phi-4",
+      "params": "14B",
+      "domain": "General",
+      "mode": "prompt_only",
+      "method": "Prompt-only",
+      "run_index": null,
+      "runs": 3,
+      "table_record": true,
+      "aggregate": "mean",
+      "run_experiment_ids": [
+        "phi_4_14b_prompt_only_run_01",
+        "phi_4_14b_prompt_only_run_02",
+        "phi_4_14b_prompt_only_run_03"
+      ]
+    },
+    "fallback_cases": 11.0,
+    "fallback_rate": 0.22,
+    "llm_error_cases": 11.0,
+    "llm_error_rate": 0.22,
+    "gold_cases": 50,
+    "evaluated_cases": 50,
+    "missing_cases": [],
+    "coverage": 1.0,
+    "accuracy": 0.346667,
+    "macro_f1": 0.253391,
+    "per_label": {
+      "A_WIN": {
+        "support": 16,
+        "precision": 1.0,
+        "recall": 0.125,
+        "f1": 0.222222
+      },
+      "PARTIAL_A_WIN": {
+        "support": 19,
+        "precision": 0.36036,
+        "recall": 0.701755,
+        "f1": 0.476191
+      },
+      "PARTIAL_B_WIN": {
+        "support": 5,
+        "precision": 0.166667,
+        "recall": 0.2,
+        "f1": 0.181818
+      },
+      "B_WIN": {
+        "support": 10,
+        "precision": 0.2,
+        "recall": 0.1,
+        "f1": 0.133333
+      }
+    },
+    "confusion_matrix": {
+      "rows_are_gold": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "columns_are_prediction": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "values": [
+        [
+          2.0,
+          13.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          13.333333,
+          1.666667,
+          4.0
+        ],
+        [
+          0.0,
+          4.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          6.666667,
+          2.333333,
+          1.0
+        ]
+      ]
+    }
+  },
+  {
+    "experiment": {
+      "experiment_id": "phi_4_14b_prompt_only_run_01",
+      "base_experiment_id": "phi_4_14b_prompt_only",
+      "type": "General Domain",
+      "backbone": "Phi-4",
+      "params": "14B",
+      "domain": "General",
+      "mode": "prompt_only",
+      "method": "Prompt-only",
+      "run_index": 1,
+      "runs": 3,
+      "table_record": false
+    },
+    "fallback_cases": 11,
+    "fallback_rate": 0.22,
+    "llm_error_cases": 11,
+    "llm_error_rate": 0.22,
+    "gold_cases": 50,
+    "evaluated_cases": 50,
+    "missing_cases": [],
+    "coverage": 1.0,
+    "accuracy": 0.34,
+    "macro_f1": 0.250415,
+    "per_label": {
+      "A_WIN": {
+        "support": 16,
+        "precision": 1.0,
+        "recall": 0.125,
+        "f1": 0.222222
+      },
+      "PARTIAL_A_WIN": {
+        "support": 19,
+        "precision": 0.351351,
+        "recall": 0.684211,
+        "f1": 0.464286
+      },
+      "PARTIAL_B_WIN": {
+        "support": 5,
+        "precision": 0.166667,
+        "recall": 0.2,
+        "f1": 0.181818
+      },
+      "B_WIN": {
+        "support": 10,
+        "precision": 0.2,
+        "recall": 0.1,
+        "f1": 0.133333
+      }
+    },
+    "confusion_matrix": {
+      "rows_are_gold": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "columns_are_prediction": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "values": [
+        [
+          2,
+          13,
+          1,
+          0
+        ],
+        [
+          0,
+          13,
+          2,
+          4
+        ],
+        [
+          0,
+          4,
+          1,
+          0
+        ],
+        [
+          0,
+          7,
+          2,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "experiment": {
+      "experiment_id": "phi_4_14b_prompt_only_run_02",
+      "base_experiment_id": "phi_4_14b_prompt_only",
+      "type": "General Domain",
+      "backbone": "Phi-4",
+      "params": "14B",
+      "domain": "General",
+      "mode": "prompt_only",
+      "method": "Prompt-only",
+      "run_index": 2,
+      "runs": 3,
+      "table_record": false
+    },
+    "fallback_cases": 11,
+    "fallback_rate": 0.22,
+    "llm_error_cases": 11,
+    "llm_error_rate": 0.22,
+    "gold_cases": 50,
+    "evaluated_cases": 50,
+    "missing_cases": [],
+    "coverage": 1.0,
+    "accuracy": 0.34,
+    "macro_f1": 0.250415,
+    "per_label": {
+      "A_WIN": {
+        "support": 16,
+        "precision": 1.0,
+        "recall": 0.125,
+        "f1": 0.222222
+      },
+      "PARTIAL_A_WIN": {
+        "support": 19,
+        "precision": 0.351351,
+        "recall": 0.684211,
+        "f1": 0.464286
+      },
+      "PARTIAL_B_WIN": {
+        "support": 5,
+        "precision": 0.166667,
+        "recall": 0.2,
+        "f1": 0.181818
+      },
+      "B_WIN": {
+        "support": 10,
+        "precision": 0.2,
+        "recall": 0.1,
+        "f1": 0.133333
+      }
+    },
+    "confusion_matrix": {
+      "rows_are_gold": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "columns_are_prediction": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "values": [
+        [
+          2,
+          13,
+          1,
+          0
+        ],
+        [
+          0,
+          13,
+          2,
+          4
+        ],
+        [
+          0,
+          4,
+          1,
+          0
+        ],
+        [
+          0,
+          7,
+          2,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "experiment": {
+      "experiment_id": "phi_4_14b_prompt_only_run_03",
+      "base_experiment_id": "phi_4_14b_prompt_only",
+      "type": "General Domain",
+      "backbone": "Phi-4",
+      "params": "14B",
+      "domain": "General",
+      "mode": "prompt_only",
+      "method": "Prompt-only",
+      "run_index": 3,
+      "runs": 3,
+      "table_record": false
+    },
+    "fallback_cases": 11,
+    "fallback_rate": 0.22,
+    "llm_error_cases": 11,
+    "llm_error_rate": 0.22,
+    "gold_cases": 50,
+    "evaluated_cases": 50,
+    "missing_cases": [],
+    "coverage": 1.0,
+    "accuracy": 0.36,
+    "macro_f1": 0.259343,
+    "per_label": {
+      "A_WIN": {
+        "support": 16,
+        "precision": 1.0,
+        "recall": 0.125,
+        "f1": 0.222222
+      },
+      "PARTIAL_A_WIN": {
+        "support": 19,
+        "precision": 0.378378,
+        "recall": 0.736842,
+        "f1": 0.5
+      },
+      "PARTIAL_B_WIN": {
+        "support": 5,
+        "precision": 0.166667,
+        "recall": 0.2,
+        "f1": 0.181818
+      },
+      "B_WIN": {
+        "support": 10,
+        "precision": 0.2,
+        "recall": 0.1,
+        "f1": 0.133333
+      }
+    },
+    "confusion_matrix": {
+      "rows_are_gold": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "columns_are_prediction": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "values": [
+        [
+          2,
+          13,
+          1,
+          0
+        ],
+        [
+          0,
+          14,
+          1,
+          4
+        ],
+        [
+          0,
+          4,
+          1,
+          0
+        ],
+        [
+          0,
+          6,
+          3,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "experiment": {
       "experiment_id": "phi_4_mini_instruct_3_8b_method",
       "base_experiment_id": "phi_4_mini_instruct_3_8b_method",
       "type": "General Domain",
