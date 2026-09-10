@@ -1,5 +1,8 @@
 | Type | Backbone | Params | Domain | Method | Accuracy | Macro-F1 | A_WIN F1 | PARTIAL_A_WIN F1 | PARTIAL_B_WIN F1 | B_WIN F1 | Coverage | Confusion Matrix |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| General Domain | DeepSeek-R1-Distill-Qwen-7B | 7B | General | Prompt-only | 27.33 | 10.79 | 0.00 | 43.15 | 0.00 | 0.00 | 100.00 | confusion_matrices/deepseek_r1_distill_qwen_7b_7b_prompt_only.confusion_matrix.json |
+| General Domain | DeepSeek-R1-Distill-Qwen-7B | 7B | General | + Method | 52.00 | 38.45 | 50.68 | 67.64 | 0.00 | 35.48 | 100.00 | confusion_matrices/deepseek_r1_distill_qwen_7b_7b_method.confusion_matrix.json |
+| General Domain | DeepSeek-R1-Distill-Qwen-7B | 7B | General | Delta | +24.67 | +27.66 | +50.68 | +24.49 | +0.00 | +35.48 | +0.00 |  |
 | General Domain | Gemma-3-12B-it | 12B | General | Prompt-only | 18.00 | 18.30 | 11.76 | 17.14 | 14.29 | 30.00 | 100.00 | confusion_matrices/gemma_3_12b_it_12b_prompt_only.confusion_matrix.json |
 | General Domain | Gemma-3-12B-it | 12B | General | + Method | 43.33 | 29.79 | 39.37 | 56.25 | 0.00 | 23.53 | 100.00 | confusion_matrices/gemma_3_12b_it_12b_method.confusion_matrix.json |
 | General Domain | Gemma-3-12B-it | 12B | General | Delta | +25.33 | +11.49 | +27.61 | +39.11 | -14.29 | -6.47 | +0.00 |  |
