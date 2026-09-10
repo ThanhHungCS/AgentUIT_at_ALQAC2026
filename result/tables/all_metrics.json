@@ -1,6 +1,746 @@
 [
   {
     "experiment": {
+      "experiment_id": "deepseek_r1_distill_qwen_14b_14b_method",
+      "base_experiment_id": "deepseek_r1_distill_qwen_14b_14b_method",
+      "type": "General Domain",
+      "backbone": "DeepSeek-R1-Distill-Qwen-14B",
+      "params": "14B",
+      "domain": "General",
+      "mode": "method",
+      "method": "+ Method",
+      "run_index": null,
+      "runs": 3,
+      "table_record": true,
+      "aggregate": "mean",
+      "run_experiment_ids": [
+        "deepseek_r1_distill_qwen_14b_14b_method_run_01",
+        "deepseek_r1_distill_qwen_14b_14b_method_run_02",
+        "deepseek_r1_distill_qwen_14b_14b_method_run_03"
+      ]
+    },
+    "fallback_cases": 0.0,
+    "fallback_rate": 0.0,
+    "llm_error_cases": 0.0,
+    "llm_error_rate": 0.0,
+    "gold_cases": 50,
+    "evaluated_cases": 50,
+    "missing_cases": [],
+    "coverage": 1.0,
+    "accuracy": 0.486667,
+    "macro_f1": 0.380444,
+    "per_label": {
+      "A_WIN": {
+        "support": 16,
+        "precision": 0.794974,
+        "recall": 0.395833,
+        "f1": 0.527246
+      },
+      "PARTIAL_A_WIN": {
+        "support": 19,
+        "precision": 0.483142,
+        "recall": 0.736842,
+        "f1": 0.583502
+      },
+      "PARTIAL_B_WIN": {
+        "support": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "B_WIN": {
+        "support": 10,
+        "precision": 0.424242,
+        "recall": 0.4,
+        "f1": 0.411028
+      }
+    },
+    "confusion_matrix": {
+      "rows_are_gold": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "columns_are_prediction": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "values": [
+        [
+          6.333333,
+          8.0,
+          0.333333,
+          1.333333
+        ],
+        [
+          0.0,
+          14.0,
+          2.0,
+          3.0
+        ],
+        [
+          0.0,
+          3.666667,
+          0.0,
+          1.333333
+        ],
+        [
+          1.666667,
+          3.333333,
+          1.0,
+          4.0
+        ]
+      ]
+    }
+  },
+  {
+    "experiment": {
+      "experiment_id": "deepseek_r1_distill_qwen_14b_14b_method_run_01",
+      "base_experiment_id": "deepseek_r1_distill_qwen_14b_14b_method",
+      "type": "General Domain",
+      "backbone": "DeepSeek-R1-Distill-Qwen-14B",
+      "params": "14B",
+      "domain": "General",
+      "mode": "method",
+      "method": "+ Method",
+      "run_index": 1,
+      "runs": 3,
+      "table_record": false
+    },
+    "fallback_cases": 0,
+    "fallback_rate": 0.0,
+    "llm_error_cases": 0,
+    "llm_error_rate": 0.0,
+    "gold_cases": 50,
+    "evaluated_cases": 50,
+    "missing_cases": [],
+    "coverage": 1.0,
+    "accuracy": 0.48,
+    "macro_f1": 0.360365,
+    "per_label": {
+      "A_WIN": {
+        "support": 16,
+        "precision": 0.777778,
+        "recall": 0.4375,
+        "f1": 0.56
+      },
+      "PARTIAL_A_WIN": {
+        "support": 19,
+        "precision": 0.5,
+        "recall": 0.736842,
+        "f1": 0.595745
+      },
+      "PARTIAL_B_WIN": {
+        "support": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "B_WIN": {
+        "support": 10,
+        "precision": 0.272727,
+        "recall": 0.3,
+        "f1": 0.285714
+      }
+    },
+    "confusion_matrix": {
+      "rows_are_gold": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "columns_are_prediction": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "values": [
+        [
+          7,
+          7,
+          0,
+          2
+        ],
+        [
+          0,
+          14,
+          1,
+          4
+        ],
+        [
+          0,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          4,
+          1,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "experiment": {
+      "experiment_id": "deepseek_r1_distill_qwen_14b_14b_method_run_02",
+      "base_experiment_id": "deepseek_r1_distill_qwen_14b_14b_method",
+      "type": "General Domain",
+      "backbone": "DeepSeek-R1-Distill-Qwen-14B",
+      "params": "14B",
+      "domain": "General",
+      "mode": "method",
+      "method": "+ Method",
+      "run_index": 2,
+      "runs": 3,
+      "table_record": false
+    },
+    "fallback_cases": 0,
+    "fallback_rate": 0.0,
+    "llm_error_cases": 0,
+    "llm_error_rate": 0.0,
+    "gold_cases": 50,
+    "evaluated_cases": 50,
+    "missing_cases": [],
+    "coverage": 1.0,
+    "accuracy": 0.5,
+    "macro_f1": 0.407847,
+    "per_label": {
+      "A_WIN": {
+        "support": 16,
+        "precision": 0.857143,
+        "recall": 0.375,
+        "f1": 0.521739
+      },
+      "PARTIAL_A_WIN": {
+        "support": 19,
+        "precision": 0.482759,
+        "recall": 0.736842,
+        "f1": 0.583333
+      },
+      "PARTIAL_B_WIN": {
+        "support": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "B_WIN": {
+        "support": 10,
+        "precision": 0.555556,
+        "recall": 0.5,
+        "f1": 0.526316
+      }
+    },
+    "confusion_matrix": {
+      "rows_are_gold": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "columns_are_prediction": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "values": [
+        [
+          6,
+          8,
+          1,
+          1
+        ],
+        [
+          0,
+          14,
+          3,
+          2
+        ],
+        [
+          0,
+          4,
+          0,
+          1
+        ],
+        [
+          1,
+          3,
+          1,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "experiment": {
+      "experiment_id": "deepseek_r1_distill_qwen_14b_14b_method_run_03",
+      "base_experiment_id": "deepseek_r1_distill_qwen_14b_14b_method",
+      "type": "General Domain",
+      "backbone": "DeepSeek-R1-Distill-Qwen-14B",
+      "params": "14B",
+      "domain": "General",
+      "mode": "method",
+      "method": "+ Method",
+      "run_index": 3,
+      "runs": 3,
+      "table_record": false
+    },
+    "fallback_cases": 0,
+    "fallback_rate": 0.0,
+    "llm_error_cases": 0,
+    "llm_error_rate": 0.0,
+    "gold_cases": 50,
+    "evaluated_cases": 50,
+    "missing_cases": [],
+    "coverage": 1.0,
+    "accuracy": 0.48,
+    "macro_f1": 0.37312,
+    "per_label": {
+      "A_WIN": {
+        "support": 16,
+        "precision": 0.75,
+        "recall": 0.375,
+        "f1": 0.5
+      },
+      "PARTIAL_A_WIN": {
+        "support": 19,
+        "precision": 0.466667,
+        "recall": 0.736842,
+        "f1": 0.571429
+      },
+      "PARTIAL_B_WIN": {
+        "support": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "B_WIN": {
+        "support": 10,
+        "precision": 0.444444,
+        "recall": 0.4,
+        "f1": 0.421053
+      }
+    },
+    "confusion_matrix": {
+      "rows_are_gold": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "columns_are_prediction": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "values": [
+        [
+          6,
+          9,
+          0,
+          1
+        ],
+        [
+          0,
+          14,
+          2,
+          3
+        ],
+        [
+          0,
+          4,
+          0,
+          1
+        ],
+        [
+          2,
+          3,
+          1,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "experiment": {
+      "experiment_id": "deepseek_r1_distill_qwen_14b_14b_prompt_only",
+      "base_experiment_id": "deepseek_r1_distill_qwen_14b_14b_prompt_only",
+      "type": "General Domain",
+      "backbone": "DeepSeek-R1-Distill-Qwen-14B",
+      "params": "14B",
+      "domain": "General",
+      "mode": "prompt_only",
+      "method": "Prompt-only",
+      "run_index": null,
+      "runs": 3,
+      "table_record": true,
+      "aggregate": "mean",
+      "run_experiment_ids": [
+        "deepseek_r1_distill_qwen_14b_14b_prompt_only_run_01",
+        "deepseek_r1_distill_qwen_14b_14b_prompt_only_run_02",
+        "deepseek_r1_distill_qwen_14b_14b_prompt_only_run_03"
+      ]
+    },
+    "fallback_cases": 1.333333,
+    "fallback_rate": 0.026667,
+    "llm_error_cases": 1.333333,
+    "llm_error_rate": 0.026667,
+    "gold_cases": 50,
+    "evaluated_cases": 50,
+    "missing_cases": [],
+    "coverage": 1.0,
+    "accuracy": 0.466667,
+    "macro_f1": 0.376859,
+    "per_label": {
+      "A_WIN": {
+        "support": 16,
+        "precision": 0.723232,
+        "recall": 0.5,
+        "f1": 0.590422
+      },
+      "PARTIAL_A_WIN": {
+        "support": 19,
+        "precision": 0.4625,
+        "recall": 0.438596,
+        "f1": 0.449341
+      },
+      "PARTIAL_B_WIN": {
+        "support": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "B_WIN": {
+        "support": 10,
+        "precision": 0.351675,
+        "recall": 0.7,
+        "f1": 0.467672
+      }
+    },
+    "confusion_matrix": {
+      "rows_are_gold": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "columns_are_prediction": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "values": [
+        [
+          8.0,
+          4.666667,
+          0.0,
+          3.333333
+        ],
+        [
+          2.666667,
+          8.333333,
+          0.333333,
+          7.666667
+        ],
+        [
+          0.333333,
+          2.666667,
+          0.0,
+          2.0
+        ],
+        [
+          0.0,
+          2.333333,
+          0.666667,
+          7.0
+        ]
+      ]
+    }
+  },
+  {
+    "experiment": {
+      "experiment_id": "deepseek_r1_distill_qwen_14b_14b_prompt_only_run_01",
+      "base_experiment_id": "deepseek_r1_distill_qwen_14b_14b_prompt_only",
+      "type": "General Domain",
+      "backbone": "DeepSeek-R1-Distill-Qwen-14B",
+      "params": "14B",
+      "domain": "General",
+      "mode": "prompt_only",
+      "method": "Prompt-only",
+      "run_index": 1,
+      "runs": 3,
+      "table_record": false
+    },
+    "fallback_cases": 2,
+    "fallback_rate": 0.04,
+    "llm_error_cases": 2,
+    "llm_error_rate": 0.04,
+    "gold_cases": 50,
+    "evaluated_cases": 50,
+    "missing_cases": [],
+    "coverage": 1.0,
+    "accuracy": 0.48,
+    "macro_f1": 0.387931,
+    "per_label": {
+      "A_WIN": {
+        "support": 16,
+        "precision": 0.7,
+        "recall": 0.4375,
+        "f1": 0.538462
+      },
+      "PARTIAL_A_WIN": {
+        "support": 19,
+        "precision": 0.45,
+        "recall": 0.473684,
+        "f1": 0.461538
+      },
+      "PARTIAL_B_WIN": {
+        "support": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "B_WIN": {
+        "support": 10,
+        "precision": 0.421053,
+        "recall": 0.8,
+        "f1": 0.551724
+      }
+    },
+    "confusion_matrix": {
+      "rows_are_gold": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "columns_are_prediction": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "values": [
+        [
+          7,
+          6,
+          0,
+          3
+        ],
+        [
+          3,
+          9,
+          1,
+          6
+        ],
+        [
+          0,
+          3,
+          0,
+          2
+        ],
+        [
+          0,
+          2,
+          0,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "experiment": {
+      "experiment_id": "deepseek_r1_distill_qwen_14b_14b_prompt_only_run_02",
+      "base_experiment_id": "deepseek_r1_distill_qwen_14b_14b_prompt_only",
+      "type": "General Domain",
+      "backbone": "DeepSeek-R1-Distill-Qwen-14B",
+      "params": "14B",
+      "domain": "General",
+      "mode": "prompt_only",
+      "method": "Prompt-only",
+      "run_index": 2,
+      "runs": 3,
+      "table_record": false
+    },
+    "fallback_cases": 1,
+    "fallback_rate": 0.02,
+    "llm_error_cases": 1,
+    "llm_error_rate": 0.02,
+    "gold_cases": 50,
+    "evaluated_cases": 50,
+    "missing_cases": [],
+    "coverage": 1.0,
+    "accuracy": 0.5,
+    "macro_f1": 0.403641,
+    "per_label": {
+      "A_WIN": {
+        "support": 16,
+        "precision": 0.833333,
+        "recall": 0.625,
+        "f1": 0.714286
+      },
+      "PARTIAL_A_WIN": {
+        "support": 19,
+        "precision": 0.5,
+        "recall": 0.473684,
+        "f1": 0.486486
+      },
+      "PARTIAL_B_WIN": {
+        "support": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "B_WIN": {
+        "support": 10,
+        "precision": 0.315789,
+        "recall": 0.6,
+        "f1": 0.413793
+      }
+    },
+    "confusion_matrix": {
+      "rows_are_gold": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "columns_are_prediction": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "values": [
+        [
+          10,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          9,
+          0,
+          8
+        ],
+        [
+          0,
+          3,
+          0,
+          2
+        ],
+        [
+          0,
+          3,
+          1,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "experiment": {
+      "experiment_id": "deepseek_r1_distill_qwen_14b_14b_prompt_only_run_03",
+      "base_experiment_id": "deepseek_r1_distill_qwen_14b_14b_prompt_only",
+      "type": "General Domain",
+      "backbone": "DeepSeek-R1-Distill-Qwen-14B",
+      "params": "14B",
+      "domain": "General",
+      "mode": "prompt_only",
+      "method": "Prompt-only",
+      "run_index": 3,
+      "runs": 3,
+      "table_record": false
+    },
+    "fallback_cases": 1,
+    "fallback_rate": 0.02,
+    "llm_error_cases": 1,
+    "llm_error_rate": 0.02,
+    "gold_cases": 50,
+    "evaluated_cases": 50,
+    "missing_cases": [],
+    "coverage": 1.0,
+    "accuracy": 0.42,
+    "macro_f1": 0.339005,
+    "per_label": {
+      "A_WIN": {
+        "support": 16,
+        "precision": 0.636364,
+        "recall": 0.4375,
+        "f1": 0.518519
+      },
+      "PARTIAL_A_WIN": {
+        "support": 19,
+        "precision": 0.4375,
+        "recall": 0.368421,
+        "f1": 0.4
+      },
+      "PARTIAL_B_WIN": {
+        "support": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "B_WIN": {
+        "support": 10,
+        "precision": 0.318182,
+        "recall": 0.7,
+        "f1": 0.4375
+      }
+    },
+    "confusion_matrix": {
+      "rows_are_gold": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "columns_are_prediction": [
+        "A_WIN",
+        "PARTIAL_A_WIN",
+        "PARTIAL_B_WIN",
+        "B_WIN"
+      ],
+      "values": [
+        [
+          7,
+          5,
+          0,
+          4
+        ],
+        [
+          3,
+          7,
+          0,
+          9
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          0,
+          2,
+          1,
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "experiment": {
       "experiment_id": "deepseek_r1_distill_qwen_7b_7b_method",
       "base_experiment_id": "deepseek_r1_distill_qwen_7b_7b_method",
       "type": "General Domain",

@@ -1,4 +1,5 @@
 Type,Backbone,Params,Domain,Method,Accuracy,Macro-F1,A_WIN F1,PARTIAL_A_WIN F1,PARTIAL_B_WIN F1,B_WIN F1,Coverage,Confusion Matrix
+General Domain,DeepSeek-R1-Distill-Qwen-14B,14B,General,+ Method,48.67,38.04,52.72,58.35,0.00,41.10,100.00,confusion_matrices/deepseek_r1_distill_qwen_14b_14b_method.confusion_matrix.json
 General Domain,DeepSeek-R1-Distill-Qwen-7B,7B,General,+ Method,52.00,38.45,50.68,67.64,0.00,35.48,100.00,confusion_matrices/deepseek_r1_distill_qwen_7b_7b_method.confusion_matrix.json
 General Domain,Gemma-3-12B-it,12B,General,+ Method,43.33,29.79,39.37,56.25,0.00,23.53,100.00,confusion_matrices/gemma_3_12b_it_12b_method.confusion_matrix.json
 General Domain,Gemma-3-4B-it,4B,General,+ Method,32.67,15.30,0.00,48.41,0.00,12.78,100.00,confusion_matrices/gemma_3_4b_it_4b_method.confusion_matrix.json

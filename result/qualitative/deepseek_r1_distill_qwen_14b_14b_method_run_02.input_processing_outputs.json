@@ -1,0 +1,2002 @@
+[
+  {
+    "case_id": "case_4101",
+    "main_claim": {
+      "main_claim": "yêu cầu anh Chử Lương D, chị Đỗ Thị Thanh T phải bồi thường 6.535.000đ (sáu triệu năm trăm ba mươi lăm nghìn đồng) tiền sửa xe và 340.000đ (ba trăm bốn mươi nghìn đồng) tiền viện phí ngoại trú, tổng cộng là 6.875.000đ (sáu triệu tám trăm bảy mươi lăm nghìn đồng) anh D và chị T không chấp nhận bồi thường vì anh chị cho rằng sự việc đó không phải con chó nhà anh chị gây nên. Chó nhà anh D, chị T luôn thả rông, không rọ mõm và chưa cắn ai bao giờ. Tại bản tự khai qúa trình giải quyết tại Tòa án",
+      "requested_amounts": [
+        "6.535.000đ",
+        "340.000đ",
+        "6.875.000đ"
+      ],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_008",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử: 1. Chấp nhận một phần yêu cầu khởi kiện của chị Lê Thị T 2. Buộc anh Chử Lương D và chị Đỗ Thị Thanh T có trách nhiệm bồi thường thiệt hại về sức khỏe và thiệt hại về tài sản do súc vật của mình gây ra cho chị Lê Thị T là 3.437.500đ (Ba triệu bốn trăm ba mươi bảy nghìn năm trăm đồng) 3. Phần yêu cầu của chị Lê Thị T Không được Tòa án chấp nhận là 3.437.500đ (Ba triệu bốn trăm ba mươi bảy nghìn năm trăm đồng). Buộc các đương sự phải chịu án phí, chi phí tố tụng theo quy định của pháp luật.",
+        "score": 86
+      },
+      {
+        "chunk_id": "cf_007",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử và việc chấp hành pháp luật của những người tham gia tố tụng tại phiên toà là đúng theo các quy định của pháp luật, đảm bảo đúng trình tự luật định; không vi phạm thời hạn chuẩn bị xét xử; Viện kiểm sát nghiên cứu hồ sơ đảm bảo đúng pháp luật. Ý kiến về việc giải quyết vụ án: Đề nghị",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_006",
+        "section": "procuracy_opinion",
+        "speaker": "procuracy",
+        "text": "Đại diện Viện kiểm sát nhân dân thành phố Lào Cai tham gia phiên toà, phát biểu ý kiến về việc tuân theo pháp luật tố tụng dân sự, trong quá trình giải quyết vụ án của Thẩm phán; Của",
+        "score": 44
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "ùng một số người hàng xóm và chị N, đỡ mẹ con chị T dậy, sau khi sơ cứu cho chị T, chị N đưa chị T đi bệnh viện cấp cứu. Trên đường đi ra đến đầu ngõ gần ngã ba đường thì chị N và chị T nhìn thấy con chó đã đuổi theo chị T. Đồng thời chị N và chị T gặp anh D, chị T có chỉ vào con chó và hỏi anh D, con chó đó có đúng là chó nhà anh không, thì anh D xác nhận đúng là chó nhà anh. Sau đó, chị Tcó thông báo cho anh D sự việc vừa xảy ra do chó nhà anh gây nên, anh D bảo chị T cứ đi viện về rồi tính sau. Chị N đưa chị T đến bệnh viện Đa khoa tỉnh Lào Cai để khâu vết thương. Khi con chó rượt đuổi theo chị T, chỉ có chị N là người chứng kiến duy nhất, còn khi chị T bị ngã xe thì hàng xóm xung quanh mới biết sự việc. Đại diện Viện kiểm sát nhân dân thành phố Lào Cai tham gia phiên toà, phát biểu ý kiến về việc tuân theo pháp luật tố tụng dân sự, trong quá trình giải quyết vụ án của Thẩm phán; Của Hội đồng xét xử và việc chấp hành pháp luật của những người tham gia tố tụng tại phiên toà là đúng theo các quy định của pháp luật, đảm bảo đúng trình tự luật định; không vi phạm thời hạn chuẩn bị xét xử; Viện kiểm sát nghiên cứu hồ sơ đảm bảo đúng pháp luật. Ý kiến về việc giải quyết vụ án: Đề nghị",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "n chó đó có đúng là chó nhà anh không, thì anh D xác nhận đúng là chó nhà anh. Sau đó, chị Tcó thông báo cho anh D sự việc vừa xảy ra do chó nhà anh gây nên, anh D bảo chị T cứ đi viện về rồi tính sau. Chị N đưa chị T đến bệnh viện Đa khoa tỉnh Lào Cai để khâu vết thương. Khi con chó rượt đuổi theo chị T, chỉ có chị N là người chứng kiến duy nhất, còn khi chị T bị ngã xe thì hàng xóm xung quanh mới biết sự việc. Đại diện Viện kiểm sát nhân dân thành phố Lào Cai tham gia phiên toà, phát biểu ý kiến về việc tuân theo pháp luật tố tụng dân sự, trong quá trình giải quyết vụ án của Thẩm phán; Của Hội đồng xét xử và việc chấp hành pháp luật của những người tham gia tố tụng tại phiên toà là đúng theo các quy định của pháp luật, đảm bảo đúng trình tự luật định; không vi phạm thời hạn chuẩn bị xét xử; Viện kiểm sát nghiên cứu hồ sơ đảm bảo đúng pháp luật. Ý kiến về việc giải quyết vụ án: Đề nghị Hội đồng xét xử: 1. Chấp nhận một phần yêu cầu khởi kiện của chị Lê Thị T 2. Buộc anh Chử Lương D và chị Đỗ Thị Thanh T có trách nhiệm bồi thường thiệt hại về sức khỏe và thiệt hại về tài sản do súc vật của mình gây ra cho chị Lê Thị T là 3.437.500đ (Ba triệu bốn trăm ba mươi bảy nghìn năm trăm đồng",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_003",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "chị T có chỉ vào con chó và hỏi anh D, con chó đó có đúng là chó nhà anh không, thì anh D xác nhận đúng là chó nhà anh. Sau đó, chị Tcó thông báo cho anh D sự việc vừa xảy ra do chó nhà anh gây nên, anh D bảo chị T cứ đi viện về rồi tính sau. Chị N đưa chị T đến bệnh viện Đa khoa tỉnh Lào Cai để khâu vết thương. Khi con chó rượt đuổi theo chị T, chỉ có chị N là người chứng kiến duy nhất, còn khi chị T bị ngã xe thì hàng xóm xung quanh mới biết sự việc. Đại diện Viện kiểm sát nhân dân thành phố Lào Cai tham gia phiên toà, phát biểu ý kiến về việc tuân theo pháp luật tố tụng dân sự, trong quá trình giải quyết vụ án của Thẩm phán; Của Hội đồng xét xử và việc chấp hành pháp luật của những người tham gia tố tụng tại phiên toà là đúng theo các quy định của pháp luật, đảm bảo đúng trình tự luật định; không vi phạm thời hạn chuẩn bị xét xử; Viện kiểm sát nghiên cứu hồ sơ đảm bảo đúng pháp luật. Ý kiến về việc giải quyết vụ án: Đề nghị Hội đồng xét xử: 1. Chấp nhận một phần yêu cầu khởi kiện của chị Lê Thị T 2. Buộc anh Chử Lương D và chị Đỗ Thị Thanh T có trách nhiệm bồi thường thiệt hại về sức khỏe và thiệt hại về tài sản do súc vật của mình gây ra cho chị Lê Thị T là 3.437.500đ (Ba triệu",
+        "score": 40
+      }
+    ],
+    "claim_scope": "MINORITY",
+    "source": "COURT_REASONING"
+  },
+  {
+    "case_id": "case_4337",
+    "main_claim": {
+      "main_claim": "yêu cầu kháng cáo của",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_017",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Tuyên xử: 1/ Chấp nhận yêu cầu khởi kiện của",
+        "score": 98
+      },
+      {
+        "chunk_id": "cf_015",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định phần đất này. Về nhà nếu ông D có mua nhà của bà O thì đem giấy tờ ra.",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_016",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định:",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_021",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định cho đất bà K là không đúng pháp luật. Đơn xin thừa kế quyền sử dụng đất ghi ngày 11/9/2003 nhưng xác nhận là ngày 29/9/2003 là không khách quan. Trên đất có nhà của ông S thì ông S không thể nào trừ bỏ quyền sử dụng của mình để cho bà K đứng tên quyền sử dụng đất. Đơn thừa kế quyền sử dụng đất của bà K chỉ kê khai 4 thửa nhưng",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_022",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định cấp giấy chứng nhận quyền sử dụng đất cho bà K lại là 5 thửa (thừa thửa 52). Như vậy, hồ sơ cấp quyền sử dụng đất là sai. Lời khai của ông D và bà K có mâu thuẩn về việc giao nhận tiền. Bà O không có cất nhà ở nơi khác mà ở trong 1 cái chòi nhỏ do ông N xây cất. Lúc tranh chấp Ủy ban xã có hòa giải nếu ông D không ở nửa thì trả nhà cho bà O và bà O trả lại tiền cho ông D. Năm 1999 căn nhà này là tài sản chung của bà O nên 1 mình bà O không thể nào bán được. Năm 2000, bà O ly hôn với ông Đ1 và ông Đ1 đồng ý giao nhà cho bà O và bà O trả vàng cho ông Đ1 nên không có việc bà O bán nhà cho ông D. Đề nghị",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_020",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "hội đồng xét xử hủy án Bản án dân sự sơ thẩm số: 27/2017/DS-ST, ngày 09/05/2017 của Tòa án nhân dân huyện Ba Tri, giao hồ sơ vụ án cho Tòa án nhân dân huyện Ba Tri giải quyết lại theo thủ tục chung.",
+        "score": 62
+      }
+    ],
+    "claim_scope": "ALL",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_4588",
+    "main_claim": {
+      "main_claim": "yêu cầu Tòa án tuyên Bản di chúc ngày 22/5/2006 của bà BTH bị vô hiệu thì đề nghị nguyên đơn cũng như ý kiến của bà Liễu chia đều giá trị căn nhà cho 10 người là không có cơ sở do không đúng với Điều 646 Bộ Luật dân sự năm 2005, đề nghị nguyên đơn, các ông bà BMJ, Mai, Liễu. Việc ông NVH có nhu cầu nhận nhà và cam kết thanh toán tiền theo phần cho anh chị em là có căn cứ chấp nhận do ông hưởng phần lớn di sản của cha mẹ ông để lại, đề nghị",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_017",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử chấp nhận một phần yêu cầu của",
+        "score": 86
+      },
+      {
+        "chunk_id": "cf_014",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử, đương sự đã tuân thủ đúng các quy định Bộ luật tố tụng dân sự năm 2015. Về nội dung vụ án thì",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_015",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử đình chỉ yêu cầu này. Việc các đương sự đồng ý không tính phần công sức đóng góp trước đây của các đương sự vào Căn nhà 161G BVĐ, Phường 6, Quận 4, TP H thì đề nghị",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_016",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử ghi nhận ý kiến này. Căn cứ Bản di chúc ngày 22/5/2006 của bà BTH thì ông H được hưởng toàn bộ di sản của bà Hạnh (gồm ½ giá trị căn nhà và 1 phần trong tài sản chung của ông NVL để lại chưa chia (tài sản chung mà ông Long để lại các bên không có tranh chấp)), còn 09 anh chị em còn lại gồm các ông bà BMJ, NVP, NNS, NVN, NTT, NTN , NTL , NTM , BTTH được hưởng 1 phần trong tài sản chung của ông NVL để lại chưa chia. Do đó, yêu cầu của",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_018",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử giao căn nhà trên cho ông H.",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_013",
+        "section": "procuracy_opinion",
+        "speaker": "procuracy",
+        "text": "đại diện Viện kiểm sát nhân dân Thành phố Hồ Chí Minh: Thẩm phán,",
+        "score": 44
+      }
+    ],
+    "claim_scope": "MAJORITY",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_4616",
+    "main_claim": {
+      "main_claim": "Yêu cầu khởi kiện của nguyên đơn về việc buộc",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_008",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định áp dụng biện pháp khẩn cấp tạm thời số 1141/2017/QĐ-ADBPKCTT ngày 8-12-2017, nội dung: Buộc Công ty K…khi ký kết,thực hiện hợp đồng mua bán các căn hộ, cửa hàng của 07 tòa nhà: A2, A4,A5,A6,A7,A8,A9 tại Khu đô thị C, phường L, quận K, thành phố Hải Phòng phải thông báo bằng văn bản cho Ngân hàng B-CN TP. HCM và tất cả các khoản tiền đặt cọc, thanh toán của các hợp đồng mua bán tài sản thuộc tài sản thế chấp phải được thanh toán qua tài khoản của Công ty TNHH Đầu tư K tại Ngân hàng B-CN TP. HCM. * Ý kiến của Ngân hàng B đối với hành vi vi phạm của Công ty H: - Công ty H đã vi phạm nghĩa vụ thanh toán nợ gốc (1.873.681,59 USD tương đương 43.043.153.170 đồng), theo thỏa thuận giữa các bên và theo quy định của pháp luật: Ngân hàng B-CN TP. HCM đã gia hạn nghĩa vụ trả nợ Công ty H đến ngày 15-11-2013. Tuy nhiên, cho đến nay, Công ty H vẫn chưa thực hiện hoàn trả đầy đủ khoản nợ gốc cho Ngân hàng. Đây là hành vi vi phạm nghĩa vụ trả nợ của bên vay theo thỏa thuận giữa các bên tại Thư cấp tín dụng và khoản 1 Điều 474 Bộ luật Dân sự. - Công ty H đã vi phạm nghĩa vụ thanh toán lãi vay (1.313,87 USD tương đương 30.219.000 đồng) theo thỏa thuận giữa các bên và theo quy định của phá",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_009",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định: 1. Buộc Công ty H thanh toán-10-2018 là 2.779.776,89 USD, tương đương 64.907.790.326 đồng (tỷ giá quy đổi 01USD = 23.350 đồng), bao gồm các khoản tiền cụ thể như sau: + Dư nợ gốc là 1.871.441,44 USD (tương đương 43.698.157.675 đồng); + Tiền lãi trong hạn là 1.313,87 USD (tương đương 30.678.855 đồng); + Tiền lãi quá hạn được tính trên số dư nợ của khoản dư nợ gốc kể từ ngày đến hạn theo quy định tại Thư cấp tín dụng ngày 15-11-2013 đến ngày toàn bộ số dư nợ của khoản dư nợ gốc được thanh toán đầy đủ cho Ngân hàng B-CN TP. HCM. Tiền lãi quá hạn tạm tính đến ngày 10-10-2018 là: 907.021,58 USD (tương đương 21.178.953.797 đồng); + Công ty H có trách nhiệm chịu khoản tiền lãi quá hạn của số tiền nợ gốc chưa thanh toán theo mức lãi suất các bên thỏa thuận trong hợp đồng tính từ ngày 11-10-2018 cho đến khi thanh toán xong khoản nợ gốc này. 2. Trong trường hợp Công ty H không thực hiện nghĩa vụ thanh toán đầy đủ cho Ngân hàng B-CN TP. HCM toàn bộ số tiền gốc, các khoản tiền lãi nêu trên, Ngân hàng B đề nghị Tòa án nhân dân thành phố Hải Phòng: - Buộc Công ty K và ông Lam Wing C (Lâm Vinh T) phải trả nợ Ngân hàng B-CN TP. HCM thay cho Công ty H theo nghĩa vụ đã bảo lãnh tại các H",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_010",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định của Tòa án, bà Linh đều thông báo cho ông Lam Wing C thông qua chát mạng, lần gần đây nhất là giấy triệu tập mời ông Lam Wing C tham gia phiên tòa là ngày 10-10-2018, ông Lam Wing C đã nhận được thông báo lịch mở phiên tòa và nói đang chờ hẹn khám của Bệnh viện mà không nói gì thêm, cũng không ủy quyền cho ai tham gia tố tụng tại tòa án. Ông D, bà Thúy có mặt tại phiên tòa để theo dõi kết quả xét xử của Tòa án để báo cáo lại ông Lam Wing C.",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_012",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử, Thư ký đã chấp hành đúng các quy định của Bộ luật Tố tụng dân sự. Các đương sự đã thực hiện đúng các quy định về quyền và nghĩa vụ của mình. - Về quan điểm giải quyết vụ án: Tại phiên tòa hôm nay, người đại diện hợp pháp của",
+        "score": 72
+      },
+      {
+        "chunk_id": "cf_011",
+        "section": "procuracy_opinion",
+        "speaker": "procuracy",
+        "text": "Kiểm sát viên phát biểu ý kiến: - Trong quá trình giải quyết vụ án Thẩm phán,",
+        "score": 44
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "g đó: + Khoản dư nợ gốc là 1.871.441,44 USD tương đương 43.043.153.170 đồng. + Tiền lãi trong hạn phát sinh trên nợ gốc còn lại là 1.313,87 USD tương đương 30.219.000 đồng. + Tiền lãi nợ quá hạn tạm tính là 867.711,68 USD tương đương 19.957.368.547 đồng. Vì vậy, với các lý do đã trình bày như trên, với mục đích đảm bảo việc giải quyết vụ án và bảo vệ quyền lợi cho Ngân hàng B-CN TP. HCM, bảo toàn tình trạng hiện có của tài sản thế chấp theo Hợp đồng thế chấp và tài sản hình thành trong tương lai số BOCOMHCM-MA-LUR/004/2011, các bên đã ký ngày 06-12-2011 đối với Quyền sử dụng đất và tài sản hình thành trong tương lai gắn liền với đất, tránh tình trạng vi phạm nghiêm trọng không thể khắc phục được, ảnh hưởng đến việc giải quyết vụ án và đảm bảo thi hành án. Sau khi xem xét Đơn yêu cầu áp dụng biện pháp khẩn cấp tạm thời của Ngân hàng B-CN TP. HCM, Tòa án nhân dân thành phố Hải Phòng đã ra Quyết định áp dụng biện pháp khẩn cấp tạm thời số 1141/2017/QĐ-ADBPKCTT ngày 8-12-2017, nội dung: Buộc Công ty K…khi ký kết,thực hiện hợp đồng mua bán các căn hộ, cửa hàng của 07 tòa nhà: A2, A4,A5,A6,A7,A8,A9 tại Khu đô thị C, phường L, quận K, thành phố Hải Phòng phải thông báo bằng văn bản cho Ng",
+        "score": 40
+      }
+    ],
+    "claim_scope": "ALL",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_6616",
+    "main_claim": {
+      "main_claim": "yêu cầu chia di sản thừa kế của cụ Hồng theo pháp luật, cho các hàng thừa kế thứ nhất mà đại diện của nguyên đơn đã trình bày ở trên. Ông Hưng trình bày: Cụ Điểu có văn bản đề nghị nguyên đơn bà Đàm đề nghị thửa đất 107, tờ bản đồ số 04 (diện tích 199,4m2 đất ở), diện tích còn lại 92,5m2 đất ở có ngôi nhà thờ 03 gian cụ Hồng đã di chúc lại làm nơi thờ cúng không được phép chia vì cụ Hồng chết có để lại di chúc do ông Hường quản lý. Bà Đàm đề nghị phân chia theo quy định của pháp luật đối với thửa 20, tờ bản đồ số 04 (diện tích 409,4m2) diện tích còn lại 258,5m2 đất ở và số tiền được Nhà nước bồi thường cho hàng thừa kế thứ nhất. Theo biên bản ghi lời khai ngày 27/4/2018 và ngày 12/10/2018 của ông Nguyễn Văn H 1 trình bày: Ông Hường thống nhất về quan hệ huyết thống và di sản thừa kế của cụ Hồng và cụ Điểu, ông Hường khẳng định cụ Hồng chết không để lại di chúc như lời trình bày của bà Đàm trong bản khai ngày 13/3/2018. Ông Hường đề nghị thửa đất 107, tờ bản đồ số 04 (diện tích 199,4m2 đất ở)và hiện nay còn lại là 92,5m2 có ngôi nhà thờ 03 gian diện tích sử dụng 54,4m2 không được chia mà để sử dụng chung làm nơi thờ tự cho cả chi Họ Nguyễn, do các cụ để lại cho con cháu, ông Hường trích gia phả của cụ Nguyễn Văn Quân “03 gian nhà thờ để con, cháu sau này được hưởng lộc của ông cha”. Ông Hường đề nghị phân chia theo quy định của pháp luật đối với thửa đất 20, tờ bản đồ số 04 (diện tích 409,4m2) diện tích còn lại 258,5m2 đất ở và số tiền được Nhà nước bồi thường cho hàng thừa kế thứ nhất. Theo bản tự khai ngày 18/7/2018 có xác nhận của Ủy ban nhân dân thị trấn H, huyện Hưng Hà ông Nguyễn Văn H 3 trình bày: Thửa đất 107, tờ bản đồ số 04 (diện tích 199,4m2 đất ở) diện tích còn lại 92,5m2 đất ở có ngôi nhà thờ 03 gian hiệu “Nam Nguyễn Đường” là tài sản của ông Nội để lại cho con, cháu làm nơi thờ tự, bố ông (cụ Nguyễn Văn Hồng) duy trì việc thờ tự của dòng họ “Nguyễn Đức” và nhà thờ được xây dựng năm 1941. Ông Nguyễn Văn H 3 khẳng định ngôi nhà thờ 03 gian diện tích 54,4m2 hiệu “Nam Nguyễn Đường” không phải là tài sản chung của cụ Điểu và cụ Hồng. Ông Hùng không đồng ý chia mà để làm nơi thờ cúng và là tài sản chung của mọi người. Thửa đất 20, tờ bản đồ số 04 (diện tí",
+      "requested_amounts": [],
+      "requested_areas": [
+        "199,4m2",
+        "92,5m2",
+        "409,4m2",
+        "258,5m2",
+        "199,4m2",
+        "92,5m2",
+        "54,4m2",
+        "409,4m2",
+        "258,5m2",
+        "199,4m2",
+        "92,5m2",
+        "54,4m2"
+      ]
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_015",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định của Tòa án. Trên thửa đất 107, tờ bản đồ số 4 diện tích còn lại là 92,5m2 đất ở có ngôi nhà 03 gian diện tích sử dụng là 54,4m2 đã được bồi thường nhưng gia đìnhcụ Điểu chưa tháo dỡ vì phần lề đường của dự án Quốc lộ 39A chưa được thực hiện. Do vậy Ủy ban nhân dân thị trấn H đề nghị Tòa án xác định: Ngôi nhà 03 gian diện tích 54,4m2 trên thửa đất 107, tờ bản đồ số 4 là tài sản đã được bồi thường và chưa giải phóng mặt bằng (Căn cứ vào dự toán số tiền đã được bồi thường cho ngôi nhà 03 gian diện tích sử dụng là 54,4m2 là 144.645.751đồng). Ủy ban nhân dân thị trấn H đề nghị Tòa án khi giao thửa đất 107, tờ bản đồ số 4 diện tích còn lại là 92,5m2có ngôi nhà 54,4m2 cho người được thừa kế thì cần buộc người thừa kế đó phải tự nguyện tháo dỡ trả lại diện tích đã được bồi thường. Kết quả Tòa án xác minh: Nguồn gốc thửa đất 107, tờ bản đồ 04, diện tích là 199,4 m2 đất ở đang tranh chấp là của cụ Nguyễn Văn Hồng và cụ Trần Thị Đ được tách ra từ thửa đất 475, có diện tích là 465m2, theo sổ mục kê và bản đồ 299 đo đạc năm 1985 mang tên ông Nguyễn Văn H 1. Ngày 13/10/2007, ông Nguyễn Văn H 1 và Bà Hoàng Thị Kim D đã viết biên bản về việc chuyển quyền sử dụng đất thổ cư cho cụ Nguyễn",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_011",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử giao cho cụ Điểu tiếp tục quản lý, sử dụng 02 thửa đất nêu trên và cụ Điểu có trách nhiệm thanh toán bằng tiền cho ông Hải giá trị quyền sử dụng đất, tương ứng với kỷ phần mà ông Hải được hưởng là (351,0 m2 : 2 = 175,5m2 x 5.0000.000đồng): 9 = 97.500.000đồng và số tiền (1.777.258.000đồng+ 19.361.000đồng = 1.796.619.000đồng) : 2 = 898.309.000 đồng) : 9= 99.812.000đồng. Chứng cứ, tài liệu chứng minh cho yêu cầu khởi kiện của ông Nguyễn Văn H gồm: Bản đồ 299 đo đạc năm 1985; sổ mục kê của Uỷ ban nhân dân thị trấn H; Giấy chứng tử của cụ Nguyễn Văn Hồng ngày 01/5/2008; Biên bản xác nhận ranh giới, mốc giới thửa đất 107, thửa đất 20 tờ bản đồ địa chính số 04 ngày 06/9/2007; Chứng minh nhân dân của cụ Điểu, ông Hưng, bà Hằng, ông Hải, sổ hộ khẩu gia đình. Biên bản giải quyết ngày 28/10/2017. Theo văn bản ngày 10/9/2018 của",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_012",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử cho phép ông Hưng được đọc “...tôi Trần Thị Đ kết hôn với ông Nguyễn Văn Hồng vào năm 1954 và có 08 người con để đảm bảo quyền lợi các thành viên trong gia đình tôi (Điểu) đề nghị chia di sản thừa kế của ông Nguyễn Văn Hồng theo pháp luật và đề nghị được tiếp tục quản lý, sử dụng 02 thửa đất 107, tờ bản đồ số 04 (diện tích 199,4m2 đất ở) và hiện nay còn lại là 92,5m2 và thửa đất 20, tờ bản đồ số 04 (diện tích 409,4m2) diện tích còn lại là 258,5m2. Riêng thửa đất 107, tờ bản đồ số 04 diện tích còn lại là 92,5m2 đất ở, tôi Điểu rất mong muốn được tiếp tục quản lý, sử dụng (sau này khi cụ chết đi) cụ để lại cho các con làm nơi thờ cúng chung. Tôi (Điểu) tự nguyện tháo dỡ 03 gian nhà 54,4m2 khi cơ quan Nhà nước yêu cầu và có trách nhiệm thanh toán chênh lệch bằng tiền giá trị cho các đồng thừa kế...”. Ông Hưng trình bày thêm về số tiền cụ Điểu được hưởng là 989.309.000đ + 99.812.000đ =1.089.121.000đ (Một tỷ không trăm tám mươi chín triệu đồng một trăm hai mốt nghìn đồng). Ngoài ra số tiền cụ Điểu đã có đơn đề nghị để tạm ứng 02 lần (là 400.000.000đồng) với mục đích thuê người tháo dỡ, giải phóng mặt bằng để bàn giao cho Ban quản lý đường quốc lộ 39A, cụ Điểu đề nghị",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_013",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử đối trừ số tiền đã ứng nêu trên vào kỷ phần của cụ Điểu. Theo biên bản lấy lời khai và tại phiên tòa hôm nay Bà Nguyễn Thị H 4, ông Nguyễn Văn H 2 và bà Nguyễn Thị H 5 trình bày: Các ông, bà đều xác nhận về quan hệ huyết thống và nguồn gốc tài sản như lời khai của ông Nguyễn Văn H 2 (là người được cụ Điểu ủy quyền trình bày ở trên) và yêu cầu chia di sản thừa kế của cụ Hồng theo pháp luật và đề nghị giao kỷ phần được hưởng là quyền sử dụng đất cho cụ Điểu quản lý, sử dụng và chấp nhận việc cụ Điểu thanh toán chênh lệch giá trị bằng tiền mỗi kỷ phần bằng 19,5m2 x 5.000.000/1m2 là 97.500.000đồng (bà Hưởng, ông Hưng, bà Hoàn, bà Hằng mỗi người được thanh toán 97.500.000đồng và được số tiền 99.812.000đồng). Người bảo vệ quyền lợi ích hợp pháp của bà Nguyễn Thị H 6 ông Lê Chí Diên, Trợ giúp viên pháp lý trình bày: Ông nhất trí về việc yêu cầu chia di sản thừa kề của cụ Hồng theo quy định của pháp luật. Kỷ phần di sản thừa kế của bà Nguyễn Thị H 6 là quyền sử dụng đất cần giao cho cụ Trần Thị Đ và cụ Điểu có trách nhiệm thanh toán giá trị chênh lệch cho bà Hoàn. Kỷ phần di sản thừa kế của bà Hoàn được hưởng đề nghị",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_014",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử giao cho ông Nguyễn Văn H 2 là người giám hộ quản lý. Theo bản tự khai ngày 13/3/2018 của bà Nguyễn Thị Đ trình bày: Bà là con của cụ Hồng và cụ Trần Thị Đ 1. Bà thừa nhận về quan hệ huyết thống, hàng thừa kế và di sản thừa kế của cụ Hồng vàcụ Điểu. Đối với yêu cầu chia thừa kế của",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_016",
+        "section": "procuracy_opinion",
+        "speaker": "procuracy",
+        "text": "Kiểm sát viên: - Về việc tuân theo pháp luật về tố tụng: Trong quá trình giải quyết vụ án và tại phiên toà, những người tiến hành tố tụng và các đương sự gồm cụ Điểu, bà Hưởng, ông Hưng, bà Hằng, ông Hải đã chấp hành đúng quy định của Bộ luật Tố tụng dân sự. Ông Hường, bà Đàm, ông Hùng không chấp hành quy định của Bộ luật Tố tụng dân sự. - Về việc giải quyết vụ án: Xác định cụ Nguyễn Văn Hồng và cụ Trần Thị Đ có khối tài sản chung là 351 m2 đất (tại thửa đất 20 và thửa đất 107 cùng tờ bản đồ số 04) tại Khu K, thị trấn H, huyện Hưng Hà và số tiền được Nhà nước bồi thường là 1.777.258.000đồng và số tiền lãi là 19.361.000đồng. Cần chấp nhận yêu cầu khởi kiện của ông Nguyễn Văn H về việc yêu cầu chia di sản thừa kế theo pháp luật của cụ Nguyễn Văn Hồng cho các đồng thừa kế. Giao cho cụ Trần Thị Đ quản lý, sử dụng diện tích đất là di sản thừa kế của cụ Hồng và buộc cụ Điểu có trách nhiệm thanh toán bằng tiền giá trị quyền sử dụng đất tương ứng với kỷ phần được hưởng cho bà Nguyễn Thị Đ, ông Nguyễn Văn H 1, bà Nguyễn Thị H 4, ông Nguyễn Văn H 2, bà Nguyễn Thị H 6, bà Nguyễn Thị H 5, ông Nguyễn Văn H 3, ông Nguyễn Văn H. Giao cho ông Nguyễn Văn H 2 quản lý số tiền được hưởng của bà Nguyễn",
+        "score": 62
+      }
+    ],
+    "claim_scope": "MAJORITY",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_5226",
+    "main_claim": {
+      "main_claim": "yêu cầu không hòa giải; Các đương sự vắng mặt nên Tòa án đã thực hiện tống đạt kết quả phiên họp tiếp cận, giao nộp và công khai chứng cứ cho những người vắng mặt. Nguyên đơn, nguyên đơn buộc",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_010",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử áp dụng quy định tại Bộ luật Dân sự năm 2015 để chấp nhận yêu cầu của",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_007",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử vẫn thực hiện đầy đủ các thủ tục tố tụng đúng quy định của pháp luật.",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_008",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử. Về đường lối giải quyết vụ án,",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_006",
+        "section": "procuracy_opinion",
+        "speaker": "procuracy",
+        "text": "Đại diện Viện kiểm sát nhân dân huyện Nghi Lộc phát biểu ý kiến như sau: Về tố tụng: Đây là tranh chấp hợp đồng tín dụng được quy định tại Điều 30 Bộ luật Tố tụng Dân sự; Tòa án nhân dân huyện Nghi Lộc thụ lý vụ án là đúng thẩm quyền quy định tại Điều 35 Bộ luật Tố tụng Dân sự. Trong quá trình giải quyết vụ án, Thẩm phán thực hiện đúng các quy định tại Bộ luật Tố tụng Dân sự, lập hồ sơ đầy đủ, đúng pháp luật. Mặc dù có",
+        "score": 44
+      },
+      {
+        "chunk_id": "cf_009",
+        "section": "procuracy_opinion",
+        "speaker": "procuracy",
+        "text": "đại diện Viện kiểm sát đề nghị",
+        "score": 44
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "BD326525 ngày 4.6.2013. Đây là thửa số 942, tờ bản đồ số 05, tại xóm 6, xã N và có 858m2 gồm 200m2 đất ở và 658m2 đất vườn. Diện tích đất nông nghiệp được tách riêng theo quy định của pháp luật. Nguyên đơn có đơn yêu cầu không hòa giải; Các đương sự vắng mặt nên Tòa án đã thực hiện tống đạt kết quả phiên họp tiếp cận, giao nộp và công khai chứng cứ cho những người vắng mặt. Đại diện Viện kiểm sát nhân dân huyện Nghi Lộc phát biểu ý kiến như sau: Về tố tụng: Đây là tranh chấp hợp đồng tín dụng được quy định tại Điều 30 Bộ luật Tố tụng Dân sự; Tòa án nhân dân huyện Nghi Lộc thụ lý vụ án là đúng thẩm quyền quy định tại Điều 35 Bộ luật Tố tụng Dân sự. Trong quá trình giải quyết vụ án, Thẩm phán thực hiện đúng các quy định tại Bộ luật Tố tụng Dân sự, lập hồ sơ đầy đủ, đúng pháp luật. Mặc dù có người có quyền lợi, nghĩa vụ liên quan cố tình vắng mặt theo giấy triệu tập của Toà án- Thẩm phán, Hội đồng xét xử vẫn thực hiện đầy đủ các thủ tục tố tụng đúng quy định của pháp luật. Nguyên đơn, bị đơn chấp hành nghiêm chỉnh pháp luật và nội quy phiên tòa, tôn trọng Hội đồng xét xử. Về đường lối giải quyết vụ án, đại diện Viện kiểm sát đề nghị Hội đồng xét xử áp dụng quy định tại Bộ luật Dân sự ",
+        "score": 40
+      }
+    ],
+    "claim_scope": "ALL",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_6284",
+    "main_claim": {
+      "main_claim": "yêu cầu phía ông T hoàn trả 2.500.000.000đ mà thôi. * Tại biên bản lấy lời khai ngày 02-08-2017 và trong quá trình xét xử,",
+      "requested_amounts": [
+        "2.500.000.000đ"
+      ],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_026",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định công nhận thỏa thuận ngày 17-04-2013 và 23-04-2013, phía ông T cũng đồng ý tiếp tục thực hiện hợp đồng nên có cơ sở chấp nhận theo yêu cầu của ông H về việc buộc ông T, bà P tiếp tục thực hiện HĐCNQSDĐ công chứng số 728A, quyển số 01/TP/CC-SCC-HĐGĐ ngày 08-12-2011 tại VPCC M và giao đất cho ông H, bà L1 sử dụng. Không có cơ sở chấp nhận yêu cầu của ông T1 và bà H về việc tuyên bố hợp đồng này vô hiệu.",
+        "score": 98
+      },
+      {
+        "chunk_id": "cf_017",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định công nhận sự thỏa thuận của các đương sự số: 11/2013/QĐST-DS ngày 23-04-2013 của TAND huyện Đất Đỏ ghi nhận việc ông Bùi Văn T và bà Phạm Thị P phải trả cho bà Nguyễn Thị H 150.000.000đ. Theo",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_018",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định thi hành án theo đơn yêu cầu số: 227/QĐ-CCTHA ngày 23-05-2013 và",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_019",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định cưỡng chế kê biên quyền sử dụng đất số: 05/QĐ-CCTHA ngày 03-03-2014 của Chi cục Thi hành án dân sự huyện Đất Đỏ đã kê biên đối với diện tích đất 423,3m2, thửa số 1, tờ bản đồ số 160 thuộc thị trấn Đất Đỏ đứng tên ông T, bà P để đảm bảo thi hành án cho bà H. Ông Trần Quang H yêu cầu Tòa án buộc ông T, bà P tiếp tục thực hiện HĐCNQSDĐ số: 728A, quyển số 01-TP/CC-SCC/HĐGD ngày 08-12-2011 tại VPCC M, tỉnh BRVT giữa ông H và ông T, bà P trong đó có thửa đất được kê biên trên là ảnh hưởng đến quyền lợi của bà H nên bà H có yêu cầu độc lập là đề nghị Tòa án tuyên bố hợp đồng công chứng trên là vô hiệu, vì bà P, ông T nợ bà H trước khi ký HĐCNQSDĐ cho ông H, việc chuyển nhượng này là trốn tránh trách nhiệm trả nợ đối với bà H. Ông H cũng chưa đăng ký sang tên trước bạ nên quyền sử dụng đất vẫn là của ông T, bà P. Tại THA huyện Đất Đỏ thì ông T và bà P thừa nhận là chỉ thế chấp đất cho ông H để vay tiền chứ không chuyển nhượng. * Tại đơn yêu cầu độc lập ngày 11-07-2017 và trong quá trình xét xử,",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_020",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định công nhận sự thỏa thuận của các đương sự số: 09/2013/QĐST-DS ngày 17-04-2013 của TAND huyện Đất Đỏ ghi nhận việc ông Bùi Văn T và bà Phạm Thị P phải trả cho ông Bùi Văn T1 500.000.000đ. Theo",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_021",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định thi hành án theo đơn yêu cầu số: 381/QĐ-CCTHA ngày 19-08-2013,",
+        "score": 80
+      }
+    ],
+    "claim_scope": "ALL",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_3995",
+    "main_claim": {
+      "main_claim": "yêu cầu của bà Đoàn Thị X vào ngày 06/6/2017, bổ sung ngày 23/8/2017. Hội đồng định giá và thẩm định tại chỗ huyện Tuyên Hóa đã dùng máy định vị GPS trực tiếp tiến hành đo đạc lại diện tích thửa đất, xác định vị trí và diện tích tranh chấp đã cấp cho hộ gia đình ông Trần Văn T, bà Đoàn Thị X. Án phí bà Đoàn Thị X đã nộp 200.000đ tiền tạm ứng án phí dân sự sơ thẩm tại Chi cục Thi hành án dân sự huyện Tuyên Hóa theo biên lai số: 0002547 ngày 15/12/2016, đề nghị ai thua kiện người đó phải chịu án phí và chi phí thẩm định và định giá.",
+      "requested_amounts": [
+        "200.000đ"
+      ],
+      "requested_areas": []
+    },
+    "disposition_candidates": [],
+    "claim_scope": "UNCLEAR",
+    "source": "MISSING"
+  },
+  {
+    "case_id": "case_6384",
+    "main_claim": {
+      "main_claim": "yêu cầu hủy Giấy chứng nhận quyền sử dụng đất đã cấp cho ông Hoàng Hồng T; về các cây tạp trên đất là do tự mọc thuộc đất hợp pháp của ông Hoàng Hồng T nên ông được tiếp tục quản lý, sử dụng; về cây hồi, cây sở do cây đã lớn không thể di dời được, nên giao cho ông Hoàng Hồng T sử dụng và phải thanh toán tiền trị giá cây cho ông Hà Văn B, nhưng do các bên đều có lỗi trong việc tự ý trồng cây, quản lý đất được giao, nên mỗi bên phải tự chịu 1/2 lỗi ứng với trị giá tiền cây hồi, cây sở. Nên chỉ buộc ông Hoàng Hồng T phải trả cho ông Hà Văn B số tiền cây hồi, cây sở bằng 1/2 số tiền theo kết quả định giá tài sản ngày 01/11/2018. Về chi phí thẩm định, định giá tài sản, giám định tuổi cây hồi các bên phải chịu theo quy định; về án phí cần miễn cho các đương sự vì đều là hộ nghèo, hoàn cảnh kinh tế khó khăn.",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_005",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định số 88 của Ủy ban nhân dân huyện B. Đến năm 1999 ông Hoàng Hồng T được Ủy ban nhân dân huyện B cấp đổi sang thành Giấy chứng nhận quyền sử dụng đất số N 876505 vào sổ số 0176/QSDĐ/236/QĐUB cấp ngày 01/10/1999 (gọi là bìa đỏ), lúc cấp bìa đỏ này sau khi đo đạc thực tế thì lô 269 chỉ còn diện tích là 11,4ha vẫn có các phía tiếp giáp và hiện trạng như cũ, mục đích sử dụng đất là trồng rừng. Còn diện tích ít hơn so với sổ bìa xanh là do năm 1995 đo bằng phương pháp thủ công, có tính ước lượng, còn đo lại để cấp bìa đỏ năm 1999 là đo bằng máy nên diện tích được chính xác với hiện trạng sử dụng. Về quá trình sử dụng, thì từ năm 1995 đến năm 1999 gia đình ông Hoàng Hồng T để đất cho cây mọc tự nhiên, giữ nguồn nước để làm ruộng và phủ xanh đồi trọc. Năm 1996 ông Hoàng Hồng T có đi xin cây thông về trồng dọc theo đường giáp ranh với đất thôn P, xã V, huyện V và trong diện tích lô 269 được giao, nay còn sống 02 cây thông. Ngoài cây thông ra, ông Hoàng Hồng T khẳng định không được trồng cây gì khác trên diện tích đất được giao. Còn hiện nay trên đất tranh chấp có cây hồi, cây sở là do ông Hà Văn B trồng trộm vào đất của ông, ông Hoàng Hồng T cho rằng ông Hà Văn B trồng hồi, sở là t",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_006",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định 552 ngày 17/12/1999 Ủy ban nhân dân huyện V đã giao đất, giao rừng cho ông tại lô 57, diện tích 1,5ha theo bản đồ giao đất lâm nghiệp huyện V, có địa danh rừng C, thôn P, xã V, huyện V, tỉnh Lạng Sơn. Quá trình sử dụng ông Hà Văn B đã hai lần trồng cây hồi, cụ thể lần đầu năm 1992 trồng khoảng 300 cây hồi; đợt 2 năm 1996 trồng khoảng 400 cây hồi và năm 2000 còn trồng thêm cây sở, cây thông, nay đã to và cây sở đã có hoa. Nay ông ông Hoàng Hồng T khởi kiện đòi đất, đòi cây ông Hà Văn B không nhất trí toàn bộ yêu cầu khởi kiện bên phía",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_007",
+        "section": "procuracy_opinion",
+        "speaker": "procuracy",
+        "text": "đại diện Viện kiểm sát có ý kiến: Quá trình tiến hành tố tụng Thẩm phán, Thư ký, Hội thẩm nhân dân thực hiện đúng quy định của pháp luật tố tụng dân sự; các đương sự được bảo đảm quyền và nghĩa vụ của mình khi tham gia tố tụng. Về nội dung đề nghị giao đất đang tranh chấp có diện tích 10.038m2 cho",
+        "score": 44
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "Theo đơn khởi kiện ngày 20/12/2016 và các đơn khởi kiện bổ sung, bản tự khai, biên bản lấy lời khai, biên bản hòa giải nguyên đơn ông Hoàng Hồng T và tại phiên tòa người đại diện theo ủy quyền bà Lương Thị H thống nhất trình bày: Về nguồn gốc đất tranh chấp là do gia đình ông Hoàng Hồng T canh tác sử dụng từ đời ông, cha để lại, ông Hoàng Hồng T được giao tiếp tục quản lý, sử dụng từ khoảng những năm 1977, 1978, sau đó có một số hộ gia đình bên thôn P, xã V, huyện V, tỉnh Lạng Sơn sang làm nương trồng ngô, sắn tại diện tích đất tranh chấp, trong đó có hộ gia đình Hà Văn B, đến năm 1985 do đất đã hoang hóa thì họ bỏ không làm nữa. Sau khi có chủ trương giao đất, giao rừng gia đình ông Hoàng Hồng T đã làm đơn xin kê khai ngày 18/5/1995, đến ngày 31/5/1995 được giao quyền quản lý và sử dụng đất trồng rừng (gọi là sổ bìa xanh) có số lô 269 diện tích là 14ha theo quyết định số 88 của Ủy ban nhân dân huyện B. Đến năm 1999 ông Hoàng Hồng T được Ủy ban nhân dân huyện B cấp đổi sang thành Giấy chứng nhận quyền sử dụng đất số N 876505 vào sổ số 0176/QSDĐ/236/QĐUB cấp ngày 01/10/1999 (gọi là bìa đỏ), lúc cấp bìa đỏ này sau khi đo đạc thực tế thì lô 269 chỉ còn diện tích là 11,4ha vẫn có các p",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "Hà Văn B chấm dứt việc tranh chấp diện tích đất là 10.083m2 thuộc một phần lô 269 thuộc đồi M thôn B, xã B, huyện B, tỉnh Lạng Sơn. * Yêu cầu ông Hà Văn B di dời toàn bộ cây hồi, cây sở do ông Hà Văn B đã trồng trộm trên diện tích đất tranh chấp; đối với 02 cây thông còn sống trên đất tranh chấp ông Hoàng Hồng T không yêu cầu sử dụng mà cho ông Hà Văn B, nhưng cũng phải di rời ra khỏi đất tranh chấp. Tại các bản tự khai và biên bản lấy lời khai, bị đơn ông Hà Văn B trình bày: Diện tích đất hiện nay có tranh chấp do ông, cha của ông đã sử dụng từ năm 1950 cho đến nay. Quá trình sử dụng bố ông là ông Hà Văn V đã trồng ngô đến năm 1970, sau đó để rừng phát triển tự nhiên lấy củi. Còn từ năm 1985 đến năm 1990 ông Hà Văn B tiếp quản từ ông Hà Văn V và tiếp tục phát quang bảo vệ rừng cho cây mọc tự nhiên. Đến năm 1999 nhà nước có chủ trương giao đất, giao rừng thì ông Hà Văn B đã kê khai, tại quyết định 552 ngày 17/12/1999 Ủy ban nhân dân huyện V đã giao đất, giao rừng cho ông tại lô 57, diện tích 1,5ha theo bản đồ giao đất lâm nghiệp huyện V, có địa danh rừng C, thôn P, xã V, huyện V, tỉnh Lạng Sơn. Quá trình sử dụng ông Hà Văn B đã hai lần trồng cây hồi, cụ thể lần đầu năm 1992 trồng k",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_003",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "Ông Hoàng Hồng T không đồng ý mua lại các cây này vì gia đình không có nhu cầu sử dụng và muốn chuyển đổi trồng cây khác hiệu quả kinh tế hơn. Còn bị đơn ông Hà Văn B đồng ý trả lại đất tranh chấp cho ông Hoàng Hồng T sử dụng, nhưng phải trả tiền cây hồi, cây sở, cây thông và các cây tạp hiện có trên đất tranh chấp là 50.000.000đồng cho ông Hà Văn B, nếu không ông yêu cầu hủy Giấy chứng nhận quyền sử dụng đất đã cấp cho ông Hoàng Hồng T. Tại phiên tòa ông Hà Văn B yêu cầu đòi số tiền cao hơn là 100.000.000đồng. Tại phiên tòa đại diện Viện kiểm sát có ý kiến: Quá trình tiến hành tố tụng Thẩm phán, Thư ký, Hội thẩm nhân dân thực hiện đúng quy định của pháp luật tố tụng dân sự; các đương sự được bảo đảm quyền và nghĩa vụ của mình khi tham gia tố tụng. Về nội dung đề nghị giao đất đang tranh chấp có diện tích 10.038m2 cho nguyên đơn được quản lý, sử dụng là đúng, có căn cứ pháp luật; không chấp nhận yêu cầu hủy Giấy chứng nhận quyền sử dụng đất đã cấp cho ông Hoàng Hồng T; về các cây tạp trên đất là do tự mọc thuộc đất hợp pháp của ông Hoàng Hồng T nên ông được tiếp tục quản lý, sử dụng; về cây hồi, cây sở do cây đã lớn không thể di dời được, nên giao cho ông Hoàng Hồng T sử dụng và ph",
+        "score": 40
+      }
+    ],
+    "claim_scope": "MAJORITY",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_8219",
+    "main_claim": {
+      "main_claim": "yêu cầu phản tố của bà Nguyễn Thị H về việc buộc bà Nguyễn Thị Bé M trả tiền thuê nhà 3.000.000 đồng/tháng tính từ tháng 3/2014 cho đến nay.",
+      "requested_amounts": [
+        "3.000.000 đồng"
+      ],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_011",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định của Tòa án có hiệu lực pháp luật. Số tiền này bà cho cá nhân bà H vay nên bà chỉ yêu cầu cá nhân bà H trả cho bà, không yêu cầu chồng bà H cùng có trách nhiệm trả nợ. Đối với yêu cầu trả tiền thuê nhà của bà H thì bà không đồng ý. Khi bà H vay tiền của vợ chồng bà có hứa là cho vợ chồng bà ở trên phần đất của bà H, khi nào bà H được hóa giá nhà thì mua nên bà mới cho bà H vay tiền và không tính lãi suất. Nay bà H khởi kiện yêu cầu trả tiền thuê nhà 3.000.000 đồng/tháng, tính từ tháng 3/2014 cho đến nay là không có căn cứ nên bà không đồng ý. Ngoài ra, bà không có ý kiến, yêu cầu gì khác. Tại biên bản lấy lời khai ngày 22/3/2018, đơn phản tố ngày 11/7/2018 và tại phiên tòa,",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_012",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định của Tòa án có hiệu lực pháp luật. Ông xác nhận vợ chồng ông không yêu cầu tính lãi đối với số tiền đã cho bà H vay. Đối với yêu cầu trả tiền thuê nhà của bà H thì ông không đồng ý. Khi bà H vay tiền của vợ chồng ông có hứa là cho vợ chồng ông ở trên phần đất của bà H, khi nào bà H được hóa giá nhà thì mua nên vợ chồng ông mới cho bà H vay tiền và không tính lãi suất. Nay bà H khởi kiện yêu cầu trả tiền thuê nhà 3.000.000 đồng/tháng tính từ tháng 3/2014 cho đến nay là không có căn cứ nên ông không đồng ý. Ngoài ra, ông không có ý kiến, yêu cầu gì khác. Tại biên bản lấy lời khai ngày 27/3/2018,",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_013",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định, ông không biết, không nhận tiền và cũng không sử dụng số tiền này. Trước đây vợ chồng ông có đồng ý cho gia đình bà M ở nhờ trên phần đất phía trước nhà của gia đình. Khi gia đình bà M đến ở thì có thực hiện việc sửa chữa, xây cất mới trên phần nhà đã xuống cấp của vợ chồng ông. Cụ thể việc sửa chữa như thế nào và chi phí sửa chữa hết bao nhiêu thì do bà H và vợ chồng bà M bàn bạc thỏa thuận với nhau. Ông thường xuyên đi làm nên không biết, không can thiệp vào công việc trên. Ông hoàn toàn không biết gì về thỏa thuận của bà H và gia đình bà M. Đối với yêu cầu của bà M yêu cầu bà H phải trả tiền vay thì ông hoàn toàn không có ý kiến gì. Bà H tự vay tiền của bà M thì bà H tự có trách nhiệm trả tiền cho bà M, ông không có liên quan. Ông thường xuyên phải đi làm ở xa, cũng không liên quan trong vụ việc nên ông đề nghị Tòa án không triệu tập ông trong quá trình giải quyết vụ án, kể cả các buổi hòa giải, xét xử và các buổi làm việc. Ông cam kết trình bày toàn bộ sự thật và cam kết chịu trách nhiệm về lời khai của mình, không khiếu nại về sau. Ngoài ra ông không còn ý kiến, yêu cầu gì khác. Tại phiên tòa,",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_015",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử, việc chấp hành pháp luật của người tham gia tố tụng dân sự kể từ khi thụ lý vụ án đến trước thời điểm",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_016",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử nghị án và phát biểu ý kiến về việc giải quyết vụ án như sau: Căn cứ Điều 466 Bộ luật Dân sự năm 2005 và các tài liệu chứng cứ của vụ án, đề nghị",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_017",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử chấp nhận toàn bộ yêu cầu khởi kiện của",
+        "score": 62
+      }
+    ],
+    "claim_scope": "ALL",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_2705",
+    "main_claim": {
+      "main_claim": "Theo đơn khởi kiện và bản tự khai cùng các văn bản khác có trong hồ sơ và tại phiên tòa, nguyên đơn là ông Nguyễn Hữu B trình bày: Do trước đây ông và ông Phạm Văn C cùng công tác với nhau tại Trường S tỉnh Ninh Bình (nay là Trường Đại học H) trên 30 năm. Do ông C cho biết xin được một suất vào làm việc ở Công ty Đào tạo và Huấn luyện Hàng không Việt Nam tại Hà Nội, nên ông có viết giấy thỏa thuận với ông Nguyễn Thanh H, ở N, huyện N, tỉnh Thanh Hóa, nhận xin cho anh Nguyễn Thành Đ (con trai ông H) vào làm ở Công ty nói trên. Ông đã nhận số tiền 150.000.000 đồng và thỏa thuận về mức lương, công việc làm; nếu không đúng nội dung theo thỏa thuận thì ông trả lại số tiền 148.000.000 đồng cho ông H. Sau khi nhận tiền của ông H, ông B đã thỏa thuận và thống nhất với ông C để xin cho anh Đ vào làm việc tại Công ty nói trên với chi phí là 118.000.000 đồng. Ngày 26/7/2013, giữa ông và ông C có viết giấy biên nhận và thỏa thuận với nội dung: người giao là ông Nguyễn Hữu B và người nhận là ông Phạm Văn C, đã nhận đủ số tiền 118.000.000 đồng; về việc anh C nhận đào tạo và tuyển dụng cháu Đ (xã N) vào làm việc tại Phòng Đào tạo của Công ty Cổ phần Đào tạo Nghiệp vụ Hàng không: * Lương từ 3,5 triệu đồng đến 4,5 triệu đồng/tháng. * Hợp đồng 2 tháng thử việc từ ngày 29/7 đến ngày 29/9/2013. * Sau ngày thứ hai, ngày 29/7/2013 có",
+      "requested_amounts": [
+        "150.000.000 đồng",
+        "148.000.000 đồng",
+        "118.000.000 đồng",
+        "118.000.000 đồng"
+      ],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_003",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định, nếu không đúng (ba gạch đầu dòng) thì anh C hoàn lại số tiền 118.000.000 đồng. Hợp đồng ngày 26/7/2013: người giao đã ký là ông Nguyễn Hữu B và người nhận đã ký, ghi đã nhận đủ tiền là ông Phạm Văn C. Đến ngày 29/7/2013, anh Đ đã đến nhận thử việc tại Công ty và có ký hợp đồng lao động với Công ty. Anh Đ đã làm việc nhưng do công việc và mức lương không đúng theo thỏa thuận khi xin việc nên đến ngày 28/8/2013 anh Đ viết đơn xin nghỉ việc và được Công ty chấp nhận. Sau khi anh Đ nghỉ việc thì ông H yêu cầu ông B phải thanh toán số tiền 148.000.000 đồng vì không đúng theo nội dung đã thỏa thuận. Do vậy, ông B đã yêu cầu ông C trả lại số tiền đã nhận của ông để ông trả lại cho ông H. Ông C đã trả cho ông số tiền 18.000.000 đồng, còn số tiền 100.000.000 đồng ông C cho biết đã đưa cho ông T đi xin việc và nộp về cho Công ty, khi nào lấy được thì ông C sẽ trả lại cho ông B. Sau đó, ông B đã trả cho ông H số tiền 48.000.000 đồng. Đến tháng 01/2015, ông Nguyễn Thanh H đã khởi kiện tại Tòa án nhân dân thành phố N, yêu cầu hủy bỏ giao dịch và buộc ông B phải trả số tiền còn lại là 100.000.000 đồng cho ông H. Tòa án nhân dân thành phố N xét xử sơ thẩm và Tòa án nhân dân tỉnh Ninh ",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_004",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định cho anh Đ. Khoảng bốn ngày sau, anh Đ đến Công ty làm việc. Sau khoảng một tuần kể từ khi anh Đ ra Hà Nội làm việc thì ông B xuống trực tiếp nhà ông, mang 18.000.000 đồng tiền mặt cùng một giấy biên nhận tiền giữa ông B và anh T với số tiền là 100.000.000 đồng, ghi vào vỏ bao thuốc lá Du Lịch. Ông B nói 18.000.000 đồng này là tiền bồi dưỡng của ông và anh T. Ông B có đưa một giấy biên nhận ngày 26/7/2013 cho ông ký nhưng ông không ký. Sau đó ông điện hỏi anh T và anh T nói: “Bác cứ ký, sau đó chuyển sang cho em để ông B yên tâm”. Sau đó không hiểu vì sao anh Đ đang làm việc ổn định lại bỏ việc về. Gia đình anh Đ đòi tiền ông B và ông B lại đòi tiền của ông. Ông đã trả được cho ông B 18.000.000 đồng, còn 100.000.000 đồng thì anh T và ông B ra gặp trực tiếp anh Q. Anh Q hứa sẽ có trách nhiệm lấy lại số tiền 100.000.000 đồng để trả cho ông B. Tuy nhiên sau đó anh Q ốm chết nên không lấy lại được số tiền này. Nay ông B khởi kiện yêu cầu ông trả cho ông B số tiền 100.000.000 đồng một lần. Quan điểm của ông là không nhất trí với yêu cầu đó mà chỉ đồng ý trả dần số tiền 100.000.000 đồng, mỗi tháng trả 1.000.000 đồng cho ông B.",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "n N, tỉnh Thanh Hóa, nhận xin cho anh Nguyễn Thành Đ (con trai ông H) vào làm ở Công ty nói trên. Ông đã nhận số tiền 150.000.000 đồng và thỏa thuận về mức lương, công việc làm; nếu không đúng nội dung theo thỏa thuận thì ông trả lại số tiền 148.000.000 đồng cho ông H. Sau khi nhận tiền của ông H, ông B đã thỏa thuận và thống nhất với ông C để xin cho anh Đ vào làm việc tại Công ty nói trên với chi phí là 118.000.000 đồng. Ngày 26/7/2013, giữa ông và ông C có viết giấy biên nhận và thỏa thuận với nội dung: người giao là ông Nguyễn Hữu B và người nhận là ông Phạm Văn C, đã nhận đủ số tiền 118.000.000 đồng; về việc anh C nhận đào tạo và tuyển dụng cháu Đ (xã N) vào làm việc tại Phòng Đào tạo của Công ty Cổ phần Đào tạo Nghiệp vụ Hàng không: * Lương từ 3,5 triệu đồng đến 4,5 triệu đồng/tháng. * Hợp đồng 2 tháng thử việc từ ngày 29/7 đến ngày 29/9/2013. * Sau ngày thứ hai, ngày 29/7/2013 có quyết định, nếu không đúng (ba gạch đầu dòng) thì anh C hoàn lại số tiền 118.000.000 đồng. Hợp đồng ngày 26/7/2013: người giao đã ký là ông Nguyễn Hữu B và người nhận đã ký, ghi đã nhận đủ tiền là ông Phạm Văn C. Đến ngày 29/7/2013, anh Đ đã đến nhận thử việc tại Công ty và có ký hợp đồng lao động v",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "ty Hàng không lấy thêm một suất làm cán bộ ở Phòng Đào tạo. Ông B nhận lời và sau khoảng hơn một tuần thì thông báo đã tìm được một cháu tên là Đ ở xã N, huyện N, tỉnh Thanh Hóa, đáp ứng đúng 3 yêu cầu là có bằng đại học quản trị kinh doanh loại khá, thể lực khỏe, chiều cao 1,68 m và có bằng ngoại ngữ tiếng Anh, viết nói tương đối thông thạo. Tiếp đó, khoảng một tuần sau, bố con anh Đ chuẩn bị được 150.000.000 đồng cùng một bộ hồ sơ đầy đủ giấy tờ. Ngay sáng hôm đó, sau khi nhận đủ tiền và hồ sơ của bố con anh Đ, ông B điện cho anh T thuê xe lên đón ông B cùng bố con anh Đ ra Hà Nội, đến Công ty để gặp trực tiếp lãnh đạo và được tư vấn trực tiếp cho anh Đ và bố anh Đ. Qua phỏng vấn và kiểm tra, Công ty chấp nhận anh Đ vào làm việc. Để công việc được thuận lợi, ông B rút 100.000.000 đồng trong cặp ra giao trực tiếp cho anh T để anh T giao cho anh Q là Trưởng phòng Đào tạo làm thủ tục ra quyết định cho anh Đ. Khoảng bốn ngày sau, anh Đ đến Công ty làm việc. Sau khoảng một tuần kể từ khi anh Đ ra Hà Nội làm việc thì ông B xuống trực tiếp nhà ông, mang 18.000.000 đồng tiền mặt cùng một giấy biên nhận tiền giữa ông B và anh T với số tiền là 100.000.000 đồng, ghi vào vỏ bao thuốc lá Du L",
+        "score": 40
+      }
+    ],
+    "claim_scope": "ALL",
+    "source": "OPERATIVE_ORDER + requested-versus-ordered monetary relief"
+  },
+  {
+    "case_id": "case_3263",
+    "main_claim": {
+      "main_claim": "yêu cầu của bà T về việc thanh toán nợ vì bà H giao dịch hụi, vay ông H không biết.",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_001",
+        "section": "procuracy_opinion",
+        "speaker": "procuracy",
+        "text": "Kiểm sát viên kết luận: Về phần thủ tục tố tụng chấp hành đúng pháp luật; Chấp nhận toàn bộ yêu cầu của bà T. * Bà T bảo lưu toàn bộ ý kiến và yêu cầu như trên. Tại",
+        "score": 44
+      }
+    ],
+    "claim_scope": "ALL",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_9125",
+    "main_claim": {
+      "main_claim": "yêu cầu ông Q trả đất nhưng ông Q không đồng ý và cho rằng đã được cấp giấy chứng nhận quyền sử dụng đất. Ông N khiếu nại việc UBND huyện P cấp giấy chứng nhận quyền sử dụng đất cho ông Q. Ngày 18/8/2016 UBND huyện P ban hành Thông báo số 492/TB-UBND (Thông báo 492) có nội dung diện tích đất ông N tranh chấp với ông Q, UBND cấp quyền sử dụng đất cho ông Q là không đúng và sẽ thu hồi, đính chính lại. Ông Q khiếu nại Thông báo 492 nên UBND huyện P ban hành",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_039",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử chấp hành đúng pháp luật tố tụng từ khi thụ lý vụ án cũng như tại phiên tòa; xác định đúng quan hệ pháp luật tranh chấp, đương sự. * Quan điểm giải quyết vụ án: - Ông Phạm H3 sang nhượng thành quả lao động là giàn và cây nho cho ông Võ Thanh Q chứ không chuyển nhượng quyền sử dụng 437m2 đất vì ông H3 không có quyền sang nhượng đất; ông Q cũng biết 437m2 do hộ ông N được giao khoán theo khoản 1 Điều 30 Luật Đất đai. Ông Q không chứng minh được ông H3 chuyển nhượng quyền sử dụng 437m2 đất cho ông Q. Ông Q nhận thành quả lao động là giàn và cây nho từ ông H3, sử dụng hết giá trị và chặt bỏ nên giao dịch này các bên đã thực hiện xong, không đặt ra giải quyết nội dung của việc sang nhượng thành quả lao động. Do đó đề nghị Tòa án không chấp nhận yêu cầu của ông Q cũng như ý kiến của ông H đề nghị ông N khi nhận lại đất phải hoàn trả số tiền 37.000.000 đồng. Bà Phạm Thị H1, ông Võ N tự nguyện hỗ trợ cho ông Q 3,5 chỉ vàng y loại 24K, 96% nên chấp nhận. Ông N rút yêu cầu hủy Giấy chứng nhận quyền sử dụng đất và hủy",
+        "score": 128
+      },
+      {
+        "chunk_id": "cf_029",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định số 1213/QĐ-UBND ngày 23/6/2017 của Chủ tịch UBND tỉnh Ninh Thuận. Tại phiên tòa, ông Võ N rút yêu cầu hủy Giấy chứng nhận quyền sử dụng đất số 00496 QSDĐ/161/QĐ/H/1998, rút yêu cầu hủy phần nội dung công nhận diện tích đất tranh chấp cho ông Võ Thanh Q đối với",
+        "score": 96
+      },
+      {
+        "chunk_id": "cf_030",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định số 1213/QĐ-UBND ngày 23/6/2017 của Chủ tịch UBND tỉnh Ninh Thuận. Ông Võ Thanh Q trình bày: Khoảng năm 1995, 1996 không nhớ chính xác, ông Phạm H3 chuyển nhượng toàn bộ giàn, cây nho và diện tích đất gắn liền khoảng hơn 400m2 cho ông Võ Thanh Q giá 04 chỉ vàng 24K, loại vàng 96%. Ông H3 viết hai bản giấy sang nhượng đất giao cho ông Q giữ một bản. Ông Q giao đủ vàng cho ông H3 và ông Q nhận giàn, cây nho, đất canh tác. Sau khi chuyển nhượng đất, giàn và cây nho ông H3 chuyển ra M sinh sống. Ông H3 không có giấy tờ gì chứng minh quyền sử dụng đất để chuyển nhượng đất cho ông Q. Nguồn tiền nhận chuyển nhượng đất, giàn và cây nho là của vợ chồng ông Q, vợ ông Q tên Đinh Thị Ngọc T. Vợ chồng ông Q canh tác cây nho khoảng gần 10 năm thì chặt bỏ trồng táo. Hiện nay diện tích đất đang tranh chấp vợ chồng ông Q cho con ruột tên Võ Thị Thanh Q1 và chồng của Q1 tên Trần Công H canh tác trồng cỏ khoảng 04m2. Năm 1996, ông Q kê khai nguồn gốc đất nhận khoán, đến năm 1998 UBND huyện P cấp giấy chứng nhận quyền sử dụng thửa đất 483, tờ bản đồ 03, diện tích 437m2 theo Giấy chứng nhận quyền sử dụng đất số 00496 QSDĐ/161/QĐ/H/1998 ngày 19/3/1998; trong sổ đỏ này có thửa 514, tờ bản đồ số",
+        "score": 96
+      },
+      {
+        "chunk_id": "cf_025",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định số 2547/QĐ-UBND ngày 30/11/2016 giữ nguyên Thông báo số 492. Ông Q khiếu nại",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_026",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định 2547 nên ngày 23/6/2017 UBND tỉnh Ninh Thuận ban hành",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_027",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định số 1213/QĐ-UBND chứa đựng nội dung hủy một phần nội dung tại mục 2 Thông báo số 492 và Điều 1 của",
+        "score": 80
+      }
+    ],
+    "claim_scope": "NONE",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_5658",
+    "main_claim": {
+      "main_claim": "yêu cầu khởi kiện và đề nghị Tòa án buộc ông Phạm Hồng S và bà Bùi Thị Thanh T phải thanh toán toàn bộ số nợ cho Ngân hàng A tổng số tiền tính đến ngày 28/11/2018 là: 461.746.528 đồng (Bốn trăm sáu mươi mốt triệu bảy trăm bốn mươi sáu nghìn năm trăm hai mươi tám đồng), trong đó: Nợ gốc là: 250.000.000 đồng (Hai trăm năm mươi triệu đồng chẵn); Nợ lãi trong hạn là: 14.986.111 đồng (Mười bốn triệu chín trăm tám mươi sáu nghìn một trăm mười một đồng ); Nợ lãi quá hạn là: 196.760.417 đồng (Một trăm chín mươi sáu triệu bảy trăm sáu mươi nghìn bốn trăm mười bảy đồng). Đề nghị Quý Tòa buộc ông S, bà T phải chịu số tiền lãi tiếp tục phát sinh trên dư nợ gốc thực nợ kể từ ngày 29/11/2018 theo mức lãi suất nợ quá hạn theo hợp đồng tín dụng và giấy nhận nợ cho đến khi thanh toán xong khoản nợ trên. Trong trường hợp ông Phạm Hồng S và bà Bùi Thị Thanh T không thanh toán được khoản nợ trên thì đề nghị Tòa án tuyên phát mại tài sản bảo đảm là Quyền sử dụng 127 m2 đất và tài sản gắn liền trên đất tại thửa đất số 15, tờ bản đồ số 26, địa chỉ: Xã M, huyện T, Hà Nội theo giấy chứng nhận quyền sở hữu nhà ở và tài sản khác gắn liền với đất số BĐ 8294** do UBND huyện Từ Liêm cấp ngày 20/04/2011 cho ông Vương Duy T, số vào sổ cấp giấy chứng nhận QĐ 293*/QĐ-UBND số vào sổ cấp GCN: CH0033* Chuyển nhượng quyền sở dụng đất cho và Bùi Thị Thanh T ngày 07/11/2013 (227 MK/4673/13) theo hợp đồng chuyển nhượng quyền sử dụng đất số 276*/2013/HĐCNQSDĐ Quyển sổ 06 TP/CC-SCC/HĐGD được Văn Phòng Công chứng Từ Liêm TP Hà Nội chứng nhận ngày 26/10/2013 để thu hồi nợ theo quy định của pháp luật. -",
+      "requested_amounts": [
+        "461.746.528 đồng",
+        "250.000.000 đồng",
+        "14.986.111 đồng",
+        "196.760.417 đồng"
+      ],
+      "requested_areas": [
+        "127 m2"
+      ]
+    },
+    "disposition_candidates": [],
+    "claim_scope": "UNCLEAR",
+    "source": "MISSING"
+  },
+  {
+    "case_id": "case_5045",
+    "main_claim": {
+      "main_claim": "yêu cầu nguyên đơn. nguyên đơn không biết, nhưng diện tích đất bà A được phân chia tương đối chính xác so với tờ thỏa thuận năm 2003 giữa bà A và ông H. Việc chuyển nhượng đất giữa bà A với nguyên đơn tự ý rào phần đất lối đi lại, trồng trụ điện trên phần đất của nguyên đơn đi trên đất của nguyên đơn được đăng ký quyền sử dụng đất, riêng phía nguyên đơn đi trên phần đất ngang 2m dài không đến 6,49m, đề nghị",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_006",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử chấp nhận yêu cầu của",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_007",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử xem xét. Năm 1988 ông Tô Duy H và bà Đặng Thị Kim A chuyển nhượng của ông Phan Kim Ng và bà Nguyễn Ngọc Th1 diện tích đất 460m2 tọa lạc tại khóm 7, phường MX, thành phố LA, An Giang, có làm giấy nhượng quyền đất thổ cư ngày 23/11/1998, được Ủy ban nhân dân phường MX và Ủy ban nhân dân thành phố LA chứng thực ngày 07/3/1989. Ngày 24/3/1989 ông H, bà A được Sở Xây dựng tỉnh An Giang cấp chứng nhận số 85/SXD, công nhận quyền sử dụng đất thổ cư cho ông H, bà A và cho phép ông H, bà A được quyền sang nhượng diện tích đất 640m2. Đến ngày 18/6/2003, bà A, ông H lập tờ thỏa thuận phân chia đất thổ cư tại số 460H, VT, phường MX, thành phố LA, nội dung ông H, bà A đồng ý tách riêng ra theo diện tích bà A 280m2, ông H 300m2 và bà Tô Thị Mộng L 60m2 để hợp thức hóa theo quy định. Tờ thỏa thuận này có ông H, bà L ký tên và được Ủy ban nhân dân thành phố LA chứng thực ngày 24/7/2003. Ngày 29/7/2003, bà A có đơn xin đăng ký quyền sử dụng đất diện tích 340m2, tại đơn đăng ký quyền sử dụng đất có xác nhận mốc ranh của các hộ liền kề, không tranh chấp trong đó có ông Tô Duy H. Ngày 21/8/2003, bà A được cấp giấy chứng nhận quyền sử dụng đất diện tích 279,8m2 kèm theo sơ đồ kỹ thuật kh",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "ần đất lối đi hiện tại, ngoài lối đi này các nguyên đơn không còn lối đi nào khác để đi ra đường VT, do đó nguyên đơn khởi kiện yêu cầu bị đơn phải trả lại diện tích đất lối đi là có căn cứ. Đối với phần đất của ông Tô Duy E chuyển nhượng của ông Ng và để cho bà A, ông H đứng tên là thực tế, vì tại thời điểm này chỉ có bà A, ông H có đăng ký hộ khẩu thường trú tại phần đất hiện nay. Phần đất 640m2 đã được thỏa thuận phân chia, bà A đã được cấp quyền sử dụng là đúng quy định của pháp luật. Tuy nhiên, do quan hệ ruột thịt nên các bên để cho bà A đứng tên cả diện tích đất lối đi mà không có ý kiến cho đến khi bà A chuyển nhượng đất cho bị đơn. Đến khi bà L, ông H đăng ký phần đất còn lại thì cơ quan có thẩm quyền không thực hiện do đất không có lối đi, sau đó ông H đã có nhờ chính quyền địa phương hòa giải nhiều lần nhưng không thành, việc dành lối đi chung cho các hộ là cần thiết, đề nghị Hội đồng xét xử chấp nhận yêu cầu của nguyên đơn. Bị đơn: Việc phân chia đất của gia đình bà A như thế nào thì phía nguyên đơn không biết, nhưng diện tích đất bà A được phân chia tương đối chính xác so với tờ thỏa thuận năm 2003 giữa bà A và ông H. Việc chuyển nhượng đất giữa bà A với bị đơn là đúng",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "đất còn lại thì cơ quan có thẩm quyền không thực hiện do đất không có lối đi, sau đó ông H đã có nhờ chính quyền địa phương hòa giải nhiều lần nhưng không thành, việc dành lối đi chung cho các hộ là cần thiết, đề nghị Hội đồng xét xử chấp nhận yêu cầu của nguyên đơn. Bị đơn: Việc phân chia đất của gia đình bà A như thế nào thì phía nguyên đơn không biết, nhưng diện tích đất bà A được phân chia tương đối chính xác so với tờ thỏa thuận năm 2003 giữa bà A và ông H. Việc chuyển nhượng đất giữa bà A với bị đơn là đúng quy định của pháp luật, nhưng các nguyên đơn tự ý rào phần đất lối đi lại, trồng trụ điện trên phần đất của bị đơn. Thực tế bị đơn vẫn để cho nguyên đơn đi trên đất của bị đơn và tạo điều kiện để cho nguyên đơn được đăng ký quyền sử dụng đất, riêng phía bị đơn vẫn sử dụng lối đi này để đi ra đường VT, đồng ý cho nguyên đơn đi trên phần đất ngang 2m dài không đến 6,49m, đề nghị Hội đồng xét xử xem xét. Năm 1988 ông Tô Duy H và bà Đặng Thị Kim A chuyển nhượng của ông Phan Kim Ng và bà Nguyễn Ngọc Th1 diện tích đất 460m2 tọa lạc tại khóm 7, phường MX, thành phố LA, An Giang, có làm giấy nhượng quyền đất thổ cư ngày 23/11/1998, được Ủy ban nhân dân phường MX và Ủy ban nhân dân",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_003",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "dụng phần đất lối đi hiện tại, ngoài lối đi này các nguyên đơn không còn lối đi nào khác để đi ra đường VT, do đó nguyên đơn khởi kiện yêu cầu bị đơn phải trả lại diện tích đất lối đi là có căn cứ. Đối với phần đất của ông Tô Duy E chuyển nhượng của ông Ng và để cho bà A, ông H đứng tên là thực tế, vì tại thời điểm này chỉ có bà A, ông H có đăng ký hộ khẩu thường trú tại phần đất hiện nay. Phần đất 640m2 đã được thỏa thuận phân chia, bà A đã được cấp quyền sử dụng là đúng quy định của pháp luật. Tuy nhiên, do quan hệ ruột thịt nên các bên để cho bà A đứng tên cả diện tích đất lối đi mà không có ý kiến cho đến khi bà A chuyển nhượng đất cho bị đơn. Đến khi bà L, ông H đăng ký phần đất còn lại thì cơ quan có thẩm quyền không thực hiện do đất không có lối đi, sau đó ông H đã có nhờ chính quyền địa phương hòa giải nhiều lần nhưng không thành, việc dành lối đi chung cho các hộ là cần thiết, đề nghị Hội đồng xét xử chấp nhận yêu cầu của nguyên đơn. Bị đơn: Việc phân chia đất của gia đình bà A như thế nào thì phía nguyên đơn không biết, nhưng diện tích đất bà A được phân chia tương đối chính xác so với tờ thỏa thuận năm 2003 giữa bà A và ông H. Việc chuyển nhượng đất giữa bà A với bị đơn ",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_004",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "ký phần đất còn lại thì cơ quan có thẩm quyền không thực hiện do đất không có lối đi, sau đó ông H đã có nhờ chính quyền địa phương hòa giải nhiều lần nhưng không thành, việc dành lối đi chung cho các hộ là cần thiết, đề nghị Hội đồng xét xử chấp nhận yêu cầu của nguyên đơn. Bị đơn: Việc phân chia đất của gia đình bà A như thế nào thì phía nguyên đơn không biết, nhưng diện tích đất bà A được phân chia tương đối chính xác so với tờ thỏa thuận năm 2003 giữa bà A và ông H. Việc chuyển nhượng đất giữa bà A với bị đơn là đúng quy định của pháp luật, nhưng các nguyên đơn tự ý rào phần đất lối đi lại, trồng trụ điện trên phần đất của bị đơn. Thực tế bị đơn vẫn để cho nguyên đơn đi trên đất của bị đơn và tạo điều kiện để cho nguyên đơn được đăng ký quyền sử dụng đất, riêng phía bị đơn vẫn sử dụng lối đi này để đi ra đường VT, đồng ý cho nguyên đơn đi trên phần đất ngang 2m dài không đến 6,49m, đề nghị Hội đồng xét xử xem xét. Năm 1988 ông Tô Duy H và bà Đặng Thị Kim A chuyển nhượng của ông Phan Kim Ng và bà Nguyễn Ngọc Th1 diện tích đất 460m2 tọa lạc tại khóm 7, phường MX, thành phố LA, An Giang, có làm giấy nhượng quyền đất thổ cư ngày 23/11/1998, được Ủy ban nhân dân phường MX và Ủy ban ",
+        "score": 40
+      }
+    ],
+    "claim_scope": "ALL",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_4920",
+    "main_claim": {
+      "main_claim": "Yêu cầu nguyên đơn. Hợp đồng số 087, 088, 089 ký kết ngày 30/9/2011 không được công chứng",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "hận quyền sử dụng đất số CL476294, số vào sổ cấp GCN: CS38790; Giấy chứng nhận quyền sử dụng đất số CL476293, số vào sổ cấp GCN: CS38791; Giấy chứng nhận quyền sử dụng đất CL476295, số vào sổ cấp GCN: CS38789 cho bà Trần Thị Ngọc H. Bị đơn không đồng ý đối với toàn bộ yêu cầu khởi kiện còn lại của nguyên đơn vì việc chậm bàn giao Giấy chứng nhận quyền sử dụng đất cho bà H không do lỗi của bị đơn mà do trình tự, thủ tục, quy trình và điều kiện cấp Giấy chứng nhận quyền sử dụng đất có thay đổi theo quy định của pháp luật. Mặt khác, ngày 16/10/2017 các bên đã thỏa thuận ký lại Hợp đồng chuyển nhượng quyền sử dụng đất số 087/HĐ-5B43/2017; 088/HĐ-5B43/2017 và 089/HĐ-5B43/2017, trong các hợp đồng ký ngày 16/10/2017 được ký kết các bên không thỏa thuận điều khoản phạt vi phạm hợp đồng như yêu cầu khởi kiện của nguyên đơn. Tại phiên tòa: Nguyên đơn bà H xin rút các yêu cầu khởi kiện như sau: 1. Rút yêu cầu về việc buộc bị đơn thanh toán tiền phạt do vi phạm hợp đồng theo thoả thuận tại Điều 6 của Hợp đồng số 087, 088 và 089 đã ký kết, cụ thể: 748.125.000 đồng x 25% = 187.031.250 đồng; 2. Rút yêu cầu về việc buộc bị đơn hoàn trả lại tiền chuyển nhượng quyền sử dụng đất là 748.125.000 đồng; ",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "CN: CS38789 cho bà Trần Thị Ngọc H. Bị đơn không đồng ý đối với toàn bộ yêu cầu khởi kiện còn lại của nguyên đơn vì việc chậm bàn giao Giấy chứng nhận quyền sử dụng đất cho bà H không do lỗi của bị đơn mà do trình tự, thủ tục, quy trình và điều kiện cấp Giấy chứng nhận quyền sử dụng đất có thay đổi theo quy định của pháp luật. Mặt khác, ngày 16/10/2017 các bên đã thỏa thuận ký lại Hợp đồng chuyển nhượng quyền sử dụng đất số 087/HĐ-5B43/2017; 088/HĐ-5B43/2017 và 089/HĐ-5B43/2017, trong các hợp đồng ký ngày 16/10/2017 được ký kết các bên không thỏa thuận điều khoản phạt vi phạm hợp đồng như yêu cầu khởi kiện của nguyên đơn. Tại phiên tòa: Nguyên đơn bà H xin rút các yêu cầu khởi kiện như sau: 1. Rút yêu cầu về việc buộc bị đơn thanh toán tiền phạt do vi phạm hợp đồng theo thoả thuận tại Điều 6 của Hợp đồng số 087, 088 và 089 đã ký kết, cụ thể: 748.125.000 đồng x 25% = 187.031.250 đồng; 2. Rút yêu cầu về việc buộc bị đơn hoàn trả lại tiền chuyển nhượng quyền sử dụng đất là 748.125.000 đồng; 3. Rút yêu cầu đề nghị tuyên hủy Hợp đồng số 087/IJC-TGR-5B43/2011; 088/IJC-TGR-5B43/2011 và 089/IJC-TGR-5B43/2011 ngày 30/9/2011; 4. Rút yêu cầu buộc bị đơn bàn giao cho nguyên đơn 03 Giấy chứng n",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_003",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "ên đơn vì việc chậm bàn giao Giấy chứng nhận quyền sử dụng đất cho bà H không do lỗi của bị đơn mà do trình tự, thủ tục, quy trình và điều kiện cấp Giấy chứng nhận quyền sử dụng đất có thay đổi theo quy định của pháp luật. Mặt khác, ngày 16/10/2017 các bên đã thỏa thuận ký lại Hợp đồng chuyển nhượng quyền sử dụng đất số 087/HĐ-5B43/2017; 088/HĐ-5B43/2017 và 089/HĐ-5B43/2017, trong các hợp đồng ký ngày 16/10/2017 được ký kết các bên không thỏa thuận điều khoản phạt vi phạm hợp đồng như yêu cầu khởi kiện của nguyên đơn. Tại phiên tòa: Nguyên đơn bà H xin rút các yêu cầu khởi kiện như sau: 1. Rút yêu cầu về việc buộc bị đơn thanh toán tiền phạt do vi phạm hợp đồng theo thoả thuận tại Điều 6 của Hợp đồng số 087, 088 và 089 đã ký kết, cụ thể: 748.125.000 đồng x 25% = 187.031.250 đồng; 2. Rút yêu cầu về việc buộc bị đơn hoàn trả lại tiền chuyển nhượng quyền sử dụng đất là 748.125.000 đồng; 3. Rút yêu cầu đề nghị tuyên hủy Hợp đồng số 087/IJC-TGR-5B43/2011; 088/IJC-TGR-5B43/2011 và 089/IJC-TGR-5B43/2011 ngày 30/9/2011; 4. Rút yêu cầu buộc bị đơn bàn giao cho nguyên đơn 03 Giấy chứng nhận quyền sử dụng đất số CL476293, 476294, 476295 do Sở Tài nguyên và Môi trường tỉnh Bình Dương cấp cho b",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_004",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "và điều kiện cấp Giấy chứng nhận quyền sử dụng đất có thay đổi theo quy định của pháp luật. Mặt khác, ngày 16/10/2017 các bên đã thỏa thuận ký lại Hợp đồng chuyển nhượng quyền sử dụng đất số 087/HĐ-5B43/2017; 088/HĐ-5B43/2017 và 089/HĐ-5B43/2017, trong các hợp đồng ký ngày 16/10/2017 được ký kết các bên không thỏa thuận điều khoản phạt vi phạm hợp đồng như yêu cầu khởi kiện của nguyên đơn. Tại phiên tòa: Nguyên đơn bà H xin rút các yêu cầu khởi kiện như sau: 1. Rút yêu cầu về việc buộc bị đơn thanh toán tiền phạt do vi phạm hợp đồng theo thoả thuận tại Điều 6 của Hợp đồng số 087, 088 và 089 đã ký kết, cụ thể: 748.125.000 đồng x 25% = 187.031.250 đồng; 2. Rút yêu cầu về việc buộc bị đơn hoàn trả lại tiền chuyển nhượng quyền sử dụng đất là 748.125.000 đồng; 3. Rút yêu cầu đề nghị tuyên hủy Hợp đồng số 087/IJC-TGR-5B43/2011; 088/IJC-TGR-5B43/2011 và 089/IJC-TGR-5B43/2011 ngày 30/9/2011; 4. Rút yêu cầu buộc bị đơn bàn giao cho nguyên đơn 03 Giấy chứng nhận quyền sử dụng đất số CL476293, 476294, 476295 do Sở Tài nguyên và Môi trường tỉnh Bình Dương cấp cho bà Trần Thị Ngọc H ngày 31/10/2017. Nguyên đơn chỉ yêu cầu Tòa án giải quyết các vấn đề cụ thể như sau: 1. Yêu cầu bị đơn tiếp tục t",
+        "score": 40
+      }
+    ],
+    "claim_scope": "NONE",
+    "source": "PARTY_STATEMENT"
+  },
+  {
+    "case_id": "case_8758",
+    "main_claim": {
+      "main_claim": "yêu cầu gia đình bà Nguyễn Thị T trả lại phần đất trên cho gia đình bà V. Tại phiên tòa ông Diêm Đăng L vắng mặt. *Tại biên bản lấy lời khai và tại phiên tòa đơn khởi kiện đòi lối đi tranh chấp trên là không có căn cứ vì gia đình bà T đã sử dụng ổn định lâu dài từ năm 1995 cho đến nay. Tại phiên tòa ông Nguyễn Văn B có mặt trình bày ông giữ nguyên lời khai như đã trình bày về nguồn gốc đất tranh chấp giữa gia đình bà V và gia đình bà T do chị N đại diện là đất hoang hóa, của tập thể, không phải của gia đình bà V. Việc bà V khởi kiện đòi diện tích đất trên là không đúng. *Tại biên bản lấy lời khai của",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_003",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định số 58/QĐ-UB ngày 28/12/2000. Năm 2012, xã Tân T được đo đạc bản đồ, thửa đất của hộ bà Nguyễn Thị T được cấp giấy chứng nhận quyền sử dụng đất năm 2000 được thể hiện thành hai thửa là: Thửa đất số 45, tờ bản đồ số 28, diện tích 1.626,1m2, hiện ông Nguyễn Hoàng C đang sử dụng và thửa số 83, tờ bản đồ số 28, diện tích 293,8m2 do ông Nguyễn Văn K sử dụng. Thửa số 82, tờ bản đồ số 28, diện tích 1.346m2 có nguồn gốc sử dụng là do hộ khai hoang sử dụng và được giao đất lâm nghiệp. Ngày 28/12/2000, hộ ông Nguyễn Thái A vợ là bà Diêm Thị V được UBND huyện cấp giấy chứng nhận quyền sử dụng đất đối với diện tích 396m2 đất rừng tái sinh. Đến ngày 07/10/2003 được UBND huyện cấp giấy chứng nhận quyền sử dụng đất đối với diện tích 315m2 đất ở. Năm 2012, xã Tân T được đo đạc bản đồ, thửa đất thổ cư được cấp giấy chứng nhận quyền sử dụng đất năm 2003 và thửa đất lâm nghiệp được cấp giấy chứng nhận đất năm 2000 được thể hiện thành một thửa là thửa 82, tờ bản đồ số 28, tổng diện tích 1.346m2. Hiện hồ sơ cấp giấy chứng nhận quyền sử dụng đất cho hộ ông Nguyễn Thái A và hộ bà Nguyễn Thị T cũng như các hộ khác tại tại xã Tân T thời điểm năm 2000 và năm 2003 đã thất lạc, do vậy không có cơ sở",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "để chị liên hệ với UBND các cấp về việc cấp đất cho gia đình chị. - Chị N không đồng ý với việc gia đình bà V khởi kiện đòi diện tích đất 42m2 của các anh chị em chị đang quản lý, sử dụng với lý do gia đình chị trước đây mẹ chị là bà T đã có đơn xin đất được những người có thẩm quyền năm 1995 ký xác nhận và theo chị đất này không phải của gia đình bà V nên bà V không có quyền đòi lại. * Đại diện theo ủy quyền của UBND huyện Tân Y ông Nguyễn Tuấn A có trình bày như sau (BL số 145): Về nguồn gốc sử dụng: Thửa số 83, tờ bản đồ số 28 và thửa số 45 tờ bản đồ số 28 có nguồn gốc sử dụng là của hộ bà Nguyễn Thị T do hộ khai hoang sử dụng. Năm 2003, thực hiện việc cấp giấy chứng nhận QSD đất sau đo đạc bản đồ, hộ bà Nguyễn Thị T mang tên chủ sử dụng là Nguyễn Thị T kê khai và được UBND huyện cấp giấy chứng nhận quyền sử dụng đất diện tích 720m2 trong đó: Đất ở 360m2, đất vườn 360m2, được cấp tại Quyết định số 58/QĐ-UB ngày 28/12/2000. Năm 2012, xã Tân T được đo đạc bản đồ, thửa đất của hộ bà Nguyễn Thị T được cấp giấy chứng nhận quyền sử dụng đất năm 2000 được thể hiện thành hai thửa là: Thửa đất số 45, tờ bản đồ số 28, diện tích 1.626,1m2, hiện ông Nguyễn Hoàng C đang sử dụng và thửa số 83",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "mẹ chị là bà Nguyễn Thị T mất năm 2008. Năm 2011, các chị em bà đã xây tường dào chắn lối đi theo lời dặn của mẹ chị. Năm 2012 Nhà nước đo đạc lại bản đồ đất đai, gia đình nhà chị và gia đình nhà ông An, bà V thống nhất các mốc giới đo đạc như phần hồ sơ đo đạc về đất đai năm 2012, và được treo tại nhà văn hóa của thôn trong nhiều tháng nhưng gia đình bà V không có ý kiến gì tranh chấp. Từ đó đến năm 2016 gia đình chị sử dụng ổn định và lâu dài và không ai có ý kiến gì tranh tranh chấp khiếu nại. Chị không hiểu vì lý do gì năm 2016 gia đình bà V lại nộp đơn kiện tranh chấp với gia đình chị. Chị không chấp nhận lý do bà V khởi kiện đòi diện tích đất 42m2 trên: Vì diện tích đất này của gia đình chị đã được UBND xã Tân T xác nhận cho phép sử dụng làm lối đi hợp pháp từ năm 1995, không lấn chiếm đất của bất kỳ gia đình ai. Tại phiên tòa chị Nguyễn Thị N có mặt trình bày như sau: - Chị N xin rút toàn bộ nội dung đơn yêu cầu phản tố đề ngày 8/8/2018 với lý do việc xin đất của gia đình chị năm 1995 đã được những người có thẩm quyền ký xác nhận vào đơn xin đất và gia đình chị đã sử dụng từ đó cho đến nay. Chị được biết việc cấp và giao đất là thuộc thẩm quyền của UBND các cấp không thuộc t",
+        "score": 40
+      }
+    ],
+    "claim_scope": "NONE",
+    "source": "COURT_REASONING"
+  },
+  {
+    "case_id": "case_9089",
+    "main_claim": {
+      "main_claim": "yêu cầu nguyên đơn. Luật sư bảo vệ quyền và lợi ích hợp pháp cho nguyên đơn: Đề nghị nguyên đơn, bởi các căn cứ sau: Việc cấp giấy CNQSD đất thửa đất số 476 của gia đình nguyên đơn thiếu so với giấy được cấp 1.800m2 là quá nhiều nên có cơ sở xác định việc cấp giấy thửa đất số 476 cho nguyên đơn. nguyên đơn vì đất này thuộc quyền sử dụng của gia đình bà đã sử dụng trên 40 năm, việc nguyên đơn cho rằng đất của nguyên đơn là không đúng. Luật sư bảo vệ quyền và lợi ích hợp pháp cho nguyên đơn, bởi lẻ: Việc cấp giấy đất thửa số 475, 476 cho nguyên đơn, nguyên đơn kê khai bao trùm là không chính xác, mặt khác, ông K cho rằng được cha mẹ tặng cho phần đất này cũng như cho bà T mượn sử dụng nhưng không có gì chứng minh cho lời trình bày. Ủy ban nhân dân quận Thốt Nốt có công văn số 967/UBND – NC ngày 17/5/2018 phúc đáp cho Tòa án có nội dung xác định: Việc Ủy ban nhân dân huyện Thốt Nốt (cũ) cấp giấy chứng nhận sử dụng ruộng đất số 221/GCNRĐ/TN cấp ngày 17/9/1990 cho ông Huỳnh Trọng K tại thửa đất số 475 và cấp giấy CNQSD ruộng đất số 141/GCNRĐ/TN cấp ngày 16/9/1990 cho bà Lê Thị X tại thửa đất 476 là đúng trình tự, thủ tục, đối tượng, nguồn gốc theo quy định pháp luật",
+      "requested_amounts": [],
+      "requested_areas": [
+        "1.800m2"
+      ]
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_016",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử không chấp nhận yêu cầu khởi kiện của",
+        "score": 102
+      },
+      {
+        "chunk_id": "cf_013",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định số 201/QĐ-ĐKTK ngày 14 tháng 7 năm 1989 của Tổng cục trưởng Tổng cục quản lý ruộng đất. Đối với thửa đất số 476 của bà Lê Thị X thì tại thời điểm xin cấp giấy vào năm 1990, bà Lê Thị X cũng đã thực hiện việc đăng ký kê khai đúng theo quy định. Mặc dù, Đơn xin đăng ký quyền sử dụng đất ngày 16-9-1990 của bà Lê Thị X không có xác nhận của Chủ tịch Hội đồng đăng ký đất đai xã E (trước đây), nhưng xét về đối tượng sử dụng đất thì bà Lê Thị X đảm bảo đủ các điều kiện để được cấp giấy CNQSD đất vì tại thời điểm cấp giấy thì việc sử dụng đất của hộ dân là trực tiếp và ổn định, không tranh chấp, nguồn gốc đất rõ ràng, diện tích đất mà bà Lê Thị X đang sử dụng được thể hiện đầy đủ trên bản đồ địa chính và được ghi vào sổ địa chính, việc không có xác nhận này cũng giống với trường hợp xin cấp giấy của hộ ông K là sơ sót phổ biến của cơ quan Nhà nước tại thời điểm cấp giấy năm 1990. Do vậy, việc Ủy ban nhân dân huyện Thốt Nốt (trước đây) cấp giấy CNQSD ruộng đất số 141/GCNRĐ/TN cấp ngày 16-9-1990 nêu trên là đúng trình tự, thủ tục theo quy định tại khoản 2, Mục II, Mục III",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_014",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định số 201/QĐ-ĐKTK ngày 14 tháng 7 năm 1989 của Tổng cục trưởng Tổng cục quản lý ruộng đất. Theo Bản trích đo địa chính số 19/TTKTTNMT ngày 20/3/2018 thể hiện thửa 475 (không tính phần diện tích tranh chấp) có diện tích 4.457,5m2 giảm 1.892,5m2 so với giấy CNQSD đất số “H” 00430 ngày 26/12/2005 của",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_015",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử chấp nhận yêu cầu khởi kiện của",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "của ông Huỳnh Trọng K không có xác nhận của Chủ tịch Hội đồng đăng ký đất đai xã E (trước đây), nhưng xét về đối tượng sử dụng đất thì ông Huỳnh Trọng K đảm bảo đủ các điều kiện để được cấp giấy CNQSD đất vì tại thời điểm cấp giấy thì việc sử dụng đất của hộ dân là trực tiếp và ổn định, không tranh chấp, nguồn gốc đất rõ ràng, diện tích đất mà hộ ông Huỳnh Trọng K đang sử dụng được thể hiện đầy đủ trên bản đồ địa chính và được ghi vào sổ địa chính. Việc không có xác nhận của Chủ tịch Hội đồng đăng ký đất đai xã E (trước đây) trong đơn xin đăng ký của ông Huỳnh Trọng K là sơ sót phổ biến của cơ quan Nhà nước tại thời điểm cấp giấy năm 1990, không phải chỉ riêng đối với trường hợp của hộ ông Huỳnh Trọng K. Do vậy, việc Ủy ban nhân dân huyện Thốt Nốt (trước đây) cấp giấy CNQSD ruộng đất số 221/GCNRĐ/TN cấp ngày 17/9/1990 là đúng trình tự, thủ tục theo quy định tại khoản 2, Mục II, Mục III Quyết định số 201/QĐ-ĐKTK ngày 14 tháng 7 năm 1989 của Tổng cục trưởng Tổng cục quản lý ruộng đất. Đối với thửa đất số 476 của bà Lê Thị X thì tại thời điểm xin cấp giấy vào năm 1990, bà Lê Thị X cũng đã thực hiện việc đăng ký kê khai đúng theo quy định. Mặc dù, Đơn xin đăng ký quyền sử dụng đất ngày",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "Thị X cũng đã thực hiện việc đăng ký kê khai đúng theo quy định. Mặc dù, Đơn xin đăng ký quyền sử dụng đất ngày 16-9-1990 của bà Lê Thị X không có xác nhận của Chủ tịch Hội đồng đăng ký đất đai xã E (trước đây), nhưng xét về đối tượng sử dụng đất thì bà Lê Thị X đảm bảo đủ các điều kiện để được cấp giấy CNQSD đất vì tại thời điểm cấp giấy thì việc sử dụng đất của hộ dân là trực tiếp và ổn định, không tranh chấp, nguồn gốc đất rõ ràng, diện tích đất mà bà Lê Thị X đang sử dụng được thể hiện đầy đủ trên bản đồ địa chính và được ghi vào sổ địa chính, việc không có xác nhận này cũng giống với trường hợp xin cấp giấy của hộ ông K là sơ sót phổ biến của cơ quan Nhà nước tại thời điểm cấp giấy năm 1990. Do vậy, việc Ủy ban nhân dân huyện Thốt Nốt (trước đây) cấp giấy CNQSD ruộng đất số 141/GCNRĐ/TN cấp ngày 16-9-1990 nêu trên là đúng trình tự, thủ tục theo quy định tại khoản 2, Mục II, Mục III Quyết định số 201/QĐ-ĐKTK ngày 14 tháng 7 năm 1989 của Tổng cục trưởng Tổng cục quản lý ruộng đất. Theo Bản trích đo địa chính số 19/TTKTTNMT ngày 20/3/2018 thể hiện thửa 475 (không tính phần diện tích tranh chấp) có diện tích 4.457,5m2 giảm 1.892,5m2 so với giấy CNQSD đất số “H” 00430 ngày 26/12/20",
+        "score": 40
+      }
+    ],
+    "claim_scope": "NONE",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_127",
+    "main_claim": {
+      "main_claim": "yêu cầu khởi kiện ban đầu. Đề nghị nguyên đơn.",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_006",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử tuyên bố giao dịch chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất giữa cụ L và cụ M; giao dịch chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất giữa cụ L và ông Th, bà H là vô hiệu; hủy giấy chứng nhận quyền sử dụng đất do UBND quận K cấp cho ông Th bà H và buộc vợ chồng bà H trả lại tài sản là nhà đất cho đại diện",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "đất cho cụ L. Bà V đã gửi tiền cho ông T ở thành phố Hồ Chí Minh là có thật. Tuy nhiên, năm 1999 cụ M đã chia đất cho hai người con là ông C và ông T, ông T được sử dụng phần đất có nhà và các công trình phụ do ông T và bà V xây dựng là tài sản của ông T và bà V. Bà V không thể hiện ý chí bán nhà cho cụ L. Việc ông T điện đàm về nhà ông Hài nhờ ông Th bán nhà là có thật, xong chưa thể hiện rõ ý chí và có thể thay đổi. Do đó cụ M không có quyền bán nhà đất của ông T. Mặt khác, việc giao dịch mua bán nhà đất phải bằng văn bản có công chứng hoặc chứng thực, nhưng bị đơn không xuất trình được giấy tờ mua bán nhà đất. Việc nguyên đơn yêu cầu bổ sung tuyên bố hợp đồng chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất giữa cụ L với ông Th bà H là vô hiệu và hủy Giấy chứng nhận quyền sử dụng đất do UBND quận K đã cấp cho ông Th bà H là không vượt quá yêu cầu khởi kiện ban đầu. Đề nghị Hội đồng xét xử tuyên bố giao dịch chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất giữa cụ L và cụ M; giao dịch chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất giữa cụ L và ông Th, bà H là vô hiệu; hủy giấy chứng nhận quyền sử dụng đất do UBND quận K cấp cho ông Th bà H và bu",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "iền với đất cho cụ L. Bà V đã gửi tiền cho ông T ở thành phố Hồ Chí Minh là có thật. Tuy nhiên, năm 1999 cụ M đã chia đất cho hai người con là ông C và ông T, ông T được sử dụng phần đất có nhà và các công trình phụ do ông T và bà V xây dựng là tài sản của ông T và bà V. Bà V không thể hiện ý chí bán nhà cho cụ L. Việc ông T điện đàm về nhà ông Hài nhờ ông Th bán nhà là có thật, xong chưa thể hiện rõ ý chí và có thể thay đổi. Do đó cụ M không có quyền bán nhà đất của ông T. Mặt khác, việc giao dịch mua bán nhà đất phải bằng văn bản có công chứng hoặc chứng thực, nhưng bị đơn không xuất trình được giấy tờ mua bán nhà đất. Việc nguyên đơn yêu cầu bổ sung tuyên bố hợp đồng chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất giữa cụ L với ông Th bà H là vô hiệu và hủy Giấy chứng nhận quyền sử dụng đất do UBND quận K đã cấp cho ông Th bà H là không vượt quá yêu cầu khởi kiện ban đầu. Đề nghị Hội đồng xét xử tuyên bố giao dịch chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất giữa cụ L và cụ M; giao dịch chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất giữa cụ L và ông Th, bà H là vô hiệu; hủy giấy chứng nhận quyền sử dụng đất do UBND quận K cấp cho ông Th bà",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_003",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "đến vụ việc. Người kế thừa quyền nghĩa vụ của bị đơn bà Phạm Thị T và ông Phạm Văn V, chị Nguyễn Thị L trình bày thống nhất với nhau như sau: Khi cụ Phạm Văn L còn sống, đã mua nhà, đất của cụ Phạm Thị M, Hợp đồng chuyển nhượng quyền sở hữu nhà và sử dụng đất được viết giấy có người làm chứng. Cụ M đã nhận đủ tiền, cụ L đã nhận nhà, đất và sử dụng ổn định từ năm 2001 đến năm 2002 thì cụ L viết giấy chuyển nhượng quyền sử dụng đất nông nghiệp là 910 m2 cho vợ chồng ông Phạm Văn Th và bà Vũ Thị H. Ông Th, bà H đã được UBND quận K cấp giấy chứng nhận quyền sử dụng (GCNQSD) đất số: S:801530 ngày 15/3/2002. Đến ngày 03/8/2004, cụ L tiếp tục viết giấy chuyển nhượng quyền sở hữu nhà và sử dụng đất thổ cư cho vợ chồng ông Th, bà H, diện tích đất thổ cư và nhà ở chưa được cấp giấy chứng nhận. Do đó, bà T, ông V không đồng ý với yêu cầu khởi kiện của vợ con ông Nguyễn Văn T. Đề nghị Tòa án không chấp nhận yêu cầu khởi kiện của nguyên đơn, công nhận hợp đồng chuyển nhượng quyền sở hữu nhà và quyền sử dụng đất giữa cụ Phạm Thị M và cụ Phạm Văn L. Việc cụ L đã chuyển nhượng tài sản và quyền sử dụng đất mà cụ L mua của cụ M cho vợ chồng ông Th, bà H thì vợ chồng ông Th, bà H được quyền sở hữu tà",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_004",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "uan gì đến vụ việc. Người kế thừa quyền nghĩa vụ của bị đơn bà Phạm Thị T và ông Phạm Văn V, chị Nguyễn Thị L trình bày thống nhất với nhau như sau: Khi cụ Phạm Văn L còn sống, đã mua nhà, đất của cụ Phạm Thị M, Hợp đồng chuyển nhượng quyền sở hữu nhà và sử dụng đất được viết giấy có người làm chứng. Cụ M đã nhận đủ tiền, cụ L đã nhận nhà, đất và sử dụng ổn định từ năm 2001 đến năm 2002 thì cụ L viết giấy chuyển nhượng quyền sử dụng đất nông nghiệp là 910 m2 cho vợ chồng ông Phạm Văn Th và bà Vũ Thị H. Ông Th, bà H đã được UBND quận K cấp giấy chứng nhận quyền sử dụng (GCNQSD) đất số: S:801530 ngày 15/3/2002. Đến ngày 03/8/2004, cụ L tiếp tục viết giấy chuyển nhượng quyền sở hữu nhà và sử dụng đất thổ cư cho vợ chồng ông Th, bà H, diện tích đất thổ cư và nhà ở chưa được cấp giấy chứng nhận. Do đó, bà T, ông V không đồng ý với yêu cầu khởi kiện của vợ con ông Nguyễn Văn T. Đề nghị Tòa án không chấp nhận yêu cầu khởi kiện của nguyên đơn, công nhận hợp đồng chuyển nhượng quyền sở hữu nhà và quyền sử dụng đất giữa cụ Phạm Thị M và cụ Phạm Văn L. Việc cụ L đã chuyển nhượng tài sản và quyền sử dụng đất mà cụ L mua của cụ M cho vợ chồng ông Th, bà H thì vợ chồng ông Th, bà H được quyền sở",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_005",
+        "section": "related_party_statement",
+        "speaker": "related_party",
+        "text": "người làm chứng. Cụ M đã nhận đủ tiền, cụ L đã nhận nhà, đất và sử dụng ổn định từ năm 2001 đến năm 2002 thì cụ L viết giấy chuyển nhượng quyền sử dụng đất nông nghiệp là 910 m2 cho vợ chồng ông Phạm Văn Th và bà Vũ Thị H. Ông Th, bà H đã được UBND quận K cấp giấy chứng nhận quyền sử dụng (GCNQSD) đất số: S:801530 ngày 15/3/2002. Đến ngày 03/8/2004, cụ L tiếp tục viết giấy chuyển nhượng quyền sở hữu nhà và sử dụng đất thổ cư cho vợ chồng ông Th, bà H, diện tích đất thổ cư và nhà ở chưa được cấp giấy chứng nhận. Do đó, bà T, ông V không đồng ý với yêu cầu khởi kiện của vợ con ông Nguyễn Văn T. Đề nghị Tòa án không chấp nhận yêu cầu khởi kiện của",
+        "score": 40
+      }
+    ],
+    "claim_scope": "MAJORITY",
+    "source": "COURT_REASONING"
+  },
+  {
+    "case_id": "case_2978",
+    "main_claim": {
+      "main_claim": "yêu cầu khởi kiện của nguyên đơn. nguyên đơn gửi cho Tòa án không có dấu của Công ty Trách nhiệm hữu hạn MTV Tập G đóng lên dù phần đầu của chị O là giám đốc của công ty Tập G và công ty lúc đó là một pháp nhân hợp pháp nên mọi giao dịch do chủ sở hữu giám đốc ký đều cần phải có đóng con dấu của doanh nghiệp Thứ ba: Bên nguyên đơn không có chứng cứ nào khác để chứng minh về nguồn gốc, quyền sở hữu máy xúc số 60LA 3102, 03 bộ máy băm củi và 1000 tấn củi bằm nhỏ cùng hệ thống nhà xưởng là của phía nguyên đơn. Đối với 1000 tấn củi bằm nhỏ nguyên đơn kiện đòi là không có thật, Công ty Trách nhiệm hữu hạn MTV Tập G liên tục mua vào bán ra, không khi nào có số lượng hàng hóa lớn như vậy để lưu kho. Do vậy, việc anh Ong Teng Kh khởi kiện đòi tài sản đối với",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [],
+    "claim_scope": "UNCLEAR",
+    "source": "PARTY_STATEMENT"
+  },
+  {
+    "case_id": "case_4579",
+    "main_claim": {
+      "main_claim": "yêu cầu ông N trả lại cho bà N diện tích đất 102m2 theo sơ đồ bản vẽ ngày 22/8/2007 của Trung tâm kỹ thuật tài nguyên và môi trường tỉnh bà Rịa-Vũng Tàu (thuộc vị trí B) diện tích đất này nằm giữa 02 thửa đất số 350 và 351 (trong đó thửa 351 đã được cấp Giấy chứng nhận quyền sử dụng đất, còn thửa 350 thì chưa được cấp giấy chứng nhận quyền sử dụng đất vì bà N đang tranh chấp) của ông Trần Cảnh N thì ông N không chấp nhận vì: Sau khi ông N nhận chuyển nhượng quyền sử dụng đất của ông Xuân N thì ông N đã kê khai đất với cơ quan nhà nước có thẩm quyền và được Ủy ban nhân dân huyện C cấp Giấy chứng nhận quyền sử dụng đất số B 586877 thửa 745 tờ bản đồ số 18 xã S ngày 08/11/1997 cho hộ ông Trần Cảnh N thì trên thửa đất này hoàn toàn không có con đường hay quyền sử dụng đất của bà N cắt ngang qua thửa đất này của ông N. Điều này thể hiện rất rõ trên bản đồ địa chính năm 1994 xã S do Văn phòng đăng ký đất dai huyện C đã cung cấp cho Tòa án. Ông N cho rằng: Cơ sở nào mà các bản đồ địa chính các năm sau (năm 2004, 2009) lại tự vẽ phần đất của ông N phần đất của bà N ở giữa và chia phần đất của ông N làm hai, trong khi ông N không bán cho ai, không tặng cho ai, ông N cũng không tự nguyện hiến đất cho nhà nước và ông N cũng không nhận được",
+      "requested_amounts": [],
+      "requested_areas": [
+        "102m2"
+      ]
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_004",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định thu hồi đất nào của cơ quan nhà nước có thẩm quyền. Như vậy, cơ sở nào để cơ quan có thẩm quyền công nhận đó là phần đất thuộc Giấy chứng nhận quyền sử dụng đất của bà N? Trong giai đoạn 2003 đến 2004 thì ông N và gia đình có làm ăn xa (ở tỉnh Đ), do đó giai đoạn này cơ quan nhà nước có tự ý vẽ bản đồ số hóa thì ông N không biết và cũng không có sự đồng ý của ông N đối với phần đất này. Ông N không đồng ý với các sơ đồ, bản vẽ mà Tòa án yêu cầu Trung tâm kỹ thuật tài nguyên và môi trường tỉnh B đã đo vẽ ngày 22/8/2007. Từ đó, ông N không đồng ý trước yêu cầu của bà N là buộc ông N trả lại cho bà N diện tích đất 102 m2 theo sơ đồ bản vẽ ngày 22/8/2007 của Trung tâm kỹ thuật tài nguyên và môi trường tỉnh B đã đo vẽ (thuộc vị trí B). Ông N đồng ý với sơ đồ bản vẽ ngày 04/9/2018 của Chi nhánh văn phòng đăng ký đất đai huyện C và để nghị Tòa án lấy bản vẽ nêu trên để làm cơ sở giải quyết vụ án. -",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_005",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử xem xét không chấp nhận nội dung yêu cầu của bà Trần Thị N, vì phần diện tích 102m2 theo bản đồ địa chính được lập năm 1994 thì không nằm trong phần diện tích cấp Giấy chứng nhận quyền sử dụng đất cho Trần Cảnh T năm 1997. Bà N và ông N đều thừa nhận: Diện tích đất bà N đang canh tác, sinh sống và có tranh chấp với ông Trần Cảnh N là do ông Trần Cảnh T (chồng bà N) nhận chuyển nhượng của ông Nguyễn Xuân N vào năm 1984. Còn diện tích đất ông N đang sinh sống, canh tác cũng có nguồn gốc do ông N nhận chuyển nhượng của ông Nguyễn Xuân N vào năm 1980. Ông N nhận chuyển nhượng đất của ông N trước, khi ông N mua đất thì đã có con đường dẫn vào đất rộng 02 mét. Phía nam của thửa đất giáp với đường đi còn phần đất của ông T nhận chuyển nhượng của ông N ở phía trong không tiếp giáp với đường đi mà phần phía nam của thửa đất này giáp ranh với phía bắc thửa đất của ông N theo bản đồ địa chính xã S năm 1994. [6] Bà N cho rằng khi bà N và ông T (chồng bà N) nhận chuyển nhượng đất của ông Nguyễn Xuân N thì đã có con đường đi từ phần đất của ông T, bà N đi qua giữa đất ông N, bà D (đã được ông N viết thư tay khi bà N có tranh chấp đất với ông N mà bà N đã nộp cho Tòa án) có nội du",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "đất vì bà N đang tranh chấp) của ông Trần Cảnh N thì ông N không chấp nhận vì: Sau khi ông N nhận chuyển nhượng quyền sử dụng đất của ông Xuân N thì ông N đã kê khai đất với cơ quan nhà nước có thẩm quyền và được Ủy ban nhân dân huyện C cấp Giấy chứng nhận quyền sử dụng đất số B 586877 thửa 745 tờ bản đồ số 18 xã S ngày 08/11/1997 cho hộ ông Trần Cảnh N thì trên thửa đất này hoàn toàn không có con đường hay quyền sử dụng đất của bà N cắt ngang qua thửa đất này của ông N. Điều này thể hiện rất rõ trên bản đồ địa chính năm 1994 xã S do Văn phòng đăng ký đất dai huyện C đã cung cấp cho Tòa án. Ông N cho rằng: Cơ sở nào mà các bản đồ địa chính các năm sau (năm 2004, 2009) lại tự vẽ phần đất của ông N phần đất của bà N ở giữa và chia phần đất của ông N làm hai, trong khi ông N không bán cho ai, không tặng cho ai, ông N cũng không tự nguyện hiến đất cho nhà nước và ông N cũng không nhận được quyết định thu hồi đất nào của cơ quan nhà nước có thẩm quyền. Như vậy, cơ sở nào để cơ quan có thẩm quyền công nhận đó là phần đất thuộc Giấy chứng nhận quyền sử dụng đất của bà N? Trong giai đoạn 2003 đến 2004 thì ông N và gia đình có làm ăn xa (ở tỉnh Đ), do đó giai đoạn này cơ quan nhà nước có tự",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "o với bản đồ lập năm 1994. Còn so với bản đồ lập năm 2004 là không phù hợp. Vì, có thể vào thời điểm năm 2002, 2003 (thời điểm đo đạc lập lại bản đồ 2004) thì các bên sử dụng đất đã tự thay đổi lối đi nên khi lập bản đồ được đo đạc theo hiện trạng. Khi đăng ký cấp lại Giấy chứng nhận quyền sử dụng đất vào năm 2003, các bên cũng không có sự tranh chấp hay đề nghị đơn vị đo đạc đo vẽ lại lối đi theo đúng hồ sơ địa chính năm 1994. Do đó Ủy ban nhân dân huyện C đã cấp lại Giấy chứng nhận quyền sử dụng đất cho ông Trần Cảnh T theo hiện trạng sử dụng (trong đó do không có tranh chấp nên Ủy ban nhân dân huyện C không đối chiếu với phần diện tích đã cấp trước đó cho ông Trần Cảnh T vào năm 1997 nên đã cấp thêm phần diện tích 102m2 mà hai bên hiện nay tranh chấp). Qua kết quả đối chiếu như đã phân tích, và trên cơ sở kết quả đo đạc hiện trạng sử dụng đất hiện nay; Ủy ban nhân dân huyện C đề nghị Hội đồng xét xử xem xét không chấp nhận nội dung yêu cầu của bà Trần Thị N, vì phần diện tích 102m2 theo bản đồ địa chính được lập năm 1994 thì không nằm trong phần diện tích cấp Giấy chứng nhận quyền sử dụng đất cho Trần Cảnh T năm 1997. Bà N và ông N đều thừa nhận: Diện tích đất bà N đang canh tác",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_003",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "hù hợp so với bản đồ lập năm 1994. Còn so với bản đồ lập năm 2004 là không phù hợp. Vì, có thể vào thời điểm năm 2002, 2003 (thời điểm đo đạc lập lại bản đồ 2004) thì các bên sử dụng đất đã tự thay đổi lối đi nên khi lập bản đồ được đo đạc theo hiện trạng. Khi đăng ký cấp lại Giấy chứng nhận quyền sử dụng đất vào năm 2003, các bên cũng không có sự tranh chấp hay đề nghị đơn vị đo đạc đo vẽ lại lối đi theo đúng hồ sơ địa chính năm 1994. Do đó Ủy ban nhân dân huyện C đã cấp lại Giấy chứng nhận quyền sử dụng đất cho ông Trần Cảnh T theo hiện trạng sử dụng (trong đó do không có tranh chấp nên Ủy ban nhân dân huyện C không đối chiếu với phần diện tích đã cấp trước đó cho ông Trần Cảnh T vào năm 1997 nên đã cấp thêm phần diện tích 102m2 mà hai bên hiện nay tranh chấp). Qua kết quả đối chiếu như đã phân tích, và trên cơ sở kết quả đo đạc hiện trạng sử dụng đất hiện nay; Ủy ban nhân dân huyện C đề nghị Hội đồng xét xử xem xét không chấp nhận nội dung yêu cầu của bà Trần Thị N, vì phần diện tích 102m2 theo bản đồ địa chính được lập năm 1994 thì không nằm trong phần diện tích cấp Giấy chứng nhận quyền sử dụng đất cho Trần Cảnh T năm 1997. Bà N và ông N đều thừa nhận: Diện tích đất bà N đang ",
+        "score": 40
+      }
+    ],
+    "claim_scope": "NONE",
+    "source": "COURT_REASONING"
+  },
+  {
+    "case_id": "case_5236",
+    "main_claim": {
+      "main_claim": "yêu cầu gì khác.",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_003",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định đình chỉ xét xử phúc thẩm số 06 ngày 18/6/2018 vì lý do ông B đã được triệu tập hợp lệ lần thứ hai nhưng vẫn vắng mặt. Đến nay số tiền đóng phường của 02 tháng với số tiền là 9.600.000đ (trong đó tiền gốc là 8.000.000đ và tiền đóng chênh lệch cho người lấy sau là 1.600.000đ) ông B vẫn chưa đóng cho ông. Vì vậy ông xác định ông B vẫn còn nợ của ông số tiền phường 9.600.000đ. Tổng số tiền phường ông B còn nợ ông ở hai dây phường nêu trên là 86.400.000đ {gồm dây phường bắt đầu chơi ngày 07/7/2015 (âm lịch) đã kết thúc vào ngày 07/11/2016 (âm lịch) số tiền nợ là 76.800.000đ và dây phường chơi ngày 10/02/2016 (âm lịch) và kết thúc vào ngày 10/6/2017 (âm lịch - tháng nhuận) ông B còn nợ hai tháng số tiền là 9.600.000đ}. Vì vậy, ông C đã làm",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "phường của 2 suất chơi với số tiền là 61.200.000đ. Do ông B không đóng tiền của dây phường này nên ông C phải đóng thay cho ông B và ông đã có đơn khởi kiện tại Tòa án yêu cầu ông B phải có trách nhiệm hoàn trả cho ông số tiền gốc và lãi của các tháng ông B không đóng phường cho các hội viên chơi phường và ông C đã phải đóng thay cho ông B, do hai tháng 6/2017 (âm lịch - gồm có một tháng 6 thường và một tháng 6 nhuận) khi khởi kiện tại Tòa án lần trước chưa đến thời hạn ông B phải đóng phường nên ông đã rút yêu cầu khởi kiện đối với 2 tháng đóng phường này của ông B với số tiền là 9.600.000đ (gồm 4 suất phường: gốc là 8.000.000đ, lãi là 1.600.000đ), số tiền nợ những tháng trước của dây phường này tại bản án số 03 ngày 25/01/2018 Tòa án nhân dân huyện Hiệp Hòa đã xử buộc ông B, bà L phải trả cho ông số tiền là 38.700.000đ, ông B có đơn kháng cáo nhưng Tòa án nhân dân tỉnh Bắc Giang đã ra quyết định đình chỉ xét xử phúc thẩm số 06 ngày 18/6/2018 vì lý do ông B đã được triệu tập hợp lệ lần thứ hai nhưng vẫn vắng mặt. Đến nay số tiền đóng phường của 02 tháng với số tiền là 9.600.000đ (trong đó tiền gốc là 8.000.000đ và tiền đóng chênh lệch cho người lấy sau là 1.600.000đ) ông B vẫn chư",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "i tư cách là trưởng phường ông C phải đóng thay cho ông B cho những người lấy phường sau với tổng số tiền là 76.800.000đ (Bảy mươi sáu triệu tám trăm nghìn đồng) trong đó tiền gốc là 64.000.000đ và tiền phải đóng chênh lệch cho người lấy sau là 12.800.000đ. Đối với dây phường bắt đầu chơi ngày 10/02/2016 (âm lịch) và kết thúc vào ngày 10/6/2017 (âm lịch - tháng nhuận) ông B đã lấy 02 lần phường của 2 suất chơi với số tiền là 61.200.000đ. Do ông B không đóng tiền của dây phường này nên ông C phải đóng thay cho ông B và ông đã có đơn khởi kiện tại Tòa án yêu cầu ông B phải có trách nhiệm hoàn trả cho ông số tiền gốc và lãi của các tháng ông B không đóng phường cho các hội viên chơi phường và ông C đã phải đóng thay cho ông B, do hai tháng 6/2017 (âm lịch - gồm có một tháng 6 thường và một tháng 6 nhuận) khi khởi kiện tại Tòa án lần trước chưa đến thời hạn ông B phải đóng phường nên ông đã rút yêu cầu khởi kiện đối với 2 tháng đóng phường này của ông B với số tiền là 9.600.000đ (gồm 4 suất phường: gốc là 8.000.000đ, lãi là 1.600.000đ), số tiền nợ những tháng trước của dây phường này tại bản án số 03 ngày 25/01/2018 Tòa án nhân dân huyện Hiệp Hòa đã xử buộc ông B, bà L phải trả cho ông",
+        "score": 40
+      }
+    ],
+    "claim_scope": "MINORITY",
+    "source": "COURT_REASONING"
+  },
+  {
+    "case_id": "case_6663",
+    "main_claim": {
+      "main_claim": "Người có quyền lợi và nghĩa vụ liên quan: 1. Chị Nguyễn Thị H; địa chỉ: Thôn 1B, xã L, huyện T, thành phố H; vắng mặt. 2. Ông Bùi Văn Đ; đi ̣a chỉ: Tổ 9, phường H, quận D, thành phố H; vắng mặt.",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [],
+    "claim_scope": "UNCLEAR",
+    "source": "MISSING"
+  },
+  {
+    "case_id": "case_8732",
+    "main_claim": {
+      "main_claim": "Người có quyền lợi, nghĩa vụ liên quan: Bà Đặng Thị H - sinh năm 1962. Trú tại: Thôn T2, xã Y1, huyện Y2, tỉnh Nam Định.",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [],
+    "claim_scope": "UNCLEAR",
+    "source": "MISSING"
+  },
+  {
+    "case_id": "case_4861",
+    "main_claim": {
+      "main_claim": "Nguyên đơn); ông Nguyễn Văn H (",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [],
+    "claim_scope": "UNCLEAR",
+    "source": "MISSING"
+  },
+  {
+    "case_id": "case_3241",
+    "main_claim": {
+      "main_claim": "Người có quyền lợi, nghĩa vụ liên quan: - Ông Nguyễn Văn S, sinh năm 1947. - Anh Nguyễn Thanh B, sinh năm 1985. - Bà Nguyễn Thị L, sinh năm 1951. - Bà Nguyễn Thị T, sinh năm 1950; người đại diện theo pháp luật cho bà T là bà Nguyễn Thị L, sinh năm 1951 (bà L là em gái của bà T). Cùng trú tại: Xóm 3, thôn T, xã N, huyện L, tỉnh Hà Nam.",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [],
+    "claim_scope": "UNCLEAR",
+    "source": "MISSING"
+  },
+  {
+    "case_id": "case_1087",
+    "main_claim": {
+      "main_claim": "Người có quyền lợi nghĩa vụ liên quan: 1. Ban quản lý khu kinh tế Bình Phước Người đại diện theo pháp luật: Ông Nguyễn Văn Dũng – Trưởng ban khu kinh tế Bình Phước Người đại diện theo ủy quyền: Ông Trương Ích Lễ – Phó văn phòng đại diện Khu kinh tế Bình Phước (Theo văn bản ủy quyền số 266/GUQ-BQL ngày 05/5/2017 của Ban quản lý khu kinh tế Bình Phước) Địa chỉ: Quốc lộ 14, phường Tân Phú, thị xã Đồng Xoài, tỉnh Bình Phước 2. Bà Hoàng Thị L Năm sinh: 1967 Địa chỉ: Ấp Bồn Xăng, xã Lộc Quang, huyện Lộc Ninh, tỉnh Bình Phước 3. Ông Trần Văn C sinh năm 1945 Địa chỉ: Ấp Bồn Xăng, xã Lộc Quang, huyện Lộc Ninh, tỉnh Bình Phước 4. Ông Nguyễn Văn T Năm sinh: 1963 Địa chỉ: Ấp Việt Quang, xã Lộc Quang, huyện Lộc Ninh, tỉnh Bình Phước Người tham gia tố tụng khác: Người làm chứng: Ông Nguyễn Văn M, Năm sinh: 1971, Địa chỉ: Ấp Thạnh Biên, xã Lộc Thạnh, huyện Lộc Ninh, tỉnh Bình Phước",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [],
+    "claim_scope": "UNCLEAR",
+    "source": "MISSING"
+  },
+  {
+    "case_id": "case_9052",
+    "main_claim": {
+      "main_claim": "Người có quyền lợi và nghĩa vụ liên quan: - Ông Lâm C, sinh năm 1940. Địa chỉ: Số 6 Las Kay Crest, Toronto, Ontario, M3N1P3, CANADA. - Ông Lâm Văn H, sinh năm 1958. Địa chỉ: Số 586 Sum Meridge DR-Thornhill L4J9J1 CANADA. - Bà Lâm Thị Ngọc L, sinh năm 1954. Bà Lâm Thị Ngọc H, sinh năm 1956 - Bà Lâm Thị Hồng H, sinh năm 1963 Cùng địa chỉ: Số 5 Benja Min-Boake Tril Toronto Ont M3J3AC2 CANADA. - Bà Lâm Thị N, sinh năm 1943 Địa chỉ: Ấp S, xã L, huyện C, tỉnh Trà Vinh. - Bà Thạch Thị Thanh N, sinh năm 1953 - Ông Thạch H, sinh năm 1955 - Anh Thạch T2, sinh năm 1962 Cùng địa chỉ: Ấp B, xã L, huyện C, tỉnh Trà Vinh. - Bà Thạch Thị Hồng H1, sinh năm 1967 - Anh Thạch T, sinh năm 1970 Cùng địa chỉ: Khóm A, phường 8, thành phố Trà Vinh, tỉnh Trà Vinh. - Bà Thạch Thị T3, sinh năm 1958 Địa chỉ: Khóm A, phường 7, thành phố Trà Vinh, tỉnh Trà Vinh. Người đại diện hợp pháp theo ủy quyền của ông Lâm C, bà Lâm Thị N, ông Lâm Văn H, bà Lâm Thị Ngọc L, bà Lâm Thị Ngọc H, bà Lâm Thị Hồng H, bà Thạch Thị Thanh N, ông Thạch H, anh Thạch T2, bà Thạch Thị Hồng H1, anh Thạch T, bà Thạch Thị T3 là bà Lâm Thị P Địa chỉ: Ấp S, xã L, huyện C, tỉnh Trà Vinh. - Anh Thạch Linh V, sinh năm 1987 - Bà Thạch Thị Trúc P, sinh năm 1988 - Bà Thạch Thị Hồng P, sinh năm 1988 Cùng địa chỉ: Ấp S, xã L, huyện C, tỉnh Trà Vinh. Người đại diện hợp pháp theo ủy quyền của bà Thạch Thị Hồng P, anh Thạch Linh V, bà Thạch Thị Trúc P là bà Trần Ánh H Địa chỉ: Ấp S, xã L, huyện C, tỉnh Trà Vinh. - Bà Thạch Cúc H, sinh năm 1982 Địa chỉ: Ấp Ba Se A, xã L, huyện C, tỉnh Trà Vinh. - Ủy ban nhân dân huyện C, tỉnh Trà Vinh. Đại diện h",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [],
+    "claim_scope": "UNCLEAR",
+    "source": "MISSING"
+  },
+  {
+    "case_id": "case_5160",
+    "main_claim": {
+      "main_claim": "Người có quyền lợi, nghĩa vụ liên quan: 1/ Ông Lưu Đình N, sinh năm 1975 2/ Bà Vũ Thị H, sinh năm 1976 HKTT: Tổ 04, ấp S, xã B, thị xã L, tỉnh Đ. Bà H ủy quyền cho ông N theo Văn bản ủy quyền số 356, quyển số 01/2017-SCT/CK,CĐ ngày 01/12/2017.",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [],
+    "claim_scope": "UNCLEAR",
+    "source": "MISSING"
+  },
+  {
+    "case_id": "case_8147",
+    "main_claim": {
+      "main_claim": "yêu cầu chia dừa. Cụ K, cụ T2 còn sống có cho và bán cho bà L1 diện tích 01 công đất thực đo 655,6m2 (phần A sơ đồ) và các tài sản trên diện tích là của bà L1, đối với diện tích đất này chị em bà thống nhất tách quyền cho bà L1 và được Tòa án công nhận bằng nguyên đơn trình bày. Cụ K, cụ T2 chết không để lại di chúc có để lại diện tích 4.310m2 (thực đo 3.953m2) thuộc thửa 286, tờ bản đồ số 1, loại đất thổ quả, tọa lạc tại ấp P, xã Q do hộ cụ T2 đứng tên trong giấy chứng nhận quyền sử dụng đất vào năm 1994. Lúc còn sống cụ K, cụ T2 sống chung với ông trên thửa đất 286 cho đến khi chết. Cụ K, cụ T2 bệnh và chết đều do ông lo hết, sau này mồ mã và làm nhà mồ cũng do ông làm. Lúc cụ K, cụ T2 còn sống có bán và cho bà L1 diện tích khoảng 01 công đất (thực đo 655,6m2) nằm trong thửa đất 286 và các tài sản có trên diện tích đất 655,6m2 là của bà L1. Đối với diện tích đất này chị em ông thống nhất tách quyền cho bà L1 và được Tòa án công nhận bằng nguyên đơn trình bày. Cụ K, cụ T2 chết không để lại di chúc có để lại diện tích 4.310m2 (thực đo 3.953m2) thuộc thửa 286, tờ bản đồ số 1, loại đất thổ quả, tọa lạc tại ấp P, xã Q do hộ cụ T2 đứng tên trong giấy chứng nhận quyền sử dụng đất vào năm 1994, về thành viên hộ từ nhỏ ông H đã sống chung cụ K, cụ T2 sau này ông H cưới vợ và có con cũng sống chung cụ K, cụ T2, bà không tranh chấp về thành viên hộ của cụ T2 tại thời điểm cấp giấy. Lúc cụ K, cụ T2 còn sống có bán và cho bà diện tích khoảng 01 công đất (thực đo 655,6m2) và các tài sản trên đất là của bà. Chị em bà đã thống nhất tách quyền cho bà và được Tòa án công nhận bằng nguyên đơn trình bày. Cụ K, cụ T2 chết không để lại di chúc có để lại diện tích 4.310m2 (thực đo 3.953m2) thuộc thửa 286, tờ bản đồ số 1, loại đất thổ quả, tọa lạc tại ấp P, xã Q do hộ cụ T2 đứng tên trong giấy chứng nhận quyền sử dụng đất vào năm 1994, về thành viên hộ từ nhỏ ông H đã sống chung cụ K, cụ T2 sau này ông H cưới vợ và có con cũng sống chung cụ K, cụ T2, bà không tranh chấp về thành viên hộ của cụ T2 tại thời điểm cấp giấy. Lúc cụ K, cụ T2 còn sống có bán và cho bà L1 diện tích 01 công đất (thực đo 655,6m2) và các tài sản trên đất là của bà L1 và chị em bà đã thống nhất tách quyền cho bà",
+      "requested_amounts": [],
+      "requested_areas": [
+        "655,6m2",
+        "4.310m2",
+        "3.953m2",
+        "655,6m2",
+        "655,6m2",
+        "4.310m2",
+        "3.953m2",
+        "655,6m2",
+        "4.310m2",
+        "3.953m2",
+        "655,6m2"
+      ]
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_005",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định số: 108/2018/QĐST-DS ngày 25/5/2018, không tranh chấp yêu cầu chia thừa kế. Trên thửa đất có nhà mồ của cụ K, cụ T2 tổng diện tích 21,2m2 bà đồng ý để lại làm đất mộ, không tranh chấp yêu cầu chia thừa kế. Sau khi trừ ra phần đất mộ, phần đất của bà L1 sử dụng, hiện tại thửa đất 286 diện tích còn lại 3.276,2m2 do ông H đang quản lý, sử dụng hết. Bà thống nhất thửa 286, diện tích còn lại 3.276,2m2 chia thành viên hộ của cụ T2 gồm 03 người: cụ T2, cụ K và ông H, còn 02 đứa con ông H tên D và T1 còn nhỏ bà không thống nhất tính chia tài sản chung hộ cụ T2 (DT 3.276,2m2 : 3 = 1.092m2). Nay bà yêu cầu chia thừa kế theo pháp luật tài sản của cụ K, cụ T2 chết để lại diện tích 2.184m2 thành 04 phần bằng nhau, mỗi người được hưởng diện tích 546m2. Phần của bà được hưởng, bà thống nhất giao đất cho ông H sử dụng và yêu cầu ông H giao lại cho bà giá trị theo giá hội đồng đã định. Bà thống nhất giá trị tài sản do Hội đồng định 90.000 đồng/m2 gồm chung thửa đất 286 không phân ra loại đất. Ông H trình bày có mua bán diện tích 788,7m2 và yêu cầu trừ ra không tính vào chia thừa kế, bà không đồng ý. Bà đồng ý dành 01 phần nhỏ thờ cúng cụ K, cụ T2 trong phần di sản của mỗi người được hưởn",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_006",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định số: 108/2018/QĐST-DS ngày 25/5/2018 không tranh chấp yêu cầu chia thừa kế. Trên thửa đất có 01 nhà mồ của cụ K, cụ T2 và 01 mã đá của con bà L1 tổng diện tích 21,2m2, ông thống nhất để làm đất mộ không tranh chấp yêu cầu chia thừa kế. Trước đây vào năm 1987 hoặc năm 1988, ông có mua của cụ K diện tích 01 công đất (thực đo 788,7m2 phần D sơ đồ) nằm giáp phía sau đất nhà bà L1 sử dụng, ông đưa cho cụ K 01 chỉ vàng, ông sử dụng đất khoảng 10 năm giao lại cho cụ K canh tác trông coi dùm, vợ chồng ông xuống ghe đi làm ăn. Cụ K, cụ T2 ở nhà sống chung với các con ông tại căn nhà của cụ K, cụ T2 ngày xưa (hiện nay căn nhà đã cháy không còn), sau này ông về cất lại nhà và dẫn sống chung cụ K, cụ T2 và các con nên ông bán lại diện tích 788,7m2 cho bà N giá 6.000.000 đồng. Bà N không có sử dụng đất và bán lại cho bà L1 giá 6.000.000 đồng, sau đó bà L1 bán lại cho bà N cũng giá 6.000.000 đồng, bà N cũng không có sử dụng đất rồi bán lại cho ông tổng cộng hơn 03 công đất có cả diện tích 788,7m2 giá 60.000.000 đồng, ông đã giao đủ tiền cho bà N và nhận đất sử dụng từ lúc mua lại của bà N cho đến nay, việc mua bán đất chỉ là thân tộc gia đình trong nhà biết không có làm giấy tờ quyền s",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_007",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định số: 108/2018/QĐST-DS ngày 25/5/2018, bà thống nhất không tranh chấp yêu cầu chia thừa kế. Trên thửa đất có 01 nhà mồ của cụ K, cụ T2 và 01 mã đá của con bà tổng diện tích 21,2m2, bà thống nhất làm đất mộ, không tranh chấp yêu cầu chia thừa kế. Tài sản còn lại trên thửa đất Tòa án thẩm định là của vợ chồng ông H tạo lập và sử dụng, không còn tài sản nào của cụ K, cụ T2 chết để lại, vì lúc còn sống nhà cụ K, cụ T2 xảy ra hỏa hoạn cháy hết. Trước đây ông H có mua của cụ K, cụ T2 diện tích 01 công đất (thực đo 788,7m2), nằm giáp phía sau đất của bà, sau này ông H bán cho bà N giá 6.000.000 đồng, bà N không có sử dụng đất bán lại cho bà giá 6.000.000 đồng, bà sử dụng vài năm thì bán lại cho bà N, sau đó bà N bán cho ông H và ông H sử dụng từ lúc mua lại của bà N cho đến nay, việc mua bán đất trong thân tộc gia đình không có làm giấy tờ gì, đất còn tên cụ T2 đứng. Sau khi trừ ra 02 phần đất (01 phần của bà và 01 phần là đất mộ), nếu Tòa án giải quyết trừ luôn diện tích 788,7m2 cho ông H bà cũng thống nhất, còn lại chia thừa kế theo pháp luật phần của bà được hưởng bà cho lại ông H. Còn nếu Tòa án giải quyết không trừ phần diện tích 788,7m2 mà được chia thừa kế theo pháp luật b",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_008",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định số: 108/2018/QĐST-DS ngày 25/5/2018 bà không tranh chấp yêu cầu chia thừa kế. Trên thửa đất có 01 nhà mồ của cụ K, cụ T2 tổng diện tích 21,2m2, bà thống nhất làm đất mộ không tranh chấp yêu cầu chia thừa kế. Tài sản còn lại trên thửa đất Tòa án thẩm định là của vợ chồng ông H tạo lập và sử dụng, không còn tài sản nào của cụ K, cụ T2 chết để lại, vì lúc còn sống nhà cụ K, cụ T2 xảy ra hỏa hoạn cháy hết. Trước đây ông H có mua của cụ K, cụ T2 diện tích 01 công đất (thực đo 788,7m2), nằm giáp phía sau đất của bà L1, sau này ông H bán cho bà giá 6.000.000 đồng, bà không có sử dụng đất bán lại cho bà L1 giá 6.000.000 đồng, bà L1 bán lại cho bà, sau đó bà bán lại cho ông H và ông H sử dụng từ lúc mua lại của bà cho đến nay, việc mua bán đất trong thân tộc gia đình không có làm giấy tờ gì, đất còn tên cụ T2 đứng. Sau khi trừ ra 02 phần đất (01 phần của bà L1 và 01 phần là đất mộ), nếu Tòa án giải quyết trừ luôn phần diện tích 788,7m2 cho ông H bà cũng thống nhất, còn lại chia thừa kế theo pháp luật phần của bà được hưởng bà cho lại ông H. Còn nếu Tòa án giải quyết không trừ phần diện tích 788,7m2 mà chia thừa kế theo pháp luật bà cũng cho lại ông H hưởng. Bà N có đơn xin giải q",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "K, cụ T2 không có con nuôi và con riêng. Cụ K, cụ T2 chết không để lại di chúc, có để lại diện tích 4.310m2 (thực đo 3.953m2) thuộc thửa 286, tờ bản đồ số 1, loại đất thổ quả, tọa lạc tại ấp P, xã Q, huyện T, tỉnh Trà Vinh do hộ cụ T2 đứng tên trong giấy chứng nhận quyền sử dụng đất vào năm 1994, bà thống nhất thời điểm cấp giấy hộ cụ T2 gồm có cụ K, cụ T2 và ông H. Cụ K, cụ T2 sống chung với ông H, ngoài thửa đất 286 cụ K, cụ T2 không còn tài sản nào khác, tất cả tài sản có trên thửa đất Tòa án thẩm định là của ông H tạo lập và sử dụng, tài sản của cụ K, cụ T2 chỉ còn 04 đến 05 cây dừa cặp mé hông, bà không tranh chấp và cũng không yêu cầu chia dừa. Cụ K, cụ T2 còn sống có cho và bán cho bà L1 diện tích 01 công đất thực đo 655,6m2 (phần A sơ đồ) và các tài sản trên diện tích là của bà L1, đối với diện tích đất này chị em bà thống nhất tách quyền cho bà L1 và được Tòa án công nhận bằng quyết định số: 108/2018/QĐST-DS ngày 25/5/2018, không tranh chấp yêu cầu chia thừa kế. Trên thửa đất có nhà mồ của cụ K, cụ T2 tổng diện tích 21,2m2 bà đồng ý để lại làm đất mộ, không tranh chấp yêu cầu chia thừa kế. Sau khi trừ ra phần đất mộ, phần đất của bà L1 sử dụng, hiện tại thửa đất 286 diện t",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "1 phần bằng nhau bà không đồng ý. Tại bản tự khai, biên bản ghi lời khai, trong quá trình giải quyết và tại phiên tòa bị đơn ông Nguyễn Thanh H trình bày: Ông thống nhất về mối quan hệ cha mẹ, chị em như nguyên đơn trình bày. Cụ K, cụ T2 chết không để lại di chúc có để lại diện tích 4.310m2 (thực đo 3.953m2) thuộc thửa 286, tờ bản đồ số 1, loại đất thổ quả, tọa lạc tại ấp P, xã Q do hộ cụ T2 đứng tên trong giấy chứng nhận quyền sử dụng đất vào năm 1994. Lúc còn sống cụ K, cụ T2 sống chung với ông trên thửa đất 286 cho đến khi chết. Cụ K, cụ T2 bệnh và chết đều do ông lo hết, sau này mồ mã và làm nhà mồ cũng do ông làm. Lúc cụ K, cụ T2 còn sống có bán và cho bà L1 diện tích khoảng 01 công đất (thực đo 655,6m2) nằm trong thửa đất 286 và các tài sản có trên diện tích đất 655,6m2 là của bà L1. Đối với diện tích đất này chị em ông thống nhất tách quyền cho bà L1 và được Tòa án công nhận bằng quyết định số: 108/2018/QĐST-DS ngày 25/5/2018 không tranh chấp yêu cầu chia thừa kế. Trên thửa đất có 01 nhà mồ của cụ K, cụ T2 và 01 mã đá của con bà L1 tổng diện tích 21,2m2, ông thống nhất để làm đất mộ không tranh chấp yêu cầu chia thừa kế. Trước đây vào năm 1987 hoặc năm 1988, ông có mua của c",
+        "score": 40
+      }
+    ],
+    "claim_scope": "MAJORITY",
+    "source": "COURT_REASONING"
+  },
+  {
+    "case_id": "case_2238",
+    "main_claim": {
+      "main_claim": "yêu cầu hủy giấy chứng nhận quyền sử dụng đất đã được UBND huyện T công nhận Quyền sử dụng đất cho vợ chồng ông, bà. Người bảo vệ quyền và lợi ích hợp pháp của Nguyên đơn ông Nông Văn H, bà Đào Thị H. 4. Tiền chi phí định giá, thẩm định và Án phí theo quy định của pháp luật.",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_012",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử: 1. Chấp nhận yêu cầu độc lập của ông Phạm Văn T về việc tuyên bố Hợp đồng tuyên bố hợp đồng chuyển nhượng quyền sử dụng đất lập ngày 20/8/2012 vô hiệu, đồng thời hủy bỏ giấy chứng nhận quyền sử dụng đất của UBND huyện T đã cấp cho ông V và bà Y. 2. Bác yêu cầu độc lập của",
+        "score": 100
+      },
+      {
+        "chunk_id": "cf_009",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "hội đồng xét xử chấp nhận yêu cầu của ông Nguyễn Quang V, Bà Vũ Thị Y. Bà Vũ Thị Y thống nhất với toàn bộ quan điểm của ông Nguyễn Văn S, Người bảo vệ quyền và lợi ích hợp pháp của ông Phạm Văn T, Luật sư Vũ không bổ sung gì thêm. Anh T cho rằng: Có đủ căn cứ pháp lí để xác định từ trước ngày 19/02/2004 thì hộ gia đình ông Phạm Văn T có 4 người là ông Phạm Văn T, bà Phan Thị H, ông Phạm Ngọc K, Phạm Thị Diễm K. Tài sản chuyển nhượng là tài sản chung của ông Phạm Văn T, bà Phan Thị H. Khi bà H chết thì phát sinh người thừa kế tài sản của bà H gồm: Cha mẹ bà H là ông Phan Đ, bà Lê Thị X cùng các con là ông Phạm Ngọc K, bà Nguyễn Thị Diễm K. Ông T chuyển nhượng quyền sử dụng đất nhưng không được sự đồng ý của những người trên là trái quy định của pháp luật. Đ nghị",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_010",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử chấp nhận các yêu cầu của ông T, bác các yêu cầu của ông V, bà Y, ông H, bà H. Ông Phạm Văn T thống nhất với toàn bộ quan điểm của ông Vũ Anh T, không bổ sung gì thêm. Các đương sự đồng ý với toàn bộ giá trị tài sản đã định giá theo nội dung biên bản định giá ngày 01/12/2015 của Hội đồng định giá. Phát biểu của",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_011",
+        "section": "procuracy_opinion",
+        "speaker": "procuracy",
+        "text": "Kiểm sát viên: Về việc tuân theo pháp luật về tố tụng: Về cơ bản Tòa án cấp sơ thẩm đã thực hiện đúng theo quy định của Luật tố tụng dân sự, cụ thể: Thu thập tài liệu chứng cứ đúng quy định, xác định đúng quan hệ tranh chấp, đúng thẩm quyền giải quyết, các quyền và nghĩa vụ của đương sự đã được thực hiện đầy đủ; tuy nhiên vụ án còn kéo dài so với luật định. Về việc giải quyết vụ án: Quan hệ hôn nhân giữa ông Phạm Văn T và bà Phan Thị H được xác định là hôn nhân thực tế từ năm 1992. Có đủ căn cứ pháp lí để xác định từ trước ngày 19/02/2004 thì hộ gia đình ông Phạm Văn T có 4 người là ông Phạm Văn T, bà Phan Thị H, ông Phạm Ngọc K, Phạm Thị Diễm K. Thửa đất số 216 tờ bản đồ số 1a là tài sản chung của vợ chồng ông T, bà H trong thời kì hôn nhân, việc ông T tự mình định đoạt tài sản là trái pháp luật. Đề nghị",
+        "score": 44
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "a các bên. Ông bà không đồng ý với yêu cầu độc lập của ông Phạm Văn T khi ông T yêu cầu tuyên bố hợp đồng chuyển nhượng quyền sử dụng đất đã kí giữa vợ chồng ông bà với ông V, bà Y là vô hiệu và yêu cầu hủy giấy chứng nhận quyền sử dụng đất đã được UBND huyện T công nhận Quyền sử dụng đất cho vợ chồng ông, bà. Người bảo vệ quyền và lợi ích hợp pháp của bị đơn bà Vũ Thị Y, ông Nguyễn Quang V, Luật sư Nguyễn Văn S cho rằng: Hợp đồng chuyển nhượng quyền sử dụng đất giữa ông Phạm Văn T với ông Nguyễn Quang V, bà Vũ Thị Y là hợp pháp, không trái quy định pháp luật. Đã được thực hiện song nên có giá trị thị hành. Căn cứ vào phiếu xác nhận nhân khẩu thì Hộ gia đình ông Phạm Văn T tại thời điểm cấp giấy chứng nhận quyền sử dụng đất từ trước năm 2004 chỉ có 01 nhân khẩu duy nhất là ông T. Ông T không có chứng cứ để chứng minh cho lời khai của mình về việc vay tiền giữa ông với ông V bà Y. Đ nghị hội đồng xét xử chấp nhận yêu cầu của ông Nguyễn Quang V, Bà Vũ Thị Y. Bà Vũ Thị Y thống nhất với toàn bộ quan điểm của ông Nguyễn Văn S, Người bảo vệ quyền và lợi ích hợp pháp của ông Phạm Văn T, Luật sư Vũ không bổ sung gì thêm. Anh T cho rằng: Có đủ căn cứ pháp lí để xác định từ trước ngày 19/02/",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "duy nhất là ông T. Ông T không có chứng cứ để chứng minh cho lời khai của mình về việc vay tiền giữa ông với ông V bà Y. Đ nghị hội đồng xét xử chấp nhận yêu cầu của ông Nguyễn Quang V, Bà Vũ Thị Y. Bà Vũ Thị Y thống nhất với toàn bộ quan điểm của ông Nguyễn Văn S, Người bảo vệ quyền và lợi ích hợp pháp của ông Phạm Văn T, Luật sư Vũ không bổ sung gì thêm. Anh T cho rằng: Có đủ căn cứ pháp lí để xác định từ trước ngày 19/02/2004 thì hộ gia đình ông Phạm Văn T có 4 người là ông Phạm Văn T, bà Phan Thị H, ông Phạm Ngọc K, Phạm Thị Diễm K. Tài sản chuyển nhượng là tài sản chung của ông Phạm Văn T, bà Phan Thị H. Khi bà H chết thì phát sinh người thừa kế tài sản của bà H gồm: Cha mẹ bà H là ông Phan Đ, bà Lê Thị X cùng các con là ông Phạm Ngọc K, bà Nguyễn Thị Diễm K. Ông T chuyển nhượng quyền sử dụng đất nhưng không được sự đồng ý của những người trên là trái quy định của pháp luật. Đ nghị Hội đồng xét xử chấp nhận các yêu cầu của ông T, bác các yêu cầu của ông V, bà Y, ông H, bà H. Ông Phạm Văn T thống nhất với toàn bộ quan điểm của ông Vũ Anh T, không bổ sung gì thêm. Các đương sự đồng ý với toàn bộ giá trị tài sản đã định giá theo nội dung biên bản định giá ngày 01/12/2015 của Hội ",
+        "score": 40
+      }
+    ],
+    "claim_scope": "MAJORITY",
+    "source": "COURT_REASONING"
+  },
+  {
+    "case_id": "case_614",
+    "main_claim": {
+      "main_claim": "yêu cầu nào khác. - nguyên đơn. Đối với Hợp đồng đặt cọc và chuyển nhượng quyền sử dụng đất ngày 23/01/2017 giữa vợ chồng anh và vợ chồng anh H, anh chị sẽ đợi Tòa án giải quyết xong vụ án tranh chấp thừa kế này rồi sẽ tiếp tục giao dịch mua bán đất. Hợp đồng đặt cọc này được ký tại nhà đất mà đang tranh chấp trong vụ án này và có những người anh em của ông H đã ký tên làm chứng vào hợp đồng, khi ký thì những người này vui vẻ, không bị ai ép buộc gì. - Ý kiến phát biểu của",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_008",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định thi hành án kê biên, xử lý tài sản nhưng chưa kê biên. Phần đất trên hiện do ông Trần Văn T, bà Trần Thị Bích Th, bà Trần Thị Thúy N, cháu Trần Văn R, cháu Trần Thị Th V và con của chị V là cháu Trần Hạo X và ông đang quản lý, sử dụng. Sau này, ông sẽ lo chỗ ở cho các anh chị của ông là bà Th, bà N, ông T là những người có tên trong hộ khẩu của ông nhưng ông không đề nghị Tòa án ghi nhận trong vụ án này mà ông sẽ tự giải quyết riêng. Ông cũng không hứa với bà Th như bà Th trình bày. Trong thời gian ở trên đất thì ông có sửa chữa nhà để ở nhưng ông không yêu cầu gì. Ông không yêu cầu giải quyết chi phí cho việc bảo quản di sản hay yêu cầu nào khác. Ông đã đăng ký cấp đổi giấy chứng nhận quyền sử dụng đất vào năm 2011, đến ngày 07/8/2015 mới được cấp Giấy chứng nhận quyền sử dụng đất số BV 102629. Hiện nay giấy này vẫn còn đang ở Ủy ban nhân dân xã A, ông chưa được nhận, lý do vì sao thì ông không biết. Đối với Hợp đồng đặt cọc và chuyển nhượng quyền sử dụng đất ngày 23/01/2017 giữa ông và vợ ông là bà Phạm Thị E với anh H1 Thái Th1, chị Hồ Thị Ngọc O, ông không có yêu cầu gì. Đất này là của ông nên ông có quyền ký hợp đồng này. Ông không đồng ý đề nghị của bà Th về việc b",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_009",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định kê biên, xử lý tài sản số 50/QĐ-CCTHA ngày 14/4/2014. Hiện nay cơ quan thi hành án vẫn đang tiến hành thi hành bản án số 04 nêu trên của Tòa án nhưng chưa kê biên, xử lý tài sản thế chấp do đang có tranh chấp. Nay Ngân hàng đề nghị Tòa án xem xét, giải quyết vụ án theo đúng quy định pháp luật để Chi cục thi hành án dân sự huyện L, tỉnh Đồng Nai tiếp tục thi hành bản án số 04 nêu trên để bảo vệ quyền, lợi ích hợp pháp cho Ngân hàng. - Tại các bản tự khai, biên bản hòa giải và trong quá trình xét xử,",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_015",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định.",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_012",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử được thực hiện đúng theo quy định của Bộ luật tố tụng dân sự từ khi Tòa án thụ lý vụ án đến khi",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_013",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử vào phòng nghị án. Việc chấp hành pháp luật của các đương sự được thực hiện theo quy định của Bộ luật Tố tụng dân sự. Về việc giải quyết vụ án: Về nguồn gốc tài sản đang tranh chấp gồm có quyền sử dụng diện tích đất 432,1m2 thuộc thửa số 51, tờ bản đồ số 11, xã A và tài sản gắn liền với đất có nguồn gốc là do ông Q1, bà M tạo lập ra. Vào năm 2007 ông Q1 chết, năm 2008 bà M chết và không để lại di chúc, các bên đương sự thống nhất thừa nhận sự việc này. Ngày 20/7/2009, mười một anh em trong gia đình ông Đ, ông T, ông H lập tờ thỏa thuận phân chia di sản thừa kế có xác nhận của Ủy ban nhân dân xã A. Tại tờ thỏa thuận này mười một anh em trong gia đình đã phân chia diện tích đất nêu trên cho ông H toàn quyền quản lý, sử dụng trên cơ sở tự nguyện, không bị ép buộc, đe dọa, không trái pháp luật và đạo đức xã hội. Việc ông Đ, ông T cho rằng các anh chị em trong gia đình chỉ thống nhất giao diện tích đất nêu trên cho ông H thay mặt các anh chị em đi đăng ký kê khai cấp đổi giấy chứng nhận quyền sử dụng đất và đứng tên giấy chứng nhận, chỉ giao cho ông H nhà đất để ở và không được chuyển nhượng cho người khác, chứ không cho ông H toàn bộ tài sản do cha mẹ để lại nhưng ông Đ",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_014",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử xem xét",
+        "score": 62
+      }
+    ],
+    "claim_scope": "UNCLEAR",
+    "source": "COURT_REASONING"
+  },
+  {
+    "case_id": "case_1959",
+    "main_claim": {
+      "main_claim": "yêu cầu của đại diện ủy quyền nguyên đơn. Anh không đồng ý bồi thường số tiền 11.560.000 đồng. * Theo các bản tự khai và biên bản hòa giải, nguyên đơn. Anh không đồng ý bồi thường số tiền 11.560.000 đồng. * Ý kiến phát biểu của nguyên đơn.",
+      "requested_amounts": [
+        "11.560.000 đồng",
+        "11.560.000 đồng"
+      ],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_009",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử áp dụng Điều 26 Bộ luật tố tụng dân sự năm 2015; Điều 268, 604, 605 Bộ luật dân sự năm 2005. Chấp nhận một phần yêu cầu khởi kiện của",
+        "score": 86
+      },
+      {
+        "chunk_id": "cf_007",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử; Thư ký, việc chấp hành pháp luật của người tham gia tố tụng từ khi thụ lý vụ án cho đến trước thời điểm",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_008",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử nghị án đều tuân thủ đúng quy định pháp luật. Việc giải quyết vụ kiện: Theo biên bản xem xét, thẩm định tại chổ và định giá tài sản ngày 25/11/2016, xác định hàng rào ranh giới đất trụ xi măng dài 60m gồm: 22 trụ xi măng cao 2,2m, lưới B40 cao 1,5m, trụ xi măng được cấm xuống đất, không đổ đà, không xây đế, nay có đoạn hàng rào dài 56m, bao gồm: 16 trụ xi măng bị ngã và 01 trụ xi măng bị gãy. Sát chân trụ xi măng hàng rào ông S, ông H có một đường nước ngang 0,4m, độ sâu 0,6m chạy dài theo hàng rào. Từ đó xác định nguyên nhân phát sinh dẫn đến tranh chấp có lỗi từ hai bên, về phía ông Sang xây dựng hàng rào không đảm bảo kiên cố, phần cột xi măng chỉ cấm xuống đất không đổ đà, không đổ đế trong khi đó hai bên có đào đường nước thường xuyên ngập lún, có thể dẫn đến sạt lỡ gây đổ ngã; về phía ông H mặc dù ông đào đường nước trong phần đất của mình nhưng chưa đảm bảo nguyên tắc tôn trọng, duy trì ranh giới chung gây ra sạt lỡ làm ảnh hưởng đến quyền sử dụng đất của người có bất động sản liền kề. Do đó, yêu cầu bồi thường chi phí thực tế để xây dựng lại hàng rào của ông Sang là có một phần căn cứ. Đề nghị",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_006",
+        "section": "procuracy_opinion",
+        "speaker": "procuracy",
+        "text": "đại diện Viện kiểm sát: Việc tuân theo pháp luật trong quá trình giải quyết vụ án của Thẩm phán,",
+        "score": 44
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "rình bày: Chị đi làm, không thường xuyên về nhà nên không biết rõ sự việc, sau đó được mẹ là bà Lê Thị Ph kể lại sự việc gia đình chị mâu thuẫn với gia đình ông Nguyễn Thanh S. * Theo bản tự khai người có quyền lợi và nghĩa vụ liên quan người kế thừa quyền và nghĩa vụ tố tụng của người liên quan Nguyễn Hoàng T trình bày: Anh đi làm, không thường xuyên về nhà nên không biết rõ sự việc, sau đó được mẹ là bà Lê Thị Ph kể lại sự việc gia đình anh mâu thuẫn với gia đình ông Nguyễn Thanh S. * Theo bản tự khai người có quyền lợi và nghĩa vụ liên quan người kế thừa quyền và nghĩa vụ tố tụng của người liên quan Nguyễn Hoàng P trình bày: Anh không đồng ý bồi thường bất chi phí nào theo yêu cầu của đại diện ủy quyền nguyên đơn. Anh không đồng ý bồi thường số tiền 11.560.000 đồng. * Ý kiến phát biểu của đại diện Viện kiểm sát: Việc tuân theo pháp luật trong quá trình giải quyết vụ án của Thẩm phán, Hội đồng xét xử; Thư ký, việc chấp hành pháp luật của người tham gia tố tụng từ khi thụ lý vụ án cho đến trước thời điểm Hội đồng xét xử nghị án đều tuân thủ đúng quy định pháp luật. Việc giải quyết vụ kiện: Theo biên bản xem xét, thẩm định tại chổ và định giá tài sản ngày 25/11/2016, xác định hàng ",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "gia đình chị mâu thuẫn với gia đình ông Nguyễn Thanh S. * Theo bản tự khai người có quyền lợi và nghĩa vụ liên quan người kế thừa quyền và nghĩa vụ tố tụng của người liên quan Nguyễn Hoàng T trình bày: Anh đi làm, không thường xuyên về nhà nên không biết rõ sự việc, sau đó được mẹ là bà Lê Thị Ph kể lại sự việc gia đình anh mâu thuẫn với gia đình ông Nguyễn Thanh S. * Theo bản tự khai người có quyền lợi và nghĩa vụ liên quan người kế thừa quyền và nghĩa vụ tố tụng của người liên quan Nguyễn Hoàng P trình bày: Anh không đồng ý bồi thường bất chi phí nào theo yêu cầu của đại diện ủy quyền nguyên đơn. Anh không đồng ý bồi thường số tiền 11.560.000 đồng. * Ý kiến phát biểu của đại diện Viện kiểm sát: Việc tuân theo pháp luật trong quá trình giải quyết vụ án của Thẩm phán, Hội đồng xét xử; Thư ký, việc chấp hành pháp luật của người tham gia tố tụng từ khi thụ lý vụ án cho đến trước thời điểm Hội đồng xét xử nghị án đều tuân thủ đúng quy định pháp luật. Việc giải quyết vụ kiện: Theo biên bản xem xét, thẩm định tại chổ và định giá tài sản ngày 25/11/2016, xác định hàng rào ranh giới đất trụ xi măng dài 60m gồm: 22 trụ xi măng cao 2,2m, lưới B40 cao 1,5m, trụ xi măng được cấm xuống đất, kh",
+        "score": 40
+      }
+    ],
+    "claim_scope": "MAJORITY",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_6425",
+    "main_claim": {
+      "main_claim": "yêu cầu khởi kiện. Các đương sự không tự thỏa thuận được với nhau về việc giải quyết vụ án. *",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_028",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử giải quyết vụ án theo hướng chấp nhận một phần yêu cầu khởi kiện của ông A, buộc bà B, ông D trả lại cho ông A phần đất lấn chiếm diện tích 62m2 và buộc ông C, bà E trả lại cho ông A giá trị phần đất lấn chiếm diện tích 21,1m2; đối với yêu cầu khởi kiện của ông A về việc yêu cầu bà B, ông D trả lại giá trị phần đất UBND tỉnh Sóc Trăng đã cấp giấy chứng nhận quyền sử dụng đất chồng lên đất của ông A diện tích 166,9m2 thì đề nghị tách ra giải quyết trong vụ án khác khi ông A có yêu cầu.",
+        "score": 86
+      },
+      {
+        "chunk_id": "cf_016",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định số 638/QĐ.UBTX.93 về việc tạm cấp 150m2 đất (chiều ngang 5m, chiều dài 30m) cho ông N, nhưng thực tế ông N sử dụng diện tích 400m2 (chiền ngang 8m, chiều dài 50m), dư 250m2. Theo công văn số 1132/CV.HC.97 ngày 26/11/1997 của Chủ tịch UBND tỉnh Sóc Trăng chấp nhận hợp thức hóa cho các hộ gia đình và cá nhân được UBND huyện Z cấp đất hoặc chuyển nhượng đất của các hộ được cấp đất có số đo và diện tích dư ra so với",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_017",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định cấp đất và đã nộp tiền sử dụng diện tích đất dư. Năm 1998, ông N đăng ký xin cấp giấy chứng nhận quyền sử dụng đất diện tích 400m2 (trong đó có phần đất dư 250m2) và ông đã nộp tiền sử dụng đất tại Cục thuế tỉnh Sóc Trăng vào ngày 03/01/1997. Ngày 02/10/1998, UBND tỉnh Sóc Trăng cấp giấy chứng nhận quyền sử dụng đất cho ông N, số I - 195964, thuộc thửa 970, tờ bản đồ số 05, diện tích 400m2. Ngày 18/01/2005, ông N chuyển nhượng diện tích 400m2 cho ông R sử dụng. Năm 2007, ông R chuyển nhượng hết thửa cho ông C và bà E sử dụng đến nay. Đối với phần đất cấp cho ông M, sau này chuyển nhượng cho ông A. Ngày 19/10/1993, UBND huyện Z ban hành",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_018",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định số 639/QĐ.UBTX.93 về việc tạm cấp 150m2 đất (chiều ngang 5m, chiều dài 30m), tọa lạc tại ấp X, xã Y, huyện Z, tỉnh Sóc Trăng cho ông M nhưng thực tế ông M sử dụng diện tích 250m2 (chiều ngang 5m, chiều dài 50m), dư 100m2. Ngày 26/11/1997, Chủ tịch UBND tỉnh Sóc Trăng có công văn số 1132/CV.HC.97 chấp nhận hợp thức hóa cho các hộ gia đình và cá nhân được UBND huyện Z cấp đất hoặc chuyển nhượng đất của các hộ được cấp đất có số đo và diện tích dư ra so với",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_019",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định cấp đất và đã nộp tiền sử dụng diện tích đất dư. Năm 1998, ông M đăng ký xin cấp giấy chứng nhận quyền sử dụng đất 250m2 (trong đó có phần đất dư là 100m2) ông M đã nộp tiền sử dụng đất tại Cục thuế tỉnh Sóc Trăng ngày 31/8/1998. Ngày 12/10/1998, UBND tỉnh Sóc Trăng cấp giấy chứng nhận quyền sử dụng đất cho ông M số M 828092, thuộc thửa 971, tờ bản đồ số 5, diện tích 250m2. Năm 1999 ông M chuyển nhượng quyền sử dụng đất 250m2 trên cho ông A. Ngày 01/3/2000 UBND tỉnh Sóc Trăng cấp giấy chứng nhận quyền sử dụng đất cho ông A, diện tích 250m2, thuộc thửa số 7, tờ bản đồ số 35. Ngày 21/10/2003, UBND tỉnh Sóc Trăng ban hành",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_020",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định số 1439/QĐ.HC.03 cấp diện tích 264m2 (chiều ngang 5,5m, chiều dài 48m), thửa số 63, tờ bản đồ số 35, tọa lạc tại ấp X, xã Y, huyện Z, tỉnh Sóc Trăng cho ông P. Ngày 26/10/2003, Sở Địa chính tỉnh Sóc Trăng (nay là Sở Tài nguyên và Môi trường) có biên bản bàn giao đất cho ông P, diện tích 264m2. Năm 2003, ông P đăng ký xin cấp giấy chứng nhận quyền sử dụng đất diện tích 272,7m2 (chiều ngang trước giáp đường W 5,50m, chiều ngang sau giáp mương nước 5,49m, chiều dài một cạnh là 49,74m và một cạnh là 49,71m) tăng diện tích 8,7m2 so với",
+        "score": 80
+      }
+    ],
+    "claim_scope": "MAJORITY",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_3735",
+    "main_claim": {
+      "main_claim": "yêu cầu phản tố của nguyên đơn cho rằng kinh doanh quán lỗ phải có sổ sách, hóa đơn đều này là không hợp lý. Vì đây là quán nhỏ không phải là doanh nghiệp hay công ty. Hợp đồng hợp tác là có thật nhưng bên trong việc hợp tác giữa anh T, chị T1 còn có vấn đề nhạy cảm khác mà chỉ có anh T và chị T1 biết rõ. Anh T thường xuyên tới lui quán chị T1 nên về nhận thức buộc phải biết chị T1 mua sắm các tài sản trên. Căn cứ vào các Điều 109, Điều 504, Điều 509, Điều 510 của Bộ luật Dân sự năm 2015 đề nghị nguyên đơn đề nghị",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_022",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử không chấp nhận yêu cầu của",
+        "score": 102
+      },
+      {
+        "chunk_id": "cf_021",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định định giá tài sản nhưng việc chị T1 mua sắm tài sản thì không thông qua anh T. Anh T không chấp nhận toàn bộ yêu cầu phản tố của chị T1. Anh T yêu cầu chị T1 trả lại cho anh 30.000.000đ tiền hùn thuê lại quán của chị H, không yêu cầu tính lãi và anh T thống nhất giao quán cho chị T1 tiếp tục sử dụng cho đến khi hết thời hạn đã thuê quán như đã ghi trong hợp đồng với chị H và các tài sản chị T1 đã mua. Anh T không có tranh chấp hợp đồng thuê quán với chị H. Trong quá trình tiến hành tố tụng và tại phiên tòa sơ thẩm:",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_024",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử chấp nhận yêu cầu phản tố của chị T1. Buộc anh T trả lại cho chị T1 phân nữa số tiền chị T1 đã mua sắm tài sản và kinh doanh quán bị lỗ. Tại phiên tòa",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_023",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử chấp nhận. Vì việc mua sắm tài sản là nhu cầu thiết thực cho việc mua bán nước, hợp đồng hợp tác giữa chị T1, anh T đã vi phạm về hình thức. Đoạn cuối của hợp đồng hùn vốn xác nhận chị T1 trả tiền đầy đủ. Việc đại diện",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_026",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử, Thư ký phiên tòa đã tiến hành đúng trình tự thủ tục tố tụng theo quy định của pháp luật. Những người tham gia tố tụng chấp hành tốt nội quy phiên tòa. Về nội dung: Đối với yêu cầu của",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_027",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử không chấp nhận. Vì quá trình hoạt động quán có hoạt động hay không hoạt động thì tiền thuê quán đã trả cho chị H cũng mất nên yêu câu của anh T là không có cơ sở chấp nhận. Đối với yêu cầu phản tố của",
+        "score": 62
+      }
+    ],
+    "claim_scope": "NONE",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_5860",
+    "main_claim": {
+      "main_claim": "yêu cầu này của nguyên đơn không có cơ sở, đề nghị",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_009",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử, Thư ký phiên tòa và của người tham gia tố tụng trong quá trình giải quyết vụ án kể từ khi thụ lý đến trước thời điểm",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_010",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử nghị án đã thực hiện đúng quy định của Bộ luật tố tụng dân sự và phát biểu ý kiến về việc giải quyết vụ án: Đại diện",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_011",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử chấp nhận 1 phần yêu cầu khởi kiện của",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_012",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử không chấp nhận.",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_008",
+        "section": "procuracy_opinion",
+        "speaker": "procuracy",
+        "text": "Kiểm sát viên phát biểu ý kiến: Về việc tuân theo pháp luật của Thẩm phán,",
+        "score": 44
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "Nguyễn Kim C1 - Chủ doanh nghiệp tư nhân xăng dầu Phước L trình bày: Giữa Doanh nghiệp tư nhân xăng dầu Phước L và Công ty trách nhiệm hữu hạn thương mại xuất nhập khẩu Hữu Thành P có giao dịch mua bán nhớt hay không ông không nhớ, tuy nhiên cây xăng của ông chỉ giao dịch trực tiếp với nhân viên bán hàng, còn nợ hay không ông cũng không nhớ do lâu quá. Nếu công ty muốn đòi tiền cây xăng thì ông yêu cầu phải có hóa đơn, biên bản đối chiếu công nợ có xác nhận của ông thì ông sẽ trả, nếu không có thì ông không biết, ông không biết hóa đơn số 140422099 ngày 22/4/2014. Đơn xác nhận công nợ anh V viết ngày 20/7/2016, Doanh nghiệp tư nhân xăng dầu Phước L không được thông báo, không biết, không có văn bản đồng ý gì hết về việc chuyển giao công nợ đó. Đối với yêu cầu của nguyên đơn kiện anh V thì ông không có ý kiến gì. Kiểm sát viên phát biểu ý kiến: Về việc tuân theo pháp luật của Thẩm phán, Hội đồng xét xử, Thư ký phiên tòa và của người tham gia tố tụng trong quá trình giải quyết vụ án kể từ khi thụ lý đến trước thời điểm Hội đồng xét xử nghị án đã thực hiện đúng quy định của Bộ luật tố tụng dân sự và phát biểu ý kiến về việc giải quyết vụ án: Đại diện nguyên đơn trình bày căn cứ theo đ",
+        "score": 40
+      }
+    ],
+    "claim_scope": "MAJORITY",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_7467",
+    "main_claim": {
+      "main_claim": "yêu cầu gì khác.",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_020",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử không chấp nhận yêu cầu bà H1. - Đối với thửa 445 các đương sự thừa nhận là đất của cụ M, cụ S sử dụng ổn định lâu dài từ trước năm 1993 cho đến khi cụ S chết 2014. UBND thành phố S xác định thửa đất này chưa được cấp quyền sử dụng đất cho ai và cụ M và cụ S là người quản lý sử dụng từ trước năm 1993 cho đến nay. Đến khi cụ S chết có để lại di chúc nhưng trong di chúc không thể hiện việc định đoạt thửa đất 445. Do đó, thửa 445 là di sản của cụ M và cụ S được chia đều cho các đồng thừa kế thuộc hàng thừa kế thứ nhất theo quy định pháp luật nên bà H1 yêu cầu chia thừa kế theo pháp luật là có cơ sở nên đề nghị",
+        "score": 102
+      },
+      {
+        "chunk_id": "cf_015",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định công nhận hòa giải thành số 112/QĐHGT ngày 27/9/1997). Đến năm 1998, cụ M có cho bà H1 một phần đất ngang 7m, dài 20m, diện tích 140m² trong phần đất thửa 445, diện tích qua đo đạc thực tế 514,8m². Khi cho, cụ M và cụ S có ký tên vào đơn xin cất nhà của cha bà H1 là Võ Thế A (ông Anh làm đơn xin cất nhà cho bà H1), được UBND xã T xác nhận việc cụ M, cụ S cho đất bà H1. Bà H1 trình bày có đưa 02 lượng vàng 24k cho cụ M, cụ S để sửa chữa cất nhà. Bà H1 đã cất nhà lợp tole, vách tole, nền xi măng và gạch bông trên phần đất ở cho đến nay. Phần đất này, bà H1 không tranh chấp, không yêu cầu Tòa án giải quyết; sau này bà H1 có tranh chấp sẽ khởi kiện bằng vụ kiện khác. Phần đất còn lại của thửa 445 có diện tích 361,2m² sau khi cụ M chết, ông Đ quản lý sử dụng. 2. Nhà: Căn nhà tại số 539, trên thửa đất 443, nhà ngang khoảng 8m, dài khoảng 10m, máy lợp tole, tường gạch, nền gạch men và gạch tàu; Hiện nay toàn bộ phần đất và căn nhà trên đất do ông Đ đang quản lý, sử dụng. Phần bà H1 chỉ sử dụng phần đất cụ M và cụ S cho cất nhà. Đối với Tờ di chúc cụ Phan Thị S lập ngày 31/01/2007, cụ S để lại toàn bộ QSD đất thửa 443 và thửa 444, diện tích 866,3m2, cùng tờ bản đồ 0",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_016",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định. Tại phiên tòa bà H1 đồng ý nhận phần đất 120,4m2 tại vị trí H3. Trên phần đất thể hiện tại H3 có các ngôi mộ thì bà H1 quản lý, chăm sóc phần các mộ này. Đối với căn nhà, tài sản khác và các cây trồng trên đất của cụ M và cụ S theo định giá thì bà H1 không yêu cầu chia thừa kế. Tại phiên tòa, bà H1 đồng ý giao cho ông Đ được quyền sở hữu tài sản trên đất là nhà, các cây trồng và các tài sản khác trên đất. Ngoài ra, bà H1 không có yêu cầu gì khác. Tại bản tự khai, các biên bản lấy lời khai và tại phiên tòa",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_021",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử chấp nhận yêu cầu bà H1. - Theo các tài liệu xác định cụ M và cụ S có 05 người con . Về người được hưởng thừa kế :Võ Thế A (chết) nên các con của ông A được hưởng, Võ Thế Đ, Võ Thị Cúc A. Như vậy, việc chia thừa kế gồm 03 phần, mỗi phần bằng nhau được các đương sự thừa nhận căn cú khoản 2 điều 92 BLTTDS thì tình tiết này không phải chứng minh nên đề nghị",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_023",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử chấp nhận yêu cầu bà H1. - Về phần đất diện tích H4 là 153,6m2 bà H1 và ông Đ không có yêu cầu giải quyết trong vụ kiện này nên đề nghị",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_018",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử và Thư ký phiên tòa trong quá trình giải quyết vụ án, kể từ khi thụ lý cho đến trước thời điểm",
+        "score": 62
+      }
+    ],
+    "claim_scope": "NONE",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_149",
+    "main_claim": {
+      "main_claim": "yêu cầu ông H, bà L phải trả là 240.000.000 đồng( Hai trăm bốn mươi triệu đồng). Ý kiến",
+      "requested_amounts": [
+        "240.000.000 đồng"
+      ],
+      "requested_areas": []
+    },
+    "disposition_candidates": [],
+    "claim_scope": "UNCLEAR",
+    "source": "MISSING"
+  },
+  {
+    "case_id": "case_3079",
+    "main_claim": {
+      "main_claim": "yêu cầu bồi thường thiệt hại với số tiền là 180.000.000 đồng, trong đó có 50.000.000 đồng tiền thiệt hại do tổn thất về tinh thần. - nguyên đơn 5.000.000 đồng. - nguyên đơn và các tài liệu do nguyên đơn cung cấp, đề nghị nguyên đơn, buộc",
+      "requested_amounts": [
+        "180.000.000 đồng",
+        "50.000.000 đồng",
+        "5.000.000 đồng"
+      ],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_011",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử chấp nhận một phần yêu cầu của",
+        "score": 86
+      },
+      {
+        "chunk_id": "cf_007",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định không khởi tố vụ án hình sự, ra",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_008",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "quyết định xử phạt hành chính đối với ông T, ông V và hướng dẫn ông V khởi kiện yêu cầu ông T bồi thường thiệt hại về dân sự theo quy định của Bộ luật Tố tụng dân sự. Tại phiên tòa: -",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_010",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử, Thư ký phiên tòa thực hiện đúng quy định của pháp luật; các đương sự thực hiện đầy đủ các quyền và nghĩa vụ theo quy định của pháp luật tố tụng dân sự. Về việc giải quyết vụ án: Các đương sự thống nhất ông T cố ý gây ra thương tích cho ông V nên ông T phải có trách nhiệm bồi thường thiệt hại cho ông V, căn cứ vào yêu cầu của",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_009",
+        "section": "procuracy_opinion",
+        "speaker": "procuracy",
+        "text": "Kiểm sát viên phát biểu: Thẩm phán,",
+        "score": 44
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "H thì bà H nói do ông V bị đau chân nên không ai tưới và chăm sóc nên cây chết. Bà U cho rằng ông V bị chết 80 cây giáng hương có chiều cao khoảng 7 mét, đường kính khoảng từ 80 đến 100cm và nguyên nhân cây chết là vì không được tưới và chăm sóc. Tại Báo cáo kết thúc điều tra số 56/KTĐT ngày 29/6/2016 của Cơ quan Cảnh sát điều tra Công an thị xã BL xác định: Do ông V đánh ông D, ông T can ngăn thì bị ông V đánh nên ông T vào nhà lấy con dao cạo mủ ra để tự vệ, khi bị ông V đá thì ông T dùng dao đâm ông V gây thương tích với tỷ lệ thương tật 17%. Hành vi của ông T đã có dấu hiệu của tội “Cố ý gây thương tích hoặc gây tổn hại sức khỏe người khác do vượt quá giới hạn phòng vệ chính đáng” được quy định tại Điều 106 của Bộ luật Hình sự nước Cộng hòa xã hội chủ nghĩa Việt Nam. Do thương tật của ông V dưới 31%, không đủ yêu tố cấu thành tội phạm nên Cơ quan Cảnh sát điều tra Công an thị xã BL quyết định không khởi tố vụ án hình sự, ra quyết định xử phạt hành chính đối với ông T, ông V và hướng dẫn ông V khởi kiện yêu cầu ông T bồi thường thiệt hại về dân sự theo quy định của Bộ luật Tố tụng dân sự. Tại phiên tòa: - Nguyên đơn V yêu cầu bồi thường thiệt hại với số tiền là 180.000.000 đồng,",
+        "score": 40
+      }
+    ],
+    "claim_scope": "MAJORITY",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_8812",
+    "main_claim": {
+      "main_claim": "yêu cầu. -",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_011",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử: + Chấp nhận một phần yêu cầu khởi kiện của anh Trần Văn N. Buộc Đào Nhựt Q và Trần Quang V liên đới bồi thường cho anh N số tiền 15.304.500 đồng, gồm: 750.000 đồng (tiền xe); 2.000.000 đồng (tiền ăn bồi dưỡng của anh N; 550.000 đồng (tiền ăn người nuôi bệnh); 3.944.500 đồng (tiền thuốc); 5.060.000 đồng (tiền mất thu nhập của anh N); 3.000.000 đồng (tiền tổn thất tinh thần). Khấu trừ số tiền 5.000.000 đồng đưa trước, số tiền còn phải bồi thường là 10.304.500 đồng; + Không chấp nhận một phần yêu cầu khởi kiện của anh Trần Văn N về việc yêu cầu Đào Nhựt Q và Trần Quang V liên đới bồi thường số tiền 32.443.500 đồng; + Đình chỉ yêu cầu khởi kiện của anh Trần Văn N về việc yêu cầu Trần Hoàng Đ liên đới bồi thường thiệt hại.",
+        "score": 86
+      },
+      {
+        "chunk_id": "cf_009",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử thể hiện sự vô tư, khách quan, độc lập khi xét xử. Vụ án được đưa ra xét xử là đúng theo quy định. - Về nội dung: nhận thấy",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_008",
+        "section": "procuracy_opinion",
+        "speaker": "procuracy",
+        "text": "đại diện Viện kiểm sát: - Về thủ tục: Trong quá trình tố tụng và tại phiên tòa, Thẩm phán đã tuân thủ và tiến hành đầy đủ trình tự, thủ tục tố tụng. Đương sự thực hiện đúng quyền và ngh a vụ theo quy định pháp luật. Thành viên",
+        "score": 44
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "nuôi bệnh). Riêng các khoản tiền thuốc, thu nhập thực tế bị mất của anh N và tiền bù đắp tổn thất về tinh thần chỉ đồng ý bồi thường trên cơ sở chứng từ hợp lý, theo đúng quy định pháp luật. - Bị đơn Trần Hoàng Đ vắng có đơn. - Người làm chứng Nguyễn Thị S trình bày: chị là vợ của anh N. Sau khi bị thương, anh N được đưa vào cấp cứu tại bệnh viện Ba Tri. Do vết thương nghiêm trọng nên chuyển lên bệnh viện N. Thời gian anh N điều trị tại bệnh viện là 10 ngày (hai đợt), do chị trực tiếp chăm sóc. Thời gian dưỡng bệnh tại nhà là 2,5 tháng, cũng do chị trực tiếp chăm sóc. Chị xác nhận trình bày của anh N là sự thật và các khoản anh N yêu cầu là có cơ sở. Quan điểm của đại diện Viện kiểm sát: - Về thủ tục: Trong quá trình tố tụng và tại phiên tòa, Thẩm phán đã tuân thủ và tiến hành đầy đủ trình tự, thủ tục tố tụng. Đương sự thực hiện đúng quyền và ngh a vụ theo quy định pháp luật. Thành viên Hội đồng xét xử thể hiện sự vô tư, khách quan, độc lập khi xét xử. Vụ án được đưa ra xét xử là đúng theo quy định. - Về nội dung: nhận thấy bị đơn Q, V thừa nhận có đánh anh N vào khoảng 21 giờ ngày 24/11/2018 và đồng ý bồi thường thiệt hại các khoản gồm 750.000 đồng (tiền xe), 2.000.000 đồng (tiền ",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "Trung tâm pháp y Sở y tế tỉnh Bến Tre có kết luận giám định) là 56 ngày thì tổn thương cơ thể của anh N do thương tích gây ra là 0%. Do vậy bị đơn đồng ý bồi thường số ngày điều trị và 10 ngày nghỉ dưỡng sức sau xuất viện là có căn cứ. Do số ngày điều trị của anh N là 12 ngày (từ ngày 25/11/2017 đến 06/12/2018) nên số ngày bị mất thu nhập bị đơn phải bồi thường là 22 ngày với số tiền là 5.060.000 đồng. Đối với tiền bồi thường do tổn thất về tinh thần anh N yêu cầu 3.000.000 đồng là có căn cứ; bởi bị đơn thừa nhận đã vô cớ đánh anh N gây thương tích trên. Riêng đối với bị đơn Trần Hoàng Đ, anh N không xác định được việc bị Đ đánh; Đ không thừa nhận có đánh anh N; Q, V và những người làm chứng khác cho rằng Đ không đánh anh N. Tại phiên tòa, anh N rút lại yêu cầu khởi kiện đối với Đ. Xét thấy việc rút yêu cầu đối với Đ là sự tự nguyện của anh N nên cần đình chỉ giải quyết. Do đó, đề nghị Hội đồng xét xử: + Chấp nhận một phần yêu cầu khởi kiện của anh Trần Văn N. Buộc Đào Nhựt Q và Trần Quang V liên đới bồi thường cho anh N số tiền 15.304.500 đồng, gồm: 750.000 đồng (tiền xe); 2.000.000 đồng (tiền ăn bồi dưỡng của anh N; 550.000 đồng (tiền ăn người nuôi bệnh); 3.944.500 đồng (tiền thu",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_003",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "18 (ngày Trung tâm pháp y Sở y tế tỉnh Bến Tre có kết luận giám định) là 56 ngày thì tổn thương cơ thể của anh N do thương tích gây ra là 0%. Do vậy bị đơn đồng ý bồi thường số ngày điều trị và 10 ngày nghỉ dưỡng sức sau xuất viện là có căn cứ. Do số ngày điều trị của anh N là 12 ngày (từ ngày 25/11/2017 đến 06/12/2018) nên số ngày bị mất thu nhập bị đơn phải bồi thường là 22 ngày với số tiền là 5.060.000 đồng. Đối với tiền bồi thường do tổn thất về tinh thần anh N yêu cầu 3.000.000 đồng là có căn cứ; bởi bị đơn thừa nhận đã vô cớ đánh anh N gây thương tích trên. Riêng đối với bị đơn Trần Hoàng Đ, anh N không xác định được việc bị Đ đánh; Đ không thừa nhận có đánh anh N; Q, V và những người làm chứng khác cho rằng Đ không đánh anh N. Tại phiên tòa, anh N rút lại yêu cầu khởi kiện đối với Đ. Xét thấy việc rút yêu cầu đối với Đ là sự tự nguyện của anh N nên cần đình chỉ giải quyết. Do đó, đề nghị Hội đồng xét xử: + Chấp nhận một phần yêu cầu khởi kiện của anh Trần Văn N. Buộc Đào Nhựt Q và Trần Quang V liên đới bồi thường cho anh N số tiền 15.304.500 đồng, gồm: 750.000 đồng (tiền xe); 2.000.000 đồng (tiền ăn bồi dưỡng của anh N; 550.000 đồng (tiền ăn người nuôi bệnh); 3.944.500 đồng ",
+        "score": 40
+      }
+    ],
+    "claim_scope": "MAJORITY",
+    "source": "COURT_REASONING"
+  },
+  {
+    "case_id": "case_5057",
+    "main_claim": {
+      "main_claim": "yêu cầu vợ chồng N và K tháo dỡ nhà trả lại diện tích theo đo đạc thực tế là Ngang 6,02m, dài 8,75m; tự nguyện hỗ trợ chi phí di dời nhà cho N và K là 10.000.000đ; tự nguyện chịu toàn bộ chi phí tố tụng; tự nguyện cho vợ chồng N, K được lưu cư trong thời hạn 01 năm. - Nguyên đơn ông A tự nguyện chịu toàn bộ chi phí tố tụng.",
+      "requested_amounts": [
+        "10.000.000đ"
+      ],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "PTB đại diện trình bày tại biên bản hòa giải ngày 21/7/2016, biên bản đối chất, phiên họp như sau: “Vợ chồng N ở nhờ trên đất của ông A từ năm 2007. Bà B đại diện cho ông Tâm yêu cầu ông A cho vợ chồng N ở ổn định, vợ chồng N sẽ mua lại nền nhà với giá 30.000.000đ. Ông Tâm không tranh chấp với ông A, cũng không tranh chấp với N trong vụ án này”. - Người có quyền lợi, nghĩa vụ liên quan bà PTB trình bày ý kiến tại bản tự khai như sau: “Diện tích đất mà N cất nhà ở là do cha mẹ chồng bà là ông Gấm, bà Thôi cho vợ chồng bà vào năm 1975, vợ chồng bà trực tiếp sử dụng đất này ổn định, đến năm 2007 thì cho lại con ruột và con rễ là HTKN và ĐTK (Hào) cất nhà ở trên đất, diện tích đất này chưa được cơ quan có thẩm quyền cấp giấy chứng nhận quyền sử dụng đất. Bà B cho rằng ông A yêu cầu N, K (Hào) trả lại đất là không đúng, hiện nay N và K (Hào) cũng không có chỗ ở nào khác. Đề nghị Tòa án không chấp nhận yêu cầu khởi kiện của ông A”. - Người có quyền lợi, nghĩa vụ liên quan bà HKN: Vắng mặt trong Suốt thời hạn chưa bị xét xử, không có ý kiến trình bày bằng văn bản, mặc dù đã được tống đạt văn bản tố tụng hợp lệ. Tại phiên tòa: - Người đại diện theo ủy của nguyên đơn ông A là bà S trình bày",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "do bà PTB đại diện trình bày tại biên bản hòa giải ngày 21/7/2016, biên bản đối chất, phiên họp như sau: “Vợ chồng N ở nhờ trên đất của ông A từ năm 2007. Bà B đại diện cho ông Tâm yêu cầu ông A cho vợ chồng N ở ổn định, vợ chồng N sẽ mua lại nền nhà với giá 30.000.000đ. Ông Tâm không tranh chấp với ông A, cũng không tranh chấp với N trong vụ án này”. - Người có quyền lợi, nghĩa vụ liên quan bà PTB trình bày ý kiến tại bản tự khai như sau: “Diện tích đất mà N cất nhà ở là do cha mẹ chồng bà là ông Gấm, bà Thôi cho vợ chồng bà vào năm 1975, vợ chồng bà trực tiếp sử dụng đất này ổn định, đến năm 2007 thì cho lại con ruột và con rễ là HTKN và ĐTK (Hào) cất nhà ở trên đất, diện tích đất này chưa được cơ quan có thẩm quyền cấp giấy chứng nhận quyền sử dụng đất. Bà B cho rằng ông A yêu cầu N, K (Hào) trả lại đất là không đúng, hiện nay N và K (Hào) cũng không có chỗ ở nào khác. Đề nghị Tòa án không chấp nhận yêu cầu khởi kiện của ông A”. - Người có quyền lợi, nghĩa vụ liên quan bà HKN: Vắng mặt trong Suốt thời hạn chưa bị xét xử, không có ý kiến trình bày bằng văn bản, mặc dù đã được tống đạt văn bản tố tụng hợp lệ. Tại phiên tòa: - Người đại diện theo ủy của nguyên đơn ông A là bà S trì",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_003",
+        "section": "related_party_statement",
+        "speaker": "related_party",
+        "text": "Người có quyền lợi, nghĩa vụ liên quan bà PTB trình bày ý kiến tại bản tự khai như sau: “Diện tích đất mà N cất nhà ở là do cha mẹ chồng bà là ông Gấm, bà Thôi cho vợ chồng bà vào năm 1975, vợ chồng bà trực tiếp sử dụng đất này ổn định, đến năm 2007 thì cho lại con ruột và con rễ là HTKN và ĐTK (Hào) cất nhà ở trên đất, diện tích đất này chưa được cơ quan có thẩm quyền cấp giấy chứng nhận quyền sử dụng đất. Bà B cho rằng ông A yêu cầu N, K (Hào) trả lại đất là không đúng, hiện nay N và K (Hào) cũng không có chỗ ở nào khác. Đề nghị Tòa án không chấp nhận yêu cầu khởi kiện của ông A”. -",
+        "score": 40
+      }
+    ],
+    "claim_scope": "MINORITY",
+    "source": "PARTY_STATEMENT"
+  },
+  {
+    "case_id": "case_551",
+    "main_claim": {
+      "main_claim": "Trong đơn khởi kiện ngày 05/01/2016, quá trình giải quyết vụ án và tại phiên tòa, nguyên đơn ông Nguyễn Hữu C, người đại diện theo ủy quyền của nguyên đơn ông Nguyễn Văn G và đơn khởi kiện của ông C, buộc vợ chồng ông T – vợ chồng ông L – UBND xã T S trả lại thửa đất 18 và 53 cho gia đình ông C; hủy toàn bộ",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_083",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định 310 với nội dung không chấp nhận yêu cầu của ông C cũng vì các lý do được nêu trong nội dung của",
+        "score": 120
+      },
+      {
+        "chunk_id": "cf_084",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định 940. Ông H không chấp nhận yêu cầu hủy",
+        "score": 120
+      },
+      {
+        "chunk_id": "cf_049",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định:",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_050",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định số 310/UBND.TN ngày 26/9/2012 của UBND huyện Đ L;",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_051",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định số 940/QĐ-UBND ngày 27/5/2013 của Chủ tịch UBND huyện Đ L;",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_052",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định số 14/QĐ-UBND ngày 05/3/2012 của UBND xã T S và",
+        "score": 80
+      }
+    ],
+    "claim_scope": "NONE",
+    "source": "OPERATIVE_ORDER"
+  },
+  {
+    "case_id": "case_669",
+    "main_claim": {
+      "main_claim": "yêu cầu phản tố của",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_005",
+        "section": "procuracy_opinion",
+        "speaker": "procuracy",
+        "text": "đại diện viện kiểm sát: - Về việc tuân theo pháp luật tố tụng của Thẩm phán: Đúng theo quy định của pháp luật nhưng thời hạn chuẩn bị xét xử đã vi phạm Điều 203 BLTTDS. - Việc tuân thủ pháp luật của HĐXX: Tại phiên tòa hôm nay HĐXX đã thực hiện đúng theo quy định của Bộ luật tố tụng dân sự về phiên tòa sơ thẩm như: Nguyên tắc xét xử, sự có mặt của thành viên HĐXX và thư ký phiên tòa, các bước tiến hành thủ tục phiên tòa; - Việc chấp hành pháp luật của người tham gia tố tụng; - Đối với đương sự: Đã thực hiện đúng theo quy địnhc của pháp luật. + Quan điểm giải quyết vụ án: Đề nghị HĐXX bác yêu cầu khởi kiện của",
+        "score": 74
+      },
+      {
+        "chunk_id": "cf_006",
+        "section": "procuracy_opinion",
+        "speaker": "procuracy",
+        "text": "đại diện Viện kiểm sát như sau: - Thời hạn chuẩn bị xét xử vi phạm Điều 203 BLTTDS: Do vụ án tranh chấp có tính phức tạp, cần có nhiều thời gian xác minh, thẩm tra. Do đó vụ kiện bị kéo dài thời gian, vi phạm thời hạn xét xử, vấn đề này HĐXX sẽ khắc phục.",
+        "score": 44
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "g Danh H với ông Danh Ch, bà Thị M để lấy lại diện tích đất đã chuyển nhượng thì bà không có ý kiến. Nhưng đối với phần của bà được hưởng thừa kế của cha bà thì bà không có yêu cầu và cũng không có tranh 5 chấp, bà thống nhất để lại cho các anh chị em bà và bà xin được từ chối nhận di sản thừa kế của cha bà là ông Danh H. + Ý kiến phát biểu của Vị đại diện viện kiểm sát: - Về việc tuân theo pháp luật tố tụng của Thẩm phán: Đúng theo quy định của pháp luật nhưng thời hạn chuẩn bị xét xử đã vi phạm Điều 203 BLTTDS. - Việc tuân thủ pháp luật của HĐXX: Tại phiên tòa hôm nay HĐXX đã thực hiện đúng theo quy định của Bộ luật tố tụng dân sự về phiên tòa sơ thẩm như: Nguyên tắc xét xử, sự có mặt của thành viên HĐXX và thư ký phiên tòa, các bước tiến hành thủ tục phiên tòa; - Việc chấp hành pháp luật của người tham gia tố tụng; - Đối với đương sự: Đã thực hiện đúng theo quy địnhc của pháp luật. + Quan điểm giải quyết vụ án: Đề nghị HĐXX bác yêu cầu khởi kiện của nguyên đơn về việc hủy hợp đồng chuyển nhượng QSD đất (bằng miệng); Chấp nhận yêu cầu phản tố của bị đơn Thị X, Thị Đ, Danh C yêu cầu công nhận hợp đồng chuyển nhượng QSD đất giữa ông Danh H với ông Danh Ch, bà Thị M. Xét về kiến ngh",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "Thị M để lấy lại diện tích đất đã chuyển nhượng thì bà không có ý kiến. Nhưng đối với phần của bà được hưởng thừa kế của cha bà thì bà không có yêu cầu và cũng không có tranh 5 chấp, bà thống nhất để lại cho các anh chị em bà và bà xin được từ chối nhận di sản thừa kế của cha bà là ông Danh H. + Ý kiến phát biểu của Vị đại diện viện kiểm sát: - Về việc tuân theo pháp luật tố tụng của Thẩm phán: Đúng theo quy định của pháp luật nhưng thời hạn chuẩn bị xét xử đã vi phạm Điều 203 BLTTDS. - Việc tuân thủ pháp luật của HĐXX: Tại phiên tòa hôm nay HĐXX đã thực hiện đúng theo quy định của Bộ luật tố tụng dân sự về phiên tòa sơ thẩm như: Nguyên tắc xét xử, sự có mặt của thành viên HĐXX và thư ký phiên tòa, các bước tiến hành thủ tục phiên tòa; - Việc chấp hành pháp luật của người tham gia tố tụng; - Đối với đương sự: Đã thực hiện đúng theo quy địnhc của pháp luật. + Quan điểm giải quyết vụ án: Đề nghị HĐXX bác yêu cầu khởi kiện của nguyên đơn về việc hủy hợp đồng chuyển nhượng QSD đất (bằng miệng); Chấp nhận yêu cầu phản tố của bị đơn Thị X, Thị Đ, Danh C yêu cầu công nhận hợp đồng chuyển nhượng QSD đất giữa ông Danh H với ông Danh Ch, bà Thị M. Xét về kiến nghị của vị đại diện Viện kiểm s",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_003",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "ng thừa kế của cha bà thì bà không có yêu cầu và cũng không có tranh 5 chấp, bà thống nhất để lại cho các anh chị em bà và bà xin được từ chối nhận di sản thừa kế của cha bà là ông Danh H. + Ý kiến phát biểu của Vị đại diện viện kiểm sát: - Về việc tuân theo pháp luật tố tụng của Thẩm phán: Đúng theo quy định của pháp luật nhưng thời hạn chuẩn bị xét xử đã vi phạm Điều 203 BLTTDS. - Việc tuân thủ pháp luật của HĐXX: Tại phiên tòa hôm nay HĐXX đã thực hiện đúng theo quy định của Bộ luật tố tụng dân sự về phiên tòa sơ thẩm như: Nguyên tắc xét xử, sự có mặt của thành viên HĐXX và thư ký phiên tòa, các bước tiến hành thủ tục phiên tòa; - Việc chấp hành pháp luật của người tham gia tố tụng; - Đối với đương sự: Đã thực hiện đúng theo quy địnhc của pháp luật. + Quan điểm giải quyết vụ án: Đề nghị HĐXX bác yêu cầu khởi kiện của nguyên đơn về việc hủy hợp đồng chuyển nhượng QSD đất (bằng miệng); Chấp nhận yêu cầu phản tố của bị đơn Thị X, Thị Đ, Danh C yêu cầu công nhận hợp đồng chuyển nhượng QSD đất giữa ông Danh H với ông Danh Ch, bà Thị M. Xét về kiến nghị của vị đại diện Viện kiểm sát như sau: - Thời hạn chuẩn bị xét xử vi phạm Điều 203 BLTTDS: Do vụ án tranh chấp có tính phức tạp, cần ",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_004",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "lại diện tích đất đã chuyển nhượng thì bà không có ý kiến. Nhưng đối với phần của bà được hưởng thừa kế của cha bà thì bà không có yêu cầu và cũng không có tranh 5 chấp, bà thống nhất để lại cho các anh chị em bà và bà xin được từ chối nhận di sản thừa kế của cha bà là ông Danh H. + Ý kiến phát biểu của Vị đại diện viện kiểm sát: - Về việc tuân theo pháp luật tố tụng của Thẩm phán: Đúng theo quy định của pháp luật nhưng thời hạn chuẩn bị xét xử đã vi phạm Điều 203 BLTTDS. - Việc tuân thủ pháp luật của HĐXX: Tại phiên tòa hôm nay HĐXX đã thực hiện đúng theo quy định của Bộ luật tố tụng dân sự về phiên tòa sơ thẩm như: Nguyên tắc xét xử, sự có mặt của thành viên HĐXX và thư ký phiên tòa, các bước tiến hành thủ tục phiên tòa; - Việc chấp hành pháp luật của người tham gia tố tụng; - Đối với đương sự: Đã thực hiện đúng theo quy địnhc của pháp luật. + Quan điểm giải quyết vụ án: Đề nghị HĐXX bác yêu cầu khởi kiện của nguyên đơn về việc hủy hợp đồng chuyển nhượng QSD đất (bằng miệng); Chấp nhận yêu cầu phản tố của bị đơn Thị X, Thị Đ, Danh C yêu cầu công nhận hợp đồng chuyển nhượng QSD đất giữa ông Danh H với ông Danh Ch, bà Thị M. Xét về kiến nghị của vị đại diện Viện kiểm sát như sau: -",
+        "score": 40
+      }
+    ],
+    "claim_scope": "NONE",
+    "source": "COURT_REASONING"
+  },
+  {
+    "case_id": "case_4557",
+    "main_claim": {
+      "main_claim": "yêu cầu bồi thương nhưng không đưa ra căn cứ để tính ra số tiền đó",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_009",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử xem xét. Từ những phân tích trên cho thấy yêu cầu của ông C là có cơ sở chấp nhận, yêu cầu",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_010",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử xem xét để ra một bản án hợp tình hợp lý.",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "g thì phía Cty C cho người vào làm, ngăn cản không cho ông C tiếp tục thực hiện công trình, ông C phải ngừng thi công và gửi đơn đến các cơ quan thẩm quyền giải quyết. Trong suốt 03 tháng ông C phải trả lương cho nhân công, nên ông C buộc phải ký vào biên bản quyết toán cho dù mức giá không phù hợp và thỏa thuận không cần phải xuất hóa đơn. Tuy nhiên, khi ông C đã ký thì phía Cty C bội tính, không trả đủ số tiền và yêu cầu ông C xuất hóa đơn. Về lỗi hoàn toàn là của Cty C. Do đó, ông C yêu cầu bồi thường thiệt hại lợi ích được hưởng từ hợp đồng và thiệt hại về tinh thần theo quy định tại các Điều 419, 360, 361 Bộ luật Dân sự là phù hợp, người bị thiệt hại được quyền yêu cầu bồi thường thiệt hại cho lợi ích mà lẽ ra mình được hưởng do hợp đồng mang lại. Người bị thiệt hại được quyền yêu cầu bồi thường thiệt hại về tổn thất tinh thần, về mức bồi thường thế nào pháp luật có quy định rõ, do Hội đồng xét xử xem xét. Từ những phân tích trên cho thấy yêu cầu của ông C là có cơ sở chấp nhận, yêu cầu Hội đồng xét xử xem xét để ra một bản án hợp tình hợp lý. Nguyên đơn không cung cấp được bảng tính thiệt hại. Ảnh nguyên đơn cung cấp không xác định được thời gian và khối lượng thi công. Nguyê",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "g thi công và gửi đơn đến các cơ quan thẩm quyền giải quyết. Trong suốt 03 tháng ông C phải trả lương cho nhân công, nên ông C buộc phải ký vào biên bản quyết toán cho dù mức giá không phù hợp và thỏa thuận không cần phải xuất hóa đơn. Tuy nhiên, khi ông C đã ký thì phía Cty C bội tính, không trả đủ số tiền và yêu cầu ông C xuất hóa đơn. Về lỗi hoàn toàn là của Cty C. Do đó, ông C yêu cầu bồi thường thiệt hại lợi ích được hưởng từ hợp đồng và thiệt hại về tinh thần theo quy định tại các Điều 419, 360, 361 Bộ luật Dân sự là phù hợp, người bị thiệt hại được quyền yêu cầu bồi thường thiệt hại cho lợi ích mà lẽ ra mình được hưởng do hợp đồng mang lại. Người bị thiệt hại được quyền yêu cầu bồi thường thiệt hại về tổn thất tinh thần, về mức bồi thường thế nào pháp luật có quy định rõ, do Hội đồng xét xử xem xét. Từ những phân tích trên cho thấy yêu cầu của ông C là có cơ sở chấp nhận, yêu cầu Hội đồng xét xử xem xét để ra một bản án hợp tình hợp lý. Nguyên đơn không cung cấp được bảng tính thiệt hại. Ảnh nguyên đơn cung cấp không xác định được thời gian và khối lượng thi công. Nguyên đơn thay đổi yêu cầu bồi thương nhưng không đưa ra căn cứ để tính ra số tiền đó",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_003",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "600x200x100 = 63m3, tương đương với 3,613.4m2 tường. Quyết toán công nợ ông C mới chỉ xây được 137m2. Trong ảnh toàn bộ tường khối nhà chính đã được xây xong. Chủ thể là ông Thái C đại diện ký song song hai Hợp đồng kinh tế để thựchiện một hạng mục có giá trị không đổi, sau đó lại yêu cầu bồi thường một Hợp đồng mà giá trị chỉ là tạm tính giữa hai bên là không hợp lệ. Căn cứ vào các giấy tờ thanh toán tài chính và công nợ ông C đưa ra con số yều cầu bồi thường hoàn toàn sai, không trùng khớp với giá trị hai bên đã ký. Căn cứ vào quyết toán công nợ ngày 30/9/2016 Cty C xác nhận còn phải thanh toán cho Tổ nhân công Thái C với số tiền là: 30.185.000đ (Ba mươi triệu, một trăm tám mươi lăm nghìn đồng chẵn), Tổ nhân công Thái C đại diện là ông Thái C phải xuất trả toàn bộ hóa đơn tài chính VAT cho Cty C căn cứ theo từng giai đoạn thanh toán và theo đúng số tiền đã nhận của Cty C. Cty C không chấp nhận yêu cầu bồi thường thiệt hại hợp đồng 158 số tiền 484.000.000đ của ông Thái C. Như vậy, các bên đã thống nhất được: Tổng khối lượng đã thực hiện tính ra tiền là 410.185.000đ. Trong đó, phần thực hiện theo hợp đồng 503 là 120.000.000đ đã thanh lý xong không có tranh chấp, còn lại phần hợp đồ",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_004",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "ông Thái C phải xuất trả toàn bộ hóa đơn tài chính VAT cho Cty C căn cứ theo từng giai đoạn thanh toán và theo đúng số tiền đã nhận của Cty C. Cty C không chấp nhận yêu cầu bồi thường thiệt hại hợp đồng 158 số tiền 484.000.000đ của ông Thái C. Như vậy, các bên đã thống nhất được: Tổng khối lượng đã thực hiện tính ra tiền là 410.185.000đ. Trong đó, phần thực hiện theo hợp đồng 503 là 120.000.000đ đã thanh lý xong không có tranh chấp, còn lại phần hợp đồng 158 là 290.185.000đ, đã thanh toán 260.000.000đ, còn lại 30.185.000đ. Ông C không thể xuất hóa đơn giá trị gia tăng được nên không yêu cầu Cty C thanh toán số tiền còn lại, không có tranh chấp. Tất cả khối lượng công việc đã thực hiện đã quyết toán xong hết, không có tranh chấp. Chưa thống nhất được: Nguyên đơn ông C yêu cầu Cty C bồi thường số tiền còn lại theo giá trị hợp đồng 158 là 484.000.000đ. Bị đơn Cty C do ông T1 đại diện không chấp nhận yêu cầu của ông C. Tại phiên tòa, ông C thay đổi yêu cầu, chỉ yêu cầu Cty C bồi thường thiệt hại cho ông bằng 12% giá trị của hợp đồng là 103.680.000đ. Ông không cung cấp được chứng cứ chứng minh những thiệt hại thực tế của ông cho Tòa án. Luật sư Lê Hùng T phát biểu tranh luận: Cty C đã đ",
+        "score": 40
+      }
+    ],
+    "claim_scope": "MINORITY",
+    "source": "COURT_REASONING"
+  },
+  {
+    "case_id": "case_950",
+    "main_claim": {
+      "main_claim": "yêu cầu ông T2 phải bồi thường những cây trồng của ông T trên đất bị ông T2 chặt phá là 56 cây chuối x 200.000 đồng/cây = 11.200.000 đồng. 2. Tại Bản tự khai ngày ngày 26-4-2016 và lời khai trong quá trình giải quyết vụ án,",
+      "requested_amounts": [
+        "200.000 đồng",
+        "11.200.000 đồng"
+      ],
+      "requested_areas": []
+    },
+    "disposition_candidates": [],
+    "claim_scope": "UNCLEAR",
+    "source": "MISSING"
+  },
+  {
+    "case_id": "case_2035",
+    "main_claim": {
+      "main_claim": "yêu cầu Tòa án giải quyết: Công nhận bức tường có chiều dài: 8.33m, chiều cao 5.6m là của ông H, bà C (trong đó đoạn tường không được công nhận có chiều dài: 3.4m + 0.58m + 1.9m = 5.88m, bề dày 0.10m và đoạn tường được công nhận có chiều dài: 2.45m, bề dày 0.2m) (Theo Bản vẽ sơ đồ nhà ở, đất ở - Bản vẽ phục vụ cho Tòa án ngày 25/12/2015 do Chi nhánh văn phòng đăng ký đất đai quận Gò Vấp lập và Biên bản xem xét Thẩm định tại chỗ ngày 22/4/2016); Buộc ông Trần Văn L phải trả lại bức tường có chiều dài 8.33m, chiều cao 5.6m nêu trên cho ông H, bà C; Tháo bỏ phần mái tôn và các kèo đỡ mái tôn gác lên bức tường; Ông Trần Văn L phải trả phần đất dưới bức tường có chiều dài 8.33m bao gồm: đoạn không được công nhận: 3.4m + 0.58m + 1.9m = 5.88m, chiều rộng 0.10m và đoạn được công nhận có chiều dài: 2.45m, chiều rộng 0.2m và đề nghị Tòa án công nhận diện tích đất trên thuộc quyền sử dụng của vợ chồng ông H; Buộc ông Trần Văn L phải có trách nhiệm tháo dỡ phần ban công trên tầng 2 (lầu 1) nhà ông L lấn sang đất nhà ông H là 0,2m (diện tích phần ban công lấn là: 2.45 m x 0.2 m = 0.49 m2); Buộc ông Trần Văn L phải có trách nhiệm bít cửa sổ trên tầng 2 (lầu 1) nhà ông L nhìn sang nhà ông H. Nguyên đơn – ông Trần Sinh H vì các lý do sau: - Bức tường và phần đất dưới bức tường đang tranh chấp hiện ông H chưa được xác lập quyền sở hữu, sử dụng theo quy định pháp luật. Việc ông H có",
+      "requested_amounts": [],
+      "requested_areas": [
+        "0.49 m2"
+      ]
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_002",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định xử phạt vi phạm hành chính ngày 29/12/2000 của UBND quận G chỉ thể hiện ông H xây dựng không phép đối với diện tích 20,22m2 chứ không ghi cụ thể là xây dựng cái gì…; Căn cứ theo hiện trạng xây dựng trong căn nhà của ông L có các ô bông cửa giáp với bức tường đang tranh chấp; mà theo kết cấu xây dựng phải có bức tường phía sau làm điểm tựa thì các ô bông cửa này mới có điểm tựa để xây dựng. Nói cách khác khi xem xét thẩm định kết cấu bên trong nhà của ông L với hiện trạng căn nhà này, khi xây dựng phải có sẵn bức tường đang tranh chấp mới có thể tạo thành các ô bông cửa được. Mà nếu bức tường này do ông H xây dựng và thuộc quyền sở hữu của ông H thì không thể nào ông T có thể xây dựng nhà như trên được khi chưa được ông H đồng ý. Do phần đất phía dưới bức tường tranh chấp không thuộc quyền sử dụng của ông H cho nên dù ban công nhà ông L có lấn sang thì ông H cũng không có quyền yêu cầu tháo dỡ trừ khi ông H chứng minh được phần đất này thuộc quyền sử dụng của mình. Chỉ có cơ quan Nhà nước mới có quyền yêu cầu ông L tháo dỡ phần ban công này vì phần đất này chưa cấp chủ quyền cho ai thì thuộc quyền quản lý của Nhà nước. Đối với việc bít cửa sổ: thì hiện này ông L đã bít lạ",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "ủa ông Trần Sinh H. Bà Tăng Kim P có đơn xin vắng mặt trong suốt quá trình giải quyết vụ án và thống nhất với trình bày của ông Trần Sinh H. Bà Nguyễn Thị Ngọc A trình bày: Thống nhất trình bày của ông Trần Văn L. Bà Trần Thị Ngọc L và Trần Thị Ngọc L có đơn xin vắng mặt trong suốt quá trình giải quyết vụ án và thống nhất với trình bày của ông Trần Văn L. Người bảo vệ quyền và lợi ích hợp pháp của ông Trần Văn L trình bày: Đề nghị Tòa án không chấp nhận toàn bộ yêu cầu khởi kiện của Nguyên đơn – ông Trần Sinh H vì các lý do sau: - Bức tường và phần đất dưới bức tường đang tranh chấp hiện ông H chưa được xác lập quyền sở hữu, sử dụng theo quy định pháp luật. Việc ông H có người làm chứng là ông B xác nhận là người xây dựng bức tường nhưng theo kết quả xác minh của Tòa án thì UBND Phường K, quận G xác định: Không ai biết ai xây dựng bức tường này cũng như không rõ thời điểm xây dựng; theo Quyết định xử phạt vi phạm hành chính ngày 29/12/2000 của UBND quận G chỉ thể hiện ông H xây dựng không phép đối với diện tích 20,22m2 chứ không ghi cụ thể là xây dựng cái gì…; Căn cứ theo hiện trạng xây dựng trong căn nhà của ông L có các ô bông cửa giáp với bức tường đang tranh chấp; mà theo kết c",
+        "score": 40
+      }
+    ],
+    "claim_scope": "MINORITY",
+    "source": "COURT_REASONING"
+  },
+  {
+    "case_id": "case_8303",
+    "main_claim": {
+      "main_claim": "yêu cầu của Ngân hàng và đồng ý để Ngân hàng xử lý tài sản thế chấp để thu hồi nợ.",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_002",
+        "section": "court_disposition",
+        "speaker": "court",
+        "text": "Quyết định điều chỉnh của Ngân hàng VIB. Kể từ ngày khoản vay của bà T, ông A chuyển sang nợ quá hạn là 06/02/2012 thì Ngân hàng áp dụng mức lãi suất là 32.25%/năm cho đến nay. Để đảm bảo nghĩa vụ trả nợ cho khoản vay của bà T và ông A thì ông Đỗ Văn T và bà Hoàng Thị X đã thế chấp tài sản là bất động sản tọa lạc tại thửa đất số 342, tờ bản đồ số 00, diện tích 113.9m2 tại địa chỉ: Khu Đ, xã P, huyện T, thành phố H. Theo Giấy chứng nhận quyền sử dụng đất số AQ 083681, số vào sổ cấp Giấy chứng nhận quyền sử dụng đất: H.02876/QSDĐ/3570/QĐ-UB do UBND huyện T, thành phố H cấp cho ông Đỗ Văn T và bà Hoàng Thị X ngày 29/09/2009. Tài sản này được thế chấp theo Hợp đồng thế chấp quyền sử dụng đất số công chứng: 2667/2011, quyển số 06 TP/CC-SCC/HĐTC ngày 25/08/2011 tại Văn phòng công chứng Hà Đông, thành phố Hà Nội và được đăng ký giao dịch bảo đảm theo đúng quy định của pháp luật. Trong quá trình thực hiện hợp đồng, bà Đỗ Thị T và ông Chu Văn A đã trả 192.458.930 đồng vào tiền lãi, kể từ ngày 06/02/2012 bà T, ông A không trả nợ lãi. Do bà T, ông A vi phạm nghĩa vụ hợp đồng tín dụng nên khoản vay này đã bị chuyển quá hạn từ ngày 06/02/2012. Theo yêu cầu công tác xử lý nợ quá hạn, ngày 19/12/",
+        "score": 80
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "iền vay hạn mức là 2.200.000.000 đồng (Hai tỷ hai trăm triệu đồng); số tiền đã giải ngân là 2.200.000.000 đồng (Hai tỷ hai trăm triệu đồng) theo Khế ước nhận nợ số 020.01/KUNN1-VIB038/11 ngày 26/08/2011; thời hạn vay: 06 tháng kể từ ngày 26/08/2011; Lãi suất cho vay: 22.5%/năm, điều chỉnh 03 tháng/lần, bằng lãi suất điều chuyển vốn kinh doanh VND kỳ hạn 03 tháng của VIB cộng biên độ lãi suất tối thiểu 3.5%/năm; Mục đích vay: Bổ sung vốn lưu động kinh doanh tôn kim khí; Phương thức trả nợ: trả nợ gốc vào cuối kỳ theo từng khế ước nhận nợ, trả nợ lãi từ ngày 01 đến ngày 05 hàng tháng, nếu đến hết ngày 05 hàng tháng bên vay không trả hết số nợ lãi thì Ngân hàng sẽ chuyển toàn bộ số nợ gốc còn lại sang nợ quá hạn và áp dụng lãi suất nợ quá hạn bằng 150% lãi suất trong hạn của VIB tại thời điểm chuyển nợ quá hạn. Về lãi suất: Quá trình thực hiện Hợp đồng Ngân hàng có điều chỉnh lãi suất theo Quyết định điều chỉnh của Ngân hàng VIB. Kể từ ngày khoản vay của bà T, ông A chuyển sang nợ quá hạn là 06/02/2012 thì Ngân hàng áp dụng mức lãi suất là 32.25%/năm cho đến nay. Để đảm bảo nghĩa vụ trả nợ cho khoản vay của bà T và ông A thì ông Đỗ Văn T và bà Hoàng Thị X đã thế chấp tài sản là bất độ",
+        "score": 40
+      }
+    ],
+    "claim_scope": "UNCLEAR",
+    "source": "COURT_REASONING"
+  },
+  {
+    "case_id": "case_4704",
+    "main_claim": {
+      "main_claim": "yêu cầu Tòa án giải quyết về công sức quản lý đối với di sản. Phần đất tại MC có diện tích 210,2m2, chiều ngang mặt tiền 6,78m. Nguồn gốc nhà MC trước đó là từ hai căn nhà ghép lại. Bà Lê Kim T đang định cư ở nước ngoài. Bà Lê Thị Đ đã có chỗ ở là nhà HSK, Phường 14, Quận 8. Ông Lê Phú L và ông Lê Phú T hiện nay chưa sở hữu một căn nhà nào khác.",
+      "requested_amounts": [],
+      "requested_areas": [
+        "210,2m2"
+      ]
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "ợi, nghĩa vụ liên quan ông Lê Phú K trình bày: Thống nhất với ý kiến của bị đơn và xin vắng mặt trong suốt quá trình giải quyết vụ án. Người có quyền lợi, nghĩa vụ liên quan là Ủy ban nhân dân Quận 8, Thành phố Hồ Chí Minh có đại diện hợp pháp theo ủy quyền là ông Hồ Thanh B trình bày: Căn nhà số HSK, Phường 14, Quận 8, Thành phố Hồ Chí Minh (số cũ là 33 HSK) có nguồn gốc của ông Lê Văn T cho bà Lê Thị Đ bằng giấy tay ngày 22/8/1975. Đến năm 1999, bà Đ kê khai đăng ký nhà đất, ngày 02/11/2011 bà Đ có đơn đề nghị cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất. Ủy ban nhân dân Quận 8 đã cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất số BG 971829, số vào sổ cấp giấy chứng nhận CH00739 ngày 14/02/2012 cho bà Lê Thị Đ là đúng quy định pháp luật. Đại diện Ủy ban nhân dân Quận 8, Thành phố Hồ Chí Minh không chấp nhận yêu cầu của bị đơn về việc hủy giấy chứng nhận số BG 971829, số vào sổ CH00739 do Ủy ban nhân dân Quận 8 cấp ngày 14/02/2012 cho bà Lê Thị Đ. Tại phiên tòa, các đương sự đã tự thỏa thuận và yêu cầu Tòa án ghi nhận trong bản án những vấn đề đã thỏa thuận như sau: Giao cho ông Lê Phú L được ",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "uyền lợi, nghĩa vụ liên quan ông Lê Phú K trình bày: Thống nhất với ý kiến của bị đơn và xin vắng mặt trong suốt quá trình giải quyết vụ án. Người có quyền lợi, nghĩa vụ liên quan là Ủy ban nhân dân Quận 8, Thành phố Hồ Chí Minh có đại diện hợp pháp theo ủy quyền là ông Hồ Thanh B trình bày: Căn nhà số HSK, Phường 14, Quận 8, Thành phố Hồ Chí Minh (số cũ là 33 HSK) có nguồn gốc của ông Lê Văn T cho bà Lê Thị Đ bằng giấy tay ngày 22/8/1975. Đến năm 1999, bà Đ kê khai đăng ký nhà đất, ngày 02/11/2011 bà Đ có đơn đề nghị cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất. Ủy ban nhân dân Quận 8 đã cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất số BG 971829, số vào sổ cấp giấy chứng nhận CH00739 ngày 14/02/2012 cho bà Lê Thị Đ là đúng quy định pháp luật. Đại diện Ủy ban nhân dân Quận 8, Thành phố Hồ Chí Minh không chấp nhận yêu cầu của bị đơn về việc hủy giấy chứng nhận số BG 971829, số vào sổ CH00739 do Ủy ban nhân dân Quận 8 cấp ngày 14/02/2012 cho bà Lê Thị Đ. Tại phiên tòa, các đương sự đã tự thỏa thuận và yêu cầu Tòa án ghi nhận trong bản án những vấn đề đã thỏa thuận như sau: Giao cho ông Lê Phú L",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_003",
+        "section": "related_party_statement",
+        "speaker": "related_party",
+        "text": "Người có quyền lợi, nghĩa vụ liên quan là Ủy ban nhân dân Quận 8, Thành phố Hồ Chí Minh có đại diện hợp pháp theo ủy quyền là ông Hồ Thanh B trình bày: Căn nhà số HSK, Phường 14, Quận 8, Thành phố Hồ Chí Minh (số cũ là 33 HSK) có nguồn gốc của ông Lê Văn T cho bà Lê Thị Đ bằng giấy tay ngày 22/8/1975. Đến năm 1999, bà Đ kê khai đăng ký nhà đất, ngày 02/11/2011 bà Đ có đơn đề nghị cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất. Ủy ban nhân dân Quận 8 đã cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất số BG 971829, số vào sổ cấp giấy chứng nhận CH00739 ngày 14/02/2012 cho bà Lê Thị Đ là đúng quy định pháp luật. Đại diện Ủy ban nhân dân Quận 8, Thành phố Hồ Chí Minh không chấp nhận yêu cầu của",
+        "score": 40
+      }
+    ],
+    "claim_scope": "MAJORITY",
+    "source": "COURT_REASONING"
+  },
+  {
+    "case_id": "case_4644",
+    "main_claim": {
+      "main_claim": "yêu cầu",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [],
+    "claim_scope": "UNCLEAR",
+    "source": "MISSING"
+  },
+  {
+    "case_id": "case_4834",
+    "main_claim": {
+      "main_claim": "yêu cầu khởi kiện không được chấp nhận.",
+      "requested_amounts": [],
+      "requested_areas": []
+    },
+    "disposition_candidates": [
+      {
+        "chunk_id": "cf_009",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử chấp nhận một phần yêu cầu khởi kiện của",
+        "score": 86
+      },
+      {
+        "chunk_id": "cf_007",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử, cụ thể: Thẩm phán đã chấp hành đúng các quy định của Bộ luật Tố tụng Dân sự trong quá trình thụ lý và giải quyết vụ án. Tại phiên tòa hôm nay,",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_008",
+        "section": "court_reasoning",
+        "speaker": "court",
+        "text": "Hội đồng xét xử đã tuân thủ đúng trình tự phiên tòa sơ thẩm theo quy định của Bộ luật Tố tụng Dân sự; các đương sự có mặt tại phiên tòa đã chấp hành đúng nội quy phiên tòa theo quy định của Bộ luật Tố tụng Dân sự. Đồng thời đề nghị",
+        "score": 62
+      },
+      {
+        "chunk_id": "cf_006",
+        "section": "procuracy_opinion",
+        "speaker": "procuracy",
+        "text": "Đại diện Viện kiểm sát nhân dân huyện Lâm Hà tham gia phiên tòa phát biểu ý kiến về việc tuân theo pháp luật tố tụng của Thẩm phán và",
+        "score": 44
+      },
+      {
+        "chunk_id": "cf_001",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "thêm 10.000.000đồng để đóng tiền lãi, tổng cộng ông B nợ ông C là 100.000.000đồng (một trăm triệu đồng). Toàn bộ số tiền trên ông B vẫn chưa trả cho ông C, tuy nhiên do tuổi cao sức yếu nên ông B đã ủy quyền lại cho vợ chồng bà H nhận trả số tiền trên.Tuy nhiên do điều kiện khó khăn nên bà H đề nghị được trả dần số tiền trên. Toà án đã tiến hành mở phiên họp kiểm tra việc giao nộp, tiếp cận công khai chứng cứ và thông báo kết quả phiên họp cho những người vắng mặt theo quy định của Bộ luật Tố tụng Dân sự. Đồng thời, Tòa án cũng đã tiến hành hòa giải nhưng không thành. Tại phiên tòa, nguyên đơn thay đổi yêu cầu khởi kiện cụ thể như sau: nguyên đơn yêu cầu bị đơn phải trả số nợ gốc là 117.880.532đồng và tiền lãi là 151.280.400đồng nhưng bị đơn không đồng ý. Đại diện Viện kiểm sát nhân dân huyện Lâm Hà tham gia phiên tòa phát biểu ý kiến về việc tuân theo pháp luật tố tụng của Thẩm phán và Hội đồng xét xử, cụ thể: Thẩm phán đã chấp hành đúng các quy định của Bộ luật Tố tụng Dân sự trong quá trình thụ lý và giải quyết vụ án. Tại phiên tòa hôm nay, Hội đồng xét xử đã tuân thủ đúng trình tự phiên tòa sơ thẩm theo quy định của Bộ luật Tố tụng Dân sự; các đương sự có mặt tại phiên tòa đã c",
+        "score": 40
+      },
+      {
+        "chunk_id": "cf_002",
+        "section": "cue_window",
+        "speaker": "unknown",
+        "text": "nhiên do tuổi cao sức yếu nên ông B đã ủy quyền lại cho vợ chồng bà H nhận trả số tiền trên.Tuy nhiên do điều kiện khó khăn nên bà H đề nghị được trả dần số tiền trên. Toà án đã tiến hành mở phiên họp kiểm tra việc giao nộp, tiếp cận công khai chứng cứ và thông báo kết quả phiên họp cho những người vắng mặt theo quy định của Bộ luật Tố tụng Dân sự. Đồng thời, Tòa án cũng đã tiến hành hòa giải nhưng không thành. Tại phiên tòa, nguyên đơn thay đổi yêu cầu khởi kiện cụ thể như sau: nguyên đơn yêu cầu bị đơn phải trả số nợ gốc là 117.880.532đồng và tiền lãi là 151.280.400đồng nhưng bị đơn không đồng ý. Đại diện Viện kiểm sát nhân dân huyện Lâm Hà tham gia phiên tòa phát biểu ý kiến về việc tuân theo pháp luật tố tụng của Thẩm phán và Hội đồng xét xử, cụ thể: Thẩm phán đã chấp hành đúng các quy định của Bộ luật Tố tụng Dân sự trong quá trình thụ lý và giải quyết vụ án. Tại phiên tòa hôm nay, Hội đồng xét xử đã tuân thủ đúng trình tự phiên tòa sơ thẩm theo quy định của Bộ luật Tố tụng Dân sự; các đương sự có mặt tại phiên tòa đã chấp hành đúng nội quy phiên tòa theo quy định của Bộ luật Tố tụng Dân sự. Đồng thời đề nghị Hội đồng xét xử chấp nhận một phần yêu cầu khởi kiện của nguyên đơn,",
+        "score": 40
+      }
+    ],
+    "claim_scope": "MAJORITY",
+    "source": "OPERATIVE_ORDER"
+  }
+]
