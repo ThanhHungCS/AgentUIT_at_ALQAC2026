@@ -1,5 +1,8 @@
 | Type | Backbone | Params | Domain | Method | Accuracy | Macro-F1 | A_WIN F1 | PARTIAL_A_WIN F1 | PARTIAL_B_WIN F1 | B_WIN F1 | Coverage | Confusion Matrix |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| General Domain | Gemma-3-12B-it | 12B | General | Prompt-only | 18.00 | 18.30 | 11.76 | 17.14 | 14.29 | 30.00 | 100.00 | confusion_matrices/gemma_3_12b_it_12b_prompt_only.confusion_matrix.json |
+| General Domain | Gemma-3-12B-it | 12B | General | + Method | 43.33 | 29.79 | 39.37 | 56.25 | 0.00 | 23.53 | 100.00 | confusion_matrices/gemma_3_12b_it_12b_method.confusion_matrix.json |
+| General Domain | Gemma-3-12B-it | 12B | General | Delta | +25.33 | +11.49 | +27.61 | +39.11 | -14.29 | -6.47 | +0.00 |  |
 | General Domain | Gemma-3-4B-it | 4B | General | Prompt-only | 32.67 | 23.89 | 22.22 | 44.12 | 0.00 | 29.20 | 100.00 | confusion_matrices/gemma_3_4b_it_4b_prompt_only.confusion_matrix.json |
 | General Domain | Gemma-3-4B-it | 4B | General | + Method | 32.67 | 15.30 | 0.00 | 48.41 | 0.00 | 12.78 | 100.00 | confusion_matrices/gemma_3_4b_it_4b_method.confusion_matrix.json |
 | General Domain | Gemma-3-4B-it | 4B | General | Delta | +0.00 | -8.59 | -22.22 | +4.29 | +0.00 | -16.42 | +0.00 |  |

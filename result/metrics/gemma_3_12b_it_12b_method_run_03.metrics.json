@@ -1,0 +1,91 @@
+{
+  "experiment": {
+    "experiment_id": "gemma_3_12b_it_12b_method_run_03",
+    "base_experiment_id": "gemma_3_12b_it_12b_method",
+    "type": "General Domain",
+    "backbone": "Gemma-3-12B-it",
+    "params": "12B",
+    "domain": "General",
+    "mode": "method",
+    "method": "+ Method",
+    "run_index": 3,
+    "runs": 3,
+    "table_record": false
+  },
+  "fallback_cases": 0,
+  "fallback_rate": 0.0,
+  "llm_error_cases": 0,
+  "llm_error_rate": 0.0,
+  "gold_cases": 50,
+  "evaluated_cases": 50,
+  "missing_cases": [],
+  "coverage": 1.0,
+  "accuracy": 0.42,
+  "macro_f1": 0.284669,
+  "per_label": {
+    "A_WIN": {
+      "support": 16,
+      "precision": 0.571429,
+      "recall": 0.25,
+      "f1": 0.347826
+    },
+    "PARTIAL_A_WIN": {
+      "support": 19,
+      "precision": 0.428571,
+      "recall": 0.789474,
+      "f1": 0.555556
+    },
+    "PARTIAL_B_WIN": {
+      "support": 5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "B_WIN": {
+      "support": 10,
+      "precision": 0.285714,
+      "recall": 0.2,
+      "f1": 0.235294
+    }
+  },
+  "confusion_matrix": {
+    "rows_are_gold": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "columns_are_prediction": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "values": [
+      [
+        4,
+        11,
+        0,
+        1
+      ],
+      [
+        0,
+        15,
+        1,
+        3
+      ],
+      [
+        1,
+        3,
+        0,
+        1
+      ],
+      [
+        2,
+        6,
+        0,
+        2
+      ]
+    ]
+  }
+}
