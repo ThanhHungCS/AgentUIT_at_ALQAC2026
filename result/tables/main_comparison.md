@@ -12,6 +12,9 @@
 | General Domain | Llama-3.2-3B-Instruct | 3B | General | Prompt-only | 27.33 | 20.85 | 22.54 | 30.04 | 0.00 | 30.82 | 100.00 | confusion_matrices/llama_3_2_3b_instruct_3b_prompt_only.confusion_matrix.json |
 | General Domain | Llama-3.2-3B-Instruct | 3B | General | + Method | 47.33 | 31.68 | 45.69 | 66.69 | 0.00 | 14.34 | 100.00 | confusion_matrices/llama_3_2_3b_instruct_3b_method.confusion_matrix.json |
 | General Domain | Llama-3.2-3B-Instruct | 3B | General | Delta | +20.00 | +10.83 | +23.15 | +36.65 | +0.00 | -16.48 | +0.00 |  |
+| General Domain | Phi-4-mini-instruct | 3.8B | General | Prompt-only | 36.00 | 14.52 | 0.00 | 58.07 | 0.00 | 0.00 | 100.00 | confusion_matrices/phi_4_mini_instruct_3_8b_prompt_only.confusion_matrix.json |
+| General Domain | Phi-4-mini-instruct | 3.8B | General | + Method | 53.33 | 38.91 | 52.17 | 67.10 | 0.00 | 36.36 | 100.00 | confusion_matrices/phi_4_mini_instruct_3_8b_method.confusion_matrix.json |
+| General Domain | Phi-4-mini-instruct | 3.8B | General | Delta | +17.33 | +24.39 | +52.17 | +9.03 | +0.00 | +36.36 | +0.00 |  |
 | General Domain | Qwen3.5-4B | 4B | General | Prompt-only | 34.00 | 27.53 | 38.73 | 43.48 | 4.76 | 23.15 | 100.00 | confusion_matrices/qwen3_5_4b_4b_prompt_only.confusion_matrix.json |
 | General Domain | Qwen3.5-4B | 4B | General | + Method | 52.00 | 37.36 | 55.50 | 64.91 | 0.00 | 29.05 | 100.00 | confusion_matrices/qwen3_5_4b_4b_method.confusion_matrix.json |
 | General Domain | Qwen3.5-4B | 4B | General | Delta | +18.00 | +9.83 | +16.77 | +21.43 | -4.76 | +5.90 | +0.00 |  |
