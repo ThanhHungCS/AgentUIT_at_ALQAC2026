@@ -1,0 +1,97 @@
+{
+  "experiment": {
+    "experiment_id": "gemma_3_4b_it_4b_prompt_only",
+    "base_experiment_id": "gemma_3_4b_it_4b_prompt_only",
+    "type": "General Domain",
+    "backbone": "Gemma-3-4B-it",
+    "params": "4B",
+    "domain": "General",
+    "mode": "prompt_only",
+    "method": "Prompt-only",
+    "run_index": null,
+    "runs": 3,
+    "table_record": true,
+    "aggregate": "mean",
+    "run_experiment_ids": [
+      "gemma_3_4b_it_4b_prompt_only_run_01",
+      "gemma_3_4b_it_4b_prompt_only_run_02",
+      "gemma_3_4b_it_4b_prompt_only_run_03"
+    ]
+  },
+  "fallback_cases": 0.0,
+  "fallback_rate": 0.0,
+  "llm_error_cases": 0.0,
+  "llm_error_rate": 0.0,
+  "gold_cases": 50,
+  "evaluated_cases": 50,
+  "missing_cases": [],
+  "coverage": 1.0,
+  "accuracy": 0.326667,
+  "macro_f1": 0.23885,
+  "per_label": {
+    "A_WIN": {
+      "support": 16,
+      "precision": 1.0,
+      "recall": 0.125,
+      "f1": 0.222222
+    },
+    "PARTIAL_A_WIN": {
+      "support": 19,
+      "precision": 0.379867,
+      "recall": 0.526316,
+      "f1": 0.441224
+    },
+    "PARTIAL_B_WIN": {
+      "support": 5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "B_WIN": {
+      "support": 10,
+      "precision": 0.220175,
+      "recall": 0.433333,
+      "f1": 0.291954
+    }
+  },
+  "confusion_matrix": {
+    "rows_are_gold": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "columns_are_prediction": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "values": [
+      [
+        2.0,
+        9.666667,
+        0.0,
+        4.333333
+      ],
+      [
+        0.0,
+        10.0,
+        0.0,
+        9.0
+      ],
+      [
+        0.0,
+        3.0,
+        0.0,
+        2.0
+      ],
+      [
+        0.0,
+        3.666667,
+        2.0,
+        4.333333
+      ]
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "experiment": {
+    "experiment_id": "gemma_3_4b_it_4b_prompt_only",
+    "base_experiment_id": "gemma_3_4b_it_4b_prompt_only",
+    "type": "General Domain",
+    "backbone": "Gemma-3-4B-it",
+    "params": "4B",
+    "domain": "General",
+    "mode": "prompt_only",
+    "method": "Prompt-only",
+    "run_index": null,
+    "runs": 3,
+    "table_record": true,
+    "aggregate": "mean",
+    "run_experiment_ids": [
+      "gemma_3_4b_it_4b_prompt_only_run_01",
+      "gemma_3_4b_it_4b_prompt_only_run_02",
+      "gemma_3_4b_it_4b_prompt_only_run_03"
+    ]
+  },
+  "runs": [
+    {
+      "experiment": {
+        "experiment_id": "gemma_3_4b_it_4b_prompt_only_run_01",
+        "base_experiment_id": "gemma_3_4b_it_4b_prompt_only",
+        "type": "General Domain",
+        "backbone": "Gemma-3-4B-it",
+        "params": "4B",
+        "domain": "General",
+        "mode": "prompt_only",
+        "method": "Prompt-only",
+        "run_index": 1,
+        "runs": 3,
+        "table_record": false
+      },
+      "paths": {
+        "submission": "result/submissions/gemma_3_4b_it_4b_prompt_only_run_01.json",
+        "metrics": "result/metrics/gemma_3_4b_it_4b_prompt_only_run_01.metrics.json",
+        "trace": "result/traces/gemma_3_4b_it_4b_prompt_only_run_01.trace.json",
+        "confusion_matrix": "result/confusion_matrices/gemma_3_4b_it_4b_prompt_only_run_01.confusion_matrix.json",
+        "retrieval": "result/qualitative/gemma_3_4b_it_4b_prompt_only_run_01.retrieval_outputs.json",
+        "input": "result/qualitative/gemma_3_4b_it_4b_prompt_only_run_01.input_processing_outputs.json",
+        "special": "result/qualitative/gemma_3_4b_it_4b_prompt_only_run_01.special_cases.json"
+      },
+      "accuracy": 0.32,
+      "macro_f1": 0.233333
+    },
+    {
+      "experiment": {
+        "experiment_id": "gemma_3_4b_it_4b_prompt_only_run_02",
+        "base_experiment_id": "gemma_3_4b_it_4b_prompt_only",
+        "type": "General Domain",
+        "backbone": "Gemma-3-4B-it",
+        "params": "4B",
+        "domain": "General",
+        "mode": "prompt_only",
+        "method": "Prompt-only",
+        "run_index": 2,
+        "runs": 3,
+        "table_record": false
+      },
+      "paths": {
+        "submission": "result/submissions/gemma_3_4b_it_4b_prompt_only_run_02.json",
+        "metrics": "result/metrics/gemma_3_4b_it_4b_prompt_only_run_02.metrics.json",
+        "trace": "result/traces/gemma_3_4b_it_4b_prompt_only_run_02.trace.json",
+        "confusion_matrix": "result/confusion_matrices/gemma_3_4b_it_4b_prompt_only_run_02.confusion_matrix.json",
+        "retrieval": "result/qualitative/gemma_3_4b_it_4b_prompt_only_run_02.retrieval_outputs.json",
+        "input": "result/qualitative/gemma_3_4b_it_4b_prompt_only_run_02.input_processing_outputs.json",
+        "special": "result/qualitative/gemma_3_4b_it_4b_prompt_only_run_02.special_cases.json"
+      },
+      "accuracy": 0.34,
+      "macro_f1": 0.25
+    },
+    {
+      "experiment": {
+        "experiment_id": "gemma_3_4b_it_4b_prompt_only_run_03",
+        "base_experiment_id": "gemma_3_4b_it_4b_prompt_only",
+        "type": "General Domain",
+        "backbone": "Gemma-3-4B-it",
+        "params": "4B",
+        "domain": "General",
+        "mode": "prompt_only",
+        "method": "Prompt-only",
+        "run_index": 3,
+        "runs": 3,
+        "table_record": false
+      },
+      "paths": {
+        "submission": "result/submissions/gemma_3_4b_it_4b_prompt_only_run_03.json",
+        "metrics": "result/metrics/gemma_3_4b_it_4b_prompt_only_run_03.metrics.json",
+        "trace": "result/traces/gemma_3_4b_it_4b_prompt_only_run_03.trace.json",
+        "confusion_matrix": "result/confusion_matrices/gemma_3_4b_it_4b_prompt_only_run_03.confusion_matrix.json",
+        "retrieval": "result/qualitative/gemma_3_4b_it_4b_prompt_only_run_03.retrieval_outputs.json",
+        "input": "result/qualitative/gemma_3_4b_it_4b_prompt_only_run_03.input_processing_outputs.json",
+        "special": "result/qualitative/gemma_3_4b_it_4b_prompt_only_run_03.special_cases.json"
+      },
+      "accuracy": 0.32,
+      "macro_f1": 0.233217
+    }
+  ]
+}

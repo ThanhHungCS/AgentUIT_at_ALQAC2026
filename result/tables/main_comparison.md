@@ -1,5 +1,8 @@
 | Type | Backbone | Params | Domain | Method | Accuracy | Macro-F1 | A_WIN F1 | PARTIAL_A_WIN F1 | PARTIAL_B_WIN F1 | B_WIN F1 | Coverage | Confusion Matrix |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| General Domain | Gemma-3-4B-it | 4B | General | Prompt-only | 32.67 | 23.89 | 22.22 | 44.12 | 0.00 | 29.20 | 100.00 | confusion_matrices/gemma_3_4b_it_4b_prompt_only.confusion_matrix.json |
+| General Domain | Gemma-3-4B-it | 4B | General | + Method | 32.67 | 15.30 | 0.00 | 48.41 | 0.00 | 12.78 | 100.00 | confusion_matrices/gemma_3_4b_it_4b_method.confusion_matrix.json |
+| General Domain | Gemma-3-4B-it | 4B | General | Delta | +0.00 | -8.59 | -22.22 | +4.29 | +0.00 | -16.42 | +0.00 |  |
 | General Domain | Llama-3.1-8B-Instruct | 8B | General | Prompt-only | 38.00 | 28.78 | 52.76 | 40.92 | 0.00 | 21.44 | 100.00 | confusion_matrices/llama_3_1_8b_instruct_8b_prompt_only.confusion_matrix.json |
 | General Domain | Llama-3.1-8B-Instruct | 8B | General | + Method | 47.33 | 32.75 | 48.85 | 59.61 | 0.00 | 22.54 | 100.00 | confusion_matrices/llama_3_1_8b_instruct_8b_method.confusion_matrix.json |
 | General Domain | Llama-3.1-8B-Instruct | 8B | General | Delta | +9.33 | +3.97 | -3.91 | +18.69 | +0.00 | +1.10 | +0.00 |  |
