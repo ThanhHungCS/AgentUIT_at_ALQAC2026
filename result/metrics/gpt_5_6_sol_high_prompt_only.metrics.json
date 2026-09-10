@@ -1,0 +1,83 @@
+{
+  "experiment": {
+    "type": "GPT Plus",
+    "backbone": "GPT-5.6 Sol",
+    "params": "-",
+    "domain": "Closed-source",
+    "mode": "prompt_only",
+    "method": "Prompt-only",
+    "reasoning": "high"
+  },
+  "gold_cases": 50,
+  "evaluated_cases": 50,
+  "missing_cases": [],
+  "coverage": 1.0,
+  "accuracy": 0.54,
+  "macro_f1": 0.506548,
+  "per_label": {
+    "A_WIN": {
+      "support": 16,
+      "precision": 0.857143,
+      "recall": 0.75,
+      "f1": 0.8
+    },
+    "PARTIAL_A_WIN": {
+      "support": 19,
+      "precision": 0.6,
+      "recall": 0.157895,
+      "f1": 0.25
+    },
+    "PARTIAL_B_WIN": {
+      "support": 5,
+      "precision": 0.230769,
+      "recall": 0.6,
+      "f1": 0.333333
+    },
+    "B_WIN": {
+      "support": 10,
+      "precision": 0.5,
+      "recall": 0.9,
+      "f1": 0.642857
+    }
+  },
+  "confusion_matrix": {
+    "rows_are_gold": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "columns_are_prediction": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "values": [
+      [
+        12,
+        2,
+        2,
+        0
+      ],
+      [
+        2,
+        3,
+        7,
+        7
+      ],
+      [
+        0,
+        0,
+        3,
+        2
+      ],
+      [
+        0,
+        0,
+        1,
+        9
+      ]
+    ]
+  }
+}
