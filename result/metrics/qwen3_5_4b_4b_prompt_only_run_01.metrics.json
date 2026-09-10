@@ -1,0 +1,91 @@
+{
+  "experiment": {
+    "experiment_id": "qwen3_5_4b_4b_prompt_only_run_01",
+    "base_experiment_id": "qwen3_5_4b_4b_prompt_only",
+    "type": "General Domain",
+    "backbone": "Qwen3.5-4B",
+    "params": "4B",
+    "domain": "General",
+    "mode": "prompt_only",
+    "method": "Prompt-only",
+    "run_index": 1,
+    "runs": 3,
+    "table_record": false
+  },
+  "fallback_cases": 0,
+  "fallback_rate": 0.0,
+  "llm_error_cases": 0,
+  "llm_error_rate": 0.0,
+  "gold_cases": 50,
+  "evaluated_cases": 50,
+  "missing_cases": [],
+  "coverage": 1.0,
+  "accuracy": 0.32,
+  "macro_f1": 0.257177,
+  "per_label": {
+    "A_WIN": {
+      "support": 16,
+      "precision": 0.8,
+      "recall": 0.25,
+      "f1": 0.380952
+    },
+    "PARTIAL_A_WIN": {
+      "support": 19,
+      "precision": 0.357143,
+      "recall": 0.526316,
+      "f1": 0.425532
+    },
+    "PARTIAL_B_WIN": {
+      "support": 5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "B_WIN": {
+      "support": 10,
+      "precision": 0.25,
+      "recall": 0.2,
+      "f1": 0.222222
+    }
+  },
+  "confusion_matrix": {
+    "rows_are_gold": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "columns_are_prediction": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "values": [
+      [
+        4,
+        12,
+        0,
+        0
+      ],
+      [
+        1,
+        10,
+        4,
+        4
+      ],
+      [
+        0,
+        3,
+        0,
+        2
+      ],
+      [
+        0,
+        3,
+        5,
+        2
+      ]
+    ]
+  }
+}

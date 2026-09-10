@@ -1,0 +1,40 @@
+{
+  "rows_are_gold": [
+    "A_WIN",
+    "PARTIAL_A_WIN",
+    "PARTIAL_B_WIN",
+    "B_WIN"
+  ],
+  "columns_are_prediction": [
+    "A_WIN",
+    "PARTIAL_A_WIN",
+    "PARTIAL_B_WIN",
+    "B_WIN"
+  ],
+  "values": [
+    [
+      7,
+      5,
+      0,
+      4
+    ],
+    [
+      0,
+      17,
+      0,
+      2
+    ],
+    [
+      0,
+      4,
+      0,
+      1
+    ],
+    [
+      1,
+      6,
+      0,
+      3
+    ]
+  ]
+}

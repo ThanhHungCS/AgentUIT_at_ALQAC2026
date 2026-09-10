@@ -1,4 +1,7 @@
 Type,Backbone,Params,Domain,Method,Accuracy,Macro-F1,A_WIN F1,PARTIAL_A_WIN F1,PARTIAL_B_WIN F1,B_WIN F1,Coverage,Confusion Matrix
+General Domain,Qwen3.5-4B,4B,General,Prompt-only,34.00,27.53,38.73,43.48,4.76,23.15,100.00,confusion_matrices/qwen3_5_4b_4b_prompt_only.confusion_matrix.json
+General Domain,Qwen3.5-4B,4B,General,+ Method,52.00,37.36,55.50,64.91,0.00,29.05,100.00,confusion_matrices/qwen3_5_4b_4b_method.confusion_matrix.json
+General Domain,Qwen3.5-4B,4B,General,Delta,+18.00,+9.83,+16.77,+21.43,-4.76,+5.90,+0.00,
 General Domain,Qwen3.5-9B,9B,General,Prompt-only,44.00,34.35,55.28,46.82,0.00,35.31,100.00,confusion_matrices/qwen3_5_9b_9b_prompt_only.confusion_matrix.json
 General Domain,Qwen3.5-9B,9B,General,+ Method,53.33,43.82,47.83,64.97,25.00,37.50,100.00,confusion_matrices/qwen3_5_9b_9b_method.confusion_matrix.json
 General Domain,Qwen3.5-9B,9B,General,Delta,+9.33,+9.47,-7.45,+18.15,+25.00,+2.19,+0.00,
