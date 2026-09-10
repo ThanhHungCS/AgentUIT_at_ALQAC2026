@@ -1,5 +1,6 @@
 | Type | Backbone | Params | Domain | Method | Accuracy | Macro-F1 | A_WIN F1 | PARTIAL_A_WIN F1 | PARTIAL_B_WIN F1 | B_WIN F1 | Coverage | Confusion Matrix |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| General Domain | Llama-3.1-8B-Instruct | 8B | General | + Method | 47.33 | 32.75 | 48.85 | 59.61 | 0.00 | 22.54 | 100.00 | confusion_matrices/llama_3_1_8b_instruct_8b_method.confusion_matrix.json |
 | General Domain | Llama-3.2-3B-Instruct | 3B | General | + Method | 47.33 | 31.68 | 45.69 | 66.69 | 0.00 | 14.34 | 100.00 | confusion_matrices/llama_3_2_3b_instruct_3b_method.confusion_matrix.json |
 | General Domain | Qwen3.5-4B | 4B | General | + Method | 52.00 | 37.36 | 55.50 | 64.91 | 0.00 | 29.05 | 100.00 | confusion_matrices/qwen3_5_4b_4b_method.confusion_matrix.json |
 | General Domain | Qwen3.5-9B | 9B | General | + Method | 53.33 | 43.82 | 47.83 | 64.97 | 25.00 | 37.50 | 100.00 | confusion_matrices/qwen3_5_9b_9b_method.confusion_matrix.json |

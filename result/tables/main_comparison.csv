@@ -1,4 +1,7 @@
 Type,Backbone,Params,Domain,Method,Accuracy,Macro-F1,A_WIN F1,PARTIAL_A_WIN F1,PARTIAL_B_WIN F1,B_WIN F1,Coverage,Confusion Matrix
+General Domain,Llama-3.1-8B-Instruct,8B,General,Prompt-only,38.00,28.78,52.76,40.92,0.00,21.44,100.00,confusion_matrices/llama_3_1_8b_instruct_8b_prompt_only.confusion_matrix.json
+General Domain,Llama-3.1-8B-Instruct,8B,General,+ Method,47.33,32.75,48.85,59.61,0.00,22.54,100.00,confusion_matrices/llama_3_1_8b_instruct_8b_method.confusion_matrix.json
+General Domain,Llama-3.1-8B-Instruct,8B,General,Delta,+9.33,+3.97,-3.91,+18.69,+0.00,+1.10,+0.00,
 General Domain,Llama-3.2-3B-Instruct,3B,General,Prompt-only,27.33,20.85,22.54,30.04,0.00,30.82,100.00,confusion_matrices/llama_3_2_3b_instruct_3b_prompt_only.confusion_matrix.json
 General Domain,Llama-3.2-3B-Instruct,3B,General,+ Method,47.33,31.68,45.69,66.69,0.00,14.34,100.00,confusion_matrices/llama_3_2_3b_instruct_3b_method.confusion_matrix.json
 General Domain,Llama-3.2-3B-Instruct,3B,General,Delta,+20.00,+10.83,+23.15,+36.65,+0.00,-16.48,+0.00,
