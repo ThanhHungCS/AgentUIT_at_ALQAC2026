@@ -1,0 +1,91 @@
+{
+  "experiment": {
+    "experiment_id": "llama_3_2_3b_instruct_3b_prompt_only_run_02",
+    "base_experiment_id": "llama_3_2_3b_instruct_3b_prompt_only",
+    "type": "General Domain",
+    "backbone": "Llama-3.2-3B-Instruct",
+    "params": "3B",
+    "domain": "General",
+    "mode": "prompt_only",
+    "method": "Prompt-only",
+    "run_index": 2,
+    "runs": 3,
+    "table_record": false
+  },
+  "fallback_cases": 1,
+  "fallback_rate": 0.02,
+  "llm_error_cases": 1,
+  "llm_error_rate": 0.02,
+  "gold_cases": 50,
+  "evaluated_cases": 50,
+  "missing_cases": [],
+  "coverage": 1.0,
+  "accuracy": 0.28,
+  "macro_f1": 0.210256,
+  "per_label": {
+    "A_WIN": {
+      "support": 16,
+      "precision": 0.4,
+      "recall": 0.125,
+      "f1": 0.190476
+    },
+    "PARTIAL_A_WIN": {
+      "support": 19,
+      "precision": 0.375,
+      "recall": 0.315789,
+      "f1": 0.342857
+    },
+    "PARTIAL_B_WIN": {
+      "support": 5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "B_WIN": {
+      "support": 10,
+      "precision": 0.206897,
+      "recall": 0.6,
+      "f1": 0.307692
+    }
+  },
+  "confusion_matrix": {
+    "rows_are_gold": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "columns_are_prediction": [
+      "A_WIN",
+      "PARTIAL_A_WIN",
+      "PARTIAL_B_WIN",
+      "B_WIN"
+    ],
+    "values": [
+      [
+        2,
+        5,
+        0,
+        9
+      ],
+      [
+        1,
+        6,
+        0,
+        12
+      ],
+      [
+        0,
+        3,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        0,
+        6
+      ]
+    ]
+  }
+}

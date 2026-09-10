@@ -1,0 +1,101 @@
+{
+  "experiment": {
+    "experiment_id": "llama_3_2_3b_instruct_3b_prompt_only",
+    "base_experiment_id": "llama_3_2_3b_instruct_3b_prompt_only",
+    "type": "General Domain",
+    "backbone": "Llama-3.2-3B-Instruct",
+    "params": "3B",
+    "domain": "General",
+    "mode": "prompt_only",
+    "method": "Prompt-only",
+    "run_index": null,
+    "runs": 3,
+    "table_record": true,
+    "aggregate": "mean",
+    "run_experiment_ids": [
+      "llama_3_2_3b_instruct_3b_prompt_only_run_01",
+      "llama_3_2_3b_instruct_3b_prompt_only_run_02",
+      "llama_3_2_3b_instruct_3b_prompt_only_run_03"
+    ]
+  },
+  "runs": [
+    {
+      "experiment": {
+        "experiment_id": "llama_3_2_3b_instruct_3b_prompt_only_run_01",
+        "base_experiment_id": "llama_3_2_3b_instruct_3b_prompt_only",
+        "type": "General Domain",
+        "backbone": "Llama-3.2-3B-Instruct",
+        "params": "3B",
+        "domain": "General",
+        "mode": "prompt_only",
+        "method": "Prompt-only",
+        "run_index": 1,
+        "runs": 3,
+        "table_record": false
+      },
+      "paths": {
+        "submission": "result/submissions/llama_3_2_3b_instruct_3b_prompt_only_run_01.json",
+        "metrics": "result/metrics/llama_3_2_3b_instruct_3b_prompt_only_run_01.metrics.json",
+        "trace": "result/traces/llama_3_2_3b_instruct_3b_prompt_only_run_01.trace.json",
+        "confusion_matrix": "result/confusion_matrices/llama_3_2_3b_instruct_3b_prompt_only_run_01.confusion_matrix.json",
+        "retrieval": "result/qualitative/llama_3_2_3b_instruct_3b_prompt_only_run_01.retrieval_outputs.json",
+        "input": "result/qualitative/llama_3_2_3b_instruct_3b_prompt_only_run_01.input_processing_outputs.json",
+        "special": "result/qualitative/llama_3_2_3b_instruct_3b_prompt_only_run_01.special_cases.json"
+      },
+      "accuracy": 0.26,
+      "macro_f1": 0.205205
+    },
+    {
+      "experiment": {
+        "experiment_id": "llama_3_2_3b_instruct_3b_prompt_only_run_02",
+        "base_experiment_id": "llama_3_2_3b_instruct_3b_prompt_only",
+        "type": "General Domain",
+        "backbone": "Llama-3.2-3B-Instruct",
+        "params": "3B",
+        "domain": "General",
+        "mode": "prompt_only",
+        "method": "Prompt-only",
+        "run_index": 2,
+        "runs": 3,
+        "table_record": false
+      },
+      "paths": {
+        "submission": "result/submissions/llama_3_2_3b_instruct_3b_prompt_only_run_02.json",
+        "metrics": "result/metrics/llama_3_2_3b_instruct_3b_prompt_only_run_02.metrics.json",
+        "trace": "result/traces/llama_3_2_3b_instruct_3b_prompt_only_run_02.trace.json",
+        "confusion_matrix": "result/confusion_matrices/llama_3_2_3b_instruct_3b_prompt_only_run_02.confusion_matrix.json",
+        "retrieval": "result/qualitative/llama_3_2_3b_instruct_3b_prompt_only_run_02.retrieval_outputs.json",
+        "input": "result/qualitative/llama_3_2_3b_instruct_3b_prompt_only_run_02.input_processing_outputs.json",
+        "special": "result/qualitative/llama_3_2_3b_instruct_3b_prompt_only_run_02.special_cases.json"
+      },
+      "accuracy": 0.28,
+      "macro_f1": 0.210256
+    },
+    {
+      "experiment": {
+        "experiment_id": "llama_3_2_3b_instruct_3b_prompt_only_run_03",
+        "base_experiment_id": "llama_3_2_3b_instruct_3b_prompt_only",
+        "type": "General Domain",
+        "backbone": "Llama-3.2-3B-Instruct",
+        "params": "3B",
+        "domain": "General",
+        "mode": "prompt_only",
+        "method": "Prompt-only",
+        "run_index": 3,
+        "runs": 3,
+        "table_record": false
+      },
+      "paths": {
+        "submission": "result/submissions/llama_3_2_3b_instruct_3b_prompt_only_run_03.json",
+        "metrics": "result/metrics/llama_3_2_3b_instruct_3b_prompt_only_run_03.metrics.json",
+        "trace": "result/traces/llama_3_2_3b_instruct_3b_prompt_only_run_03.trace.json",
+        "confusion_matrix": "result/confusion_matrices/llama_3_2_3b_instruct_3b_prompt_only_run_03.confusion_matrix.json",
+        "retrieval": "result/qualitative/llama_3_2_3b_instruct_3b_prompt_only_run_03.retrieval_outputs.json",
+        "input": "result/qualitative/llama_3_2_3b_instruct_3b_prompt_only_run_03.input_processing_outputs.json",
+        "special": "result/qualitative/llama_3_2_3b_instruct_3b_prompt_only_run_03.special_cases.json"
+      },
+      "accuracy": 0.28,
+      "macro_f1": 0.210028
+    }
+  ]
+}
